@@ -11,7 +11,7 @@
                 <a class="item-create" data-type="spell" title="{{localize 'olddragon2e.new_spell'}}"><i class="fa-solid fa-plus"></i> {{localize "olddragon2e.nova"}}</a>
             </div>
         </div>
-        <ol>
+        <ol class="item-list">
             {{#each spell as |spell id|}}
             <li class="item" data-item-id="{{spell._id}}">
                 {{> "systems/olddragon2e/templates/partials/cards/spell-card.hbs" spell}}
