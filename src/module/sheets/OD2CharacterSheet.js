@@ -555,7 +555,7 @@ export default class OD2CharacterSheet extends ActorSheet {
 
     const getFormula = (attackMode) => {
       let formula = `${damage}`;
-      if (attackMode === 'bac') {
+      if (attackMode === 'melee' || attackMode === 'throwing') {
         formula += ` + ${this.actor.system.mod_forca} (M. FOR)`;
       }
       if (bonus_damage) {
@@ -571,8 +571,9 @@ export default class OD2CharacterSheet extends ActorSheet {
                 <div class="form-group">
                     <label>Tipo de Ataque</label>
                     <select name="attack-mode" id="attack-mode">
-                        <option value="bac" selected>Corpo-a-corpo</option>
-                        <option value="bad">À distância</option>
+                        <option value="melee" selected>Corpo a corpo</option>
+                        <option value="throwing">Arremesso</option>
+                        <option value="ranged">Disparo</option>
                     </select>
                 </div>
                 <div class="form-group">
@@ -603,7 +604,7 @@ export default class OD2CharacterSheet extends ActorSheet {
             const attackMode = html.find('#attack-mode').val();
             let rollFormula = total_damage;
 
-            if (attackMode === 'bac') {
+            if (attackMode === 'melee' || attackMode === 'throwing') {
               rollFormula += `+${this.actor.system.mod_forca}`;
             }
 
