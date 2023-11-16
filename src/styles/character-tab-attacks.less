@@ -1,0 +1,110 @@
+.olddragon2e.sheet.character {
+  .character-tab-attacks {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.25rem;
+
+    .attack {
+      width: 100%;
+
+      .list {
+        display: flex;
+        flex-direction: row;
+        width: 100%;
+        padding: 2.5px 5px;
+        border-top-left-radius: 0.25rem;
+        border-top-right-radius: 0.25rem;
+        background-color: @carmesim-600;
+        color: white;
+        font-size: smaller;
+        font-weight: bold;
+
+        .type,
+        .damage-type {
+          flex-basis: 4%;
+        }
+
+        .name {
+          flex-basis: 25%;
+        }
+
+        .range,
+        .damage {
+          flex-basis: 8%;
+        }
+
+        .ba {
+          flex-basis: 16%;
+        }
+
+        .description {
+          flex-basis: 35%;
+        }
+      }
+
+      ol {
+        width: 100%;
+        margin: 0px;
+        padding: 0px;
+        list-style-type: none;
+
+        li {
+          display: flex;
+          flex-direction: row;
+          align-items: center;
+          width: 100%;
+          margin-bottom: 0.1rem;
+          padding: 2.5px 5px;
+          background-color: rgba(128, 128, 128, 0.25);
+          font-size: smaller;
+        }
+
+        .weapon-type,
+        .damage-type {
+          flex-basis: 4%;
+        }
+
+        .weapon-type,
+        .damage-type {
+          display: flex;
+          flex-direction: column;
+          align-items: start;
+          height: 100%;
+          padding-left: 0.25rem;
+
+          img {
+            width: 12px;
+            height: 12px;
+            border: none;
+          }
+        }
+
+        .weapon-name,
+        .weapon-description {
+          padding-right: 0.1rem;
+        }
+
+        .weapon-name {
+          flex-basis: 25%;
+          font-weight: bold;
+        }
+
+        .weapon-range,
+        .weapon-damage {
+          flex-basis: 8%;
+          word-break: break-all;
+        }
+
+        .weapon-ba {
+          flex-basis: 16%;
+          word-break: break-all;
+        }
+
+        .weapon-description {
+          flex-basis: 35%;
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": "olddragon2e",
+  "title": "Old Dragon 2e",
+  "description": "Sistema para Old Dragon 2a Edição | System for Old Dragon 2nd Edition",
+  "authors": [
+    {
+      "name": "Dei Priori",
+      "url": "https://deipriori.com/"
+    },
+    {
+      "name": "Buró do Brasil",
+      "url": "https://burobrasil.com/"
+    }
+  ],
+  "url": "This is auto replaced",
+  "license": "https://creativecommons.org/licenses/by-sa/4.0/deed.pt-br",
+  "readme": "https://github.com/burobrasil/olddragon2e-foundryvtt/blob/main/README.md",
+  "bugs": "https://github.com/burobrasil/olddragon2e-foundryvtt/issues",
+  "changelog": "https://github.com/burobrasil/olddragon2e-foundryvtt/releases",
+  "version": "This is auto replaced",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "scripts": [],
+  "esmodules": ["module/olddragon2e.js"],
+  "styles": ["styles/olddragon2e.css"],
+  "packs": [
+    {
+      "name": "characters",
+      "label": "Personagens Prontos",
+      "path": "packs/characters",
+      "type": "Actor"
+    },
+    {
+      "name": "equipment",
+      "label": "Equipamentos",
+      "path": "packs/equipment",
+      "type": "Item"
+    },
+    {
+      "name": "monsters",
+      "label": "Monstros & Inimigos",
+      "path": "packs/monsters",
+      "type": "Actor"
+    },
+    {
+      "name": "spells",
+      "label": "Magias",
+      "path": "packs/spells",
+      "type": "Item"
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "Old Dragon (SRD)",
+      "color": "#CB0532",
+      "packs": ["characters", "equipment", "monsters", "spells"]
+    }
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    },
+    {
+      "lang": "pt",
+      "name": "Português Brasileiro",
+      "path": "lang/pt.json"
+    }
+  ],
+  "relationships": {
+    "requires": [],
+    "conflicts": []
+  },
+  "socket": false,
+  "manifest": "This is auto replaced",
+  "download": "This is auto replaced",
+  "gridDistance": 1.5,
+  "gridUnits": "m",
+  "primaryTokenAttribute": "hp"
+}

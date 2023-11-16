@@ -1,0 +1,78 @@
+<div class="weapon-type">
+	{{#ifCond system.type '==' "melee"}}
+	<img src="/systems/olddragon2e/assets/icons/melee.svg" title="{{localize 'olddragon2e.weapon_types.melee'}}">
+	{{/ifCond}}
+	{{#ifCond system.type '==' "throwing"}}
+	<img src="/systems/olddragon2e/assets/icons/throw.svg" title="{{localize 'olddragon2e.weapon_types.throwing'}}">
+	{{/ifCond}}
+	{{#ifCond system.type '==' "ranged"}}
+	<img src="/systems/olddragon2e/assets/icons/ranged.svg" title="{{localize 'olddragon2e.weapon_types.ranged'}}">
+	{{/ifCond}}
+	{{#ifCond system.type '==' "ammunition"}}
+	<img src="/systems/olddragon2e/assets/icons/ammunition.svg" title="{{localize 'olddragon2e.weapon_types.ammunition'}}">
+	{{/ifCond}}
+</div>
+<div class="weapon-name">
+    <a class="item-edit" title="{{localize 'olddragon2e.open'}}">{{truncate name 22}}</a>
+</div>
+<div class="weapon-range">
+	{{#if system.shoot_range}}
+	{{system.shoot_range}}
+	{{else if system.throw_range}}
+	{{system.throw_range}}
+	{{else}}
+	–
+	{{/if}}
+</div>
+<div class="weapon-ba">
+	{{#ifCond system.type '==' "melee"}}
+		{{#ifCond system.bonus_ba '!==' null}}
+		<a data-ba="bac" data-ba-bonus class="attack-roll">{{actor.bac}} + {{system.bonus_ba}}</a>
+		{{else}}
+		<a data-ba="bac" class="attack-roll">{{actor.bac}}</a>
+		{{/ifCond}}
+	{{/ifCond}}
+	{{#ifCond system.type '==' "throwing"}}
+		{{#ifCond system.bonus_ba '!==' null}}
+			<a data-ba="bac" data-ba-bonus class="attack-roll">{{actor.bac}} + {{system.bonus_ba}}</a> ou <a data-ba="bad" data-ba-bonus class="attack-roll">({{actor.bad}} + {{system.bonus_ba}})</a>
+		{{else}}
+			<a data-ba="bac" class="attack-roll">{{actor.bac}}</a> ou <a data-ba="bad" class="attack-roll">{{actor.bad}}</a>
+		{{/ifCond}}
+	{{/ifCond}}
+	{{#ifCond system.type '==' "ranged"}}
+		{{#ifCond system.bonus_ba '!==' null}}
+		<a data-ba="bad" data-ba-bonus class="attack-roll">{{actor.bad}} + {{system.bonus_ba}}</a>
+		{{else}}
+		<a data-ba="bad" class="attack-roll">{{actor.bad}}</a>
+		{{/ifCond}}
+	{{/ifCond}}
+	{{#ifCond system.type '==' "ammunition"}}
+	–
+	{{/ifCond}}
+</div>
+<div class="weapon-damage">
+	{{#if system.damage}}
+		{{#if system.bonus_damage}}
+			<a class="damage-roll">{{system.damage}} + {{system.bonus_damage}}</a>
+		{{else}}
+			<a class="damage-roll">{{system.damage}}</a>
+		{{/if}}
+	{{else}}
+	–
+	{{/if}}
+</div>
+<div class="damage-type">
+	{{#ifCond system.damage_type '==' "none"}}
+	–
+	{{/ifCond}}
+	{{#ifCond system.damage_type '==' "bludgeoning"}}
+	<img src="/systems/olddragon2e/assets/icons/bludgeoning.svg" title="{{localize 'olddragon2e.damage_types.bludgeoning'}}">
+	{{/ifCond}}
+	{{#ifCond system.damage_type '==' "piercing"}}
+	<img src="/systems/olddragon2e/assets/icons/piercing.svg" title="{{localize 'olddragon2e.damage_types.piercing'}}">
+	{{/ifCond}}
+	{{#ifCond system.damage_type '==' "slashing"}}
+	<img src="/systems/olddragon2e/assets/icons/slashing.svg" title="{{localize 'olddragon2e.damage_types.slashing'}}">
+	{{/ifCond}}
+</div>
+<div class="weapon-description">{{truncate system.description 35}}</div>

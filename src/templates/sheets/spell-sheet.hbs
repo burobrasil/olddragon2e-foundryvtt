@@ -1,0 +1,87 @@
+<form class="{{cssClass}}" autocomplete="off">
+    <header class="sheet-header">
+        <img src="{{item.img}}" data-edit="img" title="{{item.name}}" height="64" width="64"/>
+        <h1><input name="name" type="text" value="{{item.name}}"/></h1>
+    </header>
+    <div class="spell-school">
+        {{!-- Arcana --}}
+        <div class="arcane">
+            <label class="font-bold">{{localize "olddragon2e.arcane_spell"}}</label>
+            {{#select system.arcane}}
+            <select name="system.arcane">
+                <option value="null">{{localize "olddragon2e.spell_circle.null"}}</option>
+                {{#each config.arcane_spell_circle as |circle_label circle|}}
+                <option value="{{circle}}">{{localize circle_label}}</option>
+                {{/each}}
+            </select>
+            {{/select}}
+        </div>
+        {{!-- Divina --}}
+        <div class="divine">
+            <label class="font-bold">{{localize "olddragon2e.divine_spell"}}</label>
+            {{#select system.divine}}
+            <select name="system.divine">
+                <option value="null">{{localize "olddragon2e.spell_circle.null"}}</option>
+                {{#each config.divine_spell_circle as |circle_label circle|}}
+                <option value="{{circle}}">{{localize circle_label}}</option>
+                {{/each}}
+            </select>
+            {{/select}}
+        </div>
+        {{!-- Necromante --}}
+        <div class="necromancer">
+            <label class="font-bold">{{localize "olddragon2e.necromancer_spell"}}</label>
+            {{#select system.necromancer}}
+            <select name="system.necromancer">
+                <option value="null">{{localize "olddragon2e.spell_circle.null"}}</option>
+                {{#each config.necromancer_spell_circle as |circle_label circle|}}
+                <option value="{{circle}}">{{localize circle_label}}</option>
+                {{/each}}
+            </select>
+            {{/select}}
+        </div>
+        {{!-- Ilusionista --}}
+        <div class="illusionist">
+            <label class="font-bold">{{localize "olddragon2e.illusionist_spell"}}</label>
+            {{#select system.illusionist}}
+            <select name="system.illusionist">
+                <option value="null">{{localize "olddragon2e.spell_circle.null"}}</option>
+                {{#each config.illusionist_spell_circle as |circle_label circle|}}
+                <option value="{{circle}}">{{localize circle_label}}</option>
+                {{/each}}
+            </select>
+            {{/select}}
+        </div>
+    </div>
+    <div class="spell-data">
+        {{!-- Propriedades --}}
+        <div class="properties">
+            <label class="tab-title">{{localize "olddragon2e.properties"}}</label>
+            {{!-- Alcance --}}
+            <div class="range">
+                <label class="font-bold">{{localize "olddragon2e.range"}}</label>
+                <input name="system.range" type="text" value="{{system.range}}" data-dtype="String">
+            </div>
+            {{!-- Duração --}}
+            <div class="duration">
+                <label class="font-bold">{{localize "olddragon2e.duration"}}</label>
+                <input name="system.duration" type="text" value="{{system.duration}}" data-dtype="String">
+            </div>
+            {{!-- Jogada de Proteção --}}
+            <div class="jp">
+                <label class="font-bold">{{localize "olddragon2e.jp_short"}}</label>
+                <input name="system.jp" type="text" value="{{system.jp}}" data-dtype="String">
+            </div>
+            {{!-- Reversa --}}
+            <div class="reverse">
+                <input name="system.reverse" type="checkbox" {{checked system.reverse}}>
+                <label class="font-bold">{{localize "olddragon2e.reverse_spell"}}</label>
+            </div>
+        </div>
+        {{!-- Descrição --}}
+        <div class="description">
+            <label class="tab-title">{{localize "olddragon2e.description"}}</label>
+            {{editor system.description target="system.description" button=true owner=owner editable=editable}}
+        </div>
+    </div>
+</form>

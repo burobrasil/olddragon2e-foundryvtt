@@ -1,0 +1,166 @@
+.olddragon2e.sheet.monster {
+  .sheet-container {
+    display: flex;
+    flex-direction: row;
+    gap: 0.5rem;
+
+    .sidebar {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 1.5rem;
+      padding: 10px;
+      border-radius: 0.25rem;
+      background-color: @dourado-100;
+
+      .portrait {
+        width: max-content;
+
+        img {
+          width: 128px;
+          height: 128px;
+          border-radius: 100%;
+        }
+      }
+
+      .stats {
+        display: flex;
+        flex-direction: column;
+        gap: 0.5rem;
+
+        .stat {
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          font-size: larger;
+
+          input {
+            width: 70px;
+            height: 70px;
+            text-align: center;
+            font-size: x-large;
+          }
+        }
+      }
+    }
+
+    .body {
+      display: flex;
+      flex-direction: column;
+      gap: 0.5rem;
+
+      .header {
+        display: flex;
+        flex-direction: column;
+        gap: 0.5rem;
+        padding: 10px;
+        border-radius: 0.25rem;
+        background-color: @dourado-100;
+
+        .basic-info {
+          display: flex;
+          flex-direction: row;
+          gap: 0.25rem;
+
+          .name,
+          .concept,
+          .size,
+          .alignment,
+          .habitat {
+            input,
+            select {
+              width: 100%;
+            }
+          }
+
+          .name {
+            flex-basis: 20%;
+          }
+
+          .concept {
+            flex-basis: 28%;
+          }
+
+          .size {
+            flex-basis: 15%;
+          }
+
+          .alignment {
+            flex-basis: 15%;
+          }
+
+          .habitat {
+            flex-basis: 22%;
+          }
+        }
+
+        .additional-info {
+          display: flex;
+          flex-direction: row;
+          gap: 0.25rem;
+
+          .encounter,
+          .treasure,
+          .mv,
+          .hp {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+
+            .encounter-values,
+            .treasure-values,
+            .mv-values,
+            .hp-values {
+              display: flex;
+              flex-direction: row;
+
+              .encounter-value,
+              .treasure-value,
+              .mv-value,
+              .hp-value {
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+
+                input {
+                  text-align: center;
+                }
+              }
+            }
+          }
+
+          .xp {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+
+            input {
+              text-align: center;
+            }
+          }
+        }
+      }
+
+      .main {
+        display: flex;
+        flex-direction: column;
+        gap: 0.5rem;
+        padding: 10px;
+        border-radius: 0.25rem;
+        height: 100%;
+        background-color: @dourado-100;
+
+        section {
+          display: flex;
+          flex-direction: column;
+          height: 100%;
+          border-radius: 0.25rem;
+
+          .tab {
+            height: 100%;
+          }
+        }
+      }
+    }
+  }
+}

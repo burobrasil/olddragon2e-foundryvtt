@@ -1,0 +1,43 @@
+<div class="spell-name">
+    <a class="item-edit" title="{{localize 'olddragon2e.open'}}">{{truncate name 22}}</a>
+</div>
+<div class="spell-school">
+    {{#ifCond system.arcane '<=' "9"}}
+    {{localize 'olddragon2e.arcane_spell'}} ({{system.arcane}}º)
+    {{/ifCond}}
+    {{#ifCond system.divine '<=' "7"}}
+    {{localize 'olddragon2e.divine_spell'}} ({{system.divine}}º)
+    {{/ifCond}}
+    {{#ifCond system.necromancer '<=' "9"}}
+    {{localize 'olddragon2e.necromancer_spell'}} ({{system.necromancer}}º)
+    {{/ifCond}}
+    {{#ifCond system.illusionist '<=' "9"}}
+    {{localize 'olddragon2e.illusionist_spell'}} ({{system.illusionist}}º)
+    {{/ifCond}}
+</div>
+<div class="spell-range">
+    {{#if system.range}}
+    {{system.range}}
+    {{else}}
+    –
+    {{/if}}
+</div>
+<div class="spell-duration">
+    {{#if system.duration}}
+    {{system.duration}}
+    {{else}}
+    –
+    {{/if}}
+</div>
+<div class="spell-jp">
+    {{#if system.jp}}
+    {{system.jp}}
+    {{else}}
+    –
+    {{/if}}
+</div>
+<div class="item-controls">
+    <a class="spell-cast" title="{{localize 'olddragon2e.cast'}}"><i class="fa-solid fa-hand-sparkles"></i></a>
+    <a class="item-edit" title="{{localize 'olddragon2e.edit'}}"><i class="fa-solid fa-pen-to-square"></i></a>
+    <a class="item-delete" title="{{localize 'olddragon2e.delete'}}"><i class="fa-solid fa-trash"></i></a>
+</div>

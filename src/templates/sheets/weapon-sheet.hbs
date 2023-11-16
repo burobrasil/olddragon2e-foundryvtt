@@ -1,0 +1,126 @@
+<form class="{{cssClass}}" autocomplete="off">
+    <header class="sheet-header">
+        <img src="{{item.img}}" data-edit="img" title="{{item.name}}" height="64" width="64"/>
+        <h1><input name="name" type="text" value="{{item.name}}"/></h1>
+    </header>
+    <div class="weapon">
+        {{!-- Propriedades --}}
+        <div class="properties">
+            <label class="tab-title">{{localize "olddragon2e.properties"}}</label>
+            {{!-- Quantidade --}}
+            <div class="quantity">
+                <label class="font-bold">{{localize "olddragon2e.quantity"}}</label>
+                <input name="system.quantity" type="text" value="{{system.quantity}}" data-dtype="Number">
+            </div>
+            {{!-- Custo --}}
+            <div class="cost">
+                <label class="font-bold">{{localize "olddragon2e.cost"}}</label>
+                <input name="system.cost" type="text" value="{{system.cost}}" data-dtype="String">
+            </div>
+            {{!-- Peso em carga --}}
+            <div class="weight">
+                <label class="font-bold">{{localize "olddragon2e.weight_in_load"}}</label>
+                <input name="system.weight_in_load" type="text" value="{{system.weight_in_load}}" data-dtype="Number">
+            </div>
+            {{!-- Peso em gramas --}}
+            <div class="weight">
+                <label class="font-bold">{{localize "olddragon2e.weight_in_grams"}}</label>
+                <input name="system.weight_in_grams" type="text" value="{{system.weight_in_grams}}" data-dtype="Number">
+            </div>
+            {{!-- Tipo de arma --}}
+            <div class="weapon-type">
+                <label class="font-bold">{{localize "olddragon2e.weapon_type"}}</label>
+                <select name="system.type">
+                    {{#select system.type}}
+                    {{#each config.weapon_types as |name type|}}
+                    <option value="{{type}}">{{localize name}}</option>
+                    {{/each}}
+                    {{/select}}
+                </select>
+            </div>
+            {{!-- Tipo de dano --}}
+            <div class="damage-type">
+                <label class="font-bold">{{localize "olddragon2e.damage_type"}}</label>
+                <select name="system.damage_type">
+                    {{#select system.damage_type}}
+                    {{#each config.damage_types as |name type|}}
+                    <option value="{{type}}">{{localize name}}</option>
+                    {{/each}}
+                    {{/select}}
+                </select>
+            </div>
+            {{!-- Dano --}}
+            <div class="damage">
+                <label class="font-bold">{{localize "olddragon2e.damage"}}</label>
+                <input name="system.damage" type="text" value="{{system.damage}}" data-dtype="String">
+            </div>
+            {{!-- Bônus no dano --}}
+            <div class="bonus-damage">
+                <label class="font-bold">{{localize "olddragon2e.bonus_damage"}}</label>
+                <input name="system.bonus_damage" type="text" value="{{system.bonus_damage}}" data-dtype="Number">
+            </div>
+            {{!-- Bônus na CA --}}
+            <div class="bonus-ca">
+                <label class="font-bold">{{localize "olddragon2e.bonus_ca"}}</label>
+                <input name="system.bonus_ca" type="text" value="{{system.bonus_ca}}" data-dtype="Number">
+            </div>
+            {{!-- Bônus na BA --}}
+            <div class="bonus-ba">
+                <label class="font-bold">{{localize "olddragon2e.bonus_ba"}}</label>
+                <input name="system.bonus_ba" type="text" value="{{system.bonus_ba}}" data-dtype="Number">
+            </div>
+            {{!-- Alcance (disparo) --}}
+            <div class="shoot-range">
+                <label class="font-bold">{{localize "olddragon2e.shoot_range"}}</label>
+                <input name="system.shoot_range" type="text" value="{{system.shoot_range}}" data-dtype="Number">
+            </div>
+            {{!-- Alcance (arremesso) --}}
+            <div class="throw-range">
+                <label class="font-bold">{{localize "olddragon2e.throw_range"}}</label>
+                <input name="system.throw_range" type="text" value="{{system.throw_range}}" data-dtype="Number">
+            </div>
+            <div class="checkboxes">
+                {{!-- Flecha --}}
+                <div class="checkbox">
+                    <input name="system.arrow" type="checkbox" {{checked system.arrow}}>
+                    <label class="font-bold">{{localize "olddragon2e.arrow"}}</label>
+                </div>
+                {{!-- Virote --}}
+                <div class="checkbox">
+                    <input name="system.bolt" type="checkbox" {{checked system.bolt}}>
+                    <label class="font-bold">{{localize "olddragon2e.bolt"}}</label>
+                </div>
+                {{!-- Virote pequeno --}}
+                <div class="checkbox">
+                    <input name="system.bolt_small" type="checkbox" {{checked system.bolt_small}}>
+                    <label class="font-bold">{{localize "olddragon2e.bolt_small"}}</label>
+                </div>
+                {{!-- Haste --}}
+                <div class="checkbox">
+                    <input name="system.polearm" type="checkbox" {{checked system.polearm}}>
+                    <label class="font-bold">{{localize "olddragon2e.polearm"}}</label>
+                </div>
+                {{!-- Duas mãos --}}
+                <div class="checkbox">
+                    <input name="system.two_handed" type="checkbox" {{checked system.two_handed}}>
+                    <label class="font-bold">{{localize "olddragon2e.two_handed"}}</label>
+                </div>
+                {{!-- Versátil --}}
+                <div class="checkbox">
+                    <input name="system.versatile" type="checkbox" {{checked system.versatile}}>
+                    <label class="font-bold">{{localize "olddragon2e.versatile"}}</label>
+                </div>
+                {{!-- Item mágico --}}
+                <div class="checkbox">
+                    <input name="system.magic_item" type="checkbox" {{checked system.magic_item}}>
+                    <label class="font-bold">{{localize "olddragon2e.magic_item"}}</label>
+                </div>
+            </div>
+        </div>
+        {{!-- Descrição --}}
+        <div class="description">
+            <label class="tab-title">{{localize "olddragon2e.description"}}</label>
+            <textarea name="system.description" data-dtype="String" >{{system.description}}</textarea>
+        </div>
+    </div>
+</form>

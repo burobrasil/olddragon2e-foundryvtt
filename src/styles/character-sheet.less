@@ -1,0 +1,382 @@
+.olddragon2e.sheet.character {
+  .sheet-container {
+    display: flex;
+    flex-direction: row;
+    gap: 0.5rem;
+
+    .sidebar {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 1.5rem;
+      padding: 10px;
+      border-radius: 0.25rem;
+      background-color: @dourado-100;
+
+      .portrait {
+        width: max-content;
+
+        img {
+          width: 128px;
+          height: 128px;
+          border-radius: 100%;
+        }
+      }
+
+      .stats {
+        display: flex;
+        flex-direction: column;
+        gap: 0.5rem;
+
+        .stat {
+          display: flex;
+          flex-direction: row;
+          justify-content: end;
+          align-items: end;
+          gap: 0.25rem;
+
+          .stat-value {
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            gap: 0.25rem;
+            font-size: larger;
+
+            input {
+              width: 35px;
+              height: 35px;
+              text-align: center;
+              font-weight: bold;
+            }
+          }
+
+          .stat-mod {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            font-size: small;
+
+            input {
+              width: 35px;
+              height: 35px;
+              text-align: center;
+            }
+          }
+        }
+      }
+
+      .jp {
+        display: flex;
+        flex-direction: column;
+        gap: 0.5rem;
+        width: max-content;
+
+        .jp-group {
+          display: flex;
+          flex-direction: row;
+          align-items: center;
+          gap: 0.5rem;
+
+          .jpd,
+          .jpc,
+          .jps {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+          }
+
+          .jp-values {
+            display: flex;
+            flex-direction: row;
+            gap: 0.5rem;
+
+            .jp-value {
+              display: flex;
+              flex-direction: column;
+              align-items: center;
+
+              .stat-modifier,
+              input {
+                width: 20px;
+                height: 20px;
+                text-align: center;
+                font-weight: normal;
+              }
+
+              .stat-modifier {
+                background-color: #e0ddca;
+              }
+            }
+          }
+
+          input {
+            width: 35px;
+            height: 35px;
+            text-align: center;
+            font-weight: bold;
+          }
+        }
+      }
+    }
+
+    .body {
+      display: flex;
+      flex-direction: column;
+      gap: 0.5rem;
+
+      .header {
+        display: flex;
+        flex-direction: column;
+        gap: 0.5rem;
+        padding: 10px;
+        border-radius: 0.25rem;
+        background-color: @dourado-100;
+
+        .basic-info {
+          display: flex;
+          flex-direction: row;
+          gap: 0.25rem;
+
+          .level-select {
+            display: flex;
+            flex-direction: column;
+          }
+        }
+
+        .additional-info {
+          display: flex;
+          flex-direction: row;
+          justify-content: space-between;
+
+          .alignment,
+          .mv,
+          .xp,
+          .hp {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+
+            .mv-values,
+            .xp-values,
+            .hp-values {
+              display: flex;
+              flex-direction: row;
+              gap: 0.25rem;
+
+              .mv-value,
+              .xp-value,
+              .hp-value {
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+              }
+
+              .mv-value {
+                input {
+                  width: 40px;
+                  text-align: center;
+                }
+              }
+
+              .xp-value,
+              .hp-value {
+                input {
+                  width: 80px;
+                  text-align: center;
+                }
+              }
+            }
+
+            select {
+              width: 100px;
+            }
+          }
+        }
+
+        .overview {
+          display: flex;
+          flex-direction: row;
+          justify-content: space-between;
+
+          .ca {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 0.25rem;
+            padding: 0px 10px;
+            height: max-content;
+
+            .ca-values {
+              display: flex;
+              flex-direction: row;
+              align-items: center;
+              gap: 0.5rem;
+
+              .ca-total {
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+
+                input {
+                  width: 35px;
+                  height: 35px;
+                  text-align: center;
+                  font-weight: bold;
+                }
+              }
+
+              .ca-value {
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+
+                .stat-modifier,
+                input {
+                  width: 20px;
+                  height: 20px;
+                  text-align: center;
+                }
+
+                .stat-modifier {
+                  background-color: #e0ddca;
+                }
+              }
+            }
+          }
+
+          .ba {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 0.25rem;
+            padding: 0px 10px;
+            height: max-content;
+
+            .ba-values {
+              display: flex;
+              flex-direction: row;
+              align-items: center;
+              gap: 0.25rem;
+
+              .bac {
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+
+                input {
+                  width: 35px;
+                  height: 35px;
+                  text-align: center;
+                  font-weight: bold;
+                }
+              }
+
+              .bad {
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+
+                input {
+                  width: 35px;
+                  height: 35px;
+                  text-align: center;
+                  font-weight: bold;
+                }
+              }
+
+              .ba-value {
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+
+                .stat-modifier,
+                input {
+                  width: 20px;
+                  height: 20px;
+                  text-align: center;
+                }
+
+                .stat-modifier {
+                  background-color: #e0ddca;
+                }
+              }
+            }
+          }
+
+          .economy {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 0.25rem;
+            padding: 0px 10px;
+            height: max-content;
+
+            .currency {
+              display: flex;
+              flex-direction: row;
+              gap: 0.25rem;
+
+              .gp,
+              .sp,
+              .cp {
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                gap: 0.15rem;
+
+                input {
+                  width: 45px;
+                  height: 35px;
+                  text-align: center;
+                }
+
+                .label {
+                  display: flex;
+                  flex-direction: row;
+                  align-items: center;
+                  gap: 0.25rem;
+
+                  i.gp-icon,
+                  label.gp-label {
+                    color: #e3a008;
+                  }
+
+                  i.sp-icon,
+                  label.sp-label {
+                    color: #98989b;
+                  }
+
+                  i.cp-icon,
+                  label.cp-label {
+                    color: #b43403;
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+
+      .main {
+        display: flex;
+        flex-direction: column;
+        gap: 0.5rem;
+        padding: 10px;
+        border-radius: 0.25rem;
+        height: 100%;
+        background-color: @dourado-100;
+
+        section {
+          display: flex;
+          flex-direction: column;
+          height: 100%;
+          border-radius: 0.25rem;
+
+          .tab {
+            height: 100%;
+          }
+        }
+      }
+    }
+  }
+}

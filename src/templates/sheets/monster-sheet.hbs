@@ -1,0 +1,199 @@
+<form class="{{cssClass}}" autocomplete="off">
+
+    <div class="sheet-container">
+        {{!-- Sidebar --}}
+        <div class="sidebar">
+            {{!-- Retrato --}}
+            <div class="portrait">
+                <img src="{{actor.img}}" data-edit="img" title="{{actor.name}}">
+            </div>
+            {{!-- Características --}}
+            <div class="stats">
+                {{!-- DV | Dado de Vida --}}
+                <div class="stat">
+                    <label class="font-bold" title="{{localize 'olddragon2e.dv'}}">{{localize "olddragon2e.dv_short"}}</label>
+                    <input name="system.dv" type="text" value="{{system.dv}}" data-dtype="String">
+                </div>
+                {{!-- DV Bônus | Dado de Vida Bônus --}}
+                <div class="stat">
+                    <label class="font-bold" title="{{localize 'olddragon2e.dv_bonus'}}">{{localize "olddragon2e.dv_bonus"}}</label>
+                    <input name="system.dv_bonus" type="text" value="{{system.dv_bonus}}" data-dtype="String">
+                </div>
+                {{!-- CA | Classe de Armadura --}}
+                <div class="stat">
+                    <label class="font-bold">{{localize "olddragon2e.ac_short"}}</label>
+                    <input name="system.ca" type="text" value="{{system.ca}}" data-dtype="String">
+                    <label class="text-2xs font-bold">{{localize "olddragon2e.native"}} / {{localize "olddragon2e.equipment_short"}}</label>
+                </div>
+                {{!-- JP | Jogada de Proteção --}}
+                <div class="stat">
+                    <a class="font-bold jp-check">{{localize "olddragon2e.jp_short"}}</a>
+                    <input name="system.jp" type="text" value="{{system.jp}}" data-dtype="String">
+                </div>
+                {{!-- MO | Moral --}}
+                <div class="stat">
+                    <a class="font-bold mo-check">{{localize "olddragon2e.mo_short"}}</a>
+                    <input name="system.mo" type="text" value="{{system.mo}}" data-dtype="String">
+                </div>
+            </div>
+        </div>
+
+        {{!-- Body --}}
+        <div class="body">
+            {{!-- Header --}}
+            <div class="header">
+                {{!-- Nome; Conceito; Tamanho; Alinhamento, Habitat --}}
+                <div class="basic-info">
+                    {{!-- Nome --}}
+                    <div class="name">
+                        <input name="name" type="text" value="{{actor.name}}">
+                        <label class="font-bold">{{localize "olddragon2e.name"}}</label>
+                    </div>
+                    {{!-- Conceito --}}
+                    <div class="concept">
+                        <input list="concepts" name="system.concept" type="text" value="{{system.concept}}">
+                        <datalist id="concepts">
+                            {{#each config.monster_concepts as |concept|}}
+                            <option>{{localize concept}}</option>
+                            {{/each}}
+                        </datalist>
+                        <label class="font-bold">{{localize "olddragon2e.concept"}}</label>
+                    </div>
+                    {{!-- Tamanho --}}
+                    <div class="size">
+                        {{#select system.size}}
+                        <select name="system.size">
+                            {{#each config.monster_sizes as |size_label size|}}
+                            <option value="{{size}}">{{localize size_label}}</option>
+                            {{/each}}
+                        </select>
+                        {{/select}}
+                        <label class="font-bold">{{localize "olddragon2e.size"}}</label>
+                    </div>
+                    {{!-- Alinhamento --}}
+                    <div class="alignment">
+                        {{#select system.alignment}}
+                        <select name="system.alignment">
+                            {{#each config.alignment as |alignment_label alignment|}}
+                            <option value="{{alignment}}">{{localize alignment_label}}</option>
+                            {{/each}}
+                        </select>
+                        {{/select}}
+                        <label class="font-bold">{{localize "olddragon2e.alignment"}}</label>
+                    </div>
+                    {{!-- Habitat --}}
+                    <div class="habitat">
+                        <input list="habitats" name="system.habitat" type="text" value="{{system.habitat}}">
+                        <datalist id="habitats">
+                            {{#each config.monster_habitats as |habitat|}}
+                            <option>{{localize habitat}}</option>
+                            {{/each}}
+                        </datalist>
+                        <label class="font-bold">{{localize "olddragon2e.habitat"}}</label>
+                    </div>
+                </div>
+
+                <hr>
+
+                {{!-- Encontro; Experiência; Tesouro; Movimento --}}
+                <div class="additional-info">
+                    {{!-- Encontro --}}
+                    <div class="encounter">
+                        <label class="font-bold">{{localize "olddragon2e.encounter"}}</label>
+                        <div class="encounter-values">
+                            {{!-- Encontro (Errantes) --}}
+                            <div class="encounter-value">
+                                <input name="system.encounters" type="text" value="{{system.encounters}}" data-dtype="String">
+                                <label class="text-xs">{{localize "olddragon2e.group"}}</label>
+                            </div>
+                            {{!-- Encontro (Covil) --}}
+                            <div class="encounter-value">
+                                <input name="system.encounters_lair" type="text" value="{{system.encounters_lair}}" data-dtype="String">
+                                <label class="text-xs">{{localize "olddragon2e.lair"}}</label>
+                            </div>
+                        </div>
+                    </div>
+                    {{!-- XP | Experiência --}}
+                    <div class="xp">
+                        <label class="font-bold">{{localize "olddragon2e.xp_short"}}</label>
+                        <input name="system.xp" type="text" value="{{system.xp}}" data-dtype="Number">
+                    </div>
+                    {{!-- Tesouro --}}
+                    <div class="treasure">
+                        <label class="font-bold">{{localize "olddragon2e.treasure"}}</label>
+                        <div class="treasure-values">
+                            {{!-- Tesouro (Errantes) --}}
+                            <div class="treasure-value">
+                                <input name="system.treasure" type="text" value="{{system.treasure}}" data-dtype="String">
+                                <label class="text-xs">{{localize "olddragon2e.group"}}</label>
+                            </div>
+                            {{!-- Tesouro (Covil) --}}
+                            <div class="treasure-value">
+                                <input name="system.treasure_lair" type="text" value="{{system.treasure_lair}}" data-dtype="String">
+                                <label class="text-xs">{{localize "olddragon2e.lair"}}</label>
+                            </div>
+                        </div>
+                    </div>
+                    {{!-- Movimento --}}
+                    <div class="mv">
+                        <label class="font-bold">{{localize "olddragon2e.mv"}}</label>
+                        <div class="mv-values">
+                            {{!-- Base --}}
+                            <div class="mv-value">
+                                <input name="system.mv" type="text" value="{{system.mv}}" data-dtype="String">
+                                <label class="text-xs">{{localize "olddragon2e.base"}}</label>
+                            </div>
+                            {{!-- Nadar --}}
+                            <div class="mv-value">
+                                <input name="system.mvn" type="text" value="{{system.mvn}}" data-dtype="String">
+                                <label class="text-xs">{{localize "olddragon2e.mv_swim"}}</label>
+                            </div>
+                            {{!-- Voar --}}
+                            <div class="mv-value">
+                                <input name="system.mvv" type="text" value="{{system.mvv}}" data-dtype="String">
+                                <label class="text-xs">{{localize "olddragon2e.mv_fly"}}</label>
+                            </div>
+                        </div>
+                    </div>
+                    {{!-- PV | Pontos de Vida --}}
+                    <div class="hp">
+                        <label class="font-bold">{{localize "olddragon2e.hp_long"}}</label>
+                        <div class="hp-values">
+                            {{!-- PV Atual --}}
+                            <div class="hp-value">
+                                <input name="system.hp.value" type="text" value="{{system.hp.value}}" data-dtype="Number">
+                                <label class="text-xs font-bold">{{localize "olddragon2e.hp_value"}}</label>
+                            </div>
+                            {{!-- PV Total --}}
+                            <div class="hp-value">
+                                <input name="system.hp.max" type="text" value="{{system.hp.max}}" data-dtype="Number">
+                                <label class="text-xs font-bold">{{localize "olddragon2e.hp_max"}}</label>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            {{!-- Main --}}
+            <div class="main">
+                {{!-- Navigation tabs --}}
+                <nav class="tabs font-bold" data-group="primary-tabs" >
+                    <a class="item" data-tab="skills">{{localize "olddragon2e.navigation.monster.skills_tab"}}</a>
+                    <a class="item" data-tab="info">{{localize "olddragon2e.navigation.monster.info_tab"}}</a></a>
+                </nav>
+
+                {{!-- Navigation section --}}
+                <section class="section">
+                    {{!-- Habilidades --}}
+                    <div class="tab" data-group="primary-tabs" data-tab="skills">
+                        {{> systems/olddragon2e/templates/partials/tabs/monster-tab-skills.hbs}}
+                    </div>
+                    {{!-- Descrição --}}
+                    <div class="tab" data-group="primary-tabs" data-tab="info">
+                        {{> systems/olddragon2e/templates/partials/tabs/monster-tab-info.hbs}}
+                    </div>
+                </section>
+            </div>
+        </div>
+    </div>
+</form>

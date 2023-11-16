@@ -1,0 +1,50 @@
+<div class="spell" data-item-id="{{id}}" data-owner-id="{{owner}}">
+    {{!-- Nome da Magia --}}
+    <h2 class="text-center"><strong><a class="spell-show" title="{{localize 'olddragon2e.show'}}">{{truncate name 22}}</a></strong></h2>
+    {{!-- Tipo e Círculo --}}
+    <div class="italic">
+        {{#ifCond system.arcane '<=' "9"}}
+        {{localize 'olddragon2e.arcane_spell'}} <span class="text-xs">({{system.arcane}}º {{localize 'olddragon2e.circle'}})</span>
+        {{/ifCond}}
+        {{#ifCond system.divine '<=' "7"}}
+        {{localize 'olddragon2e.divine_spell'}} <span class="text-xs">({{system.divine}}º {{localize 'olddragon2e.circle'}})</span>
+        {{/ifCond}}
+        {{#ifCond system.necromancer '<=' "9"}}
+        {{localize 'olddragon2e.necromancer_spell'}} <span class="text-xs">({{system.necromancer}}º {{localize 'olddragon2e.circle'}})</span>
+        {{/ifCond}}
+        {{#ifCond system.illusionist '<=' "9"}}
+        {{localize 'olddragon2e.illusionist_spell'}} <span class="text-xs">({{system.illusionist}}º {{localize 'olddragon2e.circle'}})</span>
+        {{/ifCond}}
+    </div>
+    {{!-- Alcance --}}
+    <div>
+        <label class="font-bold">{{localize 'olddragon2e.range'}}:</label>
+        {{#if system.range}}
+        {{system.range}}
+        {{else}}
+        –
+        {{/if}}
+    </div>
+    {{!-- Duração --}}
+    <div>
+        <label class="font-bold">{{localize 'olddragon2e.duration'}}:</label>
+        {{#if system.duration}}
+        {{system.duration}}
+        {{else}}
+        –
+        {{/if}}
+    </div>
+    {{!-- JP --}}
+    <div>
+        <label class="font-bold">{{localize 'olddragon2e.jp_short'}}:</label>
+        {{#if system.jp}}
+        {{system.jp}}
+        {{else}}
+        –
+        {{/if}}
+    </div>
+    {{!-- Descrição --}}
+    <div class="spell-description">
+        {{truncate system.description 128}}
+    </div>
+</div>

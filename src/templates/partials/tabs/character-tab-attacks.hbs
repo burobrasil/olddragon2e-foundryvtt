@@ -1,0 +1,22 @@
+<div class="character-tab-attacks">
+    {{!-- Ataques --}}
+    <div class="attack">
+        <div class="list">
+            <div class="type"></div>
+            <div class="name">{{localize "olddragon2e.weapon"}}</div>
+            <div class="range">{{localize "olddragon2e.range"}}</div>
+            <div class="ba">{{localize "olddragon2e.ba_short"}}</div>
+            <div class="damage">{{localize "olddragon2e.damage"}}</div>
+            <div class="damage-type"></div>
+            <div class="description">{{localize "olddragon2e.properties"}}</div>
+        </div>
+        <ol>
+            {{#each attack as |attack id|}}
+            <li class="item attack" data-item-id="{{attack._id}}">
+                {{> "systems/olddragon2e/templates/partials/cards/attack-card.hbs" attack actor=@root.system}}
+            </li>
+            {{/each}}
+            {{!-- TODO: Add "Ataque Desarmado" --}}
+        </ol>
+    </div>
+</div>

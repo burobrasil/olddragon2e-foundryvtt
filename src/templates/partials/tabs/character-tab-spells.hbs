@@ -1,0 +1,22 @@
+<div class="character-tab-spells">
+    {{!-- Magias --}}
+    <div class="spell">
+        <div class="list">
+            <div class="name">{{localize "olddragon2e.spell"}}</div>
+            <div class="school">{{localize "olddragon2e.school"}} ({{localize "olddragon2e.circle"}})</div>
+            <div class="range">{{localize "olddragon2e.range"}}</div>
+            <div class="duration">{{localize "olddragon2e.duration"}}</div>
+            <div class="jp">{{localize "olddragon2e.jp_short"}}</div>
+            <div class="create">
+                <a class="item-create" data-type="spell" title="{{localize 'olddragon2e.new_spell'}}"><i class="fa-solid fa-plus"></i> {{localize "olddragon2e.nova"}}</a>
+            </div>
+        </div>
+        <ol>
+            {{#each spell as |spell id|}}
+            <li class="item" data-item-id="{{spell._id}}">
+                {{> "systems/olddragon2e/templates/partials/cards/spell-card.hbs" spell}}
+            </li>
+            {{/each}}
+        </ol>
+    </div>
+</div>

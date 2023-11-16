@@ -1,0 +1,20 @@
+<div class="character-tab-skills">
+    {{!-- Infravisão --}}
+    <div class="infravision">
+        <i class="fa-solid fa-eye fa-sm"></i>
+        <label class="font-bold">{{localize "olddragon2e.infravision"}}</label>
+        <input name="system.race.infravision" type="text" value="{{system.race.infravision}}" data-dtype="String">
+    </div>
+
+    {{!-- Habilidades de Raça --}}
+    <div class="race-skills">
+        <label class="tab-title">{{localize "olddragon2e.race_skills"}}</label>
+        {{editor system.race.skills target="system.race.skills" button=true owner=owner editable=editable}}
+    </div>
+
+    {{!-- Habilidades de Classe --}}
+    <div class="klass-skills">
+        <label class="tab-title">{{localize "olddragon2e.class_skills"}}</label>
+        {{editor system.class.skills target="system.class.skills" button=true owner=owner editable=editable}}
+    </div>
+</div>

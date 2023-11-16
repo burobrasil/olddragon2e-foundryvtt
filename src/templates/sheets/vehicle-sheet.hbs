@@ -1,0 +1,32 @@
+<form class="{{cssClass}}" autocomplete="off">
+    <header class="sheet-header">
+        <img src="{{item.img}}" data-edit="img" title="{{item.name}}" height="64" width="64"/>
+        <h1><input name="name" type="text" value="{{item.name}}"/></h1>
+    </header>
+    <div class="vehicle">
+        {{!-- Propriedades --}}
+        <div class="properties">
+            <label class="tab-title">{{localize "olddragon2e.properties"}}</label>
+            {{!-- Quantidade --}}
+            <div class="quantity">
+                <label class="font-bold">{{localize "olddragon2e.quantity"}}</label>
+                <input name="system.quantity" type="text" value="{{system.quantity}}" data-dtype="Number">
+            </div>
+            {{!-- Custo --}}
+            <div class="cost">
+                <label class="font-bold">{{localize "olddragon2e.cost"}}</label>
+                <input name="system.cost" type="text" value="{{system.cost}}" data-dtype="String">
+            </div>
+            {{!-- Item mágico --}}
+            <div class="magic-item">
+                <input name="system.magic_item" type="checkbox" {{checked system.magic_item}}>
+                <label class="font-bold">{{localize "olddragon2e.magic_item"}}</label>
+            </div>
+        </div>
+        {{!-- Descrição --}}
+        <div class="description">
+            <label class="tab-title">{{localize "olddragon2e.description"}}</label>
+            <textarea name="system.description" data-dtype="String" >{{system.description}}</textarea>
+        </div>
+    </div>
+</form>

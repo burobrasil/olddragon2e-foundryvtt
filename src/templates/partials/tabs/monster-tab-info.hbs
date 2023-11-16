@@ -1,0 +1,12 @@
+<div class="monster-tab-info">
+    {{!-- Descrição --}}
+    <div class="flavor">
+        <label class="tab-title">{{localize "olddragon2e.flavor"}}</label>
+        <textarea name="system.flavor" data-dtype="String" >{{system.flavor}}</textarea>
+    </div>
+    {{!-- Características --}}
+    <div class="features">
+        <label class="tab-title">{{localize "olddragon2e.features"}}</label>
+        {{editor system.description target="system.description" button=true owner=owner editable=editable}}
+    </div>
+</div>

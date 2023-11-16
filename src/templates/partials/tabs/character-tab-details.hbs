@@ -1,0 +1,42 @@
+<div class="character-tab-details">
+    {{!-- Idiomas --}}
+    <div class="languages">
+        <label class="tab-title">{{localize "olddragon2e.languages"}}</label>
+        <textarea name="system.details.languages" data-dtype="String" >{{system.details.languages}}</textarea>
+    </div>
+
+    {{!-- Reputação --}}
+    <div class="reputation">
+        <label class="tab-title">{{localize "olddragon2e.reputation"}}</label>
+        <div class="reputation-select">
+            {{#select system.details.reputation}}
+            <select name="system.details.reputation">
+                <option value="0" selected="selected">0</option>
+                <option value="1">1</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4">4</option>
+                <option value="5">5</option>
+            </select>
+            {{/select}}
+        </div>
+    </div>
+
+    {{!-- Aparência --}}
+    <div class="appearance">
+        <label class="tab-title">{{localize "olddragon2e.appearance"}}</label>
+        {{editor system.details.appearance target="system.details.appearance" button=true owner=owner editable=editable}}
+    </div>
+
+    {{!-- Personalidade --}}
+    <div class="personality">
+        <label class="tab-title">{{localize "olddragon2e.personality"}}</label>
+        {{editor system.details.personality target="system.details.personality" button=true owner=owner editable=editable}}
+    </div>
+
+    {{!-- Histórico --}}
+    <div class="background">
+        <label class="tab-title">{{localize "olddragon2e.background"}}</label>
+        {{editor system.details.background target="system.details.background" button=true owner=owner editable=editable}}
+    </div>
+</div>

@@ -1,0 +1,189 @@
+{
+  "Actor": {
+    "types": ["character", "monster"],
+    "character": {
+      "odo_id": "",
+      "level": 1,
+      "hp": {
+        "value": 10,
+        "max": 10
+      },
+      "forca": 0,
+      "destreza": 0,
+      "constituicao": 0,
+      "inteligencia": 0,
+      "sabedoria": 0,
+      "carisma": 0,
+      "mod_forca": 0,
+      "mod_destreza": 0,
+      "mod_constituicao": 0,
+      "mod_inteligencia": 0,
+      "mod_sabedoria": 0,
+      "mod_carisma": 0,
+      "ac": {
+        "value": 0,
+        "base": 0,
+        "armor": 0,
+        "shield": 0,
+        "magic_weapon": 0
+      },
+      "ba": {
+        "value": 0,
+        "class": 0,
+        "bonus": 0
+      },
+      "bac": 0,
+      "bad": 0,
+      "jpd": {
+        "value": 0,
+        "class": 0,
+        "race": 0
+      },
+      "jpc": {
+        "value": 0,
+        "class": 0,
+        "race": 0
+      },
+      "jps": {
+        "value": 0,
+        "class": 0,
+        "race": 0
+      },
+      "current_movement": {
+        "value": 0,
+        "race": 0,
+        "load_penalty": 0
+      },
+      "movement_run": 0,
+      "movement_climb": 0,
+      "movement_swim": 0,
+      "race": {
+        "name": "",
+        "infravision": "",
+        "skills": ""
+      },
+      "class": {
+        "name": "",
+        "skills": ""
+      },
+      "economy": {
+        "cp": 0,
+        "sp": 0,
+        "gp": 0,
+        "count": 0,
+        "load": 0
+      },
+      "load": {
+        "current": 0,
+        "max": 0
+      },
+      "details": {
+        "alignment": "neutro",
+        "languages": "",
+        "reputation": 0,
+        "appearance": "",
+        "personality": "",
+        "background": "",
+        "notes": ""
+      },
+      "xp": {
+        "current": 0,
+        "next_level": 0
+      },
+      "campanha_url": "",
+      "url": ""
+    },
+    "monster": {
+      "odo_id": "",
+      "flavor": "",
+      "concept": "",
+      "size": "",
+      "alignment": "",
+      "variant": false,
+      "description": "",
+      "described_attacks": "",
+      "encounters": "",
+      "encounters_lair": "",
+      "xp": "",
+      "treasure": "",
+      "treasure_lair": "",
+      "mv": "",
+      "mvc": "",
+      "mve": "",
+      "mvn": "",
+      "mvv": "",
+      "mvo": "",
+      "dv": "",
+      "dv_bonus": "",
+      "pv": "",
+      "ca": "",
+      "jp": "",
+      "mo": "",
+      "url": ""
+    }
+  },
+  "Item": {
+    "types": ["weapon", "armor", "shield", "misc", "container", "vehicle", "spell"],
+    "templates": {
+      "common": {
+        "odo_id": "",
+        "description": ""
+      },
+      "equipment": {
+        "quantity": 1,
+        "cost": "",
+        "weight_in_load": 0,
+        "weight_in_grams": 0,
+        "magic_item": false
+      },
+      "ca": {
+        "bonus_ca": 0
+      }
+    },
+    "weapon": {
+      "templates": ["common", "equipment", "ca"],
+      "type": "",
+      "damage_type": "none",
+      "damage": "",
+      "bonus_damage": 0,
+      "bonus_ba": null,
+      "shoot_range": 0,
+      "throw_range": 0,
+      "arrow": false,
+      "bolt": false,
+      "bolt_small": false,
+      "polearm": false,
+      "two_handed": false,
+      "versatile": false
+    },
+    "armor": {
+      "templates": ["common", "equipment", "ca"]
+    },
+    "shield": {
+      "templates": ["common", "equipment", "ca"]
+    },
+    "misc": {
+      "templates": ["common", "equipment"]
+    },
+    "container": {
+      "templates": ["common", "equipment"],
+      "increases_load_by": 0
+    },
+    "vehicle": {
+      "templates": ["common", "equipment"]
+    },
+    "spell": {
+      "templates": ["common"],
+      "school": "",
+      "circle": "null",
+      "arcane": "null",
+      "divine": "null",
+      "necromancer": "null",
+      "illusionist": "null",
+      "reverse": false,
+      "range": "",
+      "duration": "",
+      "jp": ""
+    }
+  }
+}

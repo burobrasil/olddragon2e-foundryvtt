@@ -1,0 +1,144 @@
+<div class="character-tab-equipment">
+    {{!-- Armas --}}
+    <div class="weapon">
+        <div class="list">
+            <div class="type">{{localize "olddragon2e.item_types.weapon"}}</div>
+            <div class="quantity">{{localize "olddragon2e.quantity_short"}}</div>
+            <div class="weight">{{localize "olddragon2e.full_weight"}}</div>
+            <div class="cost">{{localize "olddragon2e.full_cost"}}</div>
+            <div class="description">{{localize "olddragon2e.description"}}</div>
+            <div class="create">
+                <a class="item-create" data-type="weapon" title="{{localize 'olddragon2e.new_weapon'}}"><i class="fa-solid fa-plus"></i> {{localize "olddragon2e.novo"}}</a>
+            </div>
+        </div>
+        <ol class="item-list">
+            {{#each weapon as |weapon id|}}
+            <li class="item" data-item-id="{{weapon._id}}">
+                {{> "systems/olddragon2e/templates/partials/cards/weapon-card.hbs" weapon}}
+            </li>
+            {{/each}}
+        </ol>
+    </div>
+
+    {{!-- Armaduras --}}
+    <div class="armor">
+        <div class="list">
+            <div class="type">{{localize "olddragon2e.item_types.armor"}}</div>
+            <div class="quantity">{{localize "olddragon2e.quantity_short"}}</div>
+            <div class="weight">{{localize "olddragon2e.full_weight"}}</div>
+            <div class="cost">{{localize "olddragon2e.full_cost"}}</div>
+            <div class="description">{{localize "olddragon2e.description"}}</div>
+            <div class="create">
+                <a class="item-create" data-type="armor" title="{{localize 'olddragon2e.new_armor'}}"><i class="fa-solid fa-plus"></i> {{localize "olddragon2e.nova"}}</a>
+            </div>
+        </div>
+        <ol class="item-list">
+            {{#each armor as |armor id|}}
+            <li class="item" data-item-id="{{armor._id}}">
+                {{> "systems/olddragon2e/templates/partials/cards/armor-card.hbs" armor}}
+            </li>
+            {{/each}}
+        </ol>
+    </div>
+
+    {{!-- Escudos --}}
+    <div class="shield">
+        <div class="list">
+            <div class="type">{{localize "olddragon2e.item_types.shield"}}</div>
+            <div class="quantity">{{localize "olddragon2e.quantity_short"}}</div>
+            <div class="weight">{{localize "olddragon2e.full_weight"}}</div>
+            <div class="cost">{{localize "olddragon2e.full_cost"}}</div>
+            <div class="description">{{localize "olddragon2e.description"}}</div>
+            <div class="create">
+                <a class="item-create" data-type="shield" title="{{localize 'olddragon2e.new_shield'}}"><i class="fa-solid fa-plus"></i> {{localize "olddragon2e.novo"}}</a>
+            </div>
+        </div>
+        <ol class="item-list">
+            {{#each shield as |shield id|}}
+            <li class="item" data-item-id="{{shield._id}}">
+                {{> "systems/olddragon2e/templates/partials/cards/shield-card.hbs" shield}}
+            </li>
+            {{/each}}
+        </ol>
+    </div>
+
+    {{!-- Itens Gerais --}}
+    <div class="misc">
+        <div class="list">
+            <div class="type">{{localize "olddragon2e.item_types.misc"}}</div>
+            <div class="quantity">{{localize "olddragon2e.quantity_short"}}</div>
+            <div class="weight">{{localize "olddragon2e.full_weight"}}</div>
+            <div class="cost">{{localize "olddragon2e.full_cost"}}</div>
+            <div class="description">{{localize "olddragon2e.description"}}</div>
+            <div class="create">
+                <a class="item-create" data-type="misc" title="{{localize 'olddragon2e.new_item'}}"><i class="fa-solid fa-plus"></i> {{localize "olddragon2e.novo"}}</a>
+            </div>
+        </div>
+        <ol class="item-list">
+            {{#each misc as |misc id|}}
+            <li class="item" data-item-id="{{misc._id}}">
+                {{> "systems/olddragon2e/templates/partials/cards/misc-card.hbs" misc}}
+            </li>
+            {{/each}}
+        </ol>
+    </div>
+
+    {{!-- Recipientes & Vasilhames --}}
+    <div class="container">
+        <div class="list">
+            <div class="type">{{localize "olddragon2e.item_types.container"}}</div>
+            <div class="quantity">{{localize "olddragon2e.quantity_short"}}</div>
+            <div class="weight">{{localize "olddragon2e.full_weight"}}</div>
+            <div class="cost">{{localize "olddragon2e.full_cost"}}</div>
+            <div class="description">{{localize "olddragon2e.description"}}</div>
+            <div class="create">
+                <a class="item-create" data-type="container" title="{{localize 'olddragon2e.new_container'}}"><i class="fa-solid fa-plus"></i> {{localize "olddragon2e.novo"}}</a>
+            </div>
+        </div>
+        <ol class="item-list">
+            {{#each container as |container id|}}
+            <li class="item" data-item-id="{{container._id}}">
+                {{> "systems/olddragon2e/templates/partials/cards/container-card.hbs" container}}
+            </li>
+            {{/each}}
+        </ol>
+    </div>
+
+    {{!-- Montarias & Transportes --}}
+    <div class="vehicle">
+        <div class="list">
+            <div class="type">{{localize "olddragon2e.item_types.vehicle"}}</div>
+            <div class="quantity">{{localize "olddragon2e.quantity_short"}}</div>
+            <div class="weight">{{localize "olddragon2e.full_weight"}}</div>
+            <div class="cost">{{localize "olddragon2e.full_cost"}}</div>
+            <div class="description">{{localize "olddragon2e.description"}}</div>
+            <div class="create">
+                <a class="item-create" data-type="vehicle" title="{{localize 'olddragon2e.new_vehicle'}}"><i class="fa-solid fa-plus"></i> {{localize "olddragon2e.nova"}}</a>
+            </div>
+        </div>
+        <ol class="item-list">
+            {{#each vehicle as |vehicle id|}}
+            <li class="item" data-item-id="{{vehicle._id}}">
+                {{> "systems/olddragon2e/templates/partials/cards/vehicle-card.hbs" vehicle}}
+            </li>
+            {{/each}}
+        </ol>
+    </div>
+
+    {{!-- Carga --}}
+    <div class="load border">
+        <label class="font-bold">{{localize "olddragon2e.load"}}</label>
+        <div class="load-values">
+            {{!-- Carga | Atual --}}
+            <div class="current-load">
+                <input id="current-load" name="system.load.current" type="text" value="{{system.load.current}}" data-dtype="Number" disabled="true">
+                <label class="text-xs font-bold">{{localize "olddragon2e.load_current"}}</label>
+            </div>
+            {{!-- Carga | Máxima --}}
+            <div class="max-load">
+                <input name="system.load.max" type="text" value="{{system.load.max}}" data-dtype="Number">
+                <label class="text-xs font-bold">{{localize "olddragon2e.load_max"}}</label>
+            </div>
+        </div>
+    </div>
+</div>

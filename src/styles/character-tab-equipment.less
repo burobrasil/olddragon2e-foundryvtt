@@ -1,0 +1,129 @@
+.olddragon2e.sheet.character {
+  .character-tab-equipment {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.25rem;
+
+    .weapon,
+    .armor,
+    .shield,
+    .misc,
+    .container,
+    .vehicle {
+      width: 100%;
+
+      .list {
+        display: flex;
+        flex-direction: row;
+        width: 100%;
+        padding: 2.5px 5px;
+        border-top-left-radius: 0.25rem;
+        border-top-right-radius: 0.25rem;
+        background-color: @carmesim-600;
+        color: white;
+        font-size: smaller;
+        font-weight: bold;
+
+        .type {
+          flex-basis: 25%;
+        }
+
+        .quantity,
+        .cost,
+        .weight {
+          flex-basis: 10%;
+        }
+
+        .description {
+          flex-basis: 35%;
+        }
+
+        .create {
+          flex-basis: 10%;
+          text-align: right;
+        }
+      }
+
+      ol {
+        width: 100%;
+        margin: 0px;
+        padding: 0px;
+        list-style-type: none;
+
+        li {
+          display: flex;
+          flex-direction: row;
+          align-items: center;
+          width: 100%;
+          margin-bottom: 0.1rem;
+          padding: 2.5px 5px;
+          background-color: rgba(128, 128, 128, 0.25);
+          font-size: smaller;
+        }
+
+        .item-name,
+        .item-description {
+          padding-right: 0.1rem;
+        }
+
+        .item-name {
+          flex-basis: 25%;
+          font-weight: bold;
+        }
+
+        .item-quantity {
+          flex-basis: 10%;
+
+          input {
+            width: 30px;
+            height: 20px;
+          }
+        }
+
+        .item-weight,
+        .item-cost {
+          flex-basis: 10%;
+          word-break: break-all;
+        }
+
+        .item-description {
+          flex-basis: 35%;
+        }
+
+        .item-controls {
+          flex-basis: 10%;
+          text-align: right;
+        }
+      }
+    }
+
+    .load {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 0.25rem;
+      padding: 0px 10px;
+      width: max-content;
+
+      .load-values {
+        display: flex;
+        flex-direction: row;
+        gap: 0.25rem;
+
+        .current-load,
+        .max-load {
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+
+          input {
+            width: 45px;
+            height: 35px;
+            text-align: center;
+          }
+        }
+      }
+    }
+  }
+}

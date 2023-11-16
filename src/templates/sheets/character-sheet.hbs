@@ -1,0 +1,424 @@
+<form class="{{cssClass}}" autocomplete="off">
+
+    <div class="sheet-container">
+        {{!-- Sidebar --}}
+        <div class="sidebar">
+            {{!-- Retrato --}}
+            <div class="portrait">
+                <img src="{{actor.img}}" data-edit="img" title="{{actor.name}}">
+            </div>
+            {{!-- Atributos --}}
+            <div class="stats">
+                {{!-- Força --}}
+                <div class="stat">
+                    <div class="stat-value">
+                        <a class="font-bold stat-check" data-stat="forca" data-stat-label="{{localize 'olddragon2e.forca'}}">{{localize "olddragon2e.forca_short"}}</a>
+                        <input class="system-stat" name="system.forca" type="text" value="{{system.forca}}" data-dtype="Number">
+                    </div>
+                    <div class="stat-mod">
+                        <label class="text-2xs">{{localize "olddragon2e.mod_forca"}}</label>
+                        <input name="system.mod_forca" type="text" value="{{system.mod_forca}}" data-dtype="Number">
+                    </div>
+                </div>
+                {{!-- Destreza --}}
+                <div class="stat">
+                    <div class="stat-value">
+                        <a class="font-bold stat-check" data-stat="destreza" data-stat-label="{{localize 'olddragon2e.destreza'}}">{{localize "olddragon2e.destreza_short"}}</a>
+                        <input class="system-stat" name="system.destreza" type="text" value="{{system.destreza}}" data-dtype="Number">
+                    </div>
+                    <div class="stat-mod">
+                        <label class="text-2xs">{{localize "olddragon2e.mod_destreza"}}</label>
+                        <input class="system-mod-destreza" name="system.mod_destreza" type="text" value="{{system.mod_destreza}}" data-dtype="Number">
+                    </div>
+                </div>
+                {{!-- Constituição --}}
+                <div class="stat">
+                    <div class="stat-value">
+                        <a class="font-bold stat-check" data-stat="constituicao" data-stat-label="{{localize 'olddragon2e.constituicao'}}">{{localize "olddragon2e.constituicao_short"}}</a>
+                        <input class="system-stat" name="system.constituicao" type="text" value="{{system.constituicao}}" data-dtype="Number">
+                    </div>
+                    <div class="stat-mod">
+                        <label class="text-2xs">{{localize "olddragon2e.mod_constituicao"}}</label>
+                        <input name="system.mod_constituicao" type="text" value="{{system.mod_constituicao}}" data-dtype="Number">
+                    </div>
+                </div>
+                {{!-- Inteligência --}}
+                <div class="stat">
+                    <div class="stat-value">
+                        <a class="font-bold stat-check" data-stat="inteligencia" data-stat-label="{{localize 'olddragon2e.inteligencia'}}">{{localize "olddragon2e.inteligencia_short"}}</a>
+                        <input class="system-stat" name="system.inteligencia" type="text" value="{{system.inteligencia}}" data-dtype="Number">
+                    </div>
+                    <div class="stat-mod">
+                        <label class="text-2xs">{{localize "olddragon2e.mod_inteligencia"}}</label>
+                        <input name="system.mod_inteligencia" type="text" value="{{system.mod_inteligencia}}" data-dtype="Number">
+                    </div>
+                </div>
+                {{!-- Sabedoria --}}
+                <div class="stat">
+                    <div class="stat-value">
+                        <a class="font-bold stat-check" data-stat="sabedoria" data-stat-label="{{localize 'olddragon2e.sabedoria'}}">{{localize "olddragon2e.sabedoria_short"}}</a>
+                        <input class="system-stat" name="system.sabedoria" type="text" value="{{system.sabedoria}}" data-dtype="Number">
+                    </div>
+                    <div class="stat-mod">
+                        <label class="text-2xs">{{localize "olddragon2e.mod_sabedoria"}}</label>
+                        <input name="system.mod_sabedoria" type="text" value="{{system.mod_sabedoria}}" data-dtype="Number">
+                    </div>
+                </div>
+                {{!-- Carisma --}}
+                <div class="stat">
+                    <div class="stat-value">
+                        <a class="font-bold stat-check" data-stat="carisma" data-stat-label="{{localize 'olddragon2e.carisma'}}">{{localize "olddragon2e.carisma_short"}}</a>
+                        <input class="system-stat" name="system.carisma" type="text" value="{{system.carisma}}" data-dtype="Number">
+                    </div>
+                    <div class="stat-mod">
+                        <label class="text-2xs">{{localize "olddragon2e.mod_carisma"}}</label>
+                        <input name="system.mod_carisma" type="text" value="{{system.mod_carisma}}" data-dtype="Number">
+                    </div>
+                </div>
+            </div>
+
+            {{!-- JP | Jogada de Proteção --}}
+            <div class="jp">
+                <label class="font-bold">{{localize "olddragon2e.jp_long"}}</label>
+                {{!-- JPD (Jogada de Proteção de Destreza) --}}
+                <div class="jp-group">
+                    {{!-- JPD --}}
+                    <div class="jpd">
+                        <input class="system-jpd" name="system.jpd.value" type="text" value="{{system.jpd.value}}" data-dtype="Number">
+                        <a class="font-bold jp-check" data-jp="jpd" data-jp-label="{{localize "olddragon2e.jpd_short"}}">{{localize "olddragon2e.jpd_short"}}</a>
+                    </div>
+                    <div class="jp-values">
+                        {{!-- Base (Classe) --}}
+                        <div class="jp-value">
+                            <input class="system-class" name="system.jpd.class" type="text" value="{{system.jpd.class}}" data-dtype="Number">
+                            <label class="text-2xs">{{localize "olddragon2e.class"}}</label>
+                        </div>
+                        {{!-- Bônus (Raça) --}}
+                        <div class="jp-value">
+                            <input class="system-race" name="system.jpd.race" type="text" value="{{system.jpd.race}}" data-dtype="Number">
+                            <label class="text-2xs">{{localize "olddragon2e.race"}}</label>
+                        </div>
+                        {{!-- M. DES --}}
+                        <div class="jp-value">
+                            <input class="system-mod-destreza" type="text" value="{{system.mod_destreza}}" data-dtype="Number" disabled>
+                            <label class="text-2xs">{{localize "olddragon2e.modifier_short"}}</label>
+                        </div>
+                    </div>
+                </div>
+                {{!-- JPC (Jogada de Proteção de Constituição) --}}
+                <div class="jp-group">
+                    {{!-- JPC --}}
+                    <div class="jpc">
+                        <input name="system.jpc.value" type="text" value="{{system.jpc.value}}" data-dtype="Number">
+                        <a class="font-bold jp-check" data-jp="jpc" data-jp-label="{{localize "olddragon2e.jpc_short"}}">{{localize "olddragon2e.jpc_short"}}</a>
+                    </div>
+                    <div class="jp-values">
+                        {{!-- Base (Classe) --}}
+                        <div class="jp-value">
+                            <input class="system-class" name="system.jpc.class" type="text" value="{{system.jpc.class}}" data-dtype="Number">
+                            <label class="text-2xs">{{localize "olddragon2e.class"}}</label>
+                        </div>
+                        {{!-- Bônus (Raça) --}}
+                        <div class="jp-value">
+                            <input class="system-race" name="system.jpc.race" type="text" value="{{system.jpc.race}}" data-dtype="Number">
+                            <label class="text-2xs">{{localize "olddragon2e.race"}}</label>
+                        </div>
+                        {{!-- M. CON --}}
+                        <div class="jp-value">
+                            <input class="system-mod-constituicao" type="text" value="{{system.mod_constituicao}}" data-dtype="Number" disabled>
+                            <label class="text-2xs">{{localize "olddragon2e.modifier_short"}}</label>
+                        </div>
+                    </div>
+                </div>
+                {{!-- JPS (Jogada de Proteção de Sabedoria) --}}
+                <div class="jp-group">
+                    {{!-- JPS --}}
+                    <div class="jps">
+                        <input name="system.jps.value" type="text" value="{{system.jps.value}}" data-dtype="Number">
+                        <a class="font-bold jp-check" data-jp="jps" data-jp-label="{{localize "olddragon2e.jps_short"}}">{{localize "olddragon2e.jps_short"}}</a>
+                    </div>
+                    <div class="jp-values">
+                        {{!-- Base (Classe) --}}
+                        <div class="jp-value">
+                            <input class="system-class" name="system.jps.class" type="text" value="{{system.jps.class}}" data-dtype="Number">
+                            <label class="text-2xs">{{localize "olddragon2e.class"}}</label>
+                        </div>
+                        {{!-- Bônus (Raça) --}}
+                        <div class="jp-value">
+                            <input class="system-race" name="system.jps.race" type="text" value="{{system.jps.race}}" data-dtype="Number">
+                            <label class="text-2xs">{{localize "olddragon2e.race"}}</label>
+                        </div>
+                        {{!-- M. SAB --}}
+                        <div class="jp-value">
+                            <input class="system-mod-sabedoria" type="text" value="{{system.mod_sabedoria}}" data-dtype="Number" disabled>
+                            <label class="text-2xs">{{localize "olddragon2e.modifier_short"}}</label>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        {{!-- Body --}}
+        <div class="body">
+            {{!-- Header --}}
+            <div class="header">
+                {{!-- Nome; Raça; Classe; Nível --}}
+                <div class="basic-info">
+                    {{!-- Nome --}}
+                    <div>
+                        <input name="name" type="text" value="{{actor.name}}">
+                        <label class="font-bold">{{localize "olddragon2e.name"}}</label>
+                    </div>
+                    {{!-- Raça --}}
+                    <div>
+                        <input list="races" name="system.race.name" type="text" value="{{system.race.name}}">
+                        <datalist id="races">
+                            {{#each config.races as |race|}}
+                            <option>{{localize race}}</option>
+                            {{/each}}
+                        </datalist>
+                        <label class="font-bold">{{localize "olddragon2e.race"}}</label>
+                    </div>
+                    {{!-- Classe --}}
+                    <div>
+                        <input list="classes" name="system.class.name" type="text" value="{{system.class.name}}">
+                        <datalist id="classes">
+                            {{#each config.classes as |class|}}
+                            <option>{{localize class}}</option>
+                            {{/each}}
+                        </datalist>
+                        <label class="font-bold">{{localize "olddragon2e.class"}}</label>
+                    </div>
+                    {{!-- Nível --}}
+                    <div class="level-select">
+                        {{#select system.level}}
+                        <select name="system.level">
+                            {{#each config.levels as |level_label level|}}
+                            <option value="{{level}}">{{localize level_label}}</option>
+                            {{/each}}
+                        </select>
+                        {{/select}}
+                        <label class="font-bold">{{localize "olddragon2e.level"}}</label>
+                    </div>
+                </div>
+
+                <hr>
+
+                {{!-- Alinhamento; Movimento; Pontos de Experiência; PV --}}
+                <div class="additional-info">
+                    {{!-- Alinhamento --}}
+                    <div class="alignment">
+                        <label class="font-bold">{{localize "olddragon2e.alignment"}}</label>
+                        {{#select system.details.alignment}}
+                        <select name="system.details.alignment">
+                            {{#each config.alignment as |alignment_label alignment|}}
+                            <option value="{{alignment}}">{{localize alignment_label}}</option>
+                            {{/each}}
+                        </select>
+                        {{/select}}
+                    </div>
+                    {{!-- Movimento --}}
+                    <div class="mv">
+                        <label class="font-bold">{{localize "olddragon2e.mv"}}</label>
+                        <div class="mv-values">
+                            {{!-- Atual --}}
+                            <div class="mv-value">
+                                <input name="system.current_movement.value" type="text" value="{{system.current_movement.value}}" data-dtype="Number">
+                                <label class="text-xs">{{localize "olddragon2e.current_mv"}}</label>
+                            </div>
+                            {{!-- Correr --}}
+                            <div class="mv-value">
+                                <input name="system.movement_run" type="text" value="{{system.movement_run}}" data-dtype="Number">
+                                <label class="text-xs">{{localize "olddragon2e.mv_run"}}</label>
+                            </div>
+                            {{!-- Escalar --}}
+                            <div class="mv-value">
+                                <input name="system.movement_climb" type="text" value="{{system.movement_climb}}" data-dtype="Number">
+                                <label class="text-xs">{{localize "olddragon2e.mv_climb"}}</label>
+                            </div>
+                            {{!-- Nadar --}}
+                            <div class="mv-value">
+                                <input name="system.movement_swim" type="text" value="{{system.movement_swim}}" data-dtype="Number">
+                                <label class="text-xs">{{localize "olddragon2e.mv_swim"}}</label>
+                            </div>
+                        </div>
+                    </div>
+                    {{!-- Pontos de Experiência --}}
+                    <div class="xp">
+                        <label class="font-bold">{{localize "olddragon2e.xp_long"}}</label>
+                        <div class="xp-values">
+                            {{!-- Atual --}}
+                            <div class="xp-value">
+                                <input name="system.xp.current" type="text" value="{{system.xp.current}}" data-dtype="Number">
+                                <label class="text-xs">{{localize "olddragon2e.current_xp"}}</label>
+                            </div>
+                            {{!-- Próx. Nível --}}
+                            <div class="xp-value">
+                                <input name="system.xp.next_level" type="text" value="{{system.xp.next_level}}" data-dtype="Number">
+                                <label class="text-xs">{{localize "olddragon2e.next_level"}}</label>
+                            </div>
+                        </div>
+                    </div>
+                    {{!-- PV | Pontos de Vida --}}
+                    <div class="hp">
+                        <label class="font-bold">{{localize "olddragon2e.hp_long"}}</label>
+                        <div class="hp-values">
+                            {{!-- PV Atual --}}
+                            <div class="hp-value">
+                                <input name="system.hp.value" type="text" value="{{system.hp.value}}" data-dtype="Number">
+                                <label class="text-xs font-bold">{{localize "olddragon2e.hp_value"}}</label>
+                            </div>
+                            {{!-- PV Total --}}
+                            <div class="hp-value">
+                                <input name="system.hp.max" type="text" value="{{system.hp.max}}" data-dtype="Number">
+                                <label class="text-xs font-bold">{{localize "olddragon2e.hp_max"}}</label>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <hr>
+
+                {{!-- CA; BA; JPD; JPC; JPS --}}
+                <div class="overview">
+                    {{!-- CA | Classe de Armadura --}}
+                    <div class="ca border">
+                        <label class="font-bold">{{localize "olddragon2e.ac_long"}}</label>
+                        <div class="ca-values">
+                            {{!-- CA --}}
+                            <div class="ca-total">
+                                <input name="system.ac.value" type="text" value="{{system.ac.value}}" data-dtype="Number">
+                                <label class="font-bold">{{localize "olddragon2e.ac_short"}}</label>
+                            </div>
+                            {{!-- Base --}}
+                            <div class="ca-value">
+                                <input class="system-ac" name="system.ac.base" type="text" value="{{system.ac.base}}" data-dtype="Number">
+                                <label class="text-2xs">{{localize "olddragon2e.base"}}</label>
+                            </div>
+                            {{!-- M. DES --}}
+                            <div class="ca-value">
+                                <input class="system-mod-destreza" type="text" value="{{system.mod_destreza}}" data-dtype="Number" disabled>
+                                <label class="text-2xs">{{localize "olddragon2e.mod_destreza"}}</label>
+                            </div>
+                            {{!-- Armadura --}}
+                            <div class="ca-value">
+                                <input class="system-ac" name="system.ac.armor" type="text" value="{{system.ac.armor}}" data-dtype="Number">
+                                <label class="text-2xs">{{localize "olddragon2e.armor"}}</label>
+                            </div>
+                            {{!-- Escudo --}}
+                            <div class="ca-value">
+                                <input class="system-ac" name="system.ac.shield" type="text" value="{{system.ac.shield}}" data-dtype="Number">
+                                <label class="text-2xs">{{localize "olddragon2e.shield"}}</label>
+                            </div>
+                            {{!-- Arma Mágica --}}
+                            <div class="ca-value">
+                                <input class="system-ac" name="system.ac.magic_weapon" type="text" value="{{system.ac.magic_weapon}}" data-dtype="Number">
+                                <label class="text-2xs">{{localize "olddragon2e.extra"}}</label>
+                            </div>
+                        </div>
+                    </div>
+
+                    {{!-- BA | Base de Ataque --}}
+                    <div class="ba border">
+                        <label class="font-bold">{{localize "olddragon2e.ba_long"}}</label>
+                        <div class="ba-values">
+                            {{!-- BAC --}}
+                            <div class="bac">
+                                <input name="system.bac" type="text" value="{{system.bac}}" data-dtype="Number">
+                                <a class="font-bold ba-check" data-ba="bac" data-ba-label="{{localize "olddragon2e.bac_short"}}">{{localize "olddragon2e.bac_short"}}</a>
+                            </div>
+                            {{!-- M. FOR --}}
+                            <div class="ba-value">
+                                <input class="system-mod-forca" type="text" value="{{system.mod_forca}}" data-dtype="Number" disabled>
+                                <label class="text-2xs">{{localize "olddragon2e.mod_forca"}}</label>
+                            </div>
+                            {{!-- Base --}}
+                            <div class="ba-value">
+                                <input class="system-ba" name="system.ba.value" type="text" value="{{system.ba.value}}" data-dtype="Number">
+                                <label class="text-2xs">{{localize "olddragon2e.base"}}</label>
+                            </div>
+                            {{!-- M. DES --}}
+                            <div class="ba-value">
+                                <input class="system-mod-destreza" type="text" value="{{system.mod_destreza}}" data-dtype="Number" disabled>
+                                <label class="text-2xs">{{localize "olddragon2e.mod_destreza"}}</label>
+                            </div>
+                            {{!-- BAD --}}
+                            <div class="bad">
+                                <input name="system.bad" type="text" value="{{system.bad}}" data-dtype="Number">
+                                <a class="font-bold ba-check" data-ba="bad" data-ba-label="{{localize "olddragon2e.bad_short"}}">{{localize "olddragon2e.bad_short"}}</a>
+                            </div>
+                        </div>
+                    </div>
+
+                    {{!-- Economia --}}
+                    <div class="economy border">
+                        <label class="font-bold">{{localize "olddragon2e.economy"}}</label>
+                        <div class="currency">
+                            {{!-- PO | Peças de Ouro --}}
+                            <div class="gp">
+                                <input name="system.economy.gp" type="text" value="{{system.economy.gp}}" data-dtype="Number">
+                                <div class="label" title="{{localize 'olddragon2e.gp_complete'}}">
+                                    <i class="fa-solid fa-coins fa-xs gp-icon"></i>
+                                    <label class="text-xs font-bold gp-label">{{localize "olddragon2e.gp_short"}}</label>
+                                </div>
+                            </div>
+                            {{!-- PP | Peças de Prata --}}
+                            <div class="sp">
+                                <input name="system.economy.sp" type="text" value="{{system.economy.sp}}" data-dtype="Number">
+                                <div class="label" title="{{localize 'olddragon2e.sp_complete'}}">
+                                    <i class="fa-solid fa-coins fa-xs sp-icon"></i>
+                                    <label class="text-xs font-bold sp-label">{{localize "olddragon2e.sp_short"}}</label>
+                                </div>
+                            </div>
+                            {{!-- PC | Peças de Cobre --}}
+                            <div class="cp">
+                                <input name="system.economy.cp" type="text" value="{{system.economy.cp}}" data-dtype="Number">
+                                <div class="label" title="{{localize 'olddragon2e.cp_complete'}}">
+                                    <i class="fa-solid fa-coins fa-xs cp-icon"></i>
+                                    <label class="text-xs font-bold cp-label">{{localize "olddragon2e.cp_short"}}</label>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            {{!-- Main --}}
+            <div class="main">
+                {{!-- Navigation tabs --}}
+                <nav class="tabs font-bold" data-group="primary-tabs" >
+                    <a class="item" data-tab="attacks">{{localize "olddragon2e.navigation.character.attacks_tab"}}</a>
+                    <a class="item" data-tab="skills">{{localize "olddragon2e.navigation.character.skills_tab"}}</a></a>
+                    <a class="item" data-tab="spells">{{localize "olddragon2e.navigation.character.spells_tab"}}</a></a>
+                    <a class="item" data-tab="equipment">{{localize "olddragon2e.navigation.character.equipment_tab"}}</a></a>
+                    <a class="item" data-tab="details">{{localize "olddragon2e.navigation.character.details_tab"}}</a></a>
+                </nav>
+
+                {{!-- Navigation section --}}
+                <section class="section">
+                    {{!-- Ataques --}}
+                    <div class="tab" data-group="primary-tabs" data-tab="attacks">
+                        {{> systems/olddragon2e/templates/partials/tabs/character-tab-attacks.hbs}}
+                    </div>
+                    {{!-- Habilidades Raça/Classe --}}
+                    <div class="tab" data-group="primary-tabs" data-tab="skills">
+                        {{> systems/olddragon2e/templates/partials/tabs/character-tab-skills.hbs}}
+                    </div>
+                    {{!-- Magias --}}
+                    <div class="tab" data-group="primary-tabs" data-tab="spells">
+                        {{> systems/olddragon2e/templates/partials/tabs/character-tab-spells.hbs}}
+                    </div>
+                    {{!-- Equipamentos --}}
+                    <div class="tab" data-group="primary-tabs" data-tab="equipment">
+                        {{> systems/olddragon2e/templates/partials/tabs/character-tab-equipment.hbs}}
+                    </div>
+                    {{!-- Detalhes --}}
+                    <div class="tab" data-group="primary-tabs" data-tab="details">
+                        {{> systems/olddragon2e/templates/partials/tabs/character-tab-details.hbs}}
+                    </div>
+                </section>
+            </div>
+
+        </div>
+    </div>
+</form>
