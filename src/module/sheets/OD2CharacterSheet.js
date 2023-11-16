@@ -97,6 +97,7 @@ export default class OD2CharacterSheet extends ActorSheet {
       html.find('.system-race').change(this._onRaceChangeHandler.bind(this));
       html.find('.system-ac').change(this._onAcChangeHandler.bind(this));
       html.find('.system-ba').change(this._onBaChangeHandler.bind(this));
+      html.find('.system-current-movement').change(this.calculateMovement.bind(this));
 
       new ContextMenu(html, '.item-name', this.itemContextMenu);
     }
@@ -398,6 +399,25 @@ export default class OD2CharacterSheet extends ActorSheet {
     const updateObject = {};
     updateObject[`system.bac`] = bac;
     updateObject[`system.bad`] = bad;
+
+    await this.document.update(updateObject);
+  }
+
+  // Cálculo de Movimento
+  async calculateMovement(event) {
+    const currentMovement = event.currentTarget.value;
+    let movementRun = this.actor.system.movement_run;
+    let movementClimb = this.actor.system.movement_climb;
+    let movementSwim = this.actor.system.movement_swim;
+
+    movementRun = Math.floor(Number(currentMovement) * 2);
+    movementClimb = Math.floor(Number(currentMovement) - 2);
+    movementSwim = Math.floor(Number(currentMovement) / 2);
+
+    const updateObject = {};
+    updateObject[`system.movement_run`] = movementRun;
+    updateObject[`system.movement_climb`] = movementClimb;
+    updateObject[`system.movement_swim`] = movementSwim;
 
     await this.document.update(updateObject);
   }
