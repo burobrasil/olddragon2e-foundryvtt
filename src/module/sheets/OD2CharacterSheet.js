@@ -376,8 +376,7 @@ export default class OD2CharacterSheet extends ActorSheet {
 
     let ca = Number(baseValue) + Number(modValue) + Number(armorValue) + Number(shieldValue) + Number(magicWeaponValue);
 
-    const updateObject = {};
-    updateObject[`system.ac.value`] = ca;
+    let updateObject = { 'system.ac.value': ca };
 
     await this.document.update(updateObject);
   }
@@ -1202,25 +1201,56 @@ export default class OD2CharacterSheet extends ActorSheet {
   // Equipar/Desequipar item
   async _onItemEquip(event) {
     event.preventDefault();
-    let element = event.currentTarget;
-    let itemId = element.closest('.item').dataset.itemId;
-    let equippedItems = [];
+    const element = event.currentTarget;
+    const itemId = element.closest('.item').dataset.itemId;
+    const item = this.actor.items.get(itemId);
+    let equippedItems = this.actor.system.equipped_items || [];
+    const isEquipped = equippedItems.includes(itemId);
+    let armorValue = this.document.system.ac.armor || 0;
+    let shieldValue = this.document.system.ac.shield || 0;
+    let maxLoadValue = this.document.system.load.max || 0;
+    let updateObject = {};
 
-    if (this.actor.system.equipped_items && this.actor.system.equipped_items.length > 0) {
-      equippedItems = this.actor.system.equipped_items;
-    }
-
-    if (equippedItems.some((item) => item === itemId)) {
-      let i = equippedItems.indexOf(itemId);
-      equippedItems.splice(i, 1);
+    if (isEquipped) {
+      equippedItems = equippedItems.filter((id) => id !== itemId);
+      if (item.type === 'armor') {
+        armorValue -= item.system.bonus_ca || 0;
+      }
+      if (item.type === 'shield') {
+        shieldValue -= item.system.bonus_ca || 0;
+      }
+      if (item.type === 'container') {
+        maxLoadValue -= item.system.increases_load_by || 0;
+      }
     } else {
       equippedItems.push(itemId);
+      if (item.type === 'armor') {
+        armorValue += item.system.bonus_ca || 0;
+      }
+      if (item.type === 'shield') {
+        shieldValue += item.system.bonus_ca || 0;
+      }
+      if (item.type === 'container') {
+        maxLoadValue += item.system.increases_load_by || 0;
+      }
     }
 
-    const updateObject = {};
+    if (item.type === 'armor') {
+      updateObject['system.ac.armor'] = armorValue;
+    }
+
+    if (item.type === 'shield') {
+      updateObject['system.ac.shield'] = shieldValue;
+    }
+
+    if (item.type === 'container') {
+      updateObject['system.load.max'] = maxLoadValue;
+    }
+
     updateObject[`system.equipped_items`] = equippedItems;
 
     await this.document.update(updateObject);
+    await this._calculateCA();
   }
 
   updateEquippedItemIcon(html) {
