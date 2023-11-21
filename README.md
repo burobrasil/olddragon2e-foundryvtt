@@ -4,13 +4,14 @@ Sistema do Old Dragon 2a Edição para FoundryVTT.
 
 **Note for English speakers & international community**: Old Dragon 2nd Edition is a Brazilian Tabletop Roleplaying Game and, at this time, is only written in Brazilian Portuguese. Because of that, the rest of this module is written primarely in Portuguese.
 
-## Recursos disponíveis:
+## Recursos:
 
-- Criação de Personagens, Monstros & Inimigos e Itens (Armas, Armaduras, Escudos, Itens Gerais, Recipientes & Vasilhames, Montarias & Transportes) personalizados;
-- Cálculo automático de modificadores de atributos;
-- Rolagens de dados para Atributos, Jogadas de Proteção, Ataques (BAC/BAD) e Dano. As rolagens incluem Ajuste de Teste e Modificador Opcional;
-- Gerenciamento de Magias: Adicionar, editar, mover, remover e lançar uma magia.
-- Gerenciamento de Equipamentos: Adicionar, editar, equipar, mover e remover um equipamento. Ao alterar a quantidade de um item, o Peso Total, o Valor Total e a Carga Atual do personagem são atualizados dinamicamente.
+- **Criação Personalizada:** Jogadores podem criar Personagens, Monstros & Inimigos e Itens (incluindo Armas, Armaduras, Escudos, Itens Gerais, Recipientes & Vasilhames, Montarias & Transportes) de forma personalizada;
+- **Cálculo Automático de Modificadores:** O módulo calcula automaticamente os modificadores de atributos, otimizando o processo de criação e evolução de personagens;
+- **Cálculo Automático de Movimento:** O módulo calcula automaticamente as variações de movimento (Correr, Nadar e Escalar) baseado no valor do movimento atual;
+- **Rolagens de Dados Aprimoradas:** Inclui rolagens para Atributos, Jogadas de Proteção, Ataques (BAC/BAD) e Dano, com opções de Ajuste de Teste e Modificador Opcional;
+- **Gerenciamento de Magias e Equipamentos:** Permite adicionar, editar, mover, remover e lançar magias, bem como gerenciar equipamentos. Alterações em itens refletem dinamicamente no Peso Total, Valor Total e Carga Atual do personagem.
+- **Equipar/Desequipar itens**: Permite equipar/desequipar Armas, Armaduras, Escudos, Recipientes & Vasilhames. Armas equipadas são exibidas na aba "Ataques". Ao equipar uma Armadura ou Escudo, os bônus de CA são adicionados automaticamente à Classe de Armadura do personagem. Ao equipar uma Mochila, o valor da Carga Máxima permitida é atualizado automaticamente.
 
 O restante da ficha deve ser preenchida e gerenciada manualmente. Mais abaixo você encontra uma lista de pendências com o que planejamos implementar no futuro.
 
@@ -28,9 +29,6 @@ Opcionalmente, com o FoundryVTT fechado, você pode baixar o arquivo `olddragon2
 
 O sistema `olddragon2e` para Foundry VTT está em desenvolvimento contínuo, ainda em versão _alpha_. Abaixo estão listadas as pendências (funcionalidades ainda não desenvolvidas) que gostaríamos de implementar. Se você tem conhecimentos técnicos, sinta-se convidado a contribuir com este sistema de código aberto.
 
-- Cálculo automático de movimentos (Correr, Escalar, Nadar);
-- Adicionar CA ao equipar equipamento com bônus de CA;
-- Adicionar carga extra ao equipar Mochila;
 - Controle de uso de Magias;
 - Raças e Classes dinâmicas (xp, movimento, infravisão, habilidades);
 - Controle de uso de Habilidades de Classe;
