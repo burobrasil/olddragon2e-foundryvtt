@@ -12,67 +12,67 @@
                 {{!-- Força --}}
                 <div class="stat">
                     <div class="stat-value">
-                        <a class="font-bold stat-check" data-stat="forca" data-stat-label="{{localize 'olddragon2e.forca'}}">{{localize "olddragon2e.forca_short"}}</a>
+                        <a class="font-bold stat-check" data-stat="forca" data-stat-label="{{localize 'olddragon2e.forca'}}"><i class="fa-thin fa-dice-d20"></i>{{localize "olddragon2e.forca_short"}}</a>
                         <input class="system-stat" name="system.forca" type="text" value="{{system.forca}}" data-dtype="Number">
                     </div>
                     <div class="stat-mod">
                         <label class="text-2xs">{{localize "olddragon2e.mod_forca"}}</label>
-                        <input name="system.mod_forca" type="text" value="{{system.mod_forca}}" data-dtype="Number">
+                        <input name="system.mod_forca" type="text" value="{{signed_number system.mod_forca}}" data-dtype="Number" disabled>
                     </div>
                 </div>
                 {{!-- Destreza --}}
                 <div class="stat">
                     <div class="stat-value">
-                        <a class="font-bold stat-check" data-stat="destreza" data-stat-label="{{localize 'olddragon2e.destreza'}}">{{localize "olddragon2e.destreza_short"}}</a>
+                        <a class="font-bold stat-check" data-stat="destreza" data-stat-label="{{localize 'olddragon2e.destreza'}}"><i class="fa-thin fa-dice-d20"></i>{{localize "olddragon2e.destreza_short"}}</a>
                         <input class="system-stat" name="system.destreza" type="text" value="{{system.destreza}}" data-dtype="Number">
                     </div>
                     <div class="stat-mod">
                         <label class="text-2xs">{{localize "olddragon2e.mod_destreza"}}</label>
-                        <input class="system-mod-destreza" name="system.mod_destreza" type="text" value="{{system.mod_destreza}}" data-dtype="Number">
+                        <input class="system-mod-destreza" name="system.mod_destreza" type="text" value="{{signed_number system.mod_destreza}}" data-dtype="Number" disabled>
                     </div>
                 </div>
                 {{!-- Constituição --}}
                 <div class="stat">
                     <div class="stat-value">
-                        <a class="font-bold stat-check" data-stat="constituicao" data-stat-label="{{localize 'olddragon2e.constituicao'}}">{{localize "olddragon2e.constituicao_short"}}</a>
+                        <a class="font-bold stat-check" data-stat="constituicao" data-stat-label="{{localize 'olddragon2e.constituicao'}}"><i class="fa-thin fa-dice-d20"></i>{{localize "olddragon2e.constituicao_short"}}</a>
                         <input class="system-stat" name="system.constituicao" type="text" value="{{system.constituicao}}" data-dtype="Number">
                     </div>
                     <div class="stat-mod">
                         <label class="text-2xs">{{localize "olddragon2e.mod_constituicao"}}</label>
-                        <input name="system.mod_constituicao" type="text" value="{{system.mod_constituicao}}" data-dtype="Number">
+                        <input name="system.mod_constituicao" type="text" value="{{signed_number system.mod_constituicao}}" data-dtype="Number" disabled>
                     </div>
                 </div>
                 {{!-- Inteligência --}}
                 <div class="stat">
                     <div class="stat-value">
-                        <a class="font-bold stat-check" data-stat="inteligencia" data-stat-label="{{localize 'olddragon2e.inteligencia'}}">{{localize "olddragon2e.inteligencia_short"}}</a>
+                        <a class="font-bold stat-check" data-stat="inteligencia" data-stat-label="{{localize 'olddragon2e.inteligencia'}}"><i class="fa-thin fa-dice-d20"></i>{{localize "olddragon2e.inteligencia_short"}}</a>
                         <input class="system-stat" name="system.inteligencia" type="text" value="{{system.inteligencia}}" data-dtype="Number">
                     </div>
                     <div class="stat-mod">
                         <label class="text-2xs">{{localize "olddragon2e.mod_inteligencia"}}</label>
-                        <input name="system.mod_inteligencia" type="text" value="{{system.mod_inteligencia}}" data-dtype="Number">
+                        <input name="system.mod_inteligencia" type="text" value="{{signed_number system.mod_inteligencia}}" data-dtype="Number" disabled>
                     </div>
                 </div>
                 {{!-- Sabedoria --}}
                 <div class="stat">
                     <div class="stat-value">
-                        <a class="font-bold stat-check" data-stat="sabedoria" data-stat-label="{{localize 'olddragon2e.sabedoria'}}">{{localize "olddragon2e.sabedoria_short"}}</a>
+                        <a class="font-bold stat-check" data-stat="sabedoria" data-stat-label="{{localize 'olddragon2e.sabedoria'}}"><i class="fa-thin fa-dice-d20"></i>{{localize "olddragon2e.sabedoria_short"}}</a>
                         <input class="system-stat" name="system.sabedoria" type="text" value="{{system.sabedoria}}" data-dtype="Number">
                     </div>
                     <div class="stat-mod">
                         <label class="text-2xs">{{localize "olddragon2e.mod_sabedoria"}}</label>
-                        <input name="system.mod_sabedoria" type="text" value="{{system.mod_sabedoria}}" data-dtype="Number">
+                        <input name="system.mod_sabedoria" type="text" value="{{signed_number system.mod_sabedoria}}" data-dtype="Number" disabled>
                     </div>
                 </div>
                 {{!-- Carisma --}}
                 <div class="stat">
                     <div class="stat-value">
-                        <a class="font-bold stat-check" data-stat="carisma" data-stat-label="{{localize 'olddragon2e.carisma'}}">{{localize "olddragon2e.carisma_short"}}</a>
+                        <a class="font-bold stat-check" data-stat="carisma" data-stat-label="{{localize 'olddragon2e.carisma'}}"><i class="fa-thin fa-dice-d20"></i>{{localize "olddragon2e.carisma_short"}}</a>
                         <input class="system-stat" name="system.carisma" type="text" value="{{system.carisma}}" data-dtype="Number">
                     </div>
                     <div class="stat-mod">
                         <label class="text-2xs">{{localize "olddragon2e.mod_carisma"}}</label>
-                        <input name="system.mod_carisma" type="text" value="{{system.mod_carisma}}" data-dtype="Number">
+                        <input name="system.mod_carisma" type="text" value="{{signed_number system.mod_carisma}}" data-dtype="Number" disabled>
                     </div>
                 </div>
             </div>
@@ -85,7 +85,7 @@
                     {{!-- JPD --}}
                     <div class="jpd">
                         <input class="system-jpd" name="system.jpd.value" type="text" value="{{system.jpd.value}}" data-dtype="Number">
-                        <a class="font-bold jp-check" data-jp="jpd" data-jp-label="{{localize "olddragon2e.jpd_short"}}">{{localize "olddragon2e.jpd_short"}}</a>
+                        <a class="font-bold jp-check" data-jp="jpd" data-jp-label="{{localize "olddragon2e.jpd_short"}}"><i class="fa-light fa-dice-d20 fa-sm"></i>{{localize "olddragon2e.jpd_short"}}</a>
                     </div>
                     <div class="jp-values">
                         {{!-- Base (Classe) --}}
@@ -100,7 +100,7 @@
                         </div>
                         {{!-- M. DES --}}
                         <div class="jp-value">
-                            <input class="system-mod-destreza" type="text" value="{{system.mod_destreza}}" data-dtype="Number" disabled>
+                            <input class="system-mod-destreza" type="text" value="{{signed_number system.mod_destreza}}" data-dtype="Number" disabled>
                             <label class="text-2xs">{{localize "olddragon2e.modifier_short"}}</label>
                         </div>
                     </div>
@@ -110,7 +110,7 @@
                     {{!-- JPC --}}
                     <div class="jpc">
                         <input name="system.jpc.value" type="text" value="{{system.jpc.value}}" data-dtype="Number">
-                        <a class="font-bold jp-check" data-jp="jpc" data-jp-label="{{localize "olddragon2e.jpc_short"}}">{{localize "olddragon2e.jpc_short"}}</a>
+                        <a class="font-bold jp-check" data-jp="jpc" data-jp-label="{{localize "olddragon2e.jpc_short"}}"><i class="fa-light fa-dice-d20 fa-sm"></i>{{localize "olddragon2e.jpc_short"}}</a>
                     </div>
                     <div class="jp-values">
                         {{!-- Base (Classe) --}}
@@ -125,7 +125,7 @@
                         </div>
                         {{!-- M. CON --}}
                         <div class="jp-value">
-                            <input class="system-mod-constituicao" type="text" value="{{system.mod_constituicao}}" data-dtype="Number" disabled>
+                            <input class="system-mod-constituicao" type="text" value="{{signed_number system.mod_constituicao}}" data-dtype="Number" disabled>
                             <label class="text-2xs">{{localize "olddragon2e.modifier_short"}}</label>
                         </div>
                     </div>
@@ -135,7 +135,7 @@
                     {{!-- JPS --}}
                     <div class="jps">
                         <input name="system.jps.value" type="text" value="{{system.jps.value}}" data-dtype="Number">
-                        <a class="font-bold jp-check" data-jp="jps" data-jp-label="{{localize "olddragon2e.jps_short"}}">{{localize "olddragon2e.jps_short"}}</a>
+                        <a class="font-bold jp-check" data-jp="jps" data-jp-label="{{localize "olddragon2e.jps_short"}}"><i class="fa-light fa-dice-d20 fa-sm"></i>{{localize "olddragon2e.jps_short"}}</a>
                     </div>
                     <div class="jp-values">
                         {{!-- Base (Classe) --}}
@@ -150,7 +150,7 @@
                         </div>
                         {{!-- M. SAB --}}
                         <div class="jp-value">
-                            <input class="system-mod-sabedoria" type="text" value="{{system.mod_sabedoria}}" data-dtype="Number" disabled>
+                            <input class="system-mod-sabedoria" type="text" value="{{signed_number system.mod_sabedoria}}" data-dtype="Number" disabled>
                             <label class="text-2xs">{{localize "olddragon2e.modifier_short"}}</label>
                         </div>
                     </div>
@@ -297,17 +297,17 @@
                             </div>
                             {{!-- M. DES --}}
                             <div class="ca-value">
-                                <input class="system-mod-destreza" type="text" value="{{system.mod_destreza}}" data-dtype="Number" disabled>
+                                <input class="system-mod-destreza" type="text" value="{{signed_number system.mod_destreza}}" data-dtype="Number" disabled>
                                 <label class="text-2xs">{{localize "olddragon2e.mod_destreza"}}</label>
                             </div>
                             {{!-- Armadura --}}
                             <div class="ca-value">
-                                <input class="system-ac" name="system.ac.armor" type="text" value="{{system.ac.armor}}" data-dtype="Number">
+                                <input class="system-ac" name="system.ac.armor" type="text" value="{{system.ac.armor}}" data-dtype="Number" disabled>
                                 <label class="text-2xs">{{localize "olddragon2e.armor"}}</label>
                             </div>
                             {{!-- Escudo --}}
                             <div class="ca-value">
-                                <input class="system-ac" name="system.ac.shield" type="text" value="{{system.ac.shield}}" data-dtype="Number">
+                                <input class="system-ac" name="system.ac.shield" type="text" value="{{system.ac.shield}}" data-dtype="Number" disabled>
                                 <label class="text-2xs">{{localize "olddragon2e.shield"}}</label>
                             </div>
                             {{!-- Arma Mágica --}}
@@ -324,12 +324,12 @@
                         <div class="ba-values">
                             {{!-- BAC --}}
                             <div class="bac">
-                                <input name="system.bac" type="text" value="{{system.bac}}" data-dtype="Number">
-                                <a class="font-bold ba-check" data-ba="bac" data-ba-label="{{localize "olddragon2e.bac_short"}}">{{localize "olddragon2e.bac_short"}}</a>
+                                <input name="system.bac" type="text" value="{{signed_number system.bac}}" data-dtype="Number">
+                                <a class="font-bold ba-check" data-ba="bac" data-ba-label="{{localize "olddragon2e.bac_short"}}"><i class="fa-light fa-dice-d20 fa-xs"></i>{{localize "olddragon2e.bac_short"}}</a>
                             </div>
                             {{!-- M. FOR --}}
                             <div class="ba-value">
-                                <input class="system-mod-forca" type="text" value="{{system.mod_forca}}" data-dtype="Number" disabled>
+                                <input class="system-mod-forca" type="text" value="{{signed_number system.mod_forca}}" data-dtype="Number" disabled>
                                 <label class="text-2xs">{{localize "olddragon2e.mod_forca"}}</label>
                             </div>
                             {{!-- Base --}}
@@ -339,13 +339,13 @@
                             </div>
                             {{!-- M. DES --}}
                             <div class="ba-value">
-                                <input class="system-mod-destreza" type="text" value="{{system.mod_destreza}}" data-dtype="Number" disabled>
+                                <input class="system-mod-destreza" type="text" value="{{signed_number system.mod_destreza}}" data-dtype="Number" disabled>
                                 <label class="text-2xs">{{localize "olddragon2e.mod_destreza"}}</label>
                             </div>
                             {{!-- BAD --}}
                             <div class="bad">
-                                <input name="system.bad" type="text" value="{{system.bad}}" data-dtype="Number">
-                                <a class="font-bold ba-check" data-ba="bad" data-ba-label="{{localize "olddragon2e.bad_short"}}">{{localize "olddragon2e.bad_short"}}</a>
+                                <input name="system.bad" type="text" value="{{signed_number system.bad}}" data-dtype="Number">
+                                <a class="font-bold ba-check" data-ba="bad" data-ba-label="{{localize "olddragon2e.bad_short"}}"><i class="fa-light fa-dice-d20 fa-xs"></i>{{localize "olddragon2e.bad_short"}}</a>
                             </div>
                         </div>
                     </div>
