@@ -17,7 +17,9 @@ O restante da ficha deve ser preenchida e gerenciada manualmente. Mais abaixo vo
 
 ## Instalação
 
-Copie o link do manifesto abaixo e cole na caixa de manifesto (link manifest):
+Para instalar, abra o Foundry, vá em Sistemas (_Systems_) em Instalar Sistema (_Install System_), e busque pelo sistema chamado `olddragon2e`.
+
+Você também pode copiar o link do manifesto abaixo e colar na caixa de manifesto (_Link manifest_):
 
 ```
 https://github.com/burobrasil/olddragon2e-foundryvtt/releases/latest/download/system.json
