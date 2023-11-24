@@ -61,3 +61,14 @@ export function registerSettings() {
     }
   });
 }
+
+// Print a + or a - in front of numbers
+Handlebars.registerHelper('signed_number', function (number, zero = '+0') {
+  if (number === '0') {
+    return zero;
+  } else if (number < 0) {
+    return number.toString();
+  } else {
+    return `+${number}`;
+  }
+});

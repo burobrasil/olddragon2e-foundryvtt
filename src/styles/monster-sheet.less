@@ -4,6 +4,13 @@
     flex-direction: row;
     gap: 0.5rem;
 
+    .tabs .item.active {
+      color: @carmesim-600;
+      text-shadow: none;
+      text-decoration: underline;
+      text-underline-offset: 2px;
+    }
+
     .sidebar {
       display: flex;
       flex-direction: column;
@@ -12,6 +19,11 @@
       padding: 10px;
       border-radius: 0.25rem;
       background-color: @dourado-100;
+
+      a:hover {
+        color: @carmesim-600;
+        text-shadow: none;
+      }
 
       .portrait {
         width: max-content;
@@ -33,6 +45,12 @@
           flex-direction: column;
           align-items: center;
           font-size: larger;
+
+          a {
+            display: flex;
+            align-items: center;
+            gap: 0.1rem;
+          }
 
           input {
             width: 70px;
@@ -149,6 +167,13 @@
         border-radius: 0.25rem;
         height: 100%;
         background-color: @dourado-100;
+
+        a.item:hover {
+          color: @carmesim-600;
+          text-shadow: none;
+          text-decoration: underline;
+          text-underline-offset: 2px;
+        }
 
         section {
           display: flex;

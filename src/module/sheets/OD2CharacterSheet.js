@@ -105,7 +105,9 @@ export default class OD2CharacterSheet extends ActorSheet {
     // Owner-only Listeners
     if (this.actor.isOwner) {
       html.find('.attack-roll').click(this._onAttackRoll.bind(this));
+      html.find('.unarmed-attack-roll').click(this._onUnarmedAttackRoll.bind(this));
       html.find('.damage-roll').click(this._onDamageRoll.bind(this));
+      html.find('.knockout-roll').click(this._onKnockoutRoll.bind(this));
       html.find('.spell-cast').click(this._onSpellCast.bind(this));
       html.find('.stat-check').click(this._onStatCheck.bind(this));
       html.find('.jp-check').click(this._onJPCheck.bind(this));
@@ -560,6 +562,111 @@ export default class OD2CharacterSheet extends ActorSheet {
     }).render(true);
   }
 
+  // Rolagem de ataque desarmado
+  _onUnarmedAttackRoll(event) {
+    event.preventDefault();
+    const characterName = this.actor.name;
+    const characterBac = this.actor.system.bac;
+
+    new Dialog({
+      title: `Rolar Ataque Desarmado`,
+      content: `
+                <div class="form-group">
+                    <label>Fórmula</label>
+                    <input type="text" name="formula" value="1d20 + ${characterBac} (BAC)" disabled>
+                </div>
+                <div class="form-group">
+                    <label>Ajuste de Ataque</em></label>
+                    <select name="adjustment" id="adjustment">
+                        <option value="none" selected>Nenhum</option>
+                        <option value="easy">Fácil (F)</option>
+                        <option value="very-easy">Muito Fácil (MF)</option>
+                        <option value="hard">Difícil (D)</option>
+                        <option value="very-hard">Muito Difícil (MD)</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label>Mod. Opcional <em>(valor ou dados)</em></label>
+                    <input type="text" name="bonus" id="bonus" value="" placeholder="Ex.: -1, 10, 2d4, 1d6 + 1d8 + 1d10">
+                </div>
+                <div class="form-group">
+                    <label>Modo de Rolagem</label>
+                    <select name="rollMode" id="rollMode">
+                        <option value="public" selected>Public Roll</option>
+                        <option value="private">Private GM Roll</option>
+                        <option value="blind">Blind GM Roll</option>
+                        <option value="self">Self Roll</option>
+                    </select>
+                </div>
+            `,
+      buttons: {
+        roll: {
+          icon: "<i class='fa-solid fa-dice-d20'></i>",
+          label: 'Rolar',
+          callback: async (html) => {
+            let adjustment = html.find('#adjustment').val();
+            const bonus = html.find('#bonus').val();
+            const mode = html.find('#rollMode').val();
+            let rollFormula = `1d20 + ${characterBac}`;
+            let flavorMessage = `<h2 class='text-center'>Ataque corpo a corpo <strong>desarmado</strong></h2>`;
+
+            if (adjustment !== 'none') {
+              switch (adjustment) {
+                case 'easy':
+                  flavorMessage = flavorMessage.replace('Ataque', 'Ataque (F)');
+                  rollFormula += ' + 2';
+                  break;
+                case 'very-easy':
+                  flavorMessage = flavorMessage.replace('Ataque', 'Ataque (MF)');
+                  rollFormula += ' + 5';
+                  break;
+                case 'hard':
+                  flavorMessage = flavorMessage.replace('Ataque', 'Ataque (D)');
+                  rollFormula += ' - 2';
+                  break;
+                case 'very-hard':
+                  flavorMessage = flavorMessage.replace('Ataque', 'Ataque (MD)');
+                  rollFormula += ' - 5';
+                  break;
+              }
+            }
+
+            if (bonus) {
+              rollFormula += `+${bonus}`;
+            }
+
+            const rollResult = await new Roll(rollFormula).roll({ async: true });
+
+            const rollMessage = {
+              flavor: flavorMessage,
+              speaker: { alias: `${this.truncateString(characterName, 30)}` },
+              whisper: [game.user],
+            };
+            const rollMode = { rollMode: CONST.DICE_ROLL_MODES.PUBLIC };
+
+            switch (mode) {
+              case 'private':
+                rollMode.rollMode = CONST.DICE_ROLL_MODES.PRIVATE;
+                break;
+              case 'blind':
+                rollMode.rollMode = CONST.DICE_ROLL_MODES.BLIND;
+                break;
+              case 'self':
+                rollMode.rollMode = CONST.DICE_ROLL_MODES.SELF;
+                break;
+            }
+            rollResult.toMessage(rollMessage, rollMode);
+          },
+        },
+        cancel: {
+          icon: "<i class='fa-solid fa-xmark'></i>",
+          label: 'Cancelar',
+        },
+      },
+      default: 'roll',
+    }).render(true);
+  }
+
   // Rolagem de dano
   _onDamageRoll(event) {
     event.preventDefault();
@@ -600,7 +707,7 @@ export default class OD2CharacterSheet extends ActorSheet {
                     <input type="text" id="formula" name="formula" value="" disabled>
                 </div>
                 <div class="form-group">
-                    <label>Bônus  <em>(valor ou dados)</em></label>
+                    <label>Mod. Opcional  <em>(valor ou dados)</em></label>
                     <input type="text" name="bonus" id="bonus" value="" placeholder="Ex.: -1, 10, 2d4, 1d6 + 1d8 + 1d10">
                 </div>
                 <div class="form-group">
@@ -692,6 +799,136 @@ export default class OD2CharacterSheet extends ActorSheet {
           formulaEl.val(getFormula(event.target.value));
         });
       },
+    }).render(true);
+  }
+
+  // Rolagem de chance de nocaute
+  _onKnockoutRoll(event) {
+    event.preventDefault();
+    const characterName = this.actor.name;
+    const modForca = Number(this.actor.system.mod_forca);
+    let knockoutChance = 1;
+
+    if (modForca <= 1) {
+      knockoutChance = 1;
+    }
+
+    switch (modForca) {
+      case 2:
+        knockoutChance = 2;
+        break;
+      case 3:
+        knockoutChance = 3;
+        break;
+      case 4:
+        knockoutChance = 4;
+        break;
+    }
+
+    new Dialog({
+      title: `Chance de nocaute`,
+      content: `
+                <div class="form-group">
+                    <label>Fórmula</label>
+                    <input type="text" name="formula" value="1d6" disabled>
+                </div>
+                <div class="form-group">
+                    <label>Mod. Opcional  <em>(valor ou dados)</em></label>
+                    <input type="text" name="bonus" id="bonus" value="" placeholder="Ex.: -1, 10, 2d4, 1d6 + 1d8 + 1d10">
+                </div>
+                <div class="form-group">
+                    <label>Modo de Rolagem</label>
+                    <select name="rollMode" id="rollMode">
+                        <option value="public" selected>Public Roll</option>
+                        <option value="private">Private GM Roll</option>
+                        <option value="blind">Blind GM Roll</option>
+                        <option value="self">Self Roll</option>
+                    </select>
+                </div>
+            `,
+      buttons: {
+        roll: {
+          icon: "<i class='fa-solid fa-dice-d20'></i>",
+          label: 'Rolar',
+          callback: async (html) => {
+            const bonus = html.find('#bonus').val();
+            const mode = html.find('#rollMode').val();
+            let rollFormula = '1d6';
+
+            if (bonus) {
+              rollFormula += `+${bonus}`;
+            }
+
+            const rollResult = await new Roll(rollFormula).roll({ async: true });
+            const success = rollResult.total <= knockoutChance;
+
+            switch (mode) {
+              case 'private':
+                rollResult.toMessage(
+                  {
+                    flavor: `<h2 class='text-center'>Chance de <strong>nocaute</strong><br>${
+                      success
+                        ? "<strong style='color:#18520b;'>SUCESSO!</strong>"
+                        : "<strong style='color:#aa0200;'>FALHA</strong>"
+                    }<h2>`,
+                    speaker: { alias: `${this.truncateString(characterName, 30)}` },
+                    whisper: [game.user],
+                  },
+                  { rollMode: CONST.DICE_ROLL_MODES.PRIVATE },
+                );
+                break;
+              case 'blind':
+                rollResult.toMessage(
+                  {
+                    flavor: `<h2 class='text-center'>Chance de <strong>nocaute</strong><br>${
+                      success
+                        ? "<strong style='color:#18520b;'>SUCESSO!</strong>"
+                        : "<strong style='color:#aa0200;'>FALHA</strong>"
+                    }<h2>`,
+                    speaker: { alias: `${this.truncateString(characterName, 30)}` },
+                    whisper: [game.user],
+                  },
+                  { rollMode: CONST.DICE_ROLL_MODES.BLIND },
+                );
+                break;
+              case 'self':
+                rollResult.toMessage(
+                  {
+                    flavor: `<h2 class='text-center'>Chance de <strong>nocaute</strong><br>${
+                      success
+                        ? "<strong style='color:#18520b;'>SUCESSO!</strong>"
+                        : "<strong style='color:#aa0200;'>FALHA</strong>"
+                    }<h2>`,
+                    speaker: { alias: `${this.truncateString(characterName, 30)}` },
+                    whisper: [game.user],
+                  },
+                  { rollMode: CONST.DICE_ROLL_MODES.SELF },
+                );
+                break;
+              case 'public':
+              default:
+                rollResult.toMessage(
+                  {
+                    flavor: `<h2 class='text-center'>Chance de <strong>nocaute</strong><br>${
+                      success
+                        ? "<strong style='color:#18520b;'>SUCESSO!</strong>"
+                        : "<strong style='color:#aa0200;'>FALHA</strong>"
+                    }<h2>`,
+                    speaker: { alias: `${this.truncateString(characterName, 30)}` },
+                    whisper: [game.user],
+                  },
+                  { rollMode: CONST.DICE_ROLL_MODES.PUBLIC },
+                );
+                break;
+            }
+          },
+        },
+        cancel: {
+          icon: "<i class='fa-solid fa-xmark'></i>",
+          label: 'Cancelar',
+        },
+      },
+      default: 'roll',
     }).render(true);
   }
 
