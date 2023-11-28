@@ -41,22 +41,53 @@
         gap: 0.5rem;
 
         .stat {
-          display: flex;
-          flex-direction: column;
+          display: grid;
+          grid-template-columns: repeat(2, minmax(0, 1fr));
           align-items: center;
+          gap: 0.25rem;
           font-size: larger;
 
-          a {
+          label, a {
             display: flex;
+            justify-content: end;
             align-items: center;
             gap: 0.1rem;
           }
 
           input {
-            width: 70px;
-            height: 70px;
+            width: 40px;
+            height: 40px;
             text-align: center;
-            font-size: x-large;
+          }
+        }
+
+        .encounter,
+        .treasure,
+        .dv {
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          gap: 0.5rem;
+
+          .encounter-values,
+          .treasure-values,
+          .dv-values {
+            display: flex;
+            flex-direction: row;
+            gap: 0.25rem;
+
+            .encounter-value,
+            .treasure-value,
+            .dv-value,
+            .dv-bonus-value {
+              display: flex;
+              flex-direction: column;
+              align-items: center;
+            }
+          }
+
+          input {
+            text-align: center;
           }
         }
       }
@@ -70,45 +101,42 @@
       .header {
         display: flex;
         flex-direction: column;
-        gap: 0.5rem;
+        gap: 0.25rem;
         padding: 10px;
         border-radius: 0.25rem;
         background-color: @dourado-100;
+
+        .name {
+          label {
+            font-size: small;
+          }
+        }
 
         .basic-info {
           display: flex;
           flex-direction: row;
           gap: 0.25rem;
 
-          .name,
-          .concept,
-          .size,
-          .alignment,
-          .habitat {
-            input,
-            select {
+          .concept, .size, .habitat {
+            input, select {
               width: 100%;
+            }
+
+            label {
+              font-size: small;
             }
           }
 
-          .name {
-            flex-basis: 20%;
-          }
-
           .concept {
-            flex-basis: 28%;
+            flex-basis: 43%;
           }
 
           .size {
-            flex-basis: 15%;
-          }
-
-          .alignment {
-            flex-basis: 15%;
+            flex-basis: 22%;
           }
 
           .habitat {
-            flex-basis: 22%;
+            flex-basis: 35%;
           }
         }
 
@@ -117,40 +145,29 @@
           flex-direction: row;
           gap: 0.25rem;
 
-          .encounter,
-          .treasure,
-          .mv,
-          .hp {
+          .alignment, .mv, .xp, .hp {
             display: flex;
             flex-direction: column;
             align-items: center;
 
-            .encounter-values,
-            .treasure-values,
-            .mv-values,
-            .hp-values {
+            .mv-values, .hp-values {
               display: flex;
               flex-direction: row;
 
-              .encounter-value,
-              .treasure-value,
-              .mv-value,
-              .hp-value {
+              .mv-value, .hp-value {
                 display: flex;
                 flex-direction: column;
                 align-items: center;
 
-                input {
-                  text-align: center;
+                label {
+                  font-size: smaller;
                 }
               }
             }
-          }
 
-          .xp {
-            display: flex;
-            flex-direction: column;
-            align-items: center;
+            label {
+              font-size: small;
+            }
 
             input {
               text-align: center;

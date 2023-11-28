@@ -114,6 +114,7 @@ export default class OD2CharacterSheet extends ActorSheet {
       html.find('.ba-check').click(this._onBACheck.bind(this));
     }
 
+    await this.calculateMaxLoad();
     await this.calculateCurrentLoad();
     this.updateEquippedItemIcon(html);
     super.activateListeners(html);
@@ -187,6 +188,40 @@ export default class OD2CharacterSheet extends ActorSheet {
     }
 
     return `${totalCost} PO`;
+  }
+
+  // Descobrir o maior valor
+  findHighestValue(value1, value2) {
+    if (value1 > value2) {
+      return value1;
+    } else {
+      return value2;
+    }
+  }
+
+  // Cálculo da Carga Máxima
+  async calculateMaxLoad() {
+    const forca = this.actor.system.forca;
+    const constituicao = this.actor.system.constituicao;
+    let maxLoadInput = document.querySelector('[name="system.load.max"]');
+    let maxLoadValue = this.findHighestValue(forca, constituicao);
+
+    const equippedItems = this.actor.system.equipped_items || [];
+    const items = this.actor.items;
+
+    for (const itemId of equippedItems) {
+      const item = items.get(itemId);
+      if (item && item.type === 'container') {
+        maxLoadValue += item.system.increases_load_by || 0;
+      }
+    }
+
+    maxLoadInput.value = maxLoadValue;
+
+    const updateObject = {};
+    updateObject['system.load.max'] = maxLoadValue;
+
+    await this.document.update(updateObject);
   }
 
   // Cálculo da Carga Atual (soma da Carga Total de todos os itens)
@@ -426,9 +461,10 @@ export default class OD2CharacterSheet extends ActorSheet {
   // Rolagem de ataque
   _onAttackRoll(event) {
     event.preventDefault();
+    let target = event.currentTarget;
     const characterName = this.actor.name;
-    const baRoll = event.target.dataset.ba;
-    const baRollBonus = event.target.dataset.baBonus === '';
+    const baRoll = target.dataset.ba;
+    const baRollBonus = target.dataset.baBonus === '';
     const characterBac = this.actor.system.bac;
     const characterBad = this.actor.system.bad;
     const itemID = event.currentTarget.closest('.attack').dataset.itemId;
@@ -670,8 +706,9 @@ export default class OD2CharacterSheet extends ActorSheet {
   // Rolagem de dano
   _onDamageRoll(event) {
     event.preventDefault();
+    let target = event.currentTarget;
     const characterName = this.actor.name;
-    const itemID = event.currentTarget.closest('.attack').dataset.itemId;
+    const itemID = target.closest('.attack').dataset.itemId;
     const item = this.actor.items.get(itemID);
     const attackName = item.name;
     const attack = item.system;
@@ -862,15 +899,19 @@ export default class OD2CharacterSheet extends ActorSheet {
             const rollResult = await new Roll(rollFormula).roll({ async: true });
             const success = rollResult.total <= knockoutChance;
 
+            let resultText = '';
+
+            if (success) {
+              resultText = "<strong style='color:#18520b;'>SUCESSO!</strong>";
+            } else {
+              resultText = "<strong style='color:#aa0200;'>FALHA</strong>";
+            }
+
             switch (mode) {
               case 'private':
                 rollResult.toMessage(
                   {
-                    flavor: `<h2 class='text-center'>Chance de <strong>nocaute</strong><br>${
-                      success
-                        ? "<strong style='color:#18520b;'>SUCESSO!</strong>"
-                        : "<strong style='color:#aa0200;'>FALHA</strong>"
-                    }<h2>`,
+                    flavor: `<h2 class='text-center'>Chance de <strong>nocaute</strong></h2><p class='text-xl text-center'>${resultText}</p>`,
                     speaker: { alias: `${this.truncateString(characterName, 30)}` },
                     whisper: [game.user],
                   },
@@ -880,11 +921,7 @@ export default class OD2CharacterSheet extends ActorSheet {
               case 'blind':
                 rollResult.toMessage(
                   {
-                    flavor: `<h2 class='text-center'>Chance de <strong>nocaute</strong><br>${
-                      success
-                        ? "<strong style='color:#18520b;'>SUCESSO!</strong>"
-                        : "<strong style='color:#aa0200;'>FALHA</strong>"
-                    }<h2>`,
+                    flavor: `<h2 class='text-center'>Chance de <strong>nocaute</strong></h2><p class='text-xl text-center'>${resultText}</p>`,
                     speaker: { alias: `${this.truncateString(characterName, 30)}` },
                     whisper: [game.user],
                   },
@@ -894,11 +931,7 @@ export default class OD2CharacterSheet extends ActorSheet {
               case 'self':
                 rollResult.toMessage(
                   {
-                    flavor: `<h2 class='text-center'>Chance de <strong>nocaute</strong><br>${
-                      success
-                        ? "<strong style='color:#18520b;'>SUCESSO!</strong>"
-                        : "<strong style='color:#aa0200;'>FALHA</strong>"
-                    }<h2>`,
+                    flavor: `<h2 class='text-center'>Chance de <strong>nocaute</strong></h2><p class='text-xl text-center'>${resultText}</p>`,
                     speaker: { alias: `${this.truncateString(characterName, 30)}` },
                     whisper: [game.user],
                   },
@@ -909,11 +942,7 @@ export default class OD2CharacterSheet extends ActorSheet {
               default:
                 rollResult.toMessage(
                   {
-                    flavor: `<h2 class='text-center'>Chance de <strong>nocaute</strong><br>${
-                      success
-                        ? "<strong style='color:#18520b;'>SUCESSO!</strong>"
-                        : "<strong style='color:#aa0200;'>FALHA</strong>"
-                    }<h2>`,
+                    flavor: `<h2 class='text-center'>Chance de <strong>nocaute</strong></h2><p class='text-xl text-center'>${resultText}</p>`,
                     speaker: { alias: `${this.truncateString(characterName, 30)}` },
                     whisper: [game.user],
                   },
@@ -958,8 +987,9 @@ export default class OD2CharacterSheet extends ActorSheet {
   _onStatCheck(event) {
     event.preventDefault();
     const characterName = this.actor.name;
-    let statLabel = event.target.dataset.statLabel;
-    const statName = event.target.dataset.stat;
+    let target = event.currentTarget;
+    let statLabel = target.dataset.statLabel;
+    const statName = target.dataset.stat;
     let statValue = this.actor.system[statName];
 
     new Dialog({
@@ -1031,15 +1061,19 @@ export default class OD2CharacterSheet extends ActorSheet {
             const rollResult = await new Roll(rollFormula).roll({ async: true });
             const success = rollResult.total <= statValue;
 
+            let resultText = '';
+
+            if (success) {
+              resultText = "<strong style='color:#18520b;'>SUCESSO!</strong>";
+            } else {
+              resultText = "<strong style='color:#aa0200;'>FALHA</strong>";
+            }
+
             switch (mode) {
               case 'private':
                 rollResult.toMessage(
                   {
-                    flavor: `<h2 class='text-center'>Teste de <strong>${statLabel}</strong><br>${
-                      success
-                        ? "<strong style='color:#18520b;'>SUCESSO!</strong>"
-                        : "<strong style='color:#aa0200;'>FALHA</strong>"
-                    }<h2>`,
+                    flavor: `<h2 class='text-center'>Teste de <strong>${statLabel}</strong></h2><p class='text-xl text-center'>${resultText}</p>`,
                     speaker: { alias: `${this.truncateString(characterName, 30)}` },
                     whisper: [game.user],
                   },
@@ -1049,11 +1083,7 @@ export default class OD2CharacterSheet extends ActorSheet {
               case 'blind':
                 rollResult.toMessage(
                   {
-                    flavor: `<h2 class='text-center'>Teste de <strong>${statLabel}</strong><br>${
-                      success
-                        ? "<strong style='color:#18520b;'>SUCESSO!</strong>"
-                        : "<strong style='color:#aa0200;'>FALHA</strong>"
-                    }<h2>`,
+                    flavor: `<h2 class='text-center'>Teste de <strong>${statLabel}</strong></h2><p class='text-xl text-center'>${resultText}</p>`,
                     speaker: { alias: `${this.truncateString(characterName, 30)}` },
                     whisper: [game.user],
                   },
@@ -1063,11 +1093,7 @@ export default class OD2CharacterSheet extends ActorSheet {
               case 'self':
                 rollResult.toMessage(
                   {
-                    flavor: `<h2 class='text-center'>Teste de <strong>${statLabel}</strong><br>${
-                      success
-                        ? "<strong style='color:#18520b;'>SUCESSO!</strong>"
-                        : "<strong style='color:#aa0200;'>FALHA</strong>"
-                    }<h2>`,
+                    flavor: `<h2 class='text-center'>Teste de <strong>${statLabel}</strong></h2><p class='text-xl text-center'>${resultText}</p>`,
                     speaker: { alias: `${this.truncateString(characterName, 30)}` },
                     whisper: [game.user],
                   },
@@ -1078,11 +1104,7 @@ export default class OD2CharacterSheet extends ActorSheet {
               default:
                 rollResult.toMessage(
                   {
-                    flavor: `<h2 class='text-center'>Teste de <strong>${statLabel}</strong><br>${
-                      success
-                        ? "<strong style='color:#18520b;'>SUCESSO!</strong>"
-                        : "<strong style='color:#aa0200;'>FALHA</strong>"
-                    }<h2>`,
+                    flavor: `<h2 class='text-center'>Teste de <strong>${statLabel}</strong></h2><p class='text-xl text-center'>${resultText}</p>`,
                     speaker: { alias: `${this.truncateString(characterName, 30)}` },
                     whisper: [game.user],
                   },
@@ -1105,8 +1127,9 @@ export default class OD2CharacterSheet extends ActorSheet {
   _onJPCheck(event) {
     event.preventDefault();
     const characterName = this.actor.name;
-    let jpLabel = event.target.dataset.jpLabel;
-    const jpName = event.target.dataset.jp;
+    let target = event.currentTarget;
+    let jpLabel = target.dataset.jpLabel;
+    const jpName = target.dataset.jp;
     let jpValue = this.actor.system[jpName].value;
 
     new Dialog({
@@ -1178,15 +1201,19 @@ export default class OD2CharacterSheet extends ActorSheet {
             const rollResult = await new Roll(rollFormula).roll({ async: true });
             const success = rollResult.total <= jpValue;
 
+            let resultText = '';
+
+            if (success) {
+              resultText = "<strong style='color:#18520b;'>SUCESSO!</strong>";
+            } else {
+              resultText = "<strong style='color:#aa0200;'>FALHA</strong>";
+            }
+
             switch (mode) {
               case 'private':
                 rollResult.toMessage(
                   {
-                    flavor: `<h2 class='text-center'>Teste de <strong>${jpLabel}</strong><br>${
-                      success
-                        ? "<strong style='color:#18520b;'>SUCESSO!</strong>"
-                        : "<strong style='color:#aa0200;'>FALHA</strong>"
-                    }<h2>`,
+                    flavor: `<h2 class='text-center'>Teste de <strong>${jpLabel}</strong></h2><p class='text-xl text-center'>${resultText}</p>`,
                     speaker: { alias: `${this.truncateString(characterName, 30)}` },
                     whisper: [game.user],
                   },
@@ -1196,11 +1223,7 @@ export default class OD2CharacterSheet extends ActorSheet {
               case 'blind':
                 rollResult.toMessage(
                   {
-                    flavor: `<h2 class='text-center'>Teste de <strong>${jpLabel}</strong><br>${
-                      success
-                        ? "<strong style='color:#18520b;'>SUCESSO!</strong>"
-                        : "<strong style='color:#aa0200;'>FALHA</strong>"
-                    }<h2>`,
+                    flavor: `<h2 class='text-center'>Teste de <strong>${jpLabel}</strong></h2><p class='text-xl text-center'>${resultText}</p>`,
                     speaker: { alias: `${this.truncateString(characterName, 30)}` },
                     whisper: [game.user],
                   },
@@ -1210,11 +1233,7 @@ export default class OD2CharacterSheet extends ActorSheet {
               case 'self':
                 rollResult.toMessage(
                   {
-                    flavor: `<h2 class='text-center'>Teste de <strong>${jpLabel}</strong><br>${
-                      success
-                        ? "<strong style='color:#18520b;'>SUCESSO!</strong>"
-                        : "<strong style='color:#aa0200;'>FALHA</strong>"
-                    }<h2>`,
+                    flavor: `<h2 class='text-center'>Teste de <strong>${jpLabel}</strong></h2><p class='text-xl text-center'>${resultText}</p>`,
                     speaker: { alias: `${this.truncateString(characterName, 30)}` },
                     whisper: [game.user],
                   },
@@ -1225,11 +1244,7 @@ export default class OD2CharacterSheet extends ActorSheet {
               default:
                 rollResult.toMessage(
                   {
-                    flavor: `<h2 class='text-center'>Teste de <strong>${jpLabel}</strong><br>${
-                      success
-                        ? "<strong style='color:#18520b;'>SUCESSO!</strong>"
-                        : "<strong style='color:#aa0200;'>FALHA</strong>"
-                    }<h2>`,
+                    flavor: `<h2 class='text-center'>Teste de <strong>${jpLabel}</strong></h2><p class='text-xl text-center'>${resultText}</p>`,
                     speaker: { alias: `${this.truncateString(characterName, 30)}` },
                     whisper: [game.user],
                   },
@@ -1252,8 +1267,9 @@ export default class OD2CharacterSheet extends ActorSheet {
   _onBACheck(event) {
     event.preventDefault();
     const characterName = this.actor.name;
-    let baLabel = event.target.dataset.baLabel;
-    const baName = event.target.dataset.ba;
+    let target = event.currentTarget;
+    let baLabel = target.dataset.baLabel;
+    const baName = target.dataset.ba;
     const baValue = this.actor.system[baName];
 
     new Dialog({
@@ -1330,7 +1346,7 @@ export default class OD2CharacterSheet extends ActorSheet {
               case 'private':
                 rollResult.toMessage(
                   {
-                    flavor: `<h2 class='text-center'>Teste de <strong>${baLabel}</strong><h2>`,
+                    flavor: `<h2 class='text-center'>Teste de <strong>${baLabel}</strong></h2>`,
                     speaker: { alias: `${this.truncateString(characterName, 30)}` },
                     whisper: [game.user],
                   },
@@ -1340,7 +1356,7 @@ export default class OD2CharacterSheet extends ActorSheet {
               case 'blind':
                 rollResult.toMessage(
                   {
-                    flavor: `<h2 class='text-center'>Teste de <strong>${baLabel}</strong><h2>`,
+                    flavor: `<h2 class='text-center'>Teste de <strong>${baLabel}</strong></h2>`,
                     speaker: { alias: `${this.truncateString(characterName, 30)}` },
                     whisper: [game.user],
                   },
@@ -1350,7 +1366,7 @@ export default class OD2CharacterSheet extends ActorSheet {
               case 'self':
                 rollResult.toMessage(
                   {
-                    flavor: `<h2 class='text-center'>Teste de <strong>${baLabel}</strong><h2>`,
+                    flavor: `<h2 class='text-center'>Teste de <strong>${baLabel}</strong></h2>`,
                     speaker: { alias: `${this.truncateString(characterName, 30)}` },
                     whisper: [game.user],
                   },
@@ -1361,7 +1377,7 @@ export default class OD2CharacterSheet extends ActorSheet {
               default:
                 rollResult.toMessage(
                   {
-                    flavor: `<h2 class='text-center'>Teste de <strong>${baLabel}</strong><h2>`,
+                    flavor: `<h2 class='text-center'>Teste de <strong>${baLabel}</strong></h2>`,
                     speaker: { alias: `${this.truncateString(characterName, 30)}` },
                     whisper: [game.user],
                   },

@@ -7,33 +7,79 @@
             <div class="portrait">
                 <img src="{{actor.img}}" data-edit="img" title="{{actor.name}}">
             </div>
-            {{!-- Características --}}
+            {{!-- Características (Classe de Armadura; Jogada de Proteção; Moral; Dado de Vida; Dado de Vida Bônus; Encontro; Tesouros) --}}
             <div class="stats">
-                {{!-- DV | Dado de Vida --}}
-                <div class="stat">
-                    <label class="font-bold" title="{{localize 'olddragon2e.dv'}}">{{localize "olddragon2e.dv_short"}}</label>
-                    <input name="system.dv" type="text" value="{{system.dv}}" data-dtype="String">
-                </div>
-                {{!-- DV Bônus | Dado de Vida Bônus --}}
-                <div class="stat">
-                    <label class="font-bold" title="{{localize 'olddragon2e.dv_bonus'}}">{{localize "olddragon2e.dv_bonus"}}</label>
-                    <input name="system.dv_bonus" type="text" value="{{system.dv_bonus}}" data-dtype="String">
-                </div>
                 {{!-- CA | Classe de Armadura --}}
                 <div class="stat">
                     <label class="font-bold">{{localize "olddragon2e.ac_short"}}</label>
                     <input name="system.ca" type="text" value="{{system.ca}}" data-dtype="String">
-                    <label class="text-2xs font-bold">{{localize "olddragon2e.native"}} / {{localize "olddragon2e.equipment_short"}}</label>
                 </div>
                 {{!-- JP | Jogada de Proteção --}}
                 <div class="stat">
-                    <a class="font-bold jp-check"><i class="fa-thin fa-dice-d20"></i>{{localize "olddragon2e.jp_short"}}</a>
+                    <a class="font-bold jp-check" title="Rolar jogada de proteção"><i class="fa-thin fa-dice-d20"></i>{{localize "olddragon2e.jp_short"}}</a>
                     <input name="system.jp" type="text" value="{{system.jp}}" data-dtype="String">
                 </div>
                 {{!-- MO | Moral --}}
                 <div class="stat">
-                    <a class="font-bold mo-check"><i class="fa-thin fa-dice-d20"></i>{{localize "olddragon2e.mo_short"}}</a>
+                    <a class="font-bold mo-check" title="Rolar teste de moral"><i class="fa-thin fa-dice-d20"></i>{{localize "olddragon2e.mo_short"}}</a>
                     <input name="system.mo" type="text" value="{{system.mo}}" data-dtype="String">
+                </div>
+
+                <hr>
+
+                {{!-- Encontro --}}
+                <div class="encounter">
+                    <label class="font-bold">{{localize "olddragon2e.encounter"}}</label>
+                    <div class="encounter-values">
+                        {{!-- Encontro (Errantes) --}}
+                        <div class="encounter-value">
+                            <input name="system.encounters" type="text" value="{{system.encounters}}" data-dtype="String">
+                            <label class="text-xs">{{localize "olddragon2e.group"}}</label>
+                        </div>
+                        {{!-- Encontro (Covil) --}}
+                        <div class="encounter-value">
+                            <input name="system.encounters_lair" type="text" value="{{system.encounters_lair}}" data-dtype="String">
+                            <label class="text-xs">{{localize "olddragon2e.lair"}}</label>
+                        </div>
+                    </div>
+                </div>
+
+                <hr>
+
+                {{!-- Tesouro --}}
+                <div class="treasure">
+                    <label class="font-bold">{{localize "olddragon2e.treasure"}}</label>
+                    <div class="treasure-values">
+                        {{!-- Tesouro (Errantes) --}}
+                        <div class="treasure-value">
+                            <input name="system.treasure" type="text" value="{{system.treasure}}" data-dtype="String">
+                            <label class="text-xs">{{localize "olddragon2e.group"}}</label>
+                        </div>
+                        {{!-- Tesouro (Covil) --}}
+                        <div class="treasure-value">
+                            <input name="system.treasure_lair" type="text" value="{{system.treasure_lair}}" data-dtype="String">
+                            <label class="text-xs">{{localize "olddragon2e.lair"}}</label>
+                        </div>
+                    </div>
+                </div>
+
+                <hr>
+
+                {{!-- Dado de Vida --}}
+                <div class="dv">
+                    <label class="font-bold">{{localize "olddragon2e.dv_long"}}</label>
+                    <div class="dv-values">
+                        {{!-- DV --}}
+                        <div class="dv-value">
+                            <input name="system.dv" type="text" value="{{system.dv}}" data-dtype="String">
+                            <a class="text-xs font-bold dv-roll" title="Rolar pontos de vida"><i class="fa-thin fa-dice-d20"></i>{{localize "olddragon2e.dv_short"}}</a>
+                        </div>
+                        {{!-- DV Bônus --}}
+                        <div class="dv-bonus-value">
+                            <input name="system.dv_bonus" type="text" value="{{system.dv_bonus}}" data-dtype="String">
+                            <label class="text-xs" title="{{localize 'olddragon2e.dv_bonus'}}">{{localize "olddragon2e.dv_bonus"}}</label>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
@@ -42,13 +88,15 @@
         <div class="body">
             {{!-- Header --}}
             <div class="header">
-                {{!-- Nome; Conceito; Tamanho; Alinhamento, Habitat --}}
+                
+                {{!-- Nome --}}
+                <div class="name">
+                    <input name="name" type="text" value="{{actor.name}}">
+                    <label class="font-bold">{{localize "olddragon2e.name"}}</label>
+                </div>
+
+                {{!-- Conceito; Tamanho; Habitat --}}
                 <div class="basic-info">
-                    {{!-- Nome --}}
-                    <div class="name">
-                        <input name="name" type="text" value="{{actor.name}}">
-                        <label class="font-bold">{{localize "olddragon2e.name"}}</label>
-                    </div>
                     {{!-- Conceito --}}
                     <div class="concept">
                         <input list="concepts" name="system.concept" type="text" value="{{system.concept}}">
@@ -70,17 +118,6 @@
                         {{/select}}
                         <label class="font-bold">{{localize "olddragon2e.size"}}</label>
                     </div>
-                    {{!-- Alinhamento --}}
-                    <div class="alignment">
-                        {{#select system.alignment}}
-                        <select name="system.alignment">
-                            {{#each config.alignment as |alignment_label alignment|}}
-                            <option value="{{alignment}}">{{localize alignment_label}}</option>
-                            {{/each}}
-                        </select>
-                        {{/select}}
-                        <label class="font-bold">{{localize "olddragon2e.alignment"}}</label>
-                    </div>
                     {{!-- Habitat --}}
                     <div class="habitat">
                         <input list="habitats" name="system.habitat" type="text" value="{{system.habitat}}">
@@ -95,44 +132,18 @@
 
                 <hr>
 
-                {{!-- Encontro; Experiência; Tesouro; Movimento --}}
+                {{!-- Alinhamento; Movimento; Experiência; Pontos de Vida --}}
                 <div class="additional-info">
-                    {{!-- Encontro --}}
-                    <div class="encounter">
-                        <label class="font-bold">{{localize "olddragon2e.encounter"}}</label>
-                        <div class="encounter-values">
-                            {{!-- Encontro (Errantes) --}}
-                            <div class="encounter-value">
-                                <input name="system.encounters" type="text" value="{{system.encounters}}" data-dtype="String">
-                                <label class="text-xs">{{localize "olddragon2e.group"}}</label>
-                            </div>
-                            {{!-- Encontro (Covil) --}}
-                            <div class="encounter-value">
-                                <input name="system.encounters_lair" type="text" value="{{system.encounters_lair}}" data-dtype="String">
-                                <label class="text-xs">{{localize "olddragon2e.lair"}}</label>
-                            </div>
-                        </div>
-                    </div>
-                    {{!-- XP | Experiência --}}
-                    <div class="xp">
-                        <label class="font-bold">{{localize "olddragon2e.xp_short"}}</label>
-                        <input name="system.xp" type="text" value="{{system.xp}}" data-dtype="Number">
-                    </div>
-                    {{!-- Tesouro --}}
-                    <div class="treasure">
-                        <label class="font-bold">{{localize "olddragon2e.treasure"}}</label>
-                        <div class="treasure-values">
-                            {{!-- Tesouro (Errantes) --}}
-                            <div class="treasure-value">
-                                <input name="system.treasure" type="text" value="{{system.treasure}}" data-dtype="String">
-                                <label class="text-xs">{{localize "olddragon2e.group"}}</label>
-                            </div>
-                            {{!-- Tesouro (Covil) --}}
-                            <div class="treasure-value">
-                                <input name="system.treasure_lair" type="text" value="{{system.treasure_lair}}" data-dtype="String">
-                                <label class="text-xs">{{localize "olddragon2e.lair"}}</label>
-                            </div>
-                        </div>
+                    {{!-- Alinhamento --}}
+                    <div class="alignment">
+                        <label class="font-bold">{{localize "olddragon2e.alignment"}}</label>
+                        {{#select system.alignment}}
+                        <select name="system.alignment">
+                            {{#each config.alignment as |alignment_label alignment|}}
+                            <option value="{{alignment}}">{{localize alignment_label}}</option>
+                            {{/each}}
+                        </select>
+                        {{/select}}
                     </div>
                     {{!-- Movimento --}}
                     <div class="mv">
@@ -154,6 +165,11 @@
                                 <label class="text-xs">{{localize "olddragon2e.mv_fly"}}</label>
                             </div>
                         </div>
+                    </div>
+                    {{!-- XP | Experiência --}}
+                    <div class="xp">
+                        <label class="font-bold">{{localize "olddragon2e.xp_short"}}</label>
+                        <input name="system.xp" type="text" value="{{system.xp}}" data-dtype="Number">
                     </div>
                     {{!-- PV | Pontos de Vida --}}
                     <div class="hp">
