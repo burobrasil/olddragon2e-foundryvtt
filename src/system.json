@@ -54,8 +54,8 @@
   ],
   "packFolders": [
     {
-      "name": "Old Dragon (SRD)",
-      "color": "#CB0532",
+      "name": "SRD",
+      "color": "#000000",
       "packs": ["characters", "equipment", "monsters", "spells"]
     }
   ],
@@ -66,9 +66,9 @@
       "path": "lang/en.json"
     },
     {
-      "lang": "pt",
+      "lang": "pt-BR",
       "name": "Português Brasileiro",
-      "path": "lang/pt.json"
+      "path": "lang/pt-BR.json"
     }
   ],
   "relationships": {
