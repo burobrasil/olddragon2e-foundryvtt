@@ -191,7 +191,7 @@ export default class OD2MonsterSheet extends ActorSheet {
       content: `
                 <div class="form-group">
                     <label>Fórmula</label>
-                    <input type="text" name="formula" value="1d20" disabled>
+                    <input type="text" name="formula" value="2d6" disabled>
                 </div>
                 <div class="form-group">
                     <label>Ajuste de Moral</em></label>
@@ -225,7 +225,7 @@ export default class OD2MonsterSheet extends ActorSheet {
             let adjustment = html.find('#adjustment').val();
             const bonus = html.find('#bonus').val();
             const mode = html.find('#rollMode').val();
-            let rollFormula = '1d20';
+            let rollFormula = '2d6';
 
             if (adjustment !== 'none') {
               switch (adjustment) {
