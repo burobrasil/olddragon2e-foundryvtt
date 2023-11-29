@@ -30,7 +30,6 @@ class CharacterImporterDialog extends Application {
 
   async _onCharacterImporter(event) {
     event.preventDefault();
-    console.log('on _onCharacterImporter');
     const json = document.querySelector('#character-importer-textarea').value;
 
     if (json === '') return;

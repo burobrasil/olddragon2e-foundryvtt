@@ -7,7 +7,6 @@ export const importActor = async (json) => {
 };
 
 const _jsonToActorData = (json) => {
-  console.log(olddragon2e);
   return {
     name: json.name,
     type: 'character',
