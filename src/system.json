@@ -31,32 +31,50 @@
       "name": "characters",
       "label": "Personagens Prontos",
       "path": "packs/characters",
-      "type": "Actor"
+      "type": "Actor",
+      "banner": "systems/olddragon2e/assets/compendium-banner/characters.webp"
     },
     {
       "name": "equipment",
       "label": "Equipamentos",
       "path": "packs/equipment",
-      "type": "Item"
+      "type": "Item",
+      "banner": "systems/olddragon2e/assets/compendium-banner/equipment.webp"
     },
     {
       "name": "monsters",
       "label": "Monstros & Inimigos",
       "path": "packs/monsters",
-      "type": "Actor"
+      "type": "Actor",
+      "banner": "systems/olddragon2e/assets/compendium-banner/monsters.webp"
+    },
+    {
+      "name": "rollable-tables",
+      "label": "Tabelas de Rolagem",
+      "path": "packs/rollable-tables",
+      "type": "RollTable",
+      "banner": "systems/olddragon2e/assets/compendium-banner/rollable-tables.webp"
     },
     {
       "name": "spells",
       "label": "Magias",
       "path": "packs/spells",
-      "type": "Item"
+      "type": "Item",
+      "banner": "systems/olddragon2e/assets/compendium-banner/spells.webp"
+    },
+    {
+      "name": "srd",
+      "label": "SRD: Documento de Referência",
+      "path": "packs/srd",
+      "type": "JournalEntry",
+      "banner": "systems/olddragon2e/assets/compendium-banner/srd.webp"
     }
   ],
   "packFolders": [
     {
       "name": "SRD",
       "color": "#000000",
-      "packs": ["characters", "equipment", "monsters", "spells"]
+      "packs": ["characters", "equipment", "monsters", "rollable-tables", "spells", "srd"]
     }
   ],
   "languages": [
