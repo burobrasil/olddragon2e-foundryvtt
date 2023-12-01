@@ -8,6 +8,7 @@ import OD2Item from './OD2Item.js';
 import OD2ItemSheet from './sheets/OD2ItemSheet.js';
 import OD2CharacterSheet from './sheets/OD2CharacterSheet.js';
 import OD2MonsterSheet from './sheets/OD2MonsterSheet.js';
+import { renderActorDirectory } from './system/renderActorDirectory.js';
 
 // Initialize system
 Hooks.once('init', async () => {
@@ -54,5 +55,5 @@ Hooks.once('ready', async () => {
 });
 
 // Add any additional hooks if necessary
-
+Hooks.on('renderActorDirectory', renderActorDirectory);
 Hooks.on('renderChatLog', (_app, html) => Chat.addChatListeners(html));
