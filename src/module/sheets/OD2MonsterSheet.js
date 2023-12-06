@@ -329,13 +329,25 @@ export default class OD2MonsterSheet extends ActorSheet {
   async _onDVRoll(event) {
     event.preventDefault();
     const monsterName = this.actor.name;
-    const dvInput = this.actor.system.dv;
-    const dvBonusInput = this.actor.system.dv_bonus;
-    let dvBonus = '';
+    let dvInput = this.actor.system.dv.replace(/d8|\s/g, ''); // Remove 'd8' and spaces from input
+
+    if (!dvInput || isNaN(dvInput) || !Number.isInteger(parseFloat(dvInput))) {
+      dvInput = '1';
+    }
+
+    let diceQuantity = parseInt(dvInput);
+    let formula = `${diceQuantity}d8`;
+
+    let dvBonusInput = this.actor.system.dv_bonus;
+
+    if (!dvBonusInput || isNaN(dvBonusInput) || !Number.isInteger(parseFloat(dvBonusInput))) {
+      dvBonusInput = '0';
+    }
+
+    let dvBonus = parseInt(dvBonusInput);
+
     let currentHpInput = document.querySelector('[name="system.hp.value"]');
     let maxHpInput = document.querySelector('[name="system.hp.max"]');
-    let diceQuantity = 1;
-    let formula = `${diceQuantity}d8`;
 
     if (dvInput && dvInput.trim() !== '') {
       const dvValue = dvInput.trim();
