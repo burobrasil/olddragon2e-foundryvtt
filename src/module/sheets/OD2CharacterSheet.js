@@ -9,27 +9,6 @@ export default class OD2CharacterSheet extends ActorSheet {
     });
   }
 
-  itemContextMenu = [
-    {
-      name: game.i18n.localize('olddragon2e.edit'),
-      icon: '<i class="fa-solid fa-pen-to-square"></i>',
-      callback: (element) => {
-        const el = element.closest('.item');
-        const item = this.actor.items.get(el.data('item-id'));
-        item.sheet.render(true);
-      },
-    },
-    {
-      name: game.i18n.localize('olddragon2e.delete'),
-      icon: '<i class="fa-solid fa-trash"></i>',
-      callback: (element) => {
-        const el = element.closest('.item');
-        this.actor.deleteEmbeddedDocuments('Item', [el.data('item-id')]);
-        // TODO: Add confirmationTemplate
-      },
-    },
-  ];
-
   getData() {
     const baseData = super.getData();
 
@@ -98,8 +77,6 @@ export default class OD2CharacterSheet extends ActorSheet {
       html.find('.system-ac').change(this._onAcChangeHandler.bind(this));
       html.find('.system-ba').change(this._onBaChangeHandler.bind(this));
       html.find('.system-current-movement').change(this.calculateMovement.bind(this));
-
-      new ContextMenu(html, '.item-name', this.itemContextMenu);
     }
 
     // Owner-only Listeners
@@ -1550,6 +1527,7 @@ export default class OD2CharacterSheet extends ActorSheet {
     event.preventDefault();
     let element = event.currentTarget;
     let itemId = element.closest('.item').dataset.itemId;
+    let item = this.actor.items.get(itemId);
     let itemName = this.actor.items.get(itemId).name;
 
     const confirmationTemplate = `
@@ -1561,10 +1539,30 @@ export default class OD2CharacterSheet extends ActorSheet {
                 <br>
             </div>
         </form>`;
+
+    const isShieldOrArmor = item.type === 'shield' || item.type === 'armor';
+    const isEquipped = this.document.system.equipped_items.includes(itemId);
+
     await Dialog.confirm({
       title: game.i18n.localize('olddragon2e.delete'),
       content: confirmationTemplate,
       yes: async () => {
+        if (isShieldOrArmor && isEquipped) {
+          const bonusCA = item.system.bonus_ca || 0;
+
+          if (item.type === 'shield') {
+            let shieldValue = this.document.system.ac.shield || 0;
+            shieldValue -= bonusCA;
+            await this.document.update({ 'system.ac.shield': shieldValue });
+            await this._calculateCA();
+          } else if (item.type === 'armor') {
+            let armorValue = this.document.system.ac.armor || 0;
+            armorValue -= bonusCA;
+            await this.document.update({ 'system.ac.armor': armorValue });
+            await this._calculateCA();
+          }
+        }
+
         await this.actor.deleteEmbeddedDocuments('Item', [itemId]);
       },
       no: () => {},
