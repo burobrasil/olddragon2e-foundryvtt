@@ -23,6 +23,20 @@
     "minimum": "11",
     "verified": "11"
   },
+  "media": [
+        {
+            "type": "cover",
+            "url": "https://github.com/igorteuri/olddragon2e-foundryvtt/blob/main/src/assets/img/system-cover.png?raw=true",
+            "loop": false,
+            "flags": {}
+        },
+        {
+            "type": "screenshot",
+            "url": "https://github.com/igorteuri/olddragon2e-foundryvtt/blob/main/src/assets/img/system-screenshot.png?raw=true",
+            "loop": false,
+            "flags": {}
+        }
+  ],
   "scripts": [],
   "esmodules": ["module/olddragon2e.js"],
   "styles": ["styles/olddragon2e.css"],
