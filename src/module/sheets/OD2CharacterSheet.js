@@ -688,6 +688,19 @@ export default class OD2CharacterSheet extends ActorSheet {
     const itemID = target.closest('.attack').dataset.itemId;
     const item = this.actor.items.get(itemID);
     const attackName = item.name;
+    const attackType = item.system.type;
+
+    const attackMode = () => {
+      switch (attackType) {
+        case 'melee':
+          return 'melee';
+        case 'throwing':
+          return 'throwing';
+        case 'ammunition':
+          return 'ranged';
+      }
+    };
+
     const attack = item.system;
     const damage = attack.damage;
     const bonus_damage = attack.bonus_damage || 0;
@@ -808,10 +821,20 @@ export default class OD2CharacterSheet extends ActorSheet {
       render: (html) => {
         const formulaEl = html.find('#formula');
         const attackModeEl = html.find('#attack-mode');
-        formulaEl.val(getFormula(attackModeEl.val()));
-        attackModeEl.change((event) => {
-          formulaEl.val(getFormula(event.target.value));
+
+        const updateFormula = () => {
+          const selectedAttackMode = attackModeEl.val();
+          formulaEl.val(getFormula(selectedAttackMode));
+        };
+
+        formulaEl.val(getFormula(attackMode));
+        attackModeEl.val(attackMode);
+
+        attackModeEl.change(() => {
+          updateFormula();
         });
+
+        updateFormula();
       },
     }).render(true);
   }
