@@ -7,6 +7,8 @@ on:
 env:
   package_type: system
   node_version: 20
+  fvtt_minimum: 11
+  fvtt_verified: 11
 
 jobs:
   lint:
@@ -65,6 +67,7 @@ jobs:
     runs-on: ubuntu-latest
     outputs:
       id: ${{ steps.get_id.outputs.id }}
+      version-without-v: ${{ steps.get_version.outputs.version-without-v }}
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
@@ -105,7 +108,7 @@ jobs:
         env:
           version: ${{ steps.get_version.outputs.version-without-v }}
           url: https://github.com/${{ github.repository }}
-          manifest: https://github.com/${{ github.repository }}/releases/latest/download/${{ env.package_type }}.json
+          manifest: https://github.com/${{ github.repository }}/releases/latest/download/${{ steps.get_id.outputs.id }}.json
           download: https://github.com/${{ github.repository }}/releases/download/${{ github.event.release.tag_name }}/${{ steps.get_id.outputs.id }}.zip
 
       - name: Build
@@ -139,6 +142,9 @@ jobs:
         working-directory: ./dist
         run: zip -r ../${{ needs.build.outputs.id }}.zip .
 
+      - name: Copy manifest for vanity artifact name
+        run: cp ./dist/${{ env.package_type }}.json ./dist/${{ needs.build.outputs.id }}.json
+
       - name: Create release
         id: create_version_release
         uses: ncipollo/release-action@v1
@@ -146,5 +152,24 @@ jobs:
           allowUpdates: true
           name: ${{ github.event.release.name }}
           token: ${{ secrets.GITHUB_TOKEN }}
-          artifacts: './dist/${{ env.package_type }}.json, ./${{ needs.build.outputs.id }}.zip'
+          artifacts: './dist/${{ needs.build.outputs.id }}.json, ./${{ needs.build.outputs.id }}.zip'
           body: ${{ github.event.release.body }}
+
+      - name: Submit package to FoundryVTT Package Release API
+        run: |
+          curl -X POST "https://api.foundryvtt.com/_api/packages/release_version/" \
+            -H "Content-Type: application/json" \
+            -H "Authorization: ${{ secrets.FOUNDRYVTT_RELEASE_TOKEN }}" \
+            -d '{
+              "id": "${{ needs.build.outputs.id }}",
+              "dry-run": true,
+              "release": {
+                "version": "${{ needs.build.outputs.version-without-v }}",
+                "manifest": "https://github.com/${{ github.repository }}/releases/download/${{ needs.build.outputs.version-without-v }}/${{ needs.build.outputs.id }}.json",
+                "notes": "https://github.com/${{ github.repository }}/releases/tag/${{ needs.build.outputs.version-without-v }}",
+                "compatibility": {
+                  "minimum": "${{ env.fvtt_minimum }}",
+                  "verified": "${{ env.fvtt_verified }}"
+                }
+              }
+            }'
