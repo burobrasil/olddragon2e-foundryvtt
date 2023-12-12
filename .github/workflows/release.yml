@@ -9,6 +9,7 @@ env:
   node_version: 20
   fvtt_minimum: 11
   fvtt_verified: 11
+  fvtt_dry_run: false
 
 jobs:
   lint:
@@ -162,7 +163,7 @@ jobs:
             -H "Authorization: ${{ secrets.FOUNDRYVTT_RELEASE_TOKEN }}" \
             -d '{
               "id": "${{ needs.build.outputs.id }}",
-              "dry-run": true,
+              "dry-run": ${{ env.fvtt_dry_run }},
               "release": {
                 "version": "${{ needs.build.outputs.version-without-v }}",
                 "manifest": "https://github.com/${{ github.repository }}/releases/download/${{ needs.build.outputs.version-without-v }}/${{ needs.build.outputs.id }}.json",
