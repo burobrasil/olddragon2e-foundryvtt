@@ -24,18 +24,18 @@
     "verified": "11"
   },
   "media": [
-        {
-            "type": "cover",
-            "url": "https://github.com/igorteuri/olddragon2e-foundryvtt/blob/main/src/assets/img/system-cover.png?raw=true",
-            "loop": false,
-            "flags": {}
-        },
-        {
-            "type": "screenshot",
-            "url": "https://github.com/igorteuri/olddragon2e-foundryvtt/blob/main/src/assets/img/system-screenshot.png?raw=true",
-            "loop": false,
-            "flags": {}
-        }
+    {
+      "type": "cover",
+      "url": "https://raw.githubusercontent.com/burobrasil/olddragon2e-foundryvtt/main/src/assets/img/system-cover.webp",
+      "loop": false,
+      "flags": {}
+    },
+    {
+      "type": "screenshot",
+      "url": "https://raw.githubusercontent.com/burobrasil/olddragon2e-foundryvtt/main/src/assets/img/system-screenshot.webp",
+      "loop": false,
+      "flags": {}
+    }
   ],
   "scripts": [],
   "esmodules": ["module/olddragon2e.js"],
