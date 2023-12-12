@@ -4,7 +4,7 @@ Sistema do Old Dragon 2a Edição para FoundryVTT.
 
 **Note for English speakers & international community**: Old Dragon 2nd Edition is a Brazilian Tabletop Roleplaying Game and, at this time, is only written in Brazilian Portuguese. Because of that, the rest of this module is written primarely in Portuguese.
 
-## Recursos:
+## Recursos
 
 - **Criação Personalizada:** Jogadores podem criar Personagens, Monstros & Inimigos e Itens (incluindo Armas, Armaduras, Escudos, Itens Gerais, Recipientes & Vasilhames, Montarias & Transportes) de forma personalizada;
 - **Cálculo Automático de Modificadores:** O módulo calcula automaticamente os modificadores de atributos, otimizando o processo de criação e evolução de personagens;
@@ -23,7 +23,7 @@ Para instalar, abra o Foundry, vá em Sistemas (_Systems_) em Instalar Sistema (
 
 Você também pode copiar o link do manifesto abaixo e colar na caixa de manifesto (_Link manifest_):
 
-```
+```text
 https://github.com/burobrasil/olddragon2e-foundryvtt/releases/latest/download/system.json
 ```
 
@@ -46,7 +46,7 @@ O sistema `olddragon2e` para Foundry VTT está em desenvolvimento contínuo, ain
 
 In order to build this system, recent versions of `node` and `npm` are required. Most likely, using `yarn` also works, but only `npm` is officially supported. We recommend using the latest lts version of `node`. If you use `nvm` to manage your `node` versions, you can simply run
 
-```
+```shell
 nvm install
 ```
 
@@ -54,7 +54,7 @@ in the project's root directory.
 
 You also need to install the project's dependencies. To do so, run
 
-```
+```shell
 npm install
 ```
 
@@ -62,13 +62,13 @@ npm install
 
 You can build the project by running
 
-```
+```shell
 npm run build
 ```
 
 Alternatively, you can run
 
-```
+```shell
 npm run build:watch
 ```
 
@@ -78,7 +78,7 @@ to watch for changes and automatically build as necessary.
 
 In order to provide a fluent development experience, it is recommended to link the built system to your local Foundry VTT installation's data folder. In order to do so, first add a file called `foundryconfig.json` to the project root with the following content:
 
-```
+```json
 {
   "dataPath": ["/absolute/path/to/your/FoundryVTT"]
 }
@@ -88,7 +88,7 @@ In order to provide a fluent development experience, it is recommended to link t
 
 Then run
 
-```
+```shell
 npm run link-project
 ```
 
@@ -100,7 +100,7 @@ You can also link to multiple data folders by specifying multiple paths in the `
 
 You can run the tests with the following command:
 
-```
+```shell
 npm test
 ```
 
