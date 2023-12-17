@@ -87,8 +87,9 @@
   "packFolders": [
     {
       "name": "SRD",
+      "sorting": "m",
       "color": "#000000",
-      "packs": ["characters", "equipment", "monsters", "rollable-tables", "spells", "srd"]
+      "packs": ["equipment", "spells", "monsters", "rollable-tables", "characters", "srd"]
     }
   ],
   "languages": [
