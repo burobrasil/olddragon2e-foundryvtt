@@ -42,18 +42,18 @@
   "styles": ["styles/olddragon2e.css"],
   "packs": [
     {
-      "name": "characters",
-      "label": "Personagens Prontos",
-      "path": "packs/characters",
-      "type": "Actor",
-      "banner": "systems/olddragon2e/assets/compendium-banner/characters.webp"
-    },
-    {
       "name": "equipment",
       "label": "Equipamentos",
       "path": "packs/equipment",
       "type": "Item",
       "banner": "systems/olddragon2e/assets/compendium-banner/equipment.webp"
+    },
+    {
+      "name": "spells",
+      "label": "Magias",
+      "path": "packs/spells",
+      "type": "Item",
+      "banner": "systems/olddragon2e/assets/compendium-banner/spells.webp"
     },
     {
       "name": "monsters",
@@ -70,11 +70,11 @@
       "banner": "systems/olddragon2e/assets/compendium-banner/rollable-tables.webp"
     },
     {
-      "name": "spells",
-      "label": "Magias",
-      "path": "packs/spells",
-      "type": "Item",
-      "banner": "systems/olddragon2e/assets/compendium-banner/spells.webp"
+      "name": "characters",
+      "label": "Personagens Prontos",
+      "path": "packs/characters",
+      "type": "Actor",
+      "banner": "systems/olddragon2e/assets/compendium-banner/characters.webp"
     },
     {
       "name": "srd",
