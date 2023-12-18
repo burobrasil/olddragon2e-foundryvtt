@@ -30,6 +30,9 @@ class CharacterImporterDialog extends Application {
 
   async _onCharacterImporter(event) {
     event.preventDefault();
+    const button = document.querySelector('.character-importer-button');
+    button.disabled = true;
+
     const url = document.querySelector('#character-importer-url-text').value;
     const parsedURL = this._parseURL(url);
     const json = await this._retrieveJson(parsedURL);
@@ -45,6 +48,8 @@ class CharacterImporterDialog extends Application {
     } catch (err) {
       console.error(err);
       ui.notifications.error(`Error importing character. Check console for error log.`);
+    } finally {
+      button.disabled = false;
     }
   }
 
