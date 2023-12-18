@@ -30,18 +30,42 @@ class CharacterImporterDialog extends Application {
 
   async _onCharacterImporter(event) {
     event.preventDefault();
-    const json = document.querySelector('#character-importer-textarea').value;
+    const url = document.querySelector('#character-importer-url-text').value;
+    const parsedURL = this._parseURL(url);
+    const json = await this._retrieveJson(parsedURL);
 
+    console.debug('olddragon2e | _onCharacterImporter', json);
     if (json === '') return;
 
     try {
-      const actor = await importActor(JSON.parse(json));
+      const actor = await importActor(json);
       actor.sheet.render(true);
 
       await this.close();
     } catch (err) {
       console.error(err);
       ui.notifications.error(`Error importing character. Check console for error log.`);
+    }
+  }
+
+  _parseURL(url) {
+    // check if URL ends with .json. if not, append it
+    if (!url.endsWith('.json')) {
+      url += '.json';
+    }
+
+    return url;
+  }
+  async _retrieveJson(url) {
+    try {
+      console.debug('olddragon2e | Retrieving JSON from URL: ', url);
+
+      const response = await fetch(url);
+
+      return response.json();
+    } catch (error) {
+      console.error(error);
+      ui.notifications.error(`Error making external request. Check console for error log.`);
     }
   }
 }
