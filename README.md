@@ -42,8 +42,7 @@ O sistema `olddragon2e` para Foundry VTT está em desenvolvimento contínuo, ain
 
 ## Importação de personagens
 
-[![Watch the video](./static//importacao-personagem.webp)](./static/importacao-personagem.webm)
-
+![Importação de personagem](./static/importacao-personagem.gif)
 
 ## Development
 
