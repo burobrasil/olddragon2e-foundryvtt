@@ -40,6 +40,10 @@ O sistema `olddragon2e` para Foundry VTT está em desenvolvimento contínuo, ain
 - Tabelas de rolagens diversas (ex: Tesouros);
 - Sistema de turnos/iniciativa (Combat Tracker).
 
+## Importação de personagens
+
+![Importação de personagem](./static/importacao-personagem.gif)
+
 ## Development
 
 ### Prerequisites

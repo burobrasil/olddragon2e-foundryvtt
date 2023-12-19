@@ -113,5 +113,6 @@
   "download": "This is auto replaced",
   "gridDistance": 1.5,
   "gridUnits": "m",
-  "primaryTokenAttribute": "hp"
+  "primaryTokenAttribute": "hp",
+  "background": "systems/olddragon2e/assets/system-cover.webp"
 }
