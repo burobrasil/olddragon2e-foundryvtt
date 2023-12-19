@@ -1,14 +1,14 @@
-2023/12/17-13:21:28.368696 16fa4f000 Recovering log #180
-2023/12/17-13:21:28.369741 16fa4f000 Delete type=0 #180
-2023/12/17-13:21:28.369868 16fa4f000 Delete type=3 #178
-2023/12/17-13:21:28.372226 1702e7000 Level-0 table #186: started
-2023/12/17-13:21:28.373505 1702e7000 Level-0 table #186: 98664 bytes OK
-2023/12/17-13:21:28.373569 1702e7000 Delete type=0 #184
-2023/12/17-13:21:28.373680 1702e7000 Manual compaction at level-0 from '!folders!1GdIatDAUmBOoNQj' @ 72057594037927935 : 1 .. '!items!yzxb6JKWXlTCbbuR' @ 0 : 0; will stop at '!items!yzxb6JKWXlTCbbuR' @ 5759 : 1
-2023/12/17-13:21:28.373686 1702e7000 Compacting 1@0 + 1@1 files
-2023/12/17-13:21:28.375080 1702e7000 Generated table #187@0: 188 keys, 98664 bytes
-2023/12/17-13:21:28.375086 1702e7000 Compacted 1@0 + 1@1 files => 98664 bytes
-2023/12/17-13:21:28.375118 1702e7000 compacted to: files[ 0 1 0 0 0 0 0 ]
-2023/12/17-13:21:28.375146 1702e7000 Delete type=2 #182
-2023/12/17-13:21:28.375244 1702e7000 Delete type=2 #186
-2023/12/17-13:21:28.375404 1702e7000 Manual compaction at level-0 from '!items!yzxb6JKWXlTCbbuR' @ 5759 : 1 .. '!items!yzxb6JKWXlTCbbuR' @ 0 : 0; will stop at (end)
+2023/12/19-09:38:31.455188 171c5b000 Recovering log #190
+2023/12/19-09:38:31.456043 171c5b000 Delete type=3 #188
+2023/12/19-09:38:31.456174 171c5b000 Delete type=0 #190
+2023/12/19-09:38:31.458535 171ce7000 Level-0 table #196: started
+2023/12/19-09:38:31.459278 171ce7000 Level-0 table #196: 98623 bytes OK
+2023/12/19-09:38:31.459376 171ce7000 Delete type=0 #194
+2023/12/19-09:38:31.459634 171ce7000 Manual compaction at level-0 from '!folders!1GdIatDAUmBOoNQj' @ 72057594037927935 : 1 .. '!items!yzxb6JKWXlTCbbuR' @ 0 : 0; will stop at '!items!yzxb6JKWXlTCbbuR' @ 6135 : 1
+2023/12/19-09:38:31.459643 171ce7000 Compacting 1@0 + 1@1 files
+2023/12/19-09:38:31.460715 171ce7000 Generated table #197@0: 188 keys, 98623 bytes
+2023/12/19-09:38:31.460721 171ce7000 Compacted 1@0 + 1@1 files => 98623 bytes
+2023/12/19-09:38:31.460759 171ce7000 compacted to: files[ 0 1 0 0 0 0 0 ]
+2023/12/19-09:38:31.460788 171ce7000 Delete type=2 #196
+2023/12/19-09:38:31.460882 171ce7000 Delete type=2 #192
+2023/12/19-09:38:31.460982 171ce7000 Manual compaction at level-0 from '!items!yzxb6JKWXlTCbbuR' @ 6135 : 1 .. '!items!yzxb6JKWXlTCbbuR' @ 0 : 0; will stop at (end)
