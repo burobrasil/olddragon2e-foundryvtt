@@ -1,4 +1,4 @@
-export function registerSettings() {
+export function registerHandlebarsHelper() {
   // Times helper for Handlebars
   Handlebars.registerHelper('times', function (n, content) {
     let result = '';

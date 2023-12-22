@@ -1,5 +1,5 @@
 // Import JavaScript modules
-import { registerSettings } from './settings.js';
+import { registerHandlebarsHelper } from './helpers';
 import { preloadTemplates } from './preloadTemplates.js';
 
 import { olddragon2e } from './config.js';
@@ -34,8 +34,8 @@ Hooks.once('init', async () => {
     makeDefault: true,
   });
 
-  // Register custom system settings
-  registerSettings();
+  // Register custom Handlebars helpers
+  registerHandlebarsHelper();
 
   // Preload Handlebars templates
   await preloadTemplates();
