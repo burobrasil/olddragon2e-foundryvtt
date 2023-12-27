@@ -3,7 +3,7 @@
   "name": "Armadura Leve",
   "type": "vehicle",
   "_id": "bmwqJFIuakIM1XBO",
-  "img": "icons/svg/item-bag.svg",
+  "img": "systems/olddragon2e/assets/equipment-concepts/vehicle.svg",
   "system": {
     "odo_id": "armadura-leve",
     "quantity": 1,

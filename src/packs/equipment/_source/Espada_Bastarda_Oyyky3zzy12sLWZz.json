@@ -3,7 +3,7 @@
   "name": "Espada Bastarda",
   "type": "weapon",
   "_id": "Oyyky3zzy12sLWZz",
-  "img": "icons/svg/item-bag.svg",
+  "img": "systems/olddragon2e/assets/equipment-concepts/weapon.svg",
   "system": {
     "odo_id": "espada-bastarda",
     "quantity": 1,

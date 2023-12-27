@@ -3,7 +3,7 @@
   "name": "Jumento ou Mula",
   "type": "vehicle",
   "_id": "fqkiQCiaDm2esxPL",
-  "img": "icons/svg/item-bag.svg",
+  "img": "systems/olddragon2e/assets/equipment-concepts/vehicle.svg",
   "system": {
     "odo_id": "jumento-ou-mula",
     "quantity": 1,

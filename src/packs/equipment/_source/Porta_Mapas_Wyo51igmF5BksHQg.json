@@ -3,7 +3,7 @@
   "name": "Porta Mapas",
   "type": "container",
   "_id": "Wyo51igmF5BksHQg",
-  "img": "icons/svg/item-bag.svg",
+  "img": "systems/olddragon2e/assets/equipment-concepts/container.svg",
   "system": {
     "odo_id": "porta-mapas",
     "quantity": 1,

@@ -3,7 +3,7 @@
   "name": "Machado de Batalha",
   "type": "weapon",
   "_id": "zDl0yrlfiRDyofnT",
-  "img": "icons/svg/item-bag.svg",
+  "img": "systems/olddragon2e/assets/equipment-concepts/weapon.svg",
   "system": {
     "odo_id": "machado-de-batalha",
     "quantity": 1,

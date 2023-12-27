@@ -3,7 +3,7 @@
   "name": "Grimório",
   "type": "misc",
   "_id": "sh6hY6Yby5ldDHiC",
-  "img": "icons/svg/item-bag.svg",
+  "img": "systems/olddragon2e/assets/equipment-concepts/misc.svg",
   "system": {
     "odo_id": "grimorio",
     "quantity": 1,

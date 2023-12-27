@@ -3,7 +3,7 @@
   "name": "Espelho",
   "type": "misc",
   "_id": "6IAoOGDoTe2HGlpK",
-  "img": "icons/svg/item-bag.svg",
+  "img": "systems/olddragon2e/assets/equipment-concepts/misc.svg",
   "system": {
     "odo_id": "espelho",
     "quantity": 1,

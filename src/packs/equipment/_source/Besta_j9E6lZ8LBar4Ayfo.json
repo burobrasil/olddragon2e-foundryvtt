@@ -3,7 +3,7 @@
   "name": "Besta",
   "type": "weapon",
   "_id": "j9E6lZ8LBar4Ayfo",
-  "img": "icons/svg/item-bag.svg",
+  "img": "systems/olddragon2e/assets/equipment-concepts/weapon.svg",
   "system": {
     "odo_id": "besta",
     "quantity": 1,

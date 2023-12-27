@@ -3,7 +3,7 @@
   "name": "Traje de inverno",
   "type": "misc",
   "_id": "wbK5anxUXFeZ8ZWX",
-  "img": "icons/svg/item-bag.svg",
+  "img": "systems/olddragon2e/assets/equipment-concepts/misc.svg",
   "system": {
     "odo_id": "traje-de-inverno",
     "quantity": 1,

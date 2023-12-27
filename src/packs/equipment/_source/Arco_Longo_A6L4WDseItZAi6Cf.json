@@ -3,7 +3,7 @@
   "name": "Arco Longo",
   "type": "weapon",
   "_id": "A6L4WDseItZAi6Cf",
-  "img": "icons/svg/item-bag.svg",
+  "img": "systems/olddragon2e/assets/equipment-concepts/weapon.svg",
   "system": {
     "odo_id": "arco-longo",
     "quantity": 1,

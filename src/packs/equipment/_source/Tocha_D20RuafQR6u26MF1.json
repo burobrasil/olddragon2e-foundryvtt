@@ -3,7 +3,7 @@
   "name": "Tocha",
   "type": "misc",
   "_id": "D20RuafQR6u26MF1",
-  "img": "icons/svg/item-bag.svg",
+  "img": "systems/olddragon2e/assets/equipment-concepts/misc.svg",
   "system": {
     "odo_id": "tocha",
     "quantity": 5,

@@ -3,7 +3,7 @@
   "name": "Ferramentas de Ladrão",
   "type": "misc",
   "_id": "xaUXiRmUpCz0UPUE",
-  "img": "icons/svg/item-bag.svg",
+  "img": "systems/olddragon2e/assets/equipment-concepts/misc.svg",
   "system": {
     "odo_id": "ferramentas-de-ladrao",
     "quantity": 1,

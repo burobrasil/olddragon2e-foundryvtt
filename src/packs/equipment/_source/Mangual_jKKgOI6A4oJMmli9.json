@@ -3,7 +3,7 @@
   "name": "Mangual",
   "type": "weapon",
   "_id": "jKKgOI6A4oJMmli9",
-  "img": "icons/svg/item-bag.svg",
+  "img": "systems/olddragon2e/assets/equipment-concepts/weapon.svg",
   "system": {
     "odo_id": "mangual",
     "quantity": 1,

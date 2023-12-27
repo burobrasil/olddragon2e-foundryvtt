@@ -3,7 +3,7 @@
   "name": "Azagaia",
   "type": "weapon",
   "_id": "4NbbBII6Z9FbPQ7R",
-  "img": "icons/svg/item-bag.svg",
+  "img": "systems/olddragon2e/assets/equipment-concepts/weapon.svg",
   "system": {
     "odo_id": "azagaia",
     "quantity": 1,

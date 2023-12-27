@@ -3,7 +3,7 @@
   "name": "Arco Curto",
   "type": "weapon",
   "_id": "6flaT3mH3VINQJRM",
-  "img": "icons/svg/item-bag.svg",
+  "img": "systems/olddragon2e/assets/equipment-concepts/weapon.svg",
   "system": {
     "odo_id": "arco-curto",
     "quantity": 1,

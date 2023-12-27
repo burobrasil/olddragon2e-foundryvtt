@@ -3,7 +3,7 @@
   "name": "Símbolo divino",
   "type": "misc",
   "_id": "L1vzHoA0kso2cRr9",
-  "img": "icons/svg/item-bag.svg",
+  "img": "systems/olddragon2e/assets/equipment-concepts/misc.svg",
   "system": {
     "odo_id": "simbolo-divino",
     "quantity": 1,

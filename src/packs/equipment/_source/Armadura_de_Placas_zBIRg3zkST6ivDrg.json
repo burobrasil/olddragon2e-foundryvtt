@@ -3,7 +3,7 @@
   "name": "Armadura de Placas",
   "type": "armor",
   "_id": "zBIRg3zkST6ivDrg",
-  "img": "icons/svg/item-bag.svg",
+  "img": "systems/olddragon2e/assets/equipment-concepts/armor.svg",
   "system": {
     "odo_id": "armadura-de-placas",
     "quantity": 1,

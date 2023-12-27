@@ -3,7 +3,7 @@
   "name": "Mochila",
   "type": "container",
   "_id": "K5bh3HGT8fC4Fuzb",
-  "img": "icons/svg/item-bag.svg",
+  "img": "systems/olddragon2e/assets/equipment-concepts/container.svg",
   "system": {
     "odo_id": "mochila",
     "quantity": 1,

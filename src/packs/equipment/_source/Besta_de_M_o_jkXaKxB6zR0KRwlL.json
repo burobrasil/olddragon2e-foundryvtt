@@ -3,7 +3,7 @@
   "name": "Besta de Mão",
   "type": "weapon",
   "_id": "jkXaKxB6zR0KRwlL",
-  "img": "icons/svg/item-bag.svg",
+  "img": "systems/olddragon2e/assets/equipment-concepts/weapon.svg",
   "system": {
     "odo_id": "besta-de-mao",
     "quantity": 1,

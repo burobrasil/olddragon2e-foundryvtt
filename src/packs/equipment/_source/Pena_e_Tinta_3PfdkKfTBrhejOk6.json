@@ -3,7 +3,7 @@
   "name": "Pena e Tinta",
   "type": "misc",
   "_id": "3PfdkKfTBrhejOk6",
-  "img": "icons/svg/item-bag.svg",
+  "img": "systems/olddragon2e/assets/equipment-concepts/misc.svg",
   "system": {
     "odo_id": "pena-e-tinta",
     "quantity": 1,
