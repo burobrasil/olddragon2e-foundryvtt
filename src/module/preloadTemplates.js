@@ -15,7 +15,6 @@ export async function preloadTemplates() {
     'systems/olddragon2e/templates/partials/cards/container-card.hbs',
     'systems/olddragon2e/templates/partials/cards/vehicle-card.hbs',
     'systems/olddragon2e/templates/partials/cards/spell-card.hbs',
-    'templates/dice/roll.html',
   ];
 
   return loadTemplates(templatePaths);
