@@ -9,7 +9,7 @@ class CharacterImporterDialog extends Application {
   static get defaultOptions() {
     const options = super.defaultOptions;
     options.id = 'character-importer-dialog';
-    options.title = 'Importar Personagem';
+    options.title = 'Importar Personagem do ODO';
     options.template = 'systems/olddragon2e/templates/dialog/character-importer-dialog.hbs';
     options.width = 420;
     options.height = 'auto';
