@@ -3,7 +3,7 @@
   "name": "Cravos/Ganchos",
   "type": "misc",
   "_id": "WLjq2FU5zV0kkfvS",
-  "img": "icons/svg/item-bag.svg",
+  "img": "systems/olddragon2e/assets/equipment-concepts/misc.svg",
   "system": {
     "odo_id": "cravos-ganchos",
     "quantity": 5,

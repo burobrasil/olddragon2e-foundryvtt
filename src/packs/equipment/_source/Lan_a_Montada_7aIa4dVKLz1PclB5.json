@@ -3,7 +3,7 @@
   "name": "Lança Montada",
   "type": "weapon",
   "_id": "7aIa4dVKLz1PclB5",
-  "img": "icons/svg/item-bag.svg",
+  "img": "systems/olddragon2e/assets/equipment-concepts/weapon.svg",
   "system": {
     "odo_id": "lanca-montada",
     "quantity": 1,

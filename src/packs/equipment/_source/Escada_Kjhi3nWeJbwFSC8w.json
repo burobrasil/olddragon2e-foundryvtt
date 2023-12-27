@@ -3,7 +3,7 @@
   "name": "Escada",
   "type": "misc",
   "_id": "Kjhi3nWeJbwFSC8w",
-  "img": "icons/svg/item-bag.svg",
+  "img": "systems/olddragon2e/assets/equipment-concepts/misc.svg",
   "system": {
     "odo_id": "escada",
     "quantity": 1,

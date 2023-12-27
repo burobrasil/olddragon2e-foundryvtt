@@ -3,7 +3,7 @@
   "name": "Saco de estopa",
   "type": "container",
   "_id": "UIrQ5ca7yKwokuGX",
-  "img": "icons/svg/item-bag.svg",
+  "img": "systems/olddragon2e/assets/equipment-concepts/container.svg",
   "system": {
     "odo_id": "saco-de-estopa",
     "quantity": 1,

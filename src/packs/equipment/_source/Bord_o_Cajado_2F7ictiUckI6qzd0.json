@@ -3,7 +3,7 @@
   "name": "Bordão/Cajado",
   "type": "weapon",
   "_id": "2F7ictiUckI6qzd0",
-  "img": "icons/svg/item-bag.svg",
+  "img": "systems/olddragon2e/assets/equipment-concepts/weapon.svg",
   "system": {
     "odo_id": "bordao-cajado",
     "quantity": 1,

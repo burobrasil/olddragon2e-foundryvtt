@@ -3,7 +3,7 @@
   "name": "Martelo",
   "type": "weapon",
   "_id": "rAzzeqlzJygIJ0C5",
-  "img": "icons/svg/item-bag.svg",
+  "img": "systems/olddragon2e/assets/equipment-concepts/weapon.svg",
   "system": {
     "odo_id": "martelo",
     "quantity": 1,

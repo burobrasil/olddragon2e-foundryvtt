@@ -3,7 +3,7 @@
   "name": "Armadura Pesada",
   "type": "vehicle",
   "_id": "A3aepj1tknMM1NAF",
-  "img": "icons/svg/item-bag.svg",
+  "img": "systems/olddragon2e/assets/equipment-concepts/vehicle.svg",
   "system": {
     "odo_id": "armadura-pesada",
     "quantity": 1,

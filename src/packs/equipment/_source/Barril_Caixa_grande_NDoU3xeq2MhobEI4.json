@@ -3,7 +3,7 @@
   "name": "Barril/Caixa grande",
   "type": "container",
   "_id": "NDoU3xeq2MhobEI4",
-  "img": "icons/svg/item-bag.svg",
+  "img": "systems/olddragon2e/assets/equipment-concepts/container.svg",
   "system": {
     "odo_id": "barril-caixa-grande",
     "quantity": 1,

@@ -3,7 +3,7 @@
   "name": "Armadura Acolchoada",
   "type": "armor",
   "_id": "ytkhuAaPR8QZHuca",
-  "img": "icons/svg/item-bag.svg",
+  "img": "systems/olddragon2e/assets/equipment-concepts/armor.svg",
   "system": {
     "odo_id": "armadura-acolchoada",
     "quantity": 1,

@@ -3,7 +3,7 @@
   "name": "Pé de Cabra",
   "type": "misc",
   "_id": "7dLYD1933cPyrzsZ",
-  "img": "icons/svg/item-bag.svg",
+  "img": "systems/olddragon2e/assets/equipment-concepts/misc.svg",
   "system": {
     "odo_id": "pe-de-cabra",
     "quantity": 1,

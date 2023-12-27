@@ -3,7 +3,7 @@
   "name": "Cavalo de Montaria",
   "type": "vehicle",
   "_id": "4Vebb5V3odWBPeLS",
-  "img": "icons/svg/item-bag.svg",
+  "img": "systems/olddragon2e/assets/equipment-concepts/vehicle.svg",
   "system": {
     "odo_id": "cavalo-de-montaria",
     "quantity": 1,

@@ -3,7 +3,7 @@
   "name": "Maça",
   "type": "weapon",
   "_id": "xBcBQL5MqrJ95y4n",
-  "img": "icons/svg/item-bag.svg",
+  "img": "systems/olddragon2e/assets/equipment-concepts/weapon.svg",
   "system": {
     "odo_id": "maca",
     "quantity": 1,

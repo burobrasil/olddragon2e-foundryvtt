@@ -3,7 +3,7 @@
   "name": "Funda",
   "type": "weapon",
   "_id": "Dz8aikM97v8TbNYi",
-  "img": "icons/svg/item-bag.svg",
+  "img": "systems/olddragon2e/assets/equipment-concepts/weapon.svg",
   "system": {
     "odo_id": "funda",
     "quantity": 1,

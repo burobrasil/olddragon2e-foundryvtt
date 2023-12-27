@@ -3,7 +3,7 @@
   "name": "Traje nobre",
   "type": "misc",
   "_id": "upyKJsYs9MfyYxgI",
-  "img": "icons/svg/item-bag.svg",
+  "img": "systems/olddragon2e/assets/equipment-concepts/misc.svg",
   "system": {
     "odo_id": "traje-nobre",
     "quantity": 1,

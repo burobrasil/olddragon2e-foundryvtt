@@ -3,7 +3,7 @@
   "name": "Espada Longa",
   "type": "weapon",
   "_id": "oWAlui23AapLSV7s",
-  "img": "icons/svg/item-bag.svg",
+  "img": "systems/olddragon2e/assets/equipment-concepts/weapon.svg",
   "system": {
     "odo_id": "espada-longa",
     "quantity": 1,

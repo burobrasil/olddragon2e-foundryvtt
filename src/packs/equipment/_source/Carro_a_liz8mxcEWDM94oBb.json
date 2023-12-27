@@ -3,7 +3,7 @@
   "name": "Carroça",
   "type": "vehicle",
   "_id": "liz8mxcEWDM94oBb",
-  "img": "icons/svg/item-bag.svg",
+  "img": "systems/olddragon2e/assets/equipment-concepts/vehicle.svg",
   "system": {
     "odo_id": "carroca",
     "quantity": 1,

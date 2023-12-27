@@ -3,7 +3,7 @@
   "name": "Cota de Malha",
   "type": "armor",
   "_id": "D4y6KejFy4pzVRh4",
-  "img": "icons/svg/item-bag.svg",
+  "img": "systems/olddragon2e/assets/equipment-concepts/armor.svg",
   "system": {
     "odo_id": "cota-de-malha",
     "quantity": 1,

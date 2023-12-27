@@ -3,7 +3,7 @@
   "name": "Flecha de Guerra",
   "type": "weapon",
   "_id": "gVzLGkPnunVhQN75",
-  "img": "icons/svg/item-bag.svg",
+  "img": "systems/olddragon2e/assets/equipment-concepts/weapon.svg",
   "system": {
     "odo_id": "flecha-de-guerra",
     "quantity": 20,

@@ -3,7 +3,7 @@
   "name": "Óleo",
   "type": "misc",
   "_id": "ygDh6KjWCdT2C8HM",
-  "img": "icons/svg/item-bag.svg",
+  "img": "systems/olddragon2e/assets/equipment-concepts/misc.svg",
   "system": {
     "odo_id": "oleo",
     "quantity": 1,

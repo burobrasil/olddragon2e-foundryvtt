@@ -3,7 +3,7 @@
   "name": "Pônei",
   "type": "vehicle",
   "_id": "gh7WdsUlvfoeKVbU",
-  "img": "icons/svg/item-bag.svg",
+  "img": "systems/olddragon2e/assets/equipment-concepts/vehicle.svg",
   "system": {
     "odo_id": "ponei",
     "quantity": 1,

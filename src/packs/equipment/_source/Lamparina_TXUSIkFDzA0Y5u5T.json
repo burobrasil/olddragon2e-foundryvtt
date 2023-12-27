@@ -3,7 +3,7 @@
   "name": "Lamparina",
   "type": "misc",
   "_id": "TXUSIkFDzA0Y5u5T",
-  "img": "icons/svg/item-bag.svg",
+  "img": "systems/olddragon2e/assets/equipment-concepts/misc.svg",
   "system": {
     "odo_id": "lamparina",
     "quantity": 1,

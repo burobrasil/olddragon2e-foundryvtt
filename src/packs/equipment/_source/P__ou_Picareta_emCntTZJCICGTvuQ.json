@@ -3,7 +3,7 @@
   "name": "Pá ou Picareta",
   "type": "misc",
   "_id": "emCntTZJCICGTvuQ",
-  "img": "icons/svg/item-bag.svg",
+  "img": "systems/olddragon2e/assets/equipment-concepts/misc.svg",
   "system": {
     "odo_id": "pa-ou-picareta",
     "quantity": 1,

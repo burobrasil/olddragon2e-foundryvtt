@@ -3,7 +3,7 @@
   "name": "Armadura de Couro",
   "type": "armor",
   "_id": "ivznftWqpmoHlthd",
-  "img": "icons/svg/item-bag.svg",
+  "img": "systems/olddragon2e/assets/equipment-concepts/armor.svg",
   "system": {
     "odo_id": "armadura-de-couro",
     "quantity": 1,

@@ -3,7 +3,7 @@
   "name": "Aljava",
   "type": "container",
   "_id": "FJXb8rSDzI45VrfZ",
-  "img": "icons/svg/item-bag.svg",
+  "img": "systems/olddragon2e/assets/equipment-concepts/container.svg",
   "system": {
     "odo_id": "aljava",
     "quantity": 1,

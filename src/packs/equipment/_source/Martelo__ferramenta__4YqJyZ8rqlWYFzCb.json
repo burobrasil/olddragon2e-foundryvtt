@@ -3,7 +3,7 @@
   "name": "Martelo (ferramenta)",
   "type": "misc",
   "_id": "4YqJyZ8rqlWYFzCb",
-  "img": "icons/svg/item-bag.svg",
+  "img": "systems/olddragon2e/assets/equipment-concepts/misc.svg",
   "system": {
     "odo_id": "martelo-ferramenta",
     "quantity": 1,

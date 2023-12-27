@@ -3,7 +3,7 @@
   "name": "Cadeado",
   "type": "misc",
   "_id": "Oj5bXP73j5g5xenu",
-  "img": "icons/svg/item-bag.svg",
+  "img": "systems/olddragon2e/assets/equipment-concepts/misc.svg",
   "system": {
     "odo_id": "cadeado",
     "quantity": 1,

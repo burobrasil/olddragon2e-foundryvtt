@@ -3,7 +3,7 @@
   "name": "Flecha de Caça",
   "type": "weapon",
   "_id": "BPz09ztaAV9aGUKf",
-  "img": "icons/svg/item-bag.svg",
+  "img": "systems/olddragon2e/assets/equipment-concepts/weapon.svg",
   "system": {
     "odo_id": "flecha-de-caca",
     "quantity": 20,

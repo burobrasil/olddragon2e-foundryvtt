@@ -3,7 +3,7 @@
   "name": "Apito",
   "type": "misc",
   "_id": "zHy5PiQm1WvprrBi",
-  "img": "icons/svg/item-bag.svg",
+  "img": "systems/olddragon2e/assets/equipment-concepts/misc.svg",
   "system": {
     "odo_id": "apito",
     "quantity": 1,

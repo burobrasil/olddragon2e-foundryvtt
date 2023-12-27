@@ -3,7 +3,7 @@
   "name": "Porrete/Clava",
   "type": "weapon",
   "_id": "3qtXuSJbhqMbh9xw",
-  "img": "icons/svg/item-bag.svg",
+  "img": "systems/olddragon2e/assets/equipment-concepts/weapon.svg",
   "system": {
     "odo_id": "porrete-clava",
     "quantity": 1,

@@ -3,7 +3,7 @@
   "name": "Vara de exploração",
   "type": "misc",
   "_id": "Wq5b7o6xcGwaUY0W",
-  "img": "icons/svg/item-bag.svg",
+  "img": "systems/olddragon2e/assets/equipment-concepts/misc.svg",
   "system": {
     "odo_id": "vara-de-exploracao",
     "quantity": 1,

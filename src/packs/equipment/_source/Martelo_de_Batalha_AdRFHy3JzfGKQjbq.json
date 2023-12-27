@@ -3,7 +3,7 @@
   "name": "Martelo de Batalha",
   "type": "weapon",
   "_id": "AdRFHy3JzfGKQjbq",
-  "img": "icons/svg/item-bag.svg",
+  "img": "systems/olddragon2e/assets/equipment-concepts/weapon.svg",
   "system": {
     "odo_id": "martelo-de-batalha",
     "quantity": 1,

@@ -3,7 +3,7 @@
   "name": "Escudo",
   "type": "shield",
   "_id": "TKq2Uwsx5rBKeyvs",
-  "img": "icons/svg/item-bag.svg",
+  "img": "systems/olddragon2e/assets/equipment-concepts/shield.svg",
   "system": {
     "odo_id": "escudo",
     "quantity": 1,
