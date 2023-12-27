@@ -10,6 +10,17 @@ import OD2CharacterSheet from './sheets/OD2CharacterSheet.js';
 import OD2MonsterSheet from './sheets/OD2MonsterSheet.js';
 import { renderActorDirectory } from './system/renderActorDirectory.js';
 
+import { OD2CharacterDataModel } from './actors/OD2CharacterDataModel.js';
+import { OD2MonsterDataModel } from './actors/OD2MonsterDataModel.js';
+import {
+  OD2WeaponDataModel,
+  OD2ArmorDataModel,
+  OD2ShieldDataModel,
+  OD2EquipmentDataModel,
+  OD2ContainerDataModel,
+  OD2SpellDataModel,
+} from './items';
+
 // Initialize system
 Hooks.once('init', async () => {
   console.log('olddragon2e | Initializing Old Dragon 2e system');
@@ -18,6 +29,21 @@ Hooks.once('init', async () => {
 
   CONFIG.olddragon2e = olddragon2e;
   CONFIG.Item.documentClass = OD2Item;
+
+  CONFIG.Actor.dataModels = {
+    character: OD2CharacterDataModel,
+    monster: OD2MonsterDataModel,
+  };
+
+  CONFIG.Item.dataModels = {
+    weapon: OD2WeaponDataModel,
+    armor: OD2ArmorDataModel,
+    shield: OD2ShieldDataModel,
+    misc: OD2EquipmentDataModel,
+    container: OD2ContainerDataModel,
+    vehicle: OD2EquipmentDataModel,
+    spell: OD2SpellDataModel,
+  };
 
   Items.unregisterSheet('core', ItemSheet);
   Items.registerSheet('olddragon2e', OD2ItemSheet, { makeDefault: true });
@@ -45,8 +71,7 @@ Hooks.once('init', async () => {
 
 // Setup system
 Hooks.once('setup', async () => {
-  // Do anything after initialization but before
-  // ready
+  // Do anything after initialization but before ready
 });
 
 // When ready
