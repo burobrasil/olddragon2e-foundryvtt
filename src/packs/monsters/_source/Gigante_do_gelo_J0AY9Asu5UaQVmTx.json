@@ -1,0 +1,123 @@
+{
+  "name": "Gigante do gelo",
+  "type": "monster",
+  "_id": "J0AY9Asu5UaQVmTx",
+  "img": "systems/olddragon2e/assets/monsters-concepts/gigante-imenso.webp",
+  "system": {
+    "odo_id": "gigante-do-gelo",
+    "flavor": "Com 7 metros de altura, estes gigantes estúpidos das terras geladas adoram emboscar seus inimigos.",
+    "concept": "Gigante",
+    "size": "imenso",
+    "alignment": "caotico",
+    "variant": false,
+    "description": "<ul>\n  <li>\n    <p><strong>Classe de armadura</strong>: possuem CA 16 ou 18 quando usam armadura de couro.</p>\n  </li>\n  <li>\n    <p><strong>Camuflagem</strong>: quando enterrados sob a neve, surpreendem seus inimigos com 1-4 chances em 1d6.</p>\n  </li>\n  <li>\n    <p><strong>Resistência ao frio</strong>: imunidade total ao frio oriundo de fontes naturais ou mágicas.  Frio mágico pode causar outros efeitos que não seja de dano.</p>\n  </li>\n  <li>\n    <p><strong>Golpe Potente</strong>: se conseguir causar, com uma pancada, pedrada ou arma, uma quantidade de dano maior que a força do alvo, este é arremessado 1d6 metros para trás.</p>\n  </li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>2 × pancadas + 12 (1d8 +6)</li>\n  <li>1 × arma + 9 (arma+8)</li>\n  <li>1 × pedrada + 7 (2d10)</li>\n</ul>\n",
+    "encounters": "1d2",
+    "encounters_lair": "1d4",
+    "xp": "2025",
+    "treasure": "ux2, fx2",
+    "treasure_lair": "",
+    "mv": "9",
+    "mvc": "",
+    "mve": "",
+    "mvn": "",
+    "mvv": "",
+    "mvo": "",
+    "dv": "12",
+    "dv_bonus": "+8",
+    "pv": "68",
+    "ca": "16/18",
+    "jp": "13",
+    "mo": "9",
+    "url": "",
+    "habitat": "Geleiras",
+    "hp": {
+      "value": "68",
+      "max": "68"
+    }
+  },
+  "prototypeToken": {
+    "name": "Gigante do gelo",
+    "displayName": 20,
+    "actorLink": false,
+    "appendNumber": false,
+    "prependAdjective": false,
+    "texture": {
+      "src": "systems/olddragon2e/assets/monsters-concepts/gigante-imenso.webp",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0
+    },
+    "width": 4,
+    "height": 4,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": -1,
+    "displayBars": 40,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "light": {
+      "color": null,
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "sight": {
+      "enabled": false,
+      "range": 0,
+      "angle": 360,
+      "visionMode": "basic",
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": [],
+    "flags": {},
+    "randomImg": false
+  },
+  "items": [],
+  "effects": [],
+  "folder": "qRj6GXmFQo4suMBZ",
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "olddragon2e",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1698721200000,
+    "modifiedTime": 1702782000000,
+    "lastModifiedBy": "enzpVKIAX52oTyPe"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "enzpVKIAX52oTyPe": 3
+  },
+  "_key": "!actors!J0AY9Asu5UaQVmTx"
+}

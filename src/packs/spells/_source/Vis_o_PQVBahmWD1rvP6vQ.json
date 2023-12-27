@@ -1,0 +1,37 @@
+{
+  "folder": "4pOVdno4YuhR89Vy",
+  "name": "Visão",
+  "type": "spell",
+  "_id": "PQVBahmWD1rvP6vQ",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "odo_id": "visao",
+    "school": "arcane",
+    "circle": "1",
+    "arcane": "7",
+    "divine": "null",
+    "necromancer": "null",
+    "illusionist": "null",
+    "reverse": false,
+    "range": "pessoal",
+    "duration": "instantânea",
+    "jp": "nenhuma",
+    "description": "<p>Esta magia permite ao conjurador se concentrar em um local tranquilo e obter respostas de uma pergunta em forma de uma visão enviada por uma entidade superior.</p>\n\n<p>A qualidade da revelação da visão está ligada à como a entidade se sentirá com a pergunta do conjurador. O Mestre deve lançar em segredo 1d6 e montar a visão de resposta de acordo com o resultado:</p>\n\n<ul>\n  <li>\n    <p><strong>1</strong>: A entidade se sente ultrajada e revela uma visão falsa com informações falsas e desconexas.</p>\n  </li>\n  <li>\n    <p><strong>2</strong>: A entidade se sente desrespeitada com a frivolidade da questão e ignora o conjurador.</p>\n  </li>\n  <li>\n    <p><strong>3-5</strong>: A entidade se mostra indiferente, mas envia uma visão menor e interpretativa.</p>\n  </li>\n  <li>\n    <p><strong>6</strong>: A entidade se sente compelida a ajudar e envia uma visão reveladora.</p>\n  </li>\n</ul>\n"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "olddragon2e",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1698721200000,
+    "modifiedTime": 1702782000000,
+    "lastModifiedBy": "enzpVKIAX52oTyPe"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "enzpVKIAX52oTyPe": 3
+  },
+  "_key": "!items!PQVBahmWD1rvP6vQ"
+}

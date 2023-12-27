@@ -1,0 +1,37 @@
+{
+  "folder": "DwXIBCnJvEFmiMD4",
+  "name": "Comunhão",
+  "type": "spell",
+  "_id": "kidgxoFB1J6WJhFV",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "odo_id": "comunhao",
+    "school": "arcane",
+    "circle": "1",
+    "arcane": "null",
+    "divine": "5",
+    "necromancer": "null",
+    "illusionist": "null",
+    "reverse": false,
+    "range": "pessoal",
+    "duration": "especial",
+    "jp": "nenhuma",
+    "description": "<p>Esta magia faz com que poderes divinos e superiores respondam a até 3 perguntas mentalmente ao conjurador. As respostas devem ser sempre dadas com um “sim”, “não” ou “talvez”. Esses poderes superiores apenas responderão a uma tentativa de comunhão a cada 1d6+6 dias e a, no máximo, 4 vezes a cada ano.</p>\n\n<p>O ritual para realizar uma comunhão é longo e leva 2d4 horas para responder a cada uma das perguntas.</p>\n"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "olddragon2e",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1698721200000,
+    "modifiedTime": 1702782000000,
+    "lastModifiedBy": "enzpVKIAX52oTyPe"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "enzpVKIAX52oTyPe": 3
+  },
+  "_key": "!items!kidgxoFB1J6WJhFV"
+}

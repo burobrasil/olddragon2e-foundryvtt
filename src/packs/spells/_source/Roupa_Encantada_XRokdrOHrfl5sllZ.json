@@ -1,0 +1,37 @@
+{
+  "folder": "XDGnJ8GYBwSWNTSc",
+  "name": "Roupa Encantada",
+  "type": "spell",
+  "_id": "XRokdrOHrfl5sllZ",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "odo_id": "roupa-encantada",
+    "school": "arcane",
+    "circle": "1",
+    "arcane": "null",
+    "divine": "3",
+    "necromancer": "null",
+    "illusionist": "null",
+    "reverse": false,
+    "range": "pessoal",
+    "duration": "1 turno + 1/nível",
+    "jp": "nenhuma",
+    "description": "<p>Esta magia encanta a roupa do conjurador, aumentando a sua classe de armadura.  O conjurador recebe um bônus de +2 na CA e um bônus de +1 a cada 3 níveis acima do nível 5. Esse bônus é cumulativo com o bônus de armadura normal do conjurador.</p>\n"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "olddragon2e",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1698721200000,
+    "modifiedTime": 1702782000000,
+    "lastModifiedBy": "enzpVKIAX52oTyPe"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "enzpVKIAX52oTyPe": 3
+  },
+  "_key": "!items!XRokdrOHrfl5sllZ"
+}

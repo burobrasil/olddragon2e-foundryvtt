@@ -1,0 +1,123 @@
+{
+  "name": "Cubo gelatinoso",
+  "type": "monster",
+  "_id": "rFwXTYvDH2UYYJZq",
+  "img": "systems/olddragon2e/assets/monsters-concepts/gosma-grande.webp",
+  "system": {
+    "odo_id": "cubo-gelatinoso",
+    "flavor": "Move-se sorrateiramente nos corredores das masmorras absorvendo e dissolvendo tudo o que consegue fagocitar.",
+    "concept": "Gosma",
+    "size": "grande",
+    "alignment": "neutro",
+    "variant": false,
+    "description": "<ul>\n  <li>\n    <p><strong>Surpresa</strong>: surpreende seus inimigos com um resultado de 1-4 em 1d6.</p>\n  </li>\n  <li>\n    <p><strong>Paralisia</strong>: o alvo deve ser bem-sucedido em uma JPC ou ficará paralisado por 2d4 turnos.</p>\n  </li>\n  <li>\n    <p><strong>Imunidades</strong>: imune aos efeitos do frio e da eletricidade.</p>\n  </li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × toque + 4 (2d4 + paralisia )</li>\n</ul>\n",
+    "encounters": "1",
+    "encounters_lair": "0",
+    "xp": "150",
+    "treasure": "v",
+    "treasure_lair": "",
+    "mv": "9",
+    "mvc": "",
+    "mve": "",
+    "mvn": "",
+    "mvv": "",
+    "mvo": "",
+    "dv": "4",
+    "dv_bonus": "",
+    "pv": "20",
+    "ca": "12",
+    "jp": "6",
+    "mo": "12",
+    "url": "",
+    "habitat": "Subterrâneos",
+    "hp": {
+      "value": "20",
+      "max": "20"
+    }
+  },
+  "prototypeToken": {
+    "name": "Cubo gelatinoso",
+    "displayName": 20,
+    "actorLink": false,
+    "appendNumber": false,
+    "prependAdjective": false,
+    "texture": {
+      "src": "systems/olddragon2e/assets/monsters-concepts/gosma-grande.webp",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0
+    },
+    "width": 2,
+    "height": 2,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": -1,
+    "displayBars": 40,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "light": {
+      "color": null,
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "sight": {
+      "enabled": false,
+      "range": 0,
+      "angle": 360,
+      "visionMode": "basic",
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": [],
+    "flags": {},
+    "randomImg": false
+  },
+  "items": [],
+  "effects": [],
+  "folder": "Aaa1XYCcgdMm5JDx",
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "olddragon2e",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1698721200000,
+    "modifiedTime": 1702782000000,
+    "lastModifiedBy": "enzpVKIAX52oTyPe"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "enzpVKIAX52oTyPe": 3
+  },
+  "_key": "!actors!rFwXTYvDH2UYYJZq"
+}

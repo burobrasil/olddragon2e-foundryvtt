@@ -1,0 +1,477 @@
+{
+  "folder": null,
+  "name": "Capítulo 5: Equipamento",
+  "_id": "gbzRj7cVUO86ZU0Y",
+  "pages": [
+    {
+      "sort": 0,
+      "name": "",
+      "type": "text",
+      "_id": "C5ieR5VmNME5aJjg",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<p>Uma vez concluída a construção básica de um personagem, é chegada a hora de dar-lhe algumas ferramentas para a execução do seu trabalho.</p>\n\n<p>Aventureiros sempre precisam de armas e armaduras para os combates que enfrentarão e de várias ferramentas para exploração e para seu sustento diário, como tochas, água e, claro, comida.</p>\n\n<p>A escolha do equipamento pode significar a morte ou a sobrevivência do seu personagem.</p>\n\n<p>Um jogador de RPG perspicaz tentará encontrar as ferramentas ideais para resolver os problemas os quais ele acredita que encontrará. De certa forma, o jogo começa quando você se senta para escolher seus equipamentos.</p>\n\n<p>Converse com seu Mestre, tente entender em linhas gerais onde a aventura irá se passar para evitar, por exemplo, comprar comida em excesso quando é possível encontrar alimentos pelo caminho, ou uma roupa de frio extremo para aventuras no deserto.</p>\n\n<p>Mesmo sendo portadores de habilidades incomuns e extraordinárias, é fundamental para um aventureiro estar bem equipado, e o equipamento, é lógico, custa dinheiro.</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!gbzRj7cVUO86ZU0Y.C5ieR5VmNME5aJjg"
+    },
+    {
+      "sort": 1,
+      "name": "Sistema Monetário",
+      "type": "text",
+      "_id": "8Bjv9xHAYFKxPR4w",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<p>O sistema monetário do Old Dragon é formado principalmente por uma tríade de moedas cujo valor pode ser determinado na seguinte escala: 10 peças de cobre (PC) valem 1 peça de prata (PP), já 10 peças de prata valem 1 peça de ouro (PO) que, por sua vez, equivale a 100 peças de cobre (PC).</p>\n\n<blockquote class=\"highlighted\">\n  <p>100 PC → 10 PP → 1 PO</p>\n</blockquote>\n\n<p>Outro ponto para ter em mente para cálculos de carga: 100 peças de qualquer tipo de metal pesam 1 kg.</p>\n\n<blockquote class=\"highlighted\">\n  <p>100 MOEDAS = 1 KG</p>\n</blockquote>\n\n<h3 id=\"renda-inicial\">Renda Inicial</h3>\n\n<p>Para adquirir seus equipamentos, um personagem dispõe de uma renda inicial em peças de ouro (PO) de 3d6 e multiplica o resultado por 10.</p>\n\n<p>Lembre-se de economizar algum dinheiro para uso dentro do jogo, como para pagar comida e hospedagem.</p>\n\n<blockquote class=\"highlighted\">\n  <p><strong>RENDA INICIAL</strong> = <span class=\"blackbox\">3D6</span> ⨉ 10 PO</p>\n</blockquote>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!gbzRj7cVUO86ZU0Y.8Bjv9xHAYFKxPR4w"
+    },
+    {
+      "sort": 2,
+      "name": "Listas de Equipamentos",
+      "type": "text",
+      "_id": "hsAEsoNQOCEcx2el",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<p>Este capítulo apresenta uma lista de equipamentos contendo armas, armaduras e itens gerais comuns a aventureiros e seus preços médios.</p>\n\n<p>Os preços e a disponibilidade podem variar de cidade para cidade, estando mais caros em cidades menores, ou em condições de escassez durante uma epidemia ou em tempos de guerra, por exemplo.</p>\n\n<ul>\n  <li>\n    <p><strong>Escassez:</strong> uma variação de 25% a mais nos preços durante um período de escassez ou em regiões remotas pode ser aplicada pelo Mestre.</p>\n  </li>\n  <li>\n    <p><strong>Pesos:</strong> todos os pesos são apresentados em quilos (Kg). Os itens marcados com * são leves, vinte deles somam 1 kg. Os itens identificados com ** têm peso irrelevante e devem ser ignorados, a não ser quando estiverem às centenas.</p>\n  </li>\n  <li>\n    <p><strong>Carga:</strong> armas e armaduras não apresentam os pesos dos itens, e sim os valores de <a href=\"/livros/srd/capitulos/campanha#carga\">carga</a> individualmente.</p>\n\n    <p>Munições estão marcadas com um # por não agregarem valores de carga pois estão consideradas nas armas que as disparam.</p>\n  </li>\n  <li>\n    <p><strong>Dano:</strong> na tabela de armas, a coluna Dano demonstra o dado usado para causar <a href=\"/livros/srd/capitulos/combate#danos-e-outros-perigos\">dano</a> nos ataques bem-sucedidos.</p>\n  </li>\n  <li>\n    <p><strong>CA:</strong> na tabela de armaduras, a coluna CA mostra o quão efetiva é uma armadura para defender um ataque. Este é o valor que deve ser adicionado à CA do personagem.</p>\n  </li>\n</ul>\n\n<h3 id=\"materiais-diferentes\">Materiais Diferentes</h3>\n\n<p>Todos os itens e produtos listados neste capítulo consideram que materiais normais e comuns foram empregados na sua fabricação.</p>\n\n<p>A lista trata de itens normais e não especiais, mas como lidar com itens de qualidade superior ou de materiais nobres como prata ou ouro?</p>\n\n<ul>\n  <li>\n    <p><strong>Qualidade Superior:</strong> itens de melhor fabricação usam melhores materiais na sua composição e foram construídos por mestres na sua manufatura. <strong>Custam o dobro</strong> dos itens normais. O Mestre deve ser consultado para decidir se estes itens de qualidade superior interferem em alguma estatística de jogo, como cordas mais difíceis de serem cortadas, ou cadeados mais complicados de serem arrombados.</p>\n\n    <p>Alguma situação extraordinária pode requerer que seus personagens precisem ou desejem armas e armaduras de materiais especiais.</p>\n  </li>\n  <li>\n    <p><strong>Prata:</strong> atinge licantropos e alguns mortos-vivos imunes a armas comuns. <strong>Custam o dobro</strong> do preço de um item comum.</p>\n  </li>\n  <li>\n    <p><strong>Bronze:</strong> piora o bônus da defesa de armaduras metálicas (mas não dos escudos) em 1, mas reduz o peso dessas armaduras. Uma armadura pesada, por exemplo, se torna média. Seu preço é <strong>1,5 vezes mais caro</strong> do que o preço comum.</p>\n  </li>\n  <li>\n    <p><strong>Mitral:</strong> melhora o bônus de defesa das armaduras em 1 e torna as armas mais afiadas e balanceadas, aumentando o dano também em 1.</p>\n  </li>\n</ul>\n\n<p>Um item forjado em mitral são raros, caros e despertam a cobiça no pior tipo de gente, pois possuem o preço <strong>multiplicado por 10</strong>.</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!gbzRj7cVUO86ZU0Y.hsAEsoNQOCEcx2el"
+    },
+    {
+      "sort": 3,
+      "name": "Itens Raciais",
+      "type": "text",
+      "_id": "mo8KsnTfbLc8P3rn",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<p>É de se imaginar que um Arco feito por um elfo, famosos pela criação de arcos e flechas, seja no mínimo diferente de um arco construído por um humano; ou que a técnica de forja e metalurgia única dos anões crie uma arma de esmagamento, como uma maça, mais equilibrada e eficiente em combate do que qualquer outra.</p>\n\n<p><strong>Elfos</strong> costumam deixar suas criações precisamente equilibradas e leves o que cria um efeito de uso da arma tão natural e confortável que o usuário sente como se ela fosse um prolongamento do seu braço.</p>\n\n<p>Armas de corte e perfuração forjadas por um elfo são consideradas <strong>1 ponto mais leve</strong> para a carga. Uma arma leve contando como um valor 1 na carga passa a não somar nenhum ponto, e uma arma que normalmente somaria 3 passa a somar apenas 2.</p>\n\n<p><strong>Anões</strong> costumam forjar suas armas com precisão milimétrica nas suas linhas retas e ângulos, e no sistema de pesos e contrapesos. Leves ao serem erguidas e pesadas quando o golpe é desferido.</p>\n\n<p>Armas Cortantes e Impactantes forjadas por um anão são consideradas <strong>1 ponto mais leve</strong> para a carga. Uma arma leve contando como um valor 1 na carga passa a não somar nenhum ponto, e uma arma que normalmente somaria 3 passa a somar apenas 2. Além disso, para um anão, uma arma fabricada por um ferreiro anão, é considerada uma arma média.</p>\n\n<p>Elfos e anões não forjam armas com o simples intuito de vendê-las, normalmente as forjando apenas para presentearem àqueles honrados e considerados amigos dos seus povos.</p>\n\n<p><strong>Armaduras Raciais</strong> criadas por elfos e anões possuem ajustes precisos e ergonomia impecável. São tão bem ajustadas e adequadas aos movimentos que possuem menos penalidades do que uma armadura comum.</p>\n\n<p>Elfos fabricam cotas de malha tão eficientemente que suas cotas de malha élficas possuem carga 1 em vez da carga 2 que uma armadura média normal teria.</p>\n\n<p>Anões são peritos em Armaduras de Placas, as quais são forjadas com o melhor aço anão. Essas Armaduras de Placas anãs possuem carga 2 em vez da carga 3 que uma armadura pesada normal teria.</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!gbzRj7cVUO86ZU0Y.mo8KsnTfbLc8P3rn"
+    },
+    {
+      "sort": 4,
+      "name": "Armas",
+      "type": "text",
+      "_id": "bkBRbMCUMv15wltn",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<div class=\"overflow-x-auto\">\n  <table>\n    <caption>Armas <span>tabela 5.1</span></caption>\n    <thead>\n      <tr>\n        <th class=\"text-left\">Arma</th>\n        <th>Dano</th>\n        <th>Carga</th>\n        <th class=\"text-left\">Descrição</th>\n        <th class=\"text-right\">Custo</th>\n      </tr>\n    </thead>\n    <tbody>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Adaga</td>\n        <td>1d4</td>\n        <td>1</td>\n        <td class=\"text-left\">Pequena, Perfurante, Arremesso (9).</td>\n        <td class=\"text-right\">2 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Alabarda</td>\n        <td>1d10</td>\n        <td>3</td>\n        <td class=\"text-left\">Grande, Cortante, Duas Mãos, Haste.</td>\n        <td class=\"text-right\">8 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Arco Curto</td>\n        <td>por flecha</td>\n        <td>2</td>\n        <td class=\"text-left\">Média, Disparo (30), Duas Mãos.</td>\n        <td class=\"text-right\">25 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Arco Longo</td>\n        <td>por flecha</td>\n        <td>3</td>\n        <td class=\"text-left\">Grande, Disparo (45), Duas Mãos.</td>\n        <td class=\"text-right\">60 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">— Flecha de Caça</td>\n        <td>1d6</td>\n        <td>#</td>\n        <td class=\"text-left\">Perfurante. Madeira. Peso e preço pelo conjunto de 20 unidades.</td>\n        <td class=\"text-right\">1 PP</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">— Flecha de Guerra</td>\n        <td>1d8</td>\n        <td>#</td>\n        <td class=\"text-left\">Perfurante. Peso e preço pelo conjunto de 20 unidades.</td>\n        <td class=\"text-right\">1 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Azagaia</td>\n        <td>1d4</td>\n        <td>1</td>\n        <td class=\"text-left\">Pequena, Madeira, Perfurante, Arremesso (18), Contra investida.</td>\n        <td class=\"text-right\">1 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Besta de Mão</td>\n        <td>por virote</td>\n        <td>1</td>\n        <td class=\"text-left\">Pequena, Disparo (36), Recarga.</td>\n        <td class=\"text-right\">30 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">— Virote pequeno</td>\n        <td>1d4</td>\n        <td>#</td>\n        <td class=\"text-left\">Perfurante. Peso e preço pelo conjunto de 20 unidades.</td>\n        <td class=\"text-right\">2 PP</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Besta</td>\n        <td>por virote</td>\n        <td>2</td>\n        <td class=\"text-left\">Média, Disparo (54), Duas Mãos, Recarga.</td>\n        <td class=\"text-right\">50 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">— Virote</td>\n        <td>1d6</td>\n        <td>#</td>\n        <td class=\"text-left\">Perfurante. Peso e preço pelo conjunto de 20 unidades.</td>\n        <td class=\"text-right\">4 PP</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Bordão/Cajado</td>\n        <td>1d4</td>\n        <td>1</td>\n        <td class=\"text-left\">Pequena, Madeira, Impactante, Duas Mãos.</td>\n        <td class=\"text-right\">1 PP</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Cimitarra</td>\n        <td>1d6</td>\n        <td>2</td>\n        <td class=\"text-left\">Média, Cortante.</td>\n        <td class=\"text-right\">15 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Espada Bastarda</td>\n        <td>1d8</td>\n        <td>2</td>\n        <td class=\"text-left\">Média, Versátil, Cortante</td>\n        <td class=\"text-right\">15 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Espada Curta</td>\n        <td>1d6</td>\n        <td>1</td>\n        <td class=\"text-left\">Pequena, Cortante.</td>\n        <td class=\"text-right\">6 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Espada Longa</td>\n        <td>1d8</td>\n        <td>2</td>\n        <td class=\"text-left\">Média, Cortante.</td>\n        <td class=\"text-right\">10 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Funda</td>\n        <td>1d4</td>\n        <td>1</td>\n        <td class=\"text-left\">Pequena, Impactante, Arremesso (27).</td>\n        <td class=\"text-right\">5 PP</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Lança</td>\n        <td>1d6</td>\n        <td>2</td>\n        <td class=\"text-left\">Média, Madeira, Perfurante, Arremesso (12), Haste, Versátil, Contrainvestida.</td>\n        <td class=\"text-right\">4 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Lança Montada</td>\n        <td>1d8</td>\n        <td>3</td>\n        <td class=\"text-left\">Grande, Perfurante, Haste, Duas Mãos, Montada, Contrainvestida.</td>\n        <td class=\"text-right\">5 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Maça</td>\n        <td>1d8</td>\n        <td>2</td>\n        <td class=\"text-left\">Média, Impactante.</td>\n        <td class=\"text-right\">6 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Machado</td>\n        <td>1d8</td>\n        <td>2</td>\n        <td class=\"text-left\">Média, Cortante.</td>\n        <td class=\"text-right\">6 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Machado de Batalha</td>\n        <td>2d6</td>\n        <td>3</td>\n        <td class=\"text-left\">Grande, Cortante, Duas Mãos.</td>\n        <td class=\"text-right\">16 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Mangual</td>\n        <td>1d8</td>\n        <td>3</td>\n        <td class=\"text-left\">Grande, Impactante.</td>\n        <td class=\"text-right\">10 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Martelo</td>\n        <td>1d6</td>\n        <td>2</td>\n        <td class=\"text-left\">Média, Arremesso (6), Impactante.</td>\n        <td class=\"text-right\">6 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Martelo de Batalha</td>\n        <td>2d4</td>\n        <td>3</td>\n        <td class=\"text-left\">Grande, Impactante.</td>\n        <td class=\"text-right\">12 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Montante</td>\n        <td>1d12</td>\n        <td>3</td>\n        <td class=\"text-left\">Grande, Cortante, Duas Mãos.</td>\n        <td class=\"text-right\">16 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Pique</td>\n        <td>1d10</td>\n        <td>3</td>\n        <td class=\"text-left\">Grande, Perfurante, Contrainvestida, Duas Mãos, Haste.</td>\n        <td class=\"text-right\">8 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Porrete/Clava</td>\n        <td>1d4</td>\n        <td>2</td>\n        <td class=\"text-left\">Média, Madeira, Versátil, Impactante</td>\n        <td class=\"text-right\">5 PP</td>\n      </tr>\n    </tbody>\n  </table>\n</div>\n\n<p>A tabela 5.1 apresenta várias características descritivas para as armas:</p>\n\n<ul>\n  <li>\n    <p><strong>Arremesso:</strong> estas armas podem ser arremessadas em um ataque à distância (BAD).</p>\n\n    <p>O número indica a distância máxima do alvo em metros para um ataque. Qualquer alvo além dessa distância é considerado um alvo distante.</p>\n\n    <p>Halflings recebem um bônus de +1 no ataque quando usam armas de arremesso.</p>\n\n    <p>Armas de Arremesso usam o modificador de Força no dano, como uma arma corpo a corpo receberia.</p>\n  </li>\n  <li><strong>Contra investida:</strong> pode ser preparada contra um ataque de investida para causar o dobro de dano.</li>\n  <li><strong>Cortante:</strong> estas armas causam dano do tipo corte em alvos atingidos.</li>\n  <li>\n    <p><strong>Disparo:</strong> estas armas disparam projéteis em um ataque à distância (BAD).</p>\n\n    <p>O número indica a distância máxima do alvo em metros, para um ataque. Qualquer alvo além dessa distância é considerado um alvo distante.</p>\n\n    <p>Armas de Disparo não usam o modificador de Força no dano.</p>\n  </li>\n  <li><strong>Duas Mãos:</strong> estas armas precisam ser usadas com as duas mãos e impossibilitam o uso de escudos.</li>\n  <li><strong>Impactante:</strong> armas que causam dano por impacto. Podem ser usadas por Clérigos.</li>\n  <li><strong>Grande:</strong> não podem ser usadas por anões, halflings, Ladrões e Magos. Soma 3 na Carga.</li>\n  <li><strong>Haste:</strong> estas armas conseguem atingir alvos a até 3 metros de distância.</li>\n  <li><strong>Madeira:</strong> podem ser usadas por personagens com restrição à armas metálicas</li>\n  <li><strong>Média:</strong> podem ser usadas por Ladrões, anões, e também por halflings, mas estes precisam das duas mãos. Soma 2 na Carga.</li>\n  <li><strong>Montada:</strong> esta arma de duas mãos pode ser usada com uma arma de mão única quando usada sobre cavalos.</li>\n  <li><strong>Pequena:</strong> podem ser usadas por Magos, Ladrões, anões e halflings. Soma 1 na Carga.</li>\n  <li><strong>Perfurante:</strong> estas armas causam dano do tipo perfuração em alvos atingidos.</li>\n  <li><strong>Recarga:</strong> armas que precisam de uma <a href=\"/livros/srd/capitulos/combate#manobra\">manobra</a> de combate para serem recarregadas e, assim, novamente usadas.</li>\n  <li><strong>Versátil:</strong> estas armas podem ser usadas com uma ou com duas mãos. Ao serem usadas com duas mãos, recebem um incremento nos dados de dano na sequência abaixo:</li>\n</ul>\n\n<blockquote class=\"highlighted\">\n  <p>D4 → D6 → D8 → D10 → D12</p>\n</blockquote>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!gbzRj7cVUO86ZU0Y.bkBRbMCUMv15wltn"
+    },
+    {
+      "sort": 5,
+      "name": "Armaduras",
+      "type": "text",
+      "_id": "jMvjD9l8URkPiaXR",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<div class=\"overflow-x-auto\">\n  <table>\n    <caption>Armaduras <span>tabela 5.2</span></caption>\n    <thead>\n      <tr>\n        <th class=\"text-left\">Armadura</th>\n        <th>CA</th>\n        <th>Carga</th>\n        <th class=\"text-left\">Descrição</th>\n        <th class=\"text-right\">Custo</th>\n      </tr>\n    </thead>\n    <tbody>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Armadura Acolchoada</td>\n        <td>+1</td>\n        <td>1</td>\n        <td class=\"text-left\">Leve, Couro</td>\n        <td class=\"text-right\">5 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Armadura de Couro</td>\n        <td>+2</td>\n        <td>1</td>\n        <td class=\"text-left\">Leve, Couro</td>\n        <td class=\"text-right\">20 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Armadura de Couro Batido</td>\n        <td>+3</td>\n        <td>2</td>\n        <td class=\"text-left\">Média, Couro</td>\n        <td class=\"text-right\">30 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Cota de Malha</td>\n        <td>+4</td>\n        <td>2</td>\n        <td class=\"text-left\">Média, Metal</td>\n        <td class=\"text-right\">60 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Armadura de Placas</td>\n        <td>+5</td>\n        <td>3</td>\n        <td class=\"text-left\">Pesada, Metal</td>\n        <td class=\"text-right\">300 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Armadura Completa</td>\n        <td>+7</td>\n        <td>3</td>\n        <td class=\"text-left\">Pesada, Metal</td>\n        <td class=\"text-right\">2.000 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Escudo</td>\n        <td>+1</td>\n        <td>1</td>\n        <td class=\"text-left\">Leve, Mão Exclusiva, Madeira</td>\n        <td class=\"text-right\">8 PO</td>\n      </tr>\n    </tbody>\n  </table>\n</div>\n\n<p>A tabela 5.2 apresenta várias características descritivas para as armaduras:</p>\n\n<ul>\n  <li><strong>Couro:</strong> esta é considerada uma armadura de couro e pode ser usada por bárbaros, halflings, Druidas e Ladrões.</li>\n  <li><strong>Leve:</strong> esta é considerada uma armadura leve. Soma 1 na Carga.</li>\n  <li><strong>Madeira:</strong> escudos são confeccionados com madeira e podem ser usados por personagens com restrição a armaduras metálicas.</li>\n  <li><strong>Mão exclusiva:</strong> o escudo precisa de uma mão exclusivamente para seu uso, impossibilitando o uso de uma arma de duas mãos.</li>\n  <li><strong>Média:</strong> esta é considerada uma armadura média. Soma 2 na Carga.</li>\n  <li><strong>Metal:</strong> esta é considerada uma armadura de metal.</li>\n  <li><strong>Pesada:</strong> esta é considerada uma armadura pesada. Soma 3 na Carga.</li>\n</ul>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!gbzRj7cVUO86ZU0Y.jMvjD9l8URkPiaXR"
+    },
+    {
+      "sort": 6,
+      "name": "Itens Gerais",
+      "type": "text",
+      "_id": "PAnTXGXA0MQpkYub",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<div class=\"overflow-x-auto\">\n  <table>\n    <caption>Itens Gerais <span>tabela 5.3</span></caption>\n    <thead>\n      <tr>\n        <th class=\"text-left\">Item</th>\n        <th class=\"text-left\">Descrição</th>\n        <th>Peso</th>\n        <th>Custo</th>\n      </tr>\n    </thead>\n    <tbody>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Algema</td>\n        <td class=\"text-left\">Com cadeados; Para pulsos ou tornozelos de criaturas P e M.</td>\n        <td>1 kg</td>\n        <td>12 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Água Benta</td>\n        <td class=\"text-left\">Frasco de 500ml. Causa dano ácido de 1d6 em mortos-vivos e demônios.</td>\n        <td>0,5 kg</td>\n        <td>25 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Apito</td>\n        <td class=\"text-left\">Pequeno; Com cordão para pescoço.</td>\n        <td>**</td>\n        <td>1 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Arpéu</td>\n        <td class=\"text-left\">Gancho triplo para escaladas (corda vendida separadamente).</td>\n        <td>1 kg</td>\n        <td>2 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Cadeado</td>\n        <td class=\"text-left\">Com duas chaves.</td>\n        <td>0,5 kg</td>\n        <td>12 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Coberta de Inverno</td>\n        <td class=\"text-left\">Grossa de lã e peles com 2x2 metros.</td>\n        <td>1 kg</td>\n        <td>1 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Corda de cânhamo</td>\n        <td class=\"text-left\">15 metros. Suporta erguer até 250 kg.</td>\n        <td>2 kg</td>\n        <td>1 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Corrente</td>\n        <td class=\"text-left\">15 metros. Suporta erguer até 1.000 kg.</td>\n        <td>20 kg</td>\n        <td>5 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Escada</td>\n        <td class=\"text-left\">3 metros. Com corrimão de corda e degrau de ripas de madeira para escaladas.</td>\n        <td>5 kg</td>\n        <td>1 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Espelho</td>\n        <td class=\"text-left\">Superfície de metal polido do tamanho da palma da mão.</td>\n        <td>*</td>\n        <td>7 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Ferramentas de Ladrão</td>\n        <td class=\"text-left\">Chave, pinça, martelo e serra para arrombar e desarmar armadilhas.</td>\n        <td>0,5 kg</td>\n        <td>25 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Cravos/Ganchos</td>\n        <td class=\"text-left\">5 unidades de cravos ou ganchos para escaladas.</td>\n        <td>0,5 kg</td>\n        <td>1 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Giz</td>\n        <td class=\"text-left\">Na cor branca para marcações.</td>\n        <td>**</td>\n        <td>2 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Grimório</td>\n        <td class=\"text-left\">Livro em branco de capa de couro e 128 folhas de papel.</td>\n        <td>1 kg</td>\n        <td>25 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Lamparina</td>\n        <td class=\"text-left\">Com chama protegida pelo vento. Ilumina em todas as direções.</td>\n        <td>1 kg</td>\n        <td>1 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Lanterna furta-fogo</td>\n        <td class=\"text-left\">Com chama protegida pelo vento. Ilumina apenas em uma direção.</td>\n        <td>2 kg</td>\n        <td>2 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Martelo</td>\n        <td class=\"text-left\">Metálico; Usado para pregos, ganchos de escalada e trabalhos manuais.</td>\n        <td>0,5 kg</td>\n        <td>5 PP</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Manto</td>\n        <td class=\"text-left\">De tecido de lã grossa e resistente para viagens.</td>\n        <td>0,5 kg</td>\n        <td>5 PP</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Óleo</td>\n        <td class=\"text-left\">Frasco com 500 ml.</td>\n        <td>0,5 kg</td>\n        <td>5 PP</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Pá ou Picareta</td>\n        <td class=\"text-left\">Ferramenta para escavações.</td>\n        <td>1 kg</td>\n        <td>5 PP</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Pé de Cabra</td>\n        <td class=\"text-left\">Ferramenta para arrombamento.</td>\n        <td>1 kg</td>\n        <td>1 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Pederneira</td>\n        <td class=\"text-left\">Gera faíscas para acender pavios, lanternas ou fogueiras.</td>\n        <td>*</td>\n        <td>5 PC</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Pena e Tinta</td>\n        <td class=\"text-left\">Para escrita e desenhos. Frasco de 30 ml.</td>\n        <td>*</td>\n        <td>8 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Pergaminho</td>\n        <td class=\"text-left\">10 folhas soltas, sem encadernação.</td>\n        <td>**</td>\n        <td>5 PP</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Ração de viagem</td>\n        <td class=\"text-left\">Ração diária de comida para viagem para uma pessoa.</td>\n        <td>0,5 kg</td>\n        <td>1 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Rede</td>\n        <td class=\"text-left\">Pode ser usada num ataque em área para enredar inimigos.</td>\n        <td>2 kg</td>\n        <td>2 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Saco de Dormir</td>\n        <td class=\"text-left\">Para uma pessoa de tamanho P ou M.</td>\n        <td>0,5 kg</td>\n        <td>5 PP</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Símbolo divino</td>\n        <td class=\"text-left\">Simples e pequeno, de madeira ou latão, para Afastar Mortos-Vivos.</td>\n        <td>0,5 kg</td>\n        <td>1 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Tenda pequena</td>\n        <td class=\"text-left\">Para até 4 pessoas P ou M e com 2x2 metros.</td>\n        <td>3 kg</td>\n        <td>10 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Tocha</td>\n        <td class=\"text-left\">5 unidades.</td>\n        <td>0,5 kg</td>\n        <td>1 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Traje de exploração</td>\n        <td class=\"text-left\">Calça, cinto, camisa, gibão e manto.</td>\n        <td>2 kg</td>\n        <td>3 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Traje nobre</td>\n        <td class=\"text-left\">Gibão, camisa, calça, cinto e manto de materiais nobres.</td>\n        <td>1,5 kg</td>\n        <td>20 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Traje de Inverno</td>\n        <td class=\"text-left\">Calça, cinto, camisa, gibão e manto de lã e peles para o inverno.</td>\n        <td>3 kg</td>\n        <td>5 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Vara de exploração</td>\n        <td class=\"text-left\">De madeira com 3 metros. Para exploração e caminhadas.</td>\n        <td>0,5 kg</td>\n        <td>1 PP</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Vela</td>\n        <td class=\"text-left\">12 unidades.</td>\n        <td>*</td>\n        <td>1 PP</td>\n      </tr>\n    </tbody>\n  </table>\n</div>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!gbzRj7cVUO86ZU0Y.PAnTXGXA0MQpkYub"
+    },
+    {
+      "sort": 7,
+      "name": "Recipientes & Vasilhames",
+      "type": "text",
+      "_id": "vUaRYqh0qGZgJ326",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<div class=\"overflow-x-auto\">\n  <table>\n    <caption>Recipientes &amp; Vasilhames <span>tabela 5.4</span></caption>\n    <thead>\n      <tr>\n        <th class=\"text-left\">Item</th>\n        <th class=\"text-left\">Descrição</th>\n        <th>Peso</th>\n        <th>Custo</th>\n      </tr>\n    </thead>\n    <tbody>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Algibeira</td>\n        <td class=\"text-left\">Pequeno saco de couro usado preso ao cinto da roupa. Comporta até 50 moedas.</td>\n        <td>*</td>\n        <td>1 PC</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Aljava</td>\n        <td class=\"text-left\">De couro, rígida para até 40 flechas ou 80 virotes. Comporta até 150 moedas.</td>\n        <td>0,5 kg</td>\n        <td>1 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Barril/Caixa Pequena</td>\n        <td class=\"text-left\">De madeira, reforçado para transporte. Capacidade de 20 litros.&nbsp;Comporta até 200 moedas.</td>\n        <td>5 kg</td>\n        <td>2 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Barril/Caixa Grande</td>\n        <td class=\"text-left\">De madeira, reforçado para transporte. Capacidade de 200 litros. Comporta até 2.000 moedas.</td>\n        <td>10 kg</td>\n        <td>5 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Mochila</td>\n        <td class=\"text-left\">De couro, com compartimentos para exploradores e reforço para peso. Adiciona 5 ao valor de carga do personagem. Comporta até 400 moedas.</td>\n        <td>*</td>\n        <td>2 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Odre</td>\n        <td class=\"text-left\">Saco de couro com rolha para líquidos com capacidade para 1 litro. Não comporta moedas.</td>\n        <td>0,5 kg</td>\n        <td>5 PP</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Porta Mapas</td>\n        <td class=\"text-left\">Acomoda até 20 folhas de pergaminhos ou mapas. Comporta até 50 moedas.</td>\n        <td>0,5 kg</td>\n        <td>1 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Saco de estopa</td>\n        <td class=\"text-left\">Para carregar até 15 kg. Quando carregado, reduz pela metade o peso dos objetos em seu interior. Comporta até 600 moedas.</td>\n        <td>*</td>\n        <td>5 PC</td>\n      </tr>\n    </tbody>\n  </table>\n</div>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!gbzRj7cVUO86ZU0Y.vUaRYqh0qGZgJ326"
+    },
+    {
+      "sort": 8,
+      "name": "Montaria, Transporte & Animais de Carga",
+      "type": "text",
+      "_id": "lPPUUoDVd0lJMH6n",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<div class=\"overflow-x-auto\">\n  <table>\n  <caption>Montaria, Transporte &amp; Animais de Carga <span>tabela 5.5</span></caption>\n    <thead>\n      <tr class=\"text-left\">\n        <th>Item</th>\n        <th>Descrição</th>\n        <th class=\"text-right\">Custo</th>\n      </tr>\n    </thead>\n    <tbody>\n      <tr class=\"text-left\">\n        <td>Cavalo de Guerra</td>\n        <td>Treinado para combates e para armaduras. Carrega até 4.000 moedas.</td>\n        <td class=\"text-right\">250 PO</td>\n      </tr>\n      <tr class=\"text-left\">\n        <td>Cavalo de Montaria</td>\n        <td>Treinado para montaria. Carrega até 3.000 moedas.</td>\n        <td class=\"text-right\">75 PO</td>\n      </tr>\n      <tr class=\"text-left\">\n        <td>Cavalo de Tração</td>\n        <td>Para trabalhos de tração, puxar arados ou veículos. Carrega até 4.500 moedas.</td>\n        <td class=\"text-right\">120 PO</td>\n      </tr>\n      <tr class=\"text-left\">\n        <td>Jumento ou Mula</td>\n        <td>Para tração ou montaria. Carrega até 2.000 moedas.</td>\n        <td class=\"text-right\">30 PO</td>\n      </tr>\n      <tr class=\"text-left\">\n        <td>Pônei</td>\n        <td>Para tração ou montaria. Carrega até 1.500 moedas.</td>\n        <td class=\"text-right\">40 PO</td>\n      </tr>\n      <tr class=\"text-left\">\n        <td>Pônei de Guerra</td>\n        <td>Treinado para combates. Carrega até 1.500 moedas.</td>\n        <td class=\"text-right\">80 PO</td>\n      </tr>\n      <tr class=\"text-left\">\n        <td>Alforje</td>\n        <td>Bolsa de carga presa à sela e acomodada sobre as ancas do cavalo. Comporta até 600 moedas.</td>\n        <td class=\"text-right\">1 PO</td>\n      </tr>\n      <tr class=\"text-left\">\n        <td>Armadura Leve</td>\n        <td>Proteção de couro para cavalos de guerra. Melhora a CA em 2.</td>\n        <td class=\"text-right\">150 PO</td>\n      </tr>\n      <tr class=\"text-left\">\n        <td>Armadura Pesada</td>\n        <td>Proteção de metal para cavalos de guerra. Melhora a CA em 4.</td>\n        <td class=\"text-right\">500 PO</td>\n      </tr>\n      <tr class=\"text-left\">\n        <td>Carroça</td>\n        <td>Puxada por 1 cavalo. Transporta 1 condutor + 1 passageiro ou 150 kg. Comporta até 4.000 moedas.</td>\n        <td class=\"text-right\">400 PO</td>\n      </tr>\n      <tr class=\"text-left\">\n        <td>Carruagem</td>\n        <td>Puxada por 2 ou + cavalos. Transporta 1 condutor + 4 passageiros ou 350 kg. Comporta até 10.000 moedas.</td>\n        <td class=\"text-right\">1.500 PO</td>\n      </tr>\n      <tr class=\"text-left\">\n        <td>Selas e Arreios</td>\n        <td>Kit de arreios, sela e correias para montar, para parelha ou para tração.</td>\n        <td class=\"text-right\">10 PO</td>\n      </tr>\n    </tbody>\n  </table>\n</div>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!gbzRj7cVUO86ZU0Y.lPPUUoDVd0lJMH6n"
+    },
+    {
+      "sort": 9,
+      "name": "Máquinas de Cerco",
+      "type": "text",
+      "_id": "O4TmPEQHXr4Q5Lqs",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<div class=\"overflow-x-auto\">\n  <table>\n    <caption>Máquinas de Cerco <span>tabela 5.8</span></caption>\n    <thead>\n      <tr>\n        <th class=\"text-left\">Item</th>\n        <th>CA</th>\n        <th>PV</th>\n        <th>MV</th>\n        <th>Ataque Inicial</th>\n        <th>Dano</th>\n        <th>Equipe</th>\n        <th>Custo</th>\n      </tr>\n    </thead>\n    <tbody>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Aríete</td>\n        <td>15</td>\n        <td>100</td>\n        <td>2</td>\n        <td>1-5 em 1d6</td>\n        <td>Especial</td>\n        <td>8 pessoas</td>\n        <td>100 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Balestra</td>\n        <td>10</td>\n        <td>50</td>\n        <td>1</td>\n        <td>1-2 em 1d6</td>\n        <td>2d8 +5</td>\n        <td>4 pessoas</td>\n        <td>150 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Catapulta</td>\n        <td>10</td>\n        <td>125</td>\n        <td>1</td>\n        <td>1-2 em 1d6</td>\n        <td>2d6 +10</td>\n        <td>8 pessoas</td>\n        <td>500 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Trebuchet</td>\n        <td>12</td>\n        <td>150</td>\n        <td>0</td>\n        <td>1-1 em 1d6</td>\n        <td>4d6 +20</td>\n        <td>14 pessoas</td>\n        <td>1.200 PO</td>\n      </tr>\n    </tbody>\n  </table>\n</div>\n\n<p>Em algumas situações, pode ser necessário que os jogadores construam ou usem máquinas de cerco para combates contra fortificações ou em batalhas navais. Por uma questão de mecânica, estas máquinas possuem estatísticas semelhantes a monstros, para uma melhor equivalência e controle do dano causado e do dano suportado.</p>\n\n<p>Obviamente esta decisão traz alguns pontos onde o bom senso deve ser usado. Uma catapulta não possui Moral e sua jogada de proteção é dada pelo seu material (ver adiante). Caso seja necessário, o Mestre deve usar seu poder de arbitragem para achar uma solução para o impasse. Cabe ressaltar também que os pontos de vida retratam o mínimo de dano que uma arma de cerco precisa receber para deixar de estar funcional, precisando ser consertada por um engenheiro capacitado antes de ser capaz de realizar disparos novamente.</p>\n\n<h3 id=\"ataques-de-maquinas-de-cerco\">Ataques de Máquinas de Cerco</h3>\n\n<p>São realizados mais com cálculos matemáticos e noções de física do que com habilidades de combate. Por isso, os combates são realizados na base da tentativa e erro.</p>\n\n<p>A coluna Ataque Inicial mostra a chance de acerto do primeiro ataque. A chance de acerto do próximo ataque sobe em 1 até o máximo de uma chance de 1-5 em 1d6.</p>\n\n<blockquote class=\"example\">\n  <p><strong>Exemplo:</strong> <em>o Ataque Inicial de uma catapulta tem 1-2 chances em 1d6 de acertar. O próximo ataque terá 1-3 chances em 1d6. O próximo, 1-4 chances em 1d6. O seguinte e todos os demais, 1-5 chances em 1d6.</em></p>\n</blockquote>\n\n<h3 id=\"equipes\">Equipes</h3>\n\n<p>Mostra o número ideal necessário por uma máquina de cerco para funcionar corretamente.</p>\n\n<p>Qualquer equipe menor do que a indicada deve reduzir a taxa de disparo pela metade.</p>\n\n<p>É impossível operar uma máquina de cerco com menos da metade da equipe necessária.</p>\n\n<h3 id=\"ariete\">Aríete</h3>\n\n<p>É uma máquina de cerco usada para romper muros, portões e portas fortificadas, permitindo uma invasão a fortificações.</p>\n\n<p>Trata-se de uma haste pesada, normalmente constituída de um tronco de árvore inteiro, com a ponta reforçada para que esta seja lançada contra os alvos.</p>\n\n<p>Pode ser montada sob uma cabana reforçada para evitar os ataques realizados de cima de uma muralha contra os operadores do aríete, ou pode somente ser apoiada em um suporte de madeira para sustentar seu peso e facilitar os movimentos de balanço do aríete.</p>\n\n<p><strong>Dano:</strong> dano base de um aríete é de 1d6 contra estruturas, mas, para cada operador designado a empurrá-lo contra o alvo, o dano aumenta em 1d6 até o limite de 4d6 para aríetes pequenos e 8d6 para aríetes grandes.</p>\n\n<h3 id=\"balestra\">Balestra</h3>\n\n<p>Uma espécie de besta gigante, fixada sob uma base para atirar projéteis em forma de flechas enormes.  É mais usada para defesa de cercos do que para invasões.</p>\n\n<p>Pode ser usada para atingir criaturas gigantes voadoras, como dragões, ou mesmo para tiros de arrasto, onde uma grande flecha com ponta romba é lançada contra estruturas com o objetivo de danificá-las.</p>\n\n<p>Uma balestra atira em uma taxa de 1 tiro a cada duas rodadas (em uma rodada dispara e na próxima rodada recarrega), tendo como alcance máximo 90 metros.</p>\n\n<p>Se for usada para atingir alvos móveis como dragões, o ataque da balestra deve usar a <strong>Base de Ataque</strong> do operador.</p>\n\n<h3 id=\"catapultas\">Catapultas</h3>\n\n<p>São máquinas de cerco que lançam projéteis de pedra e outros materiais por meio de um braço cuja ponta é em forma de colher, impulsionada por cordas puxadas e torcidas.</p>\n\n<p>É a máquina de cerco ideal para tiros em parábola.</p>\n\n<p>Outros tipos de projéteis podem ser usados como pedras incandescentes, jarros de óleo quente, corpos contaminados por pestes, ácido e correntes.</p>\n\n<p>Uma catapulta atira em uma taxa de 1 tiro a cada 3 rodadas (atira em uma rodada e precisa de outras duas rodadas para recarregar).</p>\n\n<p>O alcance máximo de um tiro da catapulta é 120 metros</p>\n\n<h3 id=\"trebuchets\">Trebuchets</h3>\n\n<p>São armas de cerco gigantes e destrutivas, semelhantes a uma catapulta, com um braço muito longo movido por um sistema de contrapeso que impulsiona uma cesta na qual um grande projétil, ou vários projéteis menores, são colocados para ataques massivos contra estruturas.</p>\n\n<p>Por ser uma arma que é fixada no solo, o seu movimento é zero.</p>\n\n<p>O alcance dos seus projéteis é de 150 metros.</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!gbzRj7cVUO86ZU0Y.O4TmPEQHXr4Q5Lqs"
+    },
+    {
+      "sort": 10,
+      "name": "Atacando Construções",
+      "type": "text",
+      "_id": "7JZBEGZ79cNMqQdz",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<div class=\"overflow-x-auto\">\n  <table>\n    <caption>Resistência das Estruturas <span>tabela 5.9</span></caption>\n    <thead>\n      <tr>\n        <th class=\"text-left\">Item</th>\n        <th>Ferro</th>\n        <th>Pedra</th>\n        <th>Madeira</th>\n      </tr>\n    </thead>\n    <tbody>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Muralhas (por seção de 5m)</td>\n        <td>-</td>\n        <td>15/700</td>\n        <td>10/300</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Prédio Simples (por seção de 5m)</td>\n        <td>-</td>\n        <td>5/60</td>\n        <td>3/40</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Prédio Reforçado (por seção de 5m)</td>\n        <td>-</td>\n        <td>15/500</td>\n        <td>10/30</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Bastião</td>\n        <td>-</td>\n        <td>15/500</td>\n        <td>10/200</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Barbicão</td>\n        <td>-</td>\n        <td>15/600</td>\n        <td>10/300</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Portão Reforçado</td>\n        <td>15/200</td>\n        <td>-</td>\n        <td>10/150</td>\n      </tr>\n    </tbody>\n  </table>\n</div>\n\n<p>Construções não são fortificadas sem motivo. Constantemente ameaçadas por guerras, invasões e armas de cerco, entender como estas construções se comportam e resistem aos ataques pode ser muito importante para sua campanha.</p>\n\n<p>De modo geral, uma construção possui duas estatísticas: a <strong>Resistência a Dano</strong> (chamada de RD), que representa a dureza e a resistência do material para receber ataques; e o <strong>Ponto de Vida</strong> (chamado de PV), que representa a quantidade de resistência destes materiais. A RD dificulta o dano. O PV mostra o quão longe do colapso estas estruturas estão.</p>\n\n<p>Um bastião de madeira possui 10/200 de RD/PV. Outras estruturas são definidas pela tabela 5.9.</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!gbzRj7cVUO86ZU0Y.7JZBEGZ79cNMqQdz"
+    },
+    {
+      "sort": 11,
+      "name": "JP de Materiais",
+      "type": "text",
+      "_id": "PWBbV4SUn9uq97rt",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<div class=\"overflow-x-auto\">\n  <table>\n    <caption>Jogadas de Proteção de Materiais <span>tabela 5.10</span></caption>\n    <thead>\n      <tr>\n        <th class=\"text-left\">Material</th>\n        <th>Ácido</th>\n        <th>Quedas</th>\n        <th>Fogo</th>\n        <th>Frio</th>\n        <th>Eletricidade</th>\n      </tr>\n    </thead>\n    <tbody>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Cerâmica</td>\n        <td>18</td>\n        <td>2</td>\n        <td>18</td>\n        <td>18</td>\n        <td>*</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Cordas, Tecidos e Couro</td>\n        <td>8</td>\n        <td>*</td>\n        <td>8</td>\n        <td>17</td>\n        <td>18</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Madeira</td>\n        <td>11</td>\n        <td>18</td>\n        <td>11</td>\n        <td>18</td>\n        <td>18</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Metal</td>\n        <td>7</td>\n        <td>17</td>\n        <td>15</td>\n        <td>*</td>\n        <td>19</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Papel e Pergaminhos</td>\n        <td>1</td>\n        <td>*</td>\n        <td>4</td>\n        <td>18</td>\n        <td>14</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Poções</td>\n        <td>4</td>\n        <td>*</td>\n        <td>155</td>\n        <td>8</td>\n        <td>6</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Rochas</td>\n        <td>18</td>\n        <td>18</td>\n        <td>*</td>\n        <td>18</td>\n        <td>19</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Vidro</td>\n        <td>*</td>\n        <td>1</td>\n        <td>18</td>\n        <td>17</td>\n        <td>17</td>\n      </tr>\n      <tr>\n        <td colspan=\"6\">OBS.: Resultados marcados por um * significam risco insignificante, ou seja, o teste não é necessário na maioria das vezes.</td>\n      </tr>\n    </tbody>\n  </table>\n</div>\n\n<p>Em algumas situações pode ser necessário entender como diferentes tipos de materiais reagem a alguns tipos de agressão. Bolas de fogo, baforadas de dragão, frio extremo, raios, etc.</p>\n\n<p>Muitas situações podem causar danos e até mesmo destruir certos materiais.</p>\n\n<p>Use a tabela 5.10 para determinar os valores das jogadas de proteção de cada tipo de material.</p>\n\n<p>Os testes de Jogada de Proteção dos Materiais são realizados da mesma maneira que o teste de JP para personagens:</p>\n\n<blockquote class=\"roll\">\n  <p><strong>TESTE DE JOGADA DE PROTEÇÃO DE MATERIAIS</strong></p>\n\n  <p><span class=\"blackbox\">1D20</span></p>\n\n  <p>Sucesso (objeto <strong>não foi</strong> destruído) quando rolar ≤ VALOR DA JOGADA DE PROTEÇÃO</p>\n\n  <p>Falha (objeto <strong>foi</strong> destruído) quando rolar &gt; VALOR DA JOGADA DE PROTEÇÃO</p>\n</blockquote>\n\n<p>Personagens que passam em jogadas de proteção não oferecem risco aos equipamentos os quais portam ou carregam.</p>\n\n<p>Este tipo de teste não deve ser usado com frequência pois pode tornar suas mesas maçantes ou ainda punir exageradamente os personagens que, certamente, perderão muito dos seus equipamentos.</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!gbzRj7cVUO86ZU0Y.PWBbV4SUn9uq97rt"
+    },
+    {
+      "sort": 12,
+      "name": "Transporte Aquático",
+      "type": "text",
+      "_id": "toeXxOmVgTXttx5K",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<div class=\"overflow-x-auto\">\n  <table>\n    <caption>Transporte Aquático <span>tabela 5.11</span></caption>\n    <thead>\n      <tr>\n        <th class=\"text-left\">Item</th>\n        <th>CA</th>\n        <th>PV</th>\n        <th>MV</th>\n        <th>Propulsão</th>\n        <th>Carga</th>\n        <th>Tripulação</th>\n        <th>Custo</th>\n      </tr>\n    </thead>\n    <tbody>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Barcaça</td>\n        <td>10</td>\n        <td>40</td>\n        <td>18</td>\n        <td>remos</td>\n        <td>8 pessoas ou 300 kg</td>\n        <td>Apenas o Condutor</td>\n        <td>4.000 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Canoa</td>\n        <td>12</td>\n        <td>10</td>\n        <td>18</td>\n        <td>remos</td>\n        <td>1 pessoa ou 50 kg</td>\n        <td>Apenas o Condutor</td>\n        <td>100 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Barco à vela</td>\n        <td>11</td>\n        <td>90</td>\n        <td>36</td>\n        <td>velas (1 mastro)</td>\n        <td>15 pessoas ou 1.000 kg</td>\n        <td>1 Capitão + 5 Marinheiros</td>\n        <td>2.000 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Navio à vela</td>\n        <td>10</td>\n        <td>150</td>\n        <td>36</td>\n        <td>velas (2 mastros)</td>\n        <td>45 pessoas ou 3.000 Kg</td>\n        <td>1 Capitão + 20 Marinheiros</td>\n        <td>20.000 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Galeão</td>\n        <td>12</td>\n        <td>180</td>\n        <td>45</td>\n        <td>velas (3 mastros)</td>\n        <td>50 pessoas ou 10.000 kg</td>\n        <td>1 Capitão + 40 Marinheiros</td>\n        <td>50.000 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Trirreme</td>\n        <td>12</td>\n        <td>220</td>\n        <td>27/54</td>\n        <td>velas (1 mastro) e remos</td>\n        <td>80 soldados</td>\n        <td>1 Capitão + 20 Marinheiros + 150 Remadores</td>\n        <td>30.000 PO</td>\n      </tr>\n    </tbody>\n  </table>\n</div>\n\n<p>Aventuras frequentemente colocam os personagens frente a necessidade de uma travessia marítima ou fluvial. Para estas situações, a melhor opção para continuar a aventura é uma viagem com transporte aquático.</p>\n\n<p><strong>Barcaça</strong> é uma embarcação pequena de fundo chato, ideal para travessias de rios ou pântanos. Pode ser remada, conduzida com vara ou puxada por meio de cordas de travessia. Passagens podem ser compradas por 1 PC por travessia de até 1 km por passageiro.</p>\n\n<p><strong>Canoa</strong> é normalmente construída com a escavação de um tronco grande e largo, para viagens fluviais por rios ou pântanos por meio de remos. Transporta até duas pessoas. Passagens podem ser compradas por 5 PC por travessia de até 1 km por passageiro.</p>\n\n<p><strong>Barco à Vela</strong> é uma pequena embarcação usada para pesca e transporte de passageiros e carga, movida com as velas de um único mastro. Indicada para navegação de cabotagem ou fluvial. Passagens podem ser compradas por 60 PP por travessia de 90 km por passageiro.</p>\n\n<p><strong>Navio à Vela</strong>, usada principalmente para transporte de mercadorias. Possui dois mastros e é a embarcação padrão de uso comercial, indicada para viagens longas e até para grandes travessias marítimas devido sua velocidade e estabilidade. Passagens podem ser compradas por 60 PP por travessia de 90 km por passageiro. A cabine gera um extra de 15 PO por passageiro.</p>\n\n<p><strong>Galeão</strong>, grande embarcação para transporte comercial. É indicada para qualquer tipo de transporte marítimo, mas, como possui grande calado, não pode navegar em águas rasas, restringindo seu uso em baías, portos mais rasos e navegação fluvial. Passagens podem ser compradas por 80 PP por travessia de 90 km por passageiro. Cabine gera um extra de 20 PO por passageiro.</p>\n\n<p><strong>Trirreme</strong> é a embarcação militar por excelência. Possui um mastro, mas sua propulsão é ampliada com o uso de três fileiras de remos de cada lado. São equipadas com dois castelos (um na popa e outro na proa), máquinas de guerra e aríetes para adornar e afundar outras embarcações.</p>\n\n<h3 id=\"carga-e-tripulacao\">Carga e Tripulação</h3>\n\n<p>As informações sobre carga, passageiros e tripulação da tabela 5.11 indicam os valores máximos de passageiros e seus equipamentos normais <strong>ou</strong> o peso da carga transportada, nunca os dois.</p>\n\n<p>Cabe informar também que os valores não são equivalentes pois as cargas são mais densas e organizadas de forma a equilibrar o peso da embarcação, além de ocuparem um volume significativamente maior.</p>\n\n<p>A tripulação informada na tabela não está considerada na coluna de carga. Uma barcaça, por exemplo, pode transportar até 9 pessoas, sendo 1 condutor e 8 passageiros.</p>\n\n<h3 id=\"armas-embarcadas\">Armas Embarcadas</h3>\n\n<p>Uma embarcação possui uma arma de combate naval a cada 10.000 PO do seu custo, nesta ordem: 10.000 PO a embarcação possui um aríete; 20.000 PO, possui um aríete e uma balestra; 30.000 PO, possui um aríete, uma balestra e uma catapulta. A partir de 30.000 PO, a cada 10.000 PO adicionais, incluirão uma catapulta extra à embarcação.</p>\n\n<p><a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.pt_BR\" class=\"cc-by\" target=\"_blank\" rel=\"external\"><img src=\"https://static.olddragon.com.br/digital_items_srd/CC_BY-SA_icon.png\" alt=\"CC-BY\" /></a></p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!gbzRj7cVUO86ZU0Y.toeXxOmVgTXttx5K"
+    }
+  ],
+  "flags": {},
+  "_stats": {
+    "systemId": "olddragon2e",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1698721200000,
+    "modifiedTime": 1702782000000,
+    "lastModifiedBy": "enzpVKIAX52oTyPe"
+  },
+  "sort": 5,
+  "ownership": {
+    "default": 0,
+    "enzpVKIAX52oTyPe": 3
+  },
+  "_key": "!journal!gbzRj7cVUO86ZU0Y"
+}

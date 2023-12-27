@@ -1,0 +1,37 @@
+{
+  "folder": "mbCl7lZt0a0oHfZ7",
+  "name": "Enfeitiçar Monstros",
+  "type": "spell",
+  "_id": "U3wJphdvoHteMbLJ",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "odo_id": "enfeiticar-monstros",
+    "school": "arcane",
+    "circle": "1",
+    "arcane": "4",
+    "divine": "null",
+    "necromancer": "null",
+    "illusionist": "null",
+    "reverse": false,
+    "range": "36 metros",
+    "duration": "especial",
+    "jp": "JPS nega",
+    "description": "<p>Esta magia afeta 3d6 monstros não humanoides vivos, médios ou pequenos com até 3 DV, ou uma única criatura com mais de 3 DV. O alvo passa a considerar o conjurador um amigo respeitável e confiável, obedecendo todas as suas ordens, desde que não haja uma clara ameaça à sua integridade.  Ordens como atacar serão sempre seguidas, mesmo quando o alvo a ser atacado for infinitamente mais poderoso do que o alvo da magia.</p>\n\n<p>Um sucesso em uma JPS nega o efeito desta magia. Se a criatura enfeitiçada for ferida, poderá realizar uma nova JPS.</p>\n\n<p>Após enfeitiçada, o valor da JPS da criatura determina a continuação da duração de Enfeitiçar Monstros.</p>\n\n<ul>\n  <li>\n    <p><strong>JPS 3 ou menor</strong>: uma JPS por mês.</p>\n  </li>\n  <li>\n    <p><strong>JPS 5 ou menor</strong>: uma JPS por semana.</p>\n  </li>\n  <li>\n    <p><strong>JPS 8 ou menor</strong>: uma JPS por dia.</p>\n  </li>\n  <li>\n    <p><strong>JPS 10 ou menor</strong>: uma JPS por hora.</p>\n  </li>\n</ul>\n"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "olddragon2e",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1698721200000,
+    "modifiedTime": 1702782000000,
+    "lastModifiedBy": "enzpVKIAX52oTyPe"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "enzpVKIAX52oTyPe": 3
+  },
+  "_key": "!items!U3wJphdvoHteMbLJ"
+}

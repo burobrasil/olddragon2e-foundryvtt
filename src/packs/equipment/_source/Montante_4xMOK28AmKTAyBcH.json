@@ -1,0 +1,47 @@
+{
+  "folder": "bkBRbMCUMv15wltn",
+  "name": "Montante",
+  "type": "weapon",
+  "_id": "4xMOK28AmKTAyBcH",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "odo_id": "montante",
+    "quantity": 1,
+    "cost": "16 PO",
+    "description": "Grande, Cortante, Duas Mãos.",
+    "weight_in_load": 3,
+    "weight_in_grams": null,
+    "magic_item": false,
+    "bonus_ca": null,
+    "type": "melee",
+    "damage_type": "slashing",
+    "damage": "1d12",
+    "bonus_damage": null,
+    "bonus_ba": null,
+    "shoot_range": null,
+    "throw_range": null,
+    "arrow": false,
+    "bolt": false,
+    "bolt_small": false,
+    "polearm": false,
+    "two_handed": true,
+    "versatile": false,
+    "increases_load_by": null
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "olddragon2e",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1698721200000,
+    "modifiedTime": 1702782000000,
+    "lastModifiedBy": "enzpVKIAX52oTyPe"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "enzpVKIAX52oTyPe": 3
+  },
+  "_key": "!items!4xMOK28AmKTAyBcH"
+}

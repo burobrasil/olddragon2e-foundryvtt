@@ -1,0 +1,37 @@
+{
+  "folder": "mQgfvQ1d7tezF8KV",
+  "name": "Sono",
+  "type": "spell",
+  "_id": "lLuAehGYnFgF3y5k",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "odo_id": "sono",
+    "school": "arcane",
+    "circle": "1",
+    "arcane": "1",
+    "divine": "null",
+    "necromancer": "null",
+    "illusionist": "null",
+    "reverse": false,
+    "range": "72 metros",
+    "duration": "4d4 turnos",
+    "jp": "nenhuma",
+    "description": "<p>Esta magia coloca inimigos em um sono encantado, sem direito a uma Jogada de Proteção.  Ela afeta criaturas baseada em seus dados de vida, afetando 1d4+1 DV para cada 5 níveis do conjurador. As primeiras criaturas afetadas são sempre as com menos dados de vida dentro do alcance da magia. Dados de vida remanescentes após a contagem são desperdiçados.</p>\n\n<p>Criaturas adormecidas por esta magia permanecem dormindo até o final de sua duração, ou até serem acordadas. São atacadas como se estivessem indefesas e despertarão após levarem o dano.</p>\n"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "olddragon2e",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1698721200000,
+    "modifiedTime": 1702782000000,
+    "lastModifiedBy": "enzpVKIAX52oTyPe"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "enzpVKIAX52oTyPe": 3
+  },
+  "_key": "!items!lLuAehGYnFgF3y5k"
+}

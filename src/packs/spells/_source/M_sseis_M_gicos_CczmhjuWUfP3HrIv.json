@@ -1,0 +1,37 @@
+{
+  "folder": "mQgfvQ1d7tezF8KV",
+  "name": "Mísseis Mágicos",
+  "type": "spell",
+  "_id": "CczmhjuWUfP3HrIv",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "odo_id": "misseis-magicos",
+    "school": "arcane",
+    "circle": "1",
+    "arcane": "1",
+    "divine": "null",
+    "necromancer": "null",
+    "illusionist": "null",
+    "reverse": false,
+    "range": "45 metros",
+    "duration": "instantânea",
+    "jp": "nenhuma",
+    "description": "<p>Um míssil mágico voa para onde o conjurador direcionar, acertando automaticamente os alvos.  Para atingir uma criatura, é preciso que ela esteja na linha de visão do conjurador, o qual pode lançar 1 Míssil Mágico a cada 3 níveis, causando um dano de 1d4 pontos +1 por nível, até um máximo de +5. Assim, o conjurador conjura 2 mísseis no 4º nível, 3 mísseis no 7º, 4 mísseis no 10º, e 5 mísseis no 13º. Esses mísseis adicionais podem ser direcionados para alvos distintos desde que a distância entre os alvos não seja superior a 18 metros.</p>\n"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "olddragon2e",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1698721200000,
+    "modifiedTime": 1702782000000,
+    "lastModifiedBy": "enzpVKIAX52oTyPe"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "enzpVKIAX52oTyPe": 3
+  },
+  "_key": "!items!CczmhjuWUfP3HrIv"
+}

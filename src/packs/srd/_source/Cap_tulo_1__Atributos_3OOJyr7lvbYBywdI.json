@@ -1,0 +1,337 @@
+{
+  "folder": null,
+  "name": "Capítulo 1: Atributos",
+  "_id": "3OOJyr7lvbYBywdI",
+  "pages": [
+    {
+      "sort": 0,
+      "name": "",
+      "type": "text",
+      "_id": "C5ieR5VmNME5aJjg",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<p>Os atributos são as principais características de um personagem e a forma mais básica de representar tudo o que ele é, sabe ou consegue fazer.</p>\n\n<p>Retratam as habilidades físicas, intelectuais e sociais, destacam fraquezas, os pontos fortes e influenciam em praticamente todos os outros elementos da ficha de personagem.</p>\n\n<p>Para se aventurar em Old Dragon, você precisará de um personagem. Uma espécie de alter ego, no mundo de fantasia explorado por você enquanto joga.</p>\n\n<p>Este personagem possui seis atributos básicos:</p>\n\n<p><strong>Força (FOR)</strong></p>\n\n<p><strong>Destreza (DES)</strong></p>\n\n<p><strong>Constituição (CON)</strong></p>\n\n<p><strong>Inteligência (INT)</strong></p>\n\n<p><strong>Sabedoria (SAB)</strong></p>\n\n<p><strong>Carisma (CAR)</strong></p>\n\n<p>Como praticamente todas as jogadas de dados em Old Dragon são influenciadas pelos atributos, estes acabam sendo muito importantes no jogo.</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!3OOJyr7lvbYBywdI.C5ieR5VmNME5aJjg"
+    },
+    {
+      "sort": 1,
+      "name": "Força",
+      "type": "text",
+      "_id": "tdwqWBf46RJN2ZJm",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<p>Define a potência física do personagem e os feitos musculares que ele pode realizar. Falamos de Força ao nos referirmos a quanto peso alguém pode carregar, o quão forte ele consegue bater ou o quão longe consegue empurrar uma pessoa ou arremessar um objeto.</p>\n\n<p>Uma breve sugestão de como entender os valores de Força:</p>\n\n<ul>\n  <li><strong>Fraco (3-8)</strong> normalmente fracos e com aparência franzina. Gastam muita energia para realizar tarefas simples e para fazer exercícios físicos.</li>\n  <li><strong>Mediano (9-12)</strong> tarefas comuns para os músculos não é um grande problema. Carregar peso, empurrar ou puxar coisas pesadas, tudo isso é cabível. Você até vai ter sucesso aqui e ali numa briga, mas jamais se destacará pelos seus músculos.</li>\n  <li><strong>Forte (13-16)</strong> você é claramente forte e as pessoas percebem isso. Sua ajuda é sempre requisitada quando alguém precisa de força num trabalho braçal, e todos pensam duas vezes antes de arrumar briga contigo.</li>\n  <li><strong>Muito Forte (17-18)</strong> você faz com um braço o que todos sofrem para fazer com os dois. É visto como um colosso, um ponto fora da curva, conseguindo carregar um peso inimaginável para uma pessoa normal e empurrar ou puxar coisas tão pesadas que muitos pensavam ser possível apenas para os animais de tração.</li>\n</ul>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!3OOJyr7lvbYBywdI.tdwqWBf46RJN2ZJm"
+    },
+    {
+      "sort": 2,
+      "name": "Destreza",
+      "type": "text",
+      "_id": "zigRrGFyfDFpxTL2",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<p>Determina a agilidade, a habilidade e a finesse dos movimentos. Se a Força é a potência, a Destreza é a precisão. Falamos de Destreza quando queremos determinar o quão preciso alguém arremessa um objeto, se equilibra ou se esquiva de um golpe, por exemplo.</p>\n\n<p>Uma breve sugestão de como entender os valores de Destreza:</p>\n\n<ul>\n  <li><strong>Letárgico (3-8)</strong> você é lento, quase parado e com uma aparência abatida. Qualquer movimento, por mais lento e estudado que seja, ainda parecerá mais desajeitado do que o da média.</li>\n  <li><strong>Mediano (9-12)</strong> tarefas simples são realizadas com competência aceitável e relativa coordenação motora. Alguns deslizes até acontecem, mas você consegue arremessar a pedra dentro do poço com bastante frequência.</li>\n  <li><strong>Ágil (13-16)</strong> seus movimentos são graciosos e precisos. Mesmo acelerando, você consegue realizar proezas com tamanha precisão que, para uma pessoa normal, parece magia.</li>\n  <li><strong>Preciso (17-18)</strong> sua capacidade de realizar movimentos é fluida e ágil, os quais passam despercebidos a olhos destreinados.</li>\n</ul>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!3OOJyr7lvbYBywdI.zigRrGFyfDFpxTL2"
+    },
+    {
+      "sort": 3,
+      "name": "Constituição",
+      "type": "text",
+      "_id": "7rvP7BoKy5QSsVA4",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<p>Exemplifica o vigor e a resiliência do personagem. É a sua saúde, sua capacidade de manter-se vivo e saudável. Falamos de Constituição quando queremos que um personagem sobreviva a ações danosas como ferimentos causados por armas ou monstros, afogamentos, envenenamentos etc.</p>\n\n<p>Uma breve sugestão de como entender os valores de Constituição:</p>\n\n<ul>\n  <li><strong>Frágil (3-8)</strong> você parece debilmente sadio, com aparência debilitada e enferma. Está quase sempre cansado, ofegante e próximo de adoecer. Sensação de desmaio ao menor sinal de dor. Um soco é uma ameaça de morte.</li>\n  <li><strong>Mediano (9-12)</strong> você é saudável. Cansa-se ao correr, mas não morre por causa disso. Uma gripe ou outra pode te pegar, mas os sintomas são normalmente leves. Um soco é tolerável, mas, se bem dado, pode te nocautear.</li>\n  <li><strong>Resistente (13-16)</strong> aguenta mais impactos do que a maioria das pessoas. Pode correr, nadar, subir escadas e não ficar ofegante. É incansável e dificilmente será nocauteado.</li>\n  <li><strong>Vigoroso (17-18)</strong> venenos não são nada pra você. Doenças não se desenvolvem no seu corpo. Correr, nadar, escalar, lutar, nada disso faz você ficar sequer ofegante. Dor é uma palavra desconhecida.</li>\n</ul>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!3OOJyr7lvbYBywdI.7rvP7BoKy5QSsVA4"
+    },
+    {
+      "sort": 4,
+      "name": "Inteligência",
+      "type": "text",
+      "_id": "JT9YFrVvohDvyLKr",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<p>Mede o aprendizado, a capacidade de usar conhecimento e o relacionamento do personagem com as forças mágicas arcanas. Falamos de Inteligência, por exemplo, quando tentamos determinar se um personagem consegue conversar com um indivíduo em outro idioma.</p>\n\n<p>Uma breve sugestão de como entender os valores de Inteligência:</p>\n\n<ul>\n  <li><strong>Inepto (3-8)</strong> adquirir e guardar conhecimento é algo muito difícil pra você. A aprendizagem de coisas simples só é possível por meio da imensa repetição. Seu raciocínio é simples, lento e quase sempre confundido com o de uma criança. Sua memória é falha na maioria das vezes.</li>\n  <li><strong>Mediano (9-12)</strong> você aprende coisas normalmente. Adquire conhecimentos, raciocina com clareza na maioria das vezes e entende conceitos não muito complexos. Lógica faz parte da sua forma de se expressar. Sua memória é boa, embora falhe uma vez ou outra.</li>\n  <li><strong>Inteligente (13-16)</strong> você é mais inteligente do que a maioria das pessoas. Aprende novos métodos só de raciocinar sobre eles. Seu conhecimento é amplo, até nos campos ignorados pelas pessoas comuns. Sua memória é invejável. Datas, nomes e acontecimentos são guardados com precisão.</li>\n  <li><strong>Gênio (17-18)</strong> usa seu raciocínio e conhecimento para inventar novos processos e teorias. Nada aprendido fica sem uma conexão com outro conhecimento que você já possua. É capaz de escrever tratados sem consultar outras obras. Sua memória é quase fotográfica, sendo capaz de lembrar hoje o que comeu há alguns anos.</li>\n</ul>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!3OOJyr7lvbYBywdI.JT9YFrVvohDvyLKr"
+    },
+    {
+      "sort": 5,
+      "name": "Sabedoria",
+      "type": "text",
+      "_id": "2IeQALNml8gHOPhG",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<p>Representa o senso comum, o discernimento e a ligação do personagem com as artes e consigo mesmo além da sua força de vontade. Falamos de Sabedoria quando um personagem tem a chance de perceber algo que poderia passar despercebido, ou ainda, algo que remeta ao bom senso e ao senso comum.</p>\n\n<p>Uma breve sugestão de como entender os valores de Sabedoria:</p>\n\n<ul>\n  <li><strong>Tolo (3-8)</strong> suas ações são desconexas e você age quase sempre por impulso, sem se importar com as consequências do seu ato. Você se distrai com muita facilidade e está quase sempre desatento e desprevenido. As pessoas só lhe pedem uma informação se não te conhecerem.</li>\n  <li><strong>Mediano (9-12)</strong> você é capaz de viver com algum planejamento e concatena ideias normalmente. Usa a intuição e o consenso na maioria das vezes. Suas decisões são fundamentadas e você consegue perceber algumas nuances no humor das pessoas à sua volta. As pessoas lhe pedem uma informação e você é, na maioria das vezes, capaz de dá-la com clareza.</li>\n  <li><strong>Intuitivo (13-16)</strong> suas decisões são fundamentadas em planos lógicos e filosóficos. Lê as situações com bastante margem de acerto e consegue detectar coisas fora da ordem apenas usando sua intuição. Outras pessoas lhe procuram exclusivamente para ouvir seus conselhos.</li>\n  <li><strong>Presciente (17-18)</strong> sua leitura das situações e o uso da intuição é extremamente certeira – as pessoas acreditam que você tem algum dom divino de precognição. Sua análise dos riscos possui detalhes que serão confirmados quando comparados com a realidade. As pessoas viajam por dias e pagam para ouvir seus conselhos.</li>\n</ul>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!3OOJyr7lvbYBywdI.2IeQALNml8gHOPhG"
+    },
+    {
+      "sort": 6,
+      "name": "Carisma",
+      "type": "text",
+      "_id": "9dNpprTc4sLRN2RG",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<p>Determina as habilidades sociais do personagem. O seu magnetismo pessoal e o quanto a sua presença afeta as pessoas à sua volta. Falamos de Carisma quando tentamos determinar a capacidade de liderança e o convencimento de outras pessoas.</p>\n\n<p>Uma breve sugestão de como entender os valores de Carisma:</p>\n\n<ul>\n  <li><strong>Descortês (3-8)</strong> demonstrar empatia e expressões compreensíveis por outras criaturas é um desafio pra você. Age de maneira aleatória e insociável. Sua presença pode afastar outras pessoas que o consideram chato, maçante ou desconfortável.</li>\n  <li><strong>Mediano (9-12)</strong> educado, consegue demonstrar empatia normalmente e ter uma relação amigável com seus semelhantes, ou pelo menos com a maioria deles. É sociável e consegue convencer pela palavra ou até mesmo influenciar uma ou outra pessoa.</li>\n  <li><strong>Influente (13-16)</strong> você diz coisas certas nas horas certas, consideradas interessantes pelas outras pessoas. Por isso, é extremamente popular. Você influencia, pela fama ou talvez pelo medo, e consegue, na maioria das vezes, fazer com que os outros façam o que você quer.</li>\n  <li><strong>Ídolo (17-18)</strong> sua presença atrai a atenção de todos onde quer que você esteja. É impossível, pra você, passar despercebido. Mesmo quando maltratadas por você, as pessoas relutam em te odiar. Sua influência é capaz de fazer as pessoas trocarem suas crenças e opiniões.</li>\n</ul>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!3OOJyr7lvbYBywdI.9dNpprTc4sLRN2RG"
+    },
+    {
+      "sort": 7,
+      "name": "Rolando Atributos",
+      "type": "text",
+      "_id": "F1JZktn9LmZ3ajJc",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<p>Os valores médios para um humano comum ficam entre 9 e 12. Felizmente, aventureiros são pessoas que não se enquadram no padrão e facilmente atingem valores acima de 12.</p>\n\n<p>Para determinar o atributo de um personagem, é preciso questionar ao Mestre qual tipo de aventura vocês como grupo pretendem jogar. O estilo de aventura escolhido refletirá no método para sortear os atributos. É sensato que todos os personagens sejam gerados pelo mesmo método, evitando assim desequilíbrio entre os personagens.</p>\n\n<h3 id=\"estilo-classico\">Estilo Clássico</h3>\n\n<p>Role <strong>3d6 seis vezes</strong> e distribua entre os atributos, seguindo a ordem: Força, Destreza, Constituição, Inteligência, Sabedoria e Carisma.</p>\n\n<p>Esse estilo é o mais clássico dentro da história do RPG Old School e produz personagens desafiadoramente medianos, já que suas rolagens farão com que quase 50% dos atributos fiquem dentro do padrão (9 a 12), quase 70% dos atributos entre 8 e 13, e 90% entre 6 e 15. A chance de um 17 e 18 é de 2%.</p>\n\n<p>Este estilo também é conhecido por fazer a escolha aleatória das classes, já que você praticamente escolhe com qual classe vai jogar após determinar os atributos do seu personagem.</p>\n\n<h3 id=\"estilo-aventureiro\">Estilo Aventureiro</h3>\n\n<p>Role <strong>3d6 seis vezes</strong> e distribua como desejar os resultados nos seis atributos dos personagens.</p>\n\n<p>Esse estilo de rolagem é idêntico ao estilo clássico, mas um pouco mais maleável porque você distribui dentre os atributos desejados. Ele fará com que 50% dos atributos fiquem dentro do padrão (9 a 12), quase 70% dos atributos entre 8 e 13, e 90% entre 6 e 15. A chance de um 17 e 18 é de 2%.</p>\n\n<h3 id=\"estilo-heroico\">Estilo Heroico</h3>\n\n<p>Role <strong>4d6 eliminando o d6 mais baixo</strong> da soma. Faça isso seis vezes e distribua como desejar os resultados nos seis atributos dos personagens.</p>\n\n<p>Esse estilo fará com que os atributos estejam em 40% das vezes entre 9 e 12, e 70% das vezes entre 8 e 13. A chance de um 17 e 18 é de 6%.</p>\n\n<p>O estilo heroico gerará personagens levemente superiores aos do estilo aventureiro. Use-o se seu Mestre e grupo pretendem ter um jogo cujos personagens realmente se destaquem em relação às pessoas comuns.</p>\n\n<h3 id=\"estilo-3d6-duplo\">Estilo 3d6 Duplo</h3>\n\n<p>Role <strong>3d6 duas vezes</strong> para cada atributo, ficando com a soma maior de cada dupla de 3d6 para cada atributo.</p>\n\n<p>Os atributos determinados assim costumam variar entre 9 e 12 em 50% das vezes, e entre 8 e 13 em 85% das vezes.</p>\n\n<p>Ele confere um controle um pouco maior sobre os valores, mas tem a desvantagem de ser demorado por depender de uma quantidade muito grande de dados a serem jogados.</p>\n\n<h3 id=\"estilo-campones\">Estilo Camponês</h3>\n\n<p>Role <strong>1d6 para cada atributo</strong> e some 7 ao resultado para formar o valor de cada um dos atributos. Depois, distribua como desejar entre os atributos.</p>\n\n<p>Este estilo é indicado para sorteio rápido de atributos para membros comuns do seu jogo, como camponeses, taverneiros, fazendeiros, burocratas, artistas, comerciantes etc.</p>\n\n<p>Os atributos determinados assim têm como resultado um 8 em 16,7% das vezes, um valor mediano de 9 a 12 em 66,6% das vezes e um 13 (valor acima da média entre os meros mortais) em 16,7% das vezes.</p>\n\n<h3 id=\"estilo-da-distribuicao\">Estilo da Distribuição</h3>\n\n<p>Role <strong>7d6 anotando o resultado</strong> de cada dado separadamente. Depois, distribua estes resultados a cada um dos atributos, começando pelo valor base 8.</p>\n\n<p>O jogador pode distribuir quantos resultados de dados quiser a qualquer um dos atributos, podendo inclusive não distribuir nenhum dado a determinado atributo.</p>\n\n<p>Seus únicos limites são que nenhum atributo pode ser maior que 18 e o resultado de um dado não pode ser dividido entre dois atributos.</p>\n\n<p>Esse estilo gera em 63% das vezes resultados entre 9 e 12, e 75% das vezes entre 8 e 13. Obviamente é o método para caso você queira controle, uma vez que é maleável para ajudar onde influenciar um atributo, mas não o suficiente para atrapalhar o equilíbrio do jogo.</p>\n\n<h3 id=\"estilo-racial\">Estilo Racial</h3>\n\n<p>Como você deve ter percebido no <a data-accordion-ignore=\"true\" data-turbo-frame=\"_top\" href=\"/livros/lb1\">LB1</a>, o OD2 rompe com a tradição de se modificar atributos de acordo com a escolha da raça. Então, o estilo racial é uma forma de trazer essa característica novamente ao jogo se o seu grupo se ressente da falta dela.</p>\n\n<p>Role <strong>2d6 e some 6</strong> para determinar o atributo Forte da raça do seu personagem.</p>\n\n<p>Role <strong>2d6 e some 3</strong> para determinar o atributo Fraco da raça do seu personagem.</p>\n\n<p>Role <strong>3d6 por 4 vezes</strong> para determinar os demais atributos do seu personagem.</p>\n\n<p><strong>Elfo:</strong> 2d6+6 em Destreza e 2d6+3 em Constituição.</p>\n\n<p><strong>Anão:</strong> 2d6+6 em Constituição e 2d6+3 em Carisma.</p>\n\n<p><strong>Halfling:</strong> 2d6+6 em Destreza e 2d6+3 em Força.</p>\n\n<p><strong>Gnomos:</strong> 2d6+6 em Inteligência e 2d6+3 em Sabedoria.</p>\n\n<p><strong>Humanos e Meio-Elfos:</strong> escolhem, antes de lançar, onde lançarão 2d6+6 e onde lançarão 2d6+3.</p>\n\n<h3 id=\"atributos-e-valores\">Atributos e Valores</h3>\n\n<p>A tabela 1.1 apresenta os valores de atributos e seus desdobramentos. Após determinar o valor de cada um dos seus atributos, compare na tabela se o seu valor possui algum modificador ou concede alguma magia extra caso seu personagem seja um conjurador.</p>\n\n<p><strong>Modificador de Atributo</strong> apresenta modificadores bônus ou penalidades associadas a várias ações do jogo e relacionadas com o atributo em questão. Ao longo deste livro, sempre que estivermos nos referindo a um modificador de atributo, é desse modificador que estamos falando.</p>\n\n<p><a href=\"/livros/srd/capitulos/magia#magias-extras\">Magias Extras</a> por dia representa o número de magias arcanas (Inteligência) ou divinas (Sabedoria) adicionais que um Mago e Clérigo podem <a href=\"/livros/srd/capitulos/magia#memorizando-magias\">memorizar</a> e conjurar diariamente, desde que suas classes já tenham acesso àquele círculo de magia.</p>\n\n<div class=\"overflow-x-auto\">\n  <table>\n    <caption>Atributos <span>tabela 1.1</span></caption>\n    <thead>\n      <tr>\n        <th rowspan=\"2\">Atributo</th>\n        <th rowspan=\"2\">Modificador de Atributo</th>\n        <th colspan=\"3\">Magias Extras por dia (INT) (SAB)</th>\n      </tr>\n      <tr>\n        <th>1º círculo</th>\n        <th>2º círculo</th>\n        <th>3º círculo</th>\n      </tr>\n    </thead>\n    <tbody>\n      <tr class=\"text-center\">\n        <td>2-3</td>\n        <td>-3</td>\n        <td>-</td>\n        <td>-</td>\n        <td>-</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td>4-5</td>\n        <td>-2</td>\n        <td>-</td>\n        <td>-</td>\n        <td>-</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td>6-8</td>\n        <td>-1</td>\n        <td>-</td>\n        <td>-</td>\n        <td>-</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td>9-12</td>\n        <td>-</td>\n        <td>-</td>\n        <td>-</td>\n        <td>-</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td>13-14</td>\n        <td>+1</td>\n        <td>1</td>\n        <td>-</td>\n        <td>-</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td>15-16</td>\n        <td>+2</td>\n        <td>1</td>\n        <td>1</td>\n        <td>-</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td>17-18</td>\n        <td>+3</td>\n        <td>2</td>\n        <td>1</td>\n        <td>1</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td>19-20</td>\n        <td>+4</td>\n        <td>2</td>\n        <td>2</td>\n        <td>1</td>\n      </tr>\n    </tbody>\n  </table>\n</div>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!3OOJyr7lvbYBywdI.F1JZktn9LmZ3ajJc"
+    },
+    {
+      "sort": 8,
+      "name": "Teste de Atributos",
+      "type": "text",
+      "_id": "dU9oexY6m3Puk8l3",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<p>Em determinadas situações de jogo, o personagem pode ter de enfrentar algum desafio utilizando um de seus atributos.</p>\n\n<p>Estas situações podem ser corriqueiras, como tentar erguer uma grade de ferro, ou algo extremamente específico, como avaliar se o anel encontrado é ou não o anel criado por determinado Necromante.</p>\n\n<p>Nestas circunstâncias, um teste de atributo poderá ser necessário para determinar o sucesso ou o fracasso do personagem na sua tentativa.</p>\n\n<p><strong>Resultado 20:</strong> independentemente do valor do atributo do personagem ou dos ajustes e modificadores recebidos no teste, um resultado 20 na rolagem do dado será sempre considerado uma falha.</p>\n\n<p><strong>Resultado 01:</strong> independentemente do valor do atributo do personagem ou dos ajustes e modificadores recebidos no teste, um resultado 1 na rolagem do dado será sempre considerado um sucesso.</p>\n\n<h3 id=\"ajuste-de-testes\">Ajuste de Testes</h3>\n\n<p>Algumas situações podem tornar os testes de atributos mais <strong>fáceis</strong> ou mais <strong>difíceis</strong> ao receber um ajuste.</p>\n\n<p><strong>Ajustes</strong> alteram a dificuldade do teste, somando ou subtraindo modificadores nos atributos de acordo com <strong>a situação</strong>.</p>\n\n<ul>\n  <li><strong>Fácil (F):</strong> deve ser realizado com modificador de +2.</li>\n  <li><strong>Muito Fácil (MF):</strong> deve ser realizado com modificador de +5.</li>\n</ul>\n\n<p>Se, por alguma razão, um teste acumular situações que ultrapassem o bônus de +5, o teste só falhará em caso de um resultado 20 no dado, já que 20 é sempre uma falha em um teste de atributo.</p>\n\n<ul>\n  <li><strong>Difícil (D):</strong> deve ser realizado com modificador de -2.</li>\n  <li><strong>Muito Difícil (MD):</strong> deve ser realizado com modificador de -5.</li>\n</ul>\n\n<p>Os modificadores negativos destes testes devem ser aplicados ao valor do Atributo. Um teste de Sabedoria 13 com modificador de -2, na verdade é um teste contra uma Sabedoria 11, já que ele recebeu uma penalidade de 2 na sua Sabedoria 13.</p>\n\n<p>Se três ou mais situações se acumularem, o Mestre pode avaliar que um teste não é necessário (determinando uma falha automática como resultado) ou pedir um teste que só tenha sucesso em caso de um resultado 1, já que 1 é sempre um sucesso em um teste de atributo.</p>\n\n<p><strong>Acúmulo de Ajustes</strong> é possível em algumas situações. Isso pode fazer com que elas se anulem. Se um teste possui duas situações que o deixam mais fácil, juntas elas tornam o teste <em>Muito fácil (MF)</em>. Da mesma forma, se o teste tem uma situação o complicando e duas o simplificando, ele será um teste <em>Fácil (F)</em> e daí por diante.</p>\n\n<blockquote class=\"example\">\n  <p><strong>Exemplo:</strong> <em>o Guerreiro precisa abrir uma passagem entre as barras de ferro, que fecham uma saída dos esgotos da cidade, para fugir dos homens do Duque. Como a grade está muito enferrujada, o Mestre pede um teste de força fácil <strong>(+2)</strong>.</em></p>\n\n  <p><em>Se o Ladrão se lembrar de usar a serra que tem no seu equipamento para auxiliar, o bônus no teste do Guerreiro passa a ser de +5 em vez de apenas +2.</em></p>\n\n  <p><em>Além disso, alguém percebe que a barra de ferro do canto está com a junção na argamassa carcomida, o que tornaria o teste naquela barra ainda mais fácil, fazendo com que o Mestre nem peça um teste, assumindo que as barras cedem facilmente à menor força empregada.</em></p>\n\n  <p><em>Por outro lado, se os jogadores estiverem fazendo isso com muita pressa, já ouvindo os latidos dos cães do Duque que os persegue, o Mestre pode reconsiderar, pedindo um teste com bônus de +5. Uma situação que complique sempre elimina uma situação que facilite e vice-versa.</em></p>\n</blockquote>\n\n<h3 id=\"testes-resistidos\">Testes Resistidos</h3>\n\n<p>Muitas vezes os aventureiros serão desafiados a colocar à prova algum de seus atributos em disputa com um adversário, personagem do mestre ou mesmo entre eles.</p>\n\n<p>Sempre que uma situação de teste resistido ocorrer, um único teste deve ser realizado pelo jogador e nunca pelo monstro ou inimigo.</p>\n\n<p>O Mestre deve avaliar se um ajuste se faz necessário de acordo com a circunstância, o tamanho do monstro, etc.</p>\n\n<blockquote class=\"example\">\n  <p><strong>Exemplo:</strong> <em>um Guerreiro com Força 12 tenta segurar uma porta enquanto um ogro empurra a mesma porta para entrar. O Mestre analisa que o ogro é um monstro grande e mais forte que o Guerreiro, então pede para este testar sua Força com ajuste Muito Difícil. O Guerreiro precisa tirar 7 ou menos para conseguir segurar a porta.</em></p>\n</blockquote>\n\n<p><strong>Entre dois jogadores:</strong> se dois jogadores estiverem se opondo em um teste resistido, apenas o jogador com o atributo mais baixo realiza o teste. Para um teste resistido utilize os seguintes ajustes:</p>\n\n<ul>\n  <li><strong>Sem Diferença:</strong> quando a diferença for igual a 0, ambos realizam o teste. O menor resultado vence.</li>\n  <li><strong>Diferença até 2:</strong> se a diferença entre os atributos for de 0, 1 ou 2 pontos, o teste é feito com ajuste Difícil.</li>\n  <li><strong>Diferença de 3 a 5:</strong> se a diferença entre os atributos for de 3, 4 ou 5 pontos, o teste é feito com ajuste Muito Difícil.</li>\n</ul>\n\n<blockquote class=\"example\">\n  <p><strong>Exemplo:</strong> <em>um Guerreiro com Força 12 tenta segurar uma porta enquanto um Clérigo com Força 13 empurra a mesma porta para entrar. O Mestre pede ao Guerreiro para realizar um teste de Força com ajuste Difícil. O Guerreiro precisa tirar 10 ou menos para conseguir segurar a porta.</em></p>\n</blockquote>\n\n<h3 id=\"testes-cooperativos\">Testes Cooperativos</h3>\n\n<p>Testes cooperativos são o inverso de um teste resistido. Aqui, dois ou mais personagens se juntam com a intenção de fazer a ação conjuntamente, tornando-a mais fácil.</p>\n\n<p><strong>Ajustes:</strong> o Mestre pode conceder um ajuste mais fácil conforme mais pessoas auxiliem na atividade.</p>\n\n<blockquote class=\"example\">\n  <p><strong>Exemplo:</strong> <em>um Guerreiro com Força 12 e um Clérigo com Força 13 tentam segurar uma porta enquanto um ogro empurra a mesma porta para entrar. O Mestre analisa que o ogro é um monstro grande e mais forte que o Guerreiro, então pede para este testar sua Força com ajuste Muito Difícil. Como o Clérigo está ajudando a segurar a porta, o Mestre entende que as Forças somadas equivalem à Força do ogro, então retira o ajuste pedindo um teste normal. O Guerreiro precisa tirar 12 ou menos para conseguir segurar a porta.</em></p>\n</blockquote>\n\n<p><a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.pt_BR\" class=\"cc-by\" target=\"_blank\" rel=\"external\"><img src=\"https://static.olddragon.com.br/digital_items_srd/CC_BY-SA_icon.png\" alt=\"CC-BY\" /></a></p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!3OOJyr7lvbYBywdI.dU9oexY6m3Puk8l3"
+    }
+  ],
+  "flags": {},
+  "_stats": {
+    "systemId": "olddragon2e",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1698721200000,
+    "modifiedTime": 1702782000000,
+    "lastModifiedBy": "enzpVKIAX52oTyPe"
+  },
+  "sort": 1,
+  "ownership": {
+    "default": 0,
+    "enzpVKIAX52oTyPe": 3
+  },
+  "_key": "!journal!3OOJyr7lvbYBywdI"
+}

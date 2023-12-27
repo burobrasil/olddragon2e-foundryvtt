@@ -1,0 +1,123 @@
+{
+  "name": "Verme escarlate",
+  "type": "monster",
+  "_id": "kJdGK13SAFUoyDzC",
+  "img": "systems/olddragon2e/assets/monsters-concepts/besta-grande.webp",
+  "system": {
+    "odo_id": "verme-escarlate",
+    "flavor": "Verme com uma boca circular repleta de presas pontiagudas usadas para cavar buracos e mastigar rochas.",
+    "concept": "Besta",
+    "size": "grande",
+    "alignment": "neutro",
+    "variant": false,
+    "description": "<ul>\n  <li>\n    <p><strong>Senso Sísmico</strong>: um Verme Escarlate pode sentir vibrações no solo a até 30 metros de onde estiver. Ele consegue identificar movimento, perceber a exata localização de uma presa e identificar o tamanho e a quantidade de inimigos na área.</p>\n  </li>\n  <li>\n    <p><strong>Engolir</strong>: se um Verme Escarlate obtiver um 20 natural em seu teste de ataque, engolirá seu oponente. Um oponente engolido sofre 2d4 de dano por rodada até conseguir sair do estômago do Verme. Atacar dentro do sistema digestivo é possível com penalidade de 4 no ataque.</p>\n  </li>\n  <li>\n    <p><strong>Surpresa</strong>: o Verme Escarlate pode atacar vindo diretamente do chão, surpreendendo seus inimigos com um resultado de 1 a 3 em 1d6.</p>\n  </li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>2 × mordidas + 8 (2d6)</li>\n</ul>\n",
+    "encounters": "1d2",
+    "encounters_lair": "1d4",
+    "xp": "740",
+    "treasure": "",
+    "treasure_lair": "",
+    "mv": "6",
+    "mvc": "",
+    "mve": "3",
+    "mvn": "",
+    "mvv": "",
+    "mvo": "",
+    "dv": "8",
+    "dv_bonus": "",
+    "pv": "40",
+    "ca": "17",
+    "jp": "6",
+    "mo": "9",
+    "url": "",
+    "habitat": "Desertos, Subterrâneos",
+    "hp": {
+      "value": "40",
+      "max": "40"
+    }
+  },
+  "prototypeToken": {
+    "name": "Verme escarlate",
+    "displayName": 20,
+    "actorLink": false,
+    "appendNumber": false,
+    "prependAdjective": false,
+    "texture": {
+      "src": "systems/olddragon2e/assets/monsters-concepts/besta-grande.webp",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0
+    },
+    "width": 2,
+    "height": 2,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": -1,
+    "displayBars": 40,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "light": {
+      "color": null,
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "sight": {
+      "enabled": false,
+      "range": 0,
+      "angle": 360,
+      "visionMode": "basic",
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": [],
+    "flags": {},
+    "randomImg": false
+  },
+  "items": [],
+  "effects": [],
+  "folder": "8gdK9MBNzpaboPvc",
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "olddragon2e",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1698721200000,
+    "modifiedTime": 1702782000000,
+    "lastModifiedBy": "enzpVKIAX52oTyPe"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "enzpVKIAX52oTyPe": 3
+  },
+  "_key": "!actors!kJdGK13SAFUoyDzC"
+}

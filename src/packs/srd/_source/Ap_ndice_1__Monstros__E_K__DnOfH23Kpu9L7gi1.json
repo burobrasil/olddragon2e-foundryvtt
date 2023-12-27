@@ -1,0 +1,1877 @@
+{
+  "folder": null,
+  "name": "Apêndice 1: Monstros (E-K)",
+  "_id": "DnOfH23Kpu9L7gi1",
+  "pages": [
+    {
+      "sort": 0,
+      "name": "",
+      "type": "text",
+      "_id": "C5ieR5VmNME5aJjg",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<p>Continuação dos monstros, você encontra das letras <strong>E</strong> até <strong>K</strong>.</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.C5ieR5VmNME5aJjg"
+    },
+    {
+      "sort": 1,
+      "name": "Efreeti",
+      "type": "text",
+      "_id": "ccVfmagsD7S562FH",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><div class=\"relative mx-auto p-4\">\n  \n  <p class=\"text-center\">\n    Humanoide Monstruoso, Grande e Ordeiro\n    \n      ◆\n      Extraplanar\n    \n  </p>\n  \n  <p class=\"text-center italic\">\n    Seres mágicos e inteligentes do Plano Elemental do Fogo, com faces demoníacas e corpos em brasa.\n  </p>\n  \n  \n  \n  \n  <div class=\"grid grid-cols-2 text-center md:mx-10 xl:mx-20\">\n    <div>\n      <strong>Encontro</strong>\n      <em>\n        1\n        \n          (1)\n        \n      </em>\n    </div>\n    <div>\n      <strong>Experiência</strong>\n      <em>\n        1400XP\n      </em>\n    </div>\n    <div>\n      <strong>Tesouro</strong>\n      <em>\n        -\n        \n      </em>\n    </div>\n    <div>\n      <strong>Movimento</strong>\n      <em>\n        9, 15V\n      </em>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"flex justify-between text-center md:mx-10 xl:mx-20\">\n    <div class=\"basis-1/4\">\n      <div><strong>DV [PV]</strong></div>\n      <div><em>10 [50]</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>CA</strong></div>\n      <div><em>17</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>JP</strong></div>\n      <div><em>12</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>MO</strong></div>\n      <div><em>9</em></div>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"mb-6 md:mx-10 xl:mx-20\">\n    \n      <div>1 × pancada + 11 (2d8 )</div>\n    \n  </div>\n  \n  <div>\n    <ul>\n  <li>\n    <p><strong>Imunidades</strong>: um Efreeti é imune ao dano de qualquer arma não mágica.</p>\n  </li>\n  <li>\n    <p><strong>Magia</strong>: um Efreeti pode lançar magias como se fosse um Mago de 3º nível.</p>\n  </li>\n  <li>\n    <p><strong>Explosão de Fogo</strong>: o Efreeti pode, uma vez ao dia, causar uma explosão de fogo ao seu redor semelhante à magia Bola de Fogo.</p>\n  </li>\n</ul>\n\n  </div>\n  \n  \n  <div data-controller=\"linker\" data-linker-url-value=\"/monstros/efreeti\" data-linker-text-value=\"Efreeti\" data-linker-link-class=\"absolute text-sm -top-6 right-0\">\n  </div>\n</div>\n<hr class=\"my-6 h-px bg-dourado-600 border-0\" />\n\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.ccVfmagsD7S562FH"
+    },
+    {
+      "sort": 2,
+      "name": "Elemental da Água",
+      "type": "text",
+      "_id": "G4t46yGOupCZTQd7",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><div class=\"relative mx-auto p-4\">\n  \n  <p class=\"text-center\">\n    Besta, Grande e Neutro\n    \n      ◆\n      Extraplanar\n    \n  </p>\n  \n  <p class=\"text-center italic\">\n    Uma grande onda de água revolta, de forma amorfa. Flui para onde quer ir e assume qualquer forma desejada.\n  </p>\n  \n  \n  \n  \n  <div class=\"grid grid-cols-2 text-center md:mx-10 xl:mx-20\">\n    <div>\n      <strong>Encontro</strong>\n      <em>\n        1\n        \n          (1)\n        \n      </em>\n    </div>\n    <div>\n      <strong>Experiência</strong>\n      <em>\n        460XP\n      </em>\n    </div>\n    <div>\n      <strong>Tesouro</strong>\n      <em>\n        -\n        \n      </em>\n    </div>\n    <div>\n      <strong>Movimento</strong>\n      <em>\n        6, 12N\n      </em>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"flex justify-between text-center md:mx-10 xl:mx-20\">\n    <div class=\"basis-1/4\">\n      <div><strong>DV [PV]</strong></div>\n      <div><em>7 [35]</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>CA</strong></div>\n      <div><em>19</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>JP</strong></div>\n      <div><em>11</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>MO</strong></div>\n      <div><em>12</em></div>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"mb-6 md:mx-10 xl:mx-20\">\n    \n      <div>2 × pancadas + 9 (2d8+5 )</div>\n    \n  </div>\n  \n  <div>\n    <ul>\n  <li>\n    <p><strong>Dependência</strong>: um Elemental da Água precisa estar, no máximo, a 20 metros de distância de uma fonte de água.</p>\n  </li>\n  <li>\n    <p><strong>Potencializado</strong>: um ataque realizado a um alvo dentro de um corpo de água, submerso ou parcialmente submerso causa 1d8 de dano adicional.</p>\n  </li>\n  <li>\n    <p><strong>Imunidades</strong>: um Elemental da Água é imune ao dano de qualquer arma não mágica e a qualquer dano proveniente da água, ainda que mágico.</p>\n  </li>\n  <li>\n    <p><strong>Vulnerabilidade</strong>: um Elemental da Água leva dano dobrado de qualquer ataque proveniente de uma fonte de ar.</p>\n  </li>\n</ul>\n\n  </div>\n  \n  \n  <div data-controller=\"linker\" data-linker-url-value=\"/monstros/elemental-da-agua\" data-linker-text-value=\"Elemental da água\" data-linker-link-class=\"absolute text-sm -top-6 right-0\">\n  </div>\n</div>\n<hr class=\"my-6 h-px bg-dourado-600 border-0\" />\n\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.G4t46yGOupCZTQd7"
+    },
+    {
+      "sort": 3,
+      "name": "Elemental da Terra",
+      "type": "text",
+      "_id": "C8HZcKlMmvL2369E",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><div class=\"relative mx-auto p-4\">\n  \n  <p class=\"text-center\">\n    Besta, Grande e Neutro\n    \n      ◆\n      Extraplanar\n    \n  </p>\n  \n  <p class=\"text-center italic\">\n    Um grande torrão de terra e pedras que formam uma massa amorfa levemente humanoide.\n  </p>\n  \n  \n  \n  \n  <div class=\"grid grid-cols-2 text-center md:mx-10 xl:mx-20\">\n    <div>\n      <strong>Encontro</strong>\n      <em>\n        1\n        \n          (1)\n        \n      </em>\n    </div>\n    <div>\n      <strong>Experiência</strong>\n      <em>\n        460XP\n      </em>\n    </div>\n    <div>\n      <strong>Tesouro</strong>\n      <em>\n        -\n        \n      </em>\n    </div>\n    <div>\n      <strong>Movimento</strong>\n      <em>\n        6\n      </em>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"flex justify-between text-center md:mx-10 xl:mx-20\">\n    <div class=\"basis-1/4\">\n      <div><strong>DV [PV]</strong></div>\n      <div><em>7 [35]</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>CA</strong></div>\n      <div><em>19</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>JP</strong></div>\n      <div><em>11</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>MO</strong></div>\n      <div><em>12</em></div>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"mb-6 md:mx-10 xl:mx-20\">\n    \n      <div>2 × pancadas + 9 (2d8 +5)</div>\n    \n  </div>\n  \n  <div>\n    <ul>\n  <li>\n    <p><strong>Bloqueio</strong>: um Elemental da Terra não pode ultrapassar uma fonte de água mais profunda que sua altura.</p>\n  </li>\n  <li>\n    <p><strong>Potencializado</strong>: um ataque realizado a um alvo que esteja tocando o solo causa 1d8 de dano adicional.</p>\n  </li>\n  <li>\n    <p><strong>Imunidades</strong>: um Elemental da Terra é imune ao dano de qualquer arma não mágica e a qualquer dano proveniente da terra, ainda que mágico.</p>\n  </li>\n  <li>\n    <p><strong>Vulnerabilidade</strong>: um Elemental da Terra leva dano dobrado de qualquer ataque proveniente de uma fonte de fogo.</p>\n  </li>\n</ul>\n\n  </div>\n  \n  \n  <div data-controller=\"linker\" data-linker-url-value=\"/monstros/elemental-da-terra\" data-linker-text-value=\"Elemental da terra\" data-linker-link-class=\"absolute text-sm -top-6 right-0\">\n  </div>\n</div>\n<hr class=\"my-6 h-px bg-dourado-600 border-0\" />\n\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.C8HZcKlMmvL2369E"
+    },
+    {
+      "sort": 4,
+      "name": "Elemental do Ar",
+      "type": "text",
+      "_id": "M2zYR1HuJIxc6s9l",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><div class=\"relative mx-auto p-4\">\n  \n  <p class=\"text-center\">\n    Besta, Grande e Neutro\n    \n      ◆\n      Extraplanar\n    \n  </p>\n  \n  <p class=\"text-center italic\">\n    Um grande redemoinho revoltoso, girando de forma amorfa e cambiante.\n  </p>\n  \n  \n  \n  \n  <div class=\"grid grid-cols-2 text-center md:mx-10 xl:mx-20\">\n    <div>\n      <strong>Encontro</strong>\n      <em>\n        1\n        \n          (1)\n        \n      </em>\n    </div>\n    <div>\n      <strong>Experiência</strong>\n      <em>\n        460XP\n      </em>\n    </div>\n    <div>\n      <strong>Tesouro</strong>\n      <em>\n        -\n        \n      </em>\n    </div>\n    <div>\n      <strong>Movimento</strong>\n      <em>\n        12V\n      </em>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"flex justify-between text-center md:mx-10 xl:mx-20\">\n    <div class=\"basis-1/4\">\n      <div><strong>DV [PV]</strong></div>\n      <div><em>7 [35]</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>CA</strong></div>\n      <div><em>19</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>JP</strong></div>\n      <div><em>11</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>MO</strong></div>\n      <div><em>12</em></div>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"mb-6 md:mx-10 xl:mx-20\">\n    \n      <div>2 × pancadas + 9 (2d8+5 )</div>\n    \n  </div>\n  \n  <div>\n    <ul>\n  <li>\n    <p><strong>Redemoinho</strong>: criaturas com 2 DV ou menos precisam passar em uma JPD ou serão arremessadas até 1d4+2 metros do Elemental do Ar.</p>\n  </li>\n  <li>\n    <p><strong>Potencializado</strong>: um ataque realizado a um alvo que esteja voando ou levitando causa 1d8 de dano adicional.</p>\n  </li>\n  <li>\n    <p><strong>Imunidades</strong>: um Elemental do Ar é imune ao dano de qualquer arma não mágica e a qualquer dano proveniente de um ataque de ar, ainda que mágico.</p>\n  </li>\n  <li>\n    <p><strong>Vulnerabilidade</strong>: um Elemental do Ar leva dano dobrado de qualquer ataque proveniente de uma fonte de terra.</p>\n  </li>\n</ul>\n\n  </div>\n  \n  \n  <div data-controller=\"linker\" data-linker-url-value=\"/monstros/elemental-do-ar\" data-linker-text-value=\"Elemental do ar\" data-linker-link-class=\"absolute text-sm -top-6 right-0\">\n  </div>\n</div>\n<hr class=\"my-6 h-px bg-dourado-600 border-0\" />\n\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.M2zYR1HuJIxc6s9l"
+    },
+    {
+      "sort": 5,
+      "name": "Elemental do Fogo",
+      "type": "text",
+      "_id": "TDeYIe9KypeFOmbi",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><div class=\"relative mx-auto p-4\">\n  \n  <p class=\"text-center\">\n    Besta, Grande e Neutro\n    \n      ◆\n      Extraplanar\n    \n  </p>\n  \n  <p class=\"text-center italic\">\n    Uma grande chama de fogo, erguendo-se na forma de uma coluna amorfa.\n  </p>\n  \n  \n  \n  \n  <div class=\"grid grid-cols-2 text-center md:mx-10 xl:mx-20\">\n    <div>\n      <strong>Encontro</strong>\n      <em>\n        1\n        \n          (1)\n        \n      </em>\n    </div>\n    <div>\n      <strong>Experiência</strong>\n      <em>\n        460XP\n      </em>\n    </div>\n    <div>\n      <strong>Tesouro</strong>\n      <em>\n        -\n        \n      </em>\n    </div>\n    <div>\n      <strong>Movimento</strong>\n      <em>\n        9\n      </em>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"flex justify-between text-center md:mx-10 xl:mx-20\">\n    <div class=\"basis-1/4\">\n      <div><strong>DV [PV]</strong></div>\n      <div><em>7 [35]</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>CA</strong></div>\n      <div><em>19</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>JP</strong></div>\n      <div><em>11</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>MO</strong></div>\n      <div><em>12</em></div>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"mb-6 md:mx-10 xl:mx-20\">\n    \n      <div>2 × pancadas + 9 (2d8+5)</div>\n    \n  </div>\n  \n  <div>\n    <ul>\n  <li>\n    <p><strong>Bloqueio</strong>: um Elemental do Fogo não pode ultrapassar uma fonte de água mais profunda que sua altura.</p>\n  </li>\n  <li>\n    <p><strong>Potencializado</strong>: um ataque realizado a um alvo formado ou ligado ao frio causa 1d8 de dano adicional.</p>\n  </li>\n  <li>\n    <p><strong>Imunidades</strong>: um Elemental do Fogo é imune ao dano de qualquer arma não mágica e a qualquer dano proveniente de fogo, ainda que mágico.</p>\n  </li>\n  <li>\n    <p><strong>Vulnerabilidade</strong>: um Elemental do Fogo leva dano dobrado de qualquer ataque proveniente de uma fonte de água.</p>\n  </li>\n</ul>\n\n  </div>\n  \n  \n  <div data-controller=\"linker\" data-linker-url-value=\"/monstros/elemental-do-fogo\" data-linker-text-value=\"Elemental do fogo\" data-linker-link-class=\"absolute text-sm -top-6 right-0\">\n  </div>\n</div>\n<hr class=\"my-6 h-px bg-dourado-600 border-0\" />\n\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.TDeYIe9KypeFOmbi"
+    },
+    {
+      "sort": 6,
+      "name": "Elfo Drow",
+      "type": "text",
+      "_id": "YmyAtFS6mbIgnWUl",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><div class=\"relative mx-auto p-4\">\n  \n  <p class=\"text-center\">\n    Humanoide, Médio e Neutro\n    \n      ◆\n      Subterrâneos\n    \n  </p>\n  \n  <p class=\"text-center italic\">\n    Elfos corrompidos dos subterrâneos. Destacam-se pela sociedade matriarcal e por serem os maiores cultuadores da Arak-Takna.\n  </p>\n  \n  \n  \n  \n  <div class=\"grid grid-cols-2 text-center md:mx-10 xl:mx-20\">\n    <div>\n      <strong>Encontro</strong>\n      <em>\n        2d6\n        \n          (4d6)\n        \n      </em>\n    </div>\n    <div>\n      <strong>Experiência</strong>\n      <em>\n        50XP\n      </em>\n    </div>\n    <div>\n      <strong>Tesouro</strong>\n      <em>\n        Q\n        \n          (N)\n        \n      </em>\n    </div>\n    <div>\n      <strong>Movimento</strong>\n      <em>\n        9\n      </em>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"flex justify-between text-center md:mx-10 xl:mx-20\">\n    <div class=\"basis-1/4\">\n      <div><strong>DV [PV]</strong></div>\n      <div><em>2 [10]</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>CA</strong></div>\n      <div><em>12/16</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>JP</strong></div>\n      <div><em>5</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>MO</strong></div>\n      <div><em>10</em></div>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"mb-6 md:mx-10 xl:mx-20\">\n    \n      <div>1 × espada longa + 3 (1d8 )</div>\n    \n      <div>1 × besta de mão + 3 (1d4)</div>\n    \n  </div>\n  \n  <div>\n    <ul>\n  <li>\n    <p><strong>Classe de armadura</strong>: Elfos Drow possuem CA 12 ou 16 quando usam cota de malha.</p>\n  </li>\n  <li>\n    <p><strong>Infravisão</strong>: 18 metros.</p>\n  </li>\n  <li>\n    <p><strong>Magia Inata</strong>: Drows possuem a habilidade de conjurar, uma vez ao dia, a magia Escuridão como um Mago de 2º nível.</p>\n  </li>\n  <li>\n    <p><strong>Imunidades</strong>: Drows precisam de apenas 4 horas de meditação para descanso, além disso são imunes a magias ou efeitos que envolvam sono e a paralisação causada por um Ghoul.</p>\n  </li>\n  <li>\n    <p><strong>Vulnerabilidade</strong>: sob o sol ou luz forte, todos os ataques e JP de um Drow são realizados com ajuste difícil.</p>\n  </li>\n</ul>\n\n  </div>\n  \n  \n  <div data-controller=\"linker\" data-linker-url-value=\"/monstros/elfo-drow\" data-linker-text-value=\"Elfo drow\" data-linker-link-class=\"absolute text-sm -top-6 right-0\">\n  </div>\n</div>\n<hr class=\"my-6 h-px bg-dourado-600 border-0\" />\n\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.YmyAtFS6mbIgnWUl"
+    },
+    {
+      "sort": 7,
+      "name": "Enxame de Insetos",
+      "type": "text",
+      "_id": "BzbAHchs8DOsOVRx",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><div class=\"relative mx-auto p-4\">\n  \n  <p class=\"text-center\">\n    Inseto, Colossal e Neutro\n    \n      ◆\n      Planícies, Colinas e Florestas\n    \n  </p>\n  \n  <p class=\"text-center italic\">\n    Nuvens de vários tipos de insetos. Ameaçam qualquer ser encontrado no caminho.\n  </p>\n  \n  \n  \n  \n  <div class=\"grid grid-cols-2 text-center md:mx-10 xl:mx-20\">\n    <div>\n      <strong>Encontro</strong>\n      <em>\n        1\n        \n          (1)\n        \n      </em>\n    </div>\n    <div>\n      <strong>Experiência</strong>\n      <em>\n        125XP\n      </em>\n    </div>\n    <div>\n      <strong>Tesouro</strong>\n      <em>\n        -\n        \n      </em>\n    </div>\n    <div>\n      <strong>Movimento</strong>\n      <em>\n        6\n      </em>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"flex justify-between text-center md:mx-10 xl:mx-20\">\n    <div class=\"basis-1/4\">\n      <div><strong>DV [PV]</strong></div>\n      <div><em>4 [20]</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>CA</strong></div>\n      <div><em>12</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>JP</strong></div>\n      <div><em>6</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>MO</strong></div>\n      <div><em>6</em></div>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"mb-6 md:mx-10 xl:mx-20\">\n    \n      <div>nenhum</div>\n    \n  </div>\n  \n  <div>\n    <ul>\n  <li>\n    <p><strong>Imunidade</strong>: um enxame é imune aos efeitos de encantamentos ou efeitos que tenham como alvo um único indivíduo.</p>\n  </li>\n  <li>\n    <p><strong>Ataque automático</strong>: um enxame causa dano automaticamente a todos dentro de sua nuvem. Se o alvo se limitar a evitar as picadas dos insetos e não fazer mais nada na rodada, recebe 1 ponto de dano. Se o alvo procurar agir sem se importar com os insetos, o dano automático é de 1d3 pontos de dano.</p>\n  </li>\n  <li>\n    <p><strong>Vulnerabilidade</strong>: um enxame recebe o dobro de dano de fogo, frio extremo, ataques com gases (fumaças) ou venenos em área.</p>\n  </li>\n  <li>\n    <p><strong>Moral</strong>: um enxame precisa ser bem-sucedido em um teste de moral quando perder metade dos seus pontos de vida. Em caso de falha, a nuvem vai se dispersar, procurando fugir do local o mais rápido possível.</p>\n  </li>\n</ul>\n\n  </div>\n  \n  \n  <div data-controller=\"linker\" data-linker-url-value=\"/monstros/enxame-de-insetos\" data-linker-text-value=\"Enxame de insetos\" data-linker-link-class=\"absolute text-sm -top-6 right-0\">\n  </div>\n</div>\n<hr class=\"my-6 h-px bg-dourado-600 border-0\" />\n\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.BzbAHchs8DOsOVRx"
+    },
+    {
+      "sort": 8,
+      "name": "Esfera de Aniquilação",
+      "type": "text",
+      "_id": "uLm8fwFQXDd72myD",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><div class=\"relative mx-auto p-4\">\n  \n  <p class=\"text-center\">\n    Besta, Pequeno e Neutro\n    \n      ◆\n      Qualquer\n    \n  </p>\n  \n  <p class=\"text-center italic\">\n    Esfera negra. Move-se flutuando lentamente, desintegrando tudo o que toca.\n  </p>\n  \n  \n  \n  \n  <div class=\"grid grid-cols-2 text-center md:mx-10 xl:mx-20\">\n    <div>\n      <strong>Encontro</strong>\n      <em>\n        1\n        \n          (1)\n        \n      </em>\n    </div>\n    <div>\n      <strong>Experiência</strong>\n      <em>\n        EspecialXP\n      </em>\n    </div>\n    <div>\n      <strong>Tesouro</strong>\n      <em>\n        -\n        \n      </em>\n    </div>\n    <div>\n      <strong>Movimento</strong>\n      <em>\n        3V\n      </em>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"flex justify-between text-center md:mx-10 xl:mx-20\">\n    <div class=\"basis-1/4\">\n      <div><strong>DV [PV]</strong></div>\n      <div><em>Especial [Especial]</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>CA</strong></div>\n      <div><em>Especial</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>JP</strong></div>\n      <div><em>Especial</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>MO</strong></div>\n      <div><em>12</em></div>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"mb-6 md:mx-10 xl:mx-20\">\n    \n      <div>1 × toque + 0 (especial)</div>\n    \n  </div>\n  \n  <div>\n    <ul>\n  <li>\n    <p><strong>Desintegrar</strong>: tudo o que for tocado pela esfera será desintegrado, sem direito a uma Jogada de Proteção.</p>\n  </li>\n  <li>\n    <p><strong>Imunidade à magia</strong>: não é afetada por nenhuma magia, exceto Portal e Desejo.</p>\n  </li>\n  <li>\n    <p><strong>Especial</strong>: não possui nenhuma estatística de combate, não possui dados de vida, nem pontos de vida. Não realiza testes de ataque nem Jogadas de Proteção.</p>\n  </li>\n</ul>\n\n  </div>\n  \n  \n  <div data-controller=\"linker\" data-linker-url-value=\"/monstros/esfera-da-aniquilacao\" data-linker-text-value=\"Esfera da aniquilação\" data-linker-link-class=\"absolute text-sm -top-6 right-0\">\n  </div>\n</div>\n<hr class=\"my-6 h-px bg-dourado-600 border-0\" />\n\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.uLm8fwFQXDd72myD"
+    },
+    {
+      "sort": 9,
+      "name": "Esfinge",
+      "type": "text",
+      "_id": "DpJtKmcOPSWi6m9t",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><div class=\"relative mx-auto p-4\">\n  \n  <p class=\"text-center\">\n    Besta, Grande e Neutro\n    \n      ◆\n      Planícies, Colinas e Desertos\n    \n  </p>\n  \n  <p class=\"text-center italic\">\n    Guardiã de caminhos e passagens, esta criatura é uma mistura de leão com homem e asas totalmente funcionais.\n  </p>\n  \n  \n  \n  \n  <div class=\"grid grid-cols-2 text-center md:mx-10 xl:mx-20\">\n    <div>\n      <strong>Encontro</strong>\n      <em>\n        1d2\n        \n          (1d4)\n        \n      </em>\n    </div>\n    <div>\n      <strong>Experiência</strong>\n      <em>\n        1325XP\n      </em>\n    </div>\n    <div>\n      <strong>Tesouro</strong>\n      <em>\n        -\n        \n          (E)\n        \n      </em>\n    </div>\n    <div>\n      <strong>Movimento</strong>\n      <em>\n        12, 21V\n      </em>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"flex justify-between text-center md:mx-10 xl:mx-20\">\n    <div class=\"basis-1/4\">\n      <div><strong>DV [PV]</strong></div>\n      <div><em>10+10 [60]</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>CA</strong></div>\n      <div><em>19</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>JP</strong></div>\n      <div><em>11</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>MO</strong></div>\n      <div><em>10</em></div>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"mb-6 md:mx-10 xl:mx-20\">\n    \n      <div>2 × garras + 11 (3d6 )</div>\n    \n      <div>1 × mordida + 8 (2d8)</div>\n    \n  </div>\n  \n  <div>\n    <ul>\n  <li>\n    <p><strong>Rugido</strong>: duas vezes por dia, a Esfinge pode rugir e qualquer vítima até 36 metros dela deve ser bem-sucedida em uma JPS com uma penalidade de 4 ou fugirá com medo por 1d6 turnos.</p>\n  </li>\n  <li>\n    <p><strong>Magia</strong>: uma esfigie pode conjurar magias como se fosse um Mago de 6º nível.</p>\n  </li>\n  <li>\n    <p><strong>Imunidade à magia</strong>: não é afetada por nenhuma magia de 1º, 2º e 3º círculos.</p>\n  </li>\n  <li>\n    <p><strong>Resistência</strong>: só pode ser atingida por armas de prata, armas mágicas +1 ou superiores.</p>\n  </li>\n</ul>\n\n  </div>\n  \n  \n  <div data-controller=\"linker\" data-linker-url-value=\"/monstros/esfinge\" data-linker-text-value=\"Esfinge\" data-linker-link-class=\"absolute text-sm -top-6 right-0\">\n  </div>\n</div>\n<hr class=\"my-6 h-px bg-dourado-600 border-0\" />\n\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.DpJtKmcOPSWi6m9t"
+    },
+    {
+      "sort": 10,
+      "name": "Espectro",
+      "type": "text",
+      "_id": "bfmz4FHYRm6xOJ23",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><div class=\"relative mx-auto p-4\">\n  \n  <p class=\"text-center\">\n    Morto-Vivo, Médio e Caótico\n    \n      ◆\n      Qualquer\n    \n  </p>\n  \n  <p class=\"text-center italic\">\n    Seres incorpóreos e poderosos. Carregam a alma atormentada para trazer o mal e o caos para os vivos.\n  </p>\n  \n  \n  \n  \n  <div class=\"grid grid-cols-2 text-center md:mx-10 xl:mx-20\">\n    <div>\n      <strong>Encontro</strong>\n      <em>\n        1d4\n        \n          (1d8)\n        \n      </em>\n    </div>\n    <div>\n      <strong>Experiência</strong>\n      <em>\n        500XP\n      </em>\n    </div>\n    <div>\n      <strong>Tesouro</strong>\n      <em>\n        -\n        \n          (E)\n        \n      </em>\n    </div>\n    <div>\n      <strong>Movimento</strong>\n      <em>\n        9, 15V\n      </em>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"flex justify-between text-center md:mx-10 xl:mx-20\">\n    <div class=\"basis-1/4\">\n      <div><strong>DV [PV]</strong></div>\n      <div><em>7 [35]</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>CA</strong></div>\n      <div><em>18</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>JP</strong></div>\n      <div><em>11</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>MO</strong></div>\n      <div><em>9</em></div>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"mb-6 md:mx-10 xl:mx-20\">\n    \n      <div>1 × toque + 6 (1d8+dreno )</div>\n    \n  </div>\n  \n  <div>\n    <ul>\n  <li>\n    <p><strong>Silencioso</strong>: não produz som algum ao movimentar- se e se mantém silencioso até atacar.</p>\n  </li>\n  <li>\n    <p><strong>Morto-vivo</strong>: imune a frio, magias mentais de manipulação, controle ou ilusão, ou demais formas mágicas de interferir na mente de seres vivos. Sofre 1d6 de dano ácido por frasco de água benta.</p>\n  </li>\n  <li>\n    <p><strong>Imunidades</strong>: além das imunidades comuns aos mortos-vivos, Espectros são feridos apenas por magia e armas mágicas.</p>\n  </li>\n  <li>\n    <p><strong>Dreno</strong>: o ataque de um Espectro, além do dano normal, drena 2 níveis do alvo caso este não passe em uma JPC. Um alvo que tenha todos os seus níveis drenados por um Espectro retorna como um Espectro sob o controle daquele que o criou.</p>\n  </li>\n  <li>\n    <p><strong>Inabalável</strong>: mortos-vivos não fazem testes de moral, a não ser quando sofrem o efeito de um Afastar Mortos-vivos.</p>\n  </li>\n</ul>\n\n  </div>\n  \n  \n  <div data-controller=\"linker\" data-linker-url-value=\"/monstros/espectro\" data-linker-text-value=\"Espectro\" data-linker-link-class=\"absolute text-sm -top-6 right-0\">\n  </div>\n</div>\n<hr class=\"my-6 h-px bg-dourado-600 border-0\" />\n\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.bfmz4FHYRm6xOJ23"
+    },
+    {
+      "sort": 11,
+      "name": "Esperos de Gás",
+      "type": "text",
+      "_id": "ekFCjEGbeLsIgUpp",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><div class=\"relative mx-auto p-4\">\n  \n  <p class=\"text-center\">\n    Planta, Médio e Neutro\n    \n      ◆\n      Subterrâneos\n    \n  </p>\n  \n  <p class=\"text-center italic\">\n    Estes fungos em forma de bola de gás flutuam e, pela sua aparência, são confundidos com Observadores.\n  </p>\n  \n  \n  \n  \n  <div class=\"grid grid-cols-2 text-center md:mx-10 xl:mx-20\">\n    <div>\n      <strong>Encontro</strong>\n      <em>\n        1d4\n        \n          (2d4)\n        \n      </em>\n    </div>\n    <div>\n      <strong>Experiência</strong>\n      <em>\n        10XP\n      </em>\n    </div>\n    <div>\n      <strong>Tesouro</strong>\n      <em>\n        -\n        \n      </em>\n    </div>\n    <div>\n      <strong>Movimento</strong>\n      <em>\n        6V\n      </em>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"flex justify-between text-center md:mx-10 xl:mx-20\">\n    <div class=\"basis-1/4\">\n      <div><strong>DV [PV]</strong></div>\n      <div><em>1 [1]</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>CA</strong></div>\n      <div><em>12</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>JP</strong></div>\n      <div><em>4</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>MO</strong></div>\n      <div><em>9</em></div>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"mb-6 md:mx-10 xl:mx-20\">\n    \n      <div>nenhum</div>\n    \n  </div>\n  \n  <div>\n    <ul>\n  <li>\n    <p><strong>Esporos</strong>: quando um alvo chega a até 6 metros de distância de um Esporo de Gás, este lança uma nuvem de esporos contagiosos os quais aderem a tudo o que tocam. Cada vítima tocada por estes esporos deve ser bem-sucedida em uma JPC ou será infectada.  Estes esporos crescem dentro do hospedeiro, levando-o a morte em 1d6 dias ao fazer com que seu corpo exploda. Após isso, 1d6 novos esporos nascem para continuar o ciclo.</p>\n  </li>\n  <li>\n    <p><strong>Explosão</strong>: quando um Esporo de Gás é ferido, ele causa 6d6 de dano a todos dentro de uma área de 6 metros. Cada vítima deve ser bem-sucedida em uma JPD para receber metade do dano. Este ataque não espalha esporos nas vítimas como um ataque normal faria.</p>\n  </li>\n</ul>\n\n  </div>\n  \n  \n  <div data-controller=\"linker\" data-linker-url-value=\"/monstros/esporo-de-gas\" data-linker-text-value=\"Esporo de gás\" data-linker-link-class=\"absolute text-sm -top-6 right-0\">\n  </div>\n</div>\n<hr class=\"my-6 h-px bg-dourado-600 border-0\" />\n\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.ekFCjEGbeLsIgUpp"
+    },
+    {
+      "sort": 12,
+      "name": "Esqueleto",
+      "type": "text",
+      "_id": "HOHhmKIZL9V3bSFY",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><div class=\"relative mx-auto p-4\">\n  \n  <p class=\"text-center\">\n    Morto-Vivo, Médio e Caótico\n    \n      ◆\n      Qualquer\n    \n  </p>\n  \n  <p class=\"text-center italic\">\n    Mortos-vivos normalmente usados como guardiões de locais antigos e esquecidos. Sem medo, atacam até caírem aos pedaços.\n  </p>\n  \n  \n  \n  \n  <div class=\"grid grid-cols-2 text-center md:mx-10 xl:mx-20\">\n    <div>\n      <strong>Encontro</strong>\n      <em>\n        3d4\n        \n          (3d10)\n        \n      </em>\n    </div>\n    <div>\n      <strong>Experiência</strong>\n      <em>\n        15XP\n      </em>\n    </div>\n    <div>\n      <strong>Tesouro</strong>\n      <em>\n        -\n        \n      </em>\n    </div>\n    <div>\n      <strong>Movimento</strong>\n      <em>\n        9\n      </em>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"flex justify-between text-center md:mx-10 xl:mx-20\">\n    <div class=\"basis-1/4\">\n      <div><strong>DV [PV]</strong></div>\n      <div><em>1 [5]</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>CA</strong></div>\n      <div><em>13</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>JP</strong></div>\n      <div><em>6</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>MO</strong></div>\n      <div><em>7</em></div>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"mb-6 md:mx-10 xl:mx-20\">\n    \n      <div>1 × arma + 2 (arma + 0 )</div>\n    \n  </div>\n  \n  <div>\n    <ul>\n  <li>\n    <p><strong>Silencioso</strong>: não produz som algum ao movimentar-se e se mantém silencioso até atacar.</p>\n  </li>\n  <li>\n    <p><strong>Morto-vivo</strong>: imune a frio, magias mentais de manipulação, controle ou ilusão, ou demais formas mágicas de interferir na mente de seres vivos. Sofre 1d6 de dano ácido por frasco de água benta.</p>\n  </li>\n  <li>\n    <p><strong>Corpo de Osso</strong>: armas impactantes causam o dobro de dano nos Esqueletos, mas, em contrapartida, armas perfurantes causam metade do ano.</p>\n  </li>\n  <li>\n    <p><strong>Inabalável</strong>: mortos-vivos não fazem testes de moral, a não ser quando sofrem o efeito de um Afastar Mortos-Vivos.</p>\n  </li>\n</ul>\n\n  </div>\n  \n  \n  <div data-controller=\"linker\" data-linker-url-value=\"/monstros/esqueleto\" data-linker-text-value=\"Esqueleto\" data-linker-link-class=\"absolute text-sm -top-6 right-0\">\n  </div>\n</div>\n<hr class=\"my-6 h-px bg-dourado-600 border-0\" />\n\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.HOHhmKIZL9V3bSFY"
+    },
+    {
+      "sort": 13,
+      "name": "Ettin",
+      "type": "text",
+      "_id": "E2FYfQ3QJ8fIrMx2",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><div class=\"relative mx-auto p-4\">\n  \n  <p class=\"text-center\">\n    Gigante, Grande e Caótico\n    \n      ◆\n      Colinas e Montanhas\n    \n  </p>\n  \n  <p class=\"text-center italic\">\n    Estes gigantes cruéis de duas cabeças percorrem longas distâncias atrás da sua iguaria favorita: carne humana!\n  </p>\n  \n  \n  \n  \n  <div class=\"grid grid-cols-2 text-center md:mx-10 xl:mx-20\">\n    <div>\n      <strong>Encontro</strong>\n      <em>\n        1\n        \n          (1d4)\n        \n      </em>\n    </div>\n    <div>\n      <strong>Experiência</strong>\n      <em>\n        1250XP\n      </em>\n    </div>\n    <div>\n      <strong>Tesouro</strong>\n      <em>\n        T\n        \n          (C)\n        \n      </em>\n    </div>\n    <div>\n      <strong>Movimento</strong>\n      <em>\n        12\n      </em>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"flex justify-between text-center md:mx-10 xl:mx-20\">\n    <div class=\"basis-1/4\">\n      <div><strong>DV [PV]</strong></div>\n      <div><em>10 [50]</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>CA</strong></div>\n      <div><em>18</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>JP</strong></div>\n      <div><em>12</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>MO</strong></div>\n      <div><em>10</em></div>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"mb-6 md:mx-10 xl:mx-20\">\n    \n      <div>2 × clavas gigantes + 11 (2d6 )</div>\n    \n      <div>2 × pancadas + 12 (2d4+2)</div>\n    \n  </div>\n  \n  <div>\n    <ul>\n  <li>\n    <p><strong>Duas Cabeças</strong>: por terem duas cabeças estão sempre atentos. O teste de surpresa é realizado com 1d10 e são surpreendidos apenas com um resultado de 1 em 1d10.</p>\n  </li>\n  <li>\n    <p><strong>Golpe Potente</strong>: se conseguir causar, com uma pancada ou arma, uma quantidade de dano superior a força do alvo, este é arremessado 1d4 metros para trás.</p>\n  </li>\n  <li>\n    <p><strong>Infravisão</strong>: 18 metros.</p>\n  </li>\n</ul>\n\n  </div>\n  \n  \n  <div data-controller=\"linker\" data-linker-url-value=\"/monstros/ettin\" data-linker-text-value=\"Ettin\" data-linker-link-class=\"absolute text-sm -top-6 right-0\">\n  </div>\n</div>\n<hr class=\"my-6 h-px bg-dourado-600 border-0\" />\n\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.E2FYfQ3QJ8fIrMx2"
+    },
+    {
+      "sort": 14,
+      "name": "Fantasma",
+      "type": "text",
+      "_id": "IZZAxP4zjqiVdfp9",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><div class=\"relative mx-auto p-4\">\n  \n  <p class=\"text-center\">\n    Morto-Vivo, Médio e Caótico\n    \n      ◆\n      Qualquer\n    \n  </p>\n  \n  <p class=\"text-center italic\">\n    Espíritos incapazes de descansar porque estão presos entre o Plano Material e o etéreo.\n  </p>\n  \n  \n  \n  \n  <div class=\"grid grid-cols-2 text-center md:mx-10 xl:mx-20\">\n    <div>\n      <strong>Encontro</strong>\n      <em>\n        1\n        \n          (1)\n        \n      </em>\n    </div>\n    <div>\n      <strong>Experiência</strong>\n      <em>\n        1400XP\n      </em>\n    </div>\n    <div>\n      <strong>Tesouro</strong>\n      <em>\n        S\n        \n          (E)\n        \n      </em>\n    </div>\n    <div>\n      <strong>Movimento</strong>\n      <em>\n        9\n      </em>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"flex justify-between text-center md:mx-10 xl:mx-20\">\n    <div class=\"basis-1/4\">\n      <div><strong>DV [PV]</strong></div>\n      <div><em>10+10 [60]</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>CA</strong></div>\n      <div><em>21</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>JP</strong></div>\n      <div><em>12</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>MO</strong></div>\n      <div><em>11</em></div>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"mb-6 md:mx-10 xl:mx-20\">\n    \n      <div>1 × toque + 11 (1d8 + dreno )</div>\n    \n  </div>\n  \n  <div>\n    <ul>\n  <li>\n    <p><strong>Silencioso</strong>: não produz som algum ao movimentar- se e se mantém silencioso até atacar.</p>\n  </li>\n  <li>\n    <p><strong>Morto-vivo</strong>: imune a frio, magias mentais de manipulação, controle ou ilusão, ou demais formas mágicas de interferir na mente de seres vivos. Sofre 1d6 de dano ácido por frasco de água benta.</p>\n  </li>\n  <li>\n    <p><strong>Imunidades</strong>: além das imunidades comuns aos mortos-vivos, Fantasmas são feridos apenas por magia e armas mágicas.</p>\n  </li>\n  <li>\n    <p><strong>Dreno</strong>: o toque de um Fantasma drena 1 ponto de Constituição do personagem sem direito a jogada de proteção. Um alvo que tenha todos os seus pontos de Constituição drenados, ficará permanentemente morto.</p>\n  </li>\n  <li>\n    <p><strong>Possessão</strong>: um Fantasma pode entrar dentro do corpo de um alvo que falhe em uma JPS, possuindo-o. Um alvo possuído é controlado inteiramente pelo fantasma enquanto este estiver em seu corpo ou até o fantasma ser removido por uma magia Remover Maldição. Enquanto possuir um alvo, o Fantasma não pode usar nenhuma de suas habilidades sobrenaturais, mas pode atacar usando todas as habilidades e estatísticas de combate do alvo possuído.</p>\n  </li>\n  <li>\n    <p><strong>Aura Aterrorizante</strong>: qualquer criatura a até 20 metros do Fantasma, capaz de ver ou percebê-lo, é afetada pela aura de medo do Fantasma que afugenta todos por 1d4 turnos.  Uma JPS nega o efeito da Aura Aterrorizante do Fantasma. Há 1-3 chances em 1d6 de uma pessoa em fuga deixar cair o que estiver carregando. Clérigos com 6 níveis ou mais são imunes a Aura Aterrorizante do Fantasma.</p>\n  </li>\n  <li>\n    <p><strong>Regeneração</strong>: ao causar dano pelo toque, o Fantasma regenera a mesma quantidade de dano causado em pontos de vida.</p>\n  </li>\n  <li>\n    <p><strong>Inabalável</strong>: mortos-vivos não fazem testes de moral, a não ser quando sofrem o efeito de um Afastar Mortos-Vivos.</p>\n  </li>\n</ul>\n\n  </div>\n  \n  \n  <div data-controller=\"linker\" data-linker-url-value=\"/monstros/fantasma\" data-linker-text-value=\"Fantasma\" data-linker-link-class=\"absolute text-sm -top-6 right-0\">\n  </div>\n</div>\n<hr class=\"my-6 h-px bg-dourado-600 border-0\" />\n\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.IZZAxP4zjqiVdfp9"
+    },
+    {
+      "sort": 15,
+      "name": "Fera do Pântano",
+      "type": "text",
+      "_id": "1Lbf1T9haLXPHa9C",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><div class=\"relative mx-auto p-4\">\n  \n  <p class=\"text-center\">\n    Humanoide, Médio e Caótico\n    \n      ◆\n      Pântanos\n    \n  </p>\n  \n  <p class=\"text-center italic\">\n    Sapos antropomórficos cruéis. Costumam caçar suas vítimas em bandos.\n  </p>\n  \n  \n  \n  \n  <div class=\"grid grid-cols-2 text-center md:mx-10 xl:mx-20\">\n    <div>\n      <strong>Encontro</strong>\n      <em>\n        2d4\n        \n          (4d6)\n        \n      </em>\n    </div>\n    <div>\n      <strong>Experiência</strong>\n      <em>\n        25XP\n      </em>\n    </div>\n    <div>\n      <strong>Tesouro</strong>\n      <em>\n        Q\n        \n          (B)\n        \n      </em>\n    </div>\n    <div>\n      <strong>Movimento</strong>\n      <em>\n        9, 12N\n      </em>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"flex justify-between text-center md:mx-10 xl:mx-20\">\n    <div class=\"basis-1/4\">\n      <div><strong>DV [PV]</strong></div>\n      <div><em>2 [10]</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>CA</strong></div>\n      <div><em>13/15</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>JP</strong></div>\n      <div><em>5</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>MO</strong></div>\n      <div><em>8</em></div>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"mb-6 md:mx-10 xl:mx-20\">\n    \n      <div>1 × tridente + 2 (1d6+2 )</div>\n    \n      <div>1 × chicote + 3 (1d4+2)</div>\n    \n  </div>\n  \n  <div>\n    <ul>\n  <li>\n    <p><strong>Classe de armadura</strong>: possuem CA 13 ou 15 quando usam armadura de couro.</p>\n  </li>\n  <li>\n    <p><strong>Emboscar</strong>: podem prender a respiração por até 10 minutos sob a água, atacando de surpresa e ganhando a iniciativa.</p>\n  </li>\n  <li>\n    <p><strong>Saliva paralisante</strong>: 1 vez por combate podem lançar um cuspe à 5 metros de distância capaz de paralisar a vítima por 1d4-2 rodadas, a menos que esta passe em uma JPD.</p>\n  </li>\n</ul>\n\n  </div>\n  \n  \n  <div data-controller=\"linker\" data-linker-url-value=\"/monstros/fera-do-pantano\" data-linker-text-value=\"Fera do pântano\" data-linker-link-class=\"absolute text-sm -top-6 right-0\">\n  </div>\n</div>\n<hr class=\"my-6 h-px bg-dourado-600 border-0\" />\n\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.1Lbf1T9haLXPHa9C"
+    },
+    {
+      "sort": 16,
+      "name": "Fera Refratora",
+      "type": "text",
+      "_id": "jhgWh9FvpCOFX143",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><div class=\"relative mx-auto p-4\">\n  \n  <p class=\"text-center\">\n    Besta, Grande e Neutro\n    \n      ◆\n      Montanhas\n    \n  </p>\n  \n  <p class=\"text-center italic\">\n    Felino com pelagem negra e dois tentáculos nas costas que terminam com uma hacha repleta de espinhos!\n  </p>\n  \n  \n  \n  \n  <div class=\"grid grid-cols-2 text-center md:mx-10 xl:mx-20\">\n    <div>\n      <strong>Encontro</strong>\n      <em>\n        1d4\n        \n          (1d4)\n        \n      </em>\n    </div>\n    <div>\n      <strong>Experiência</strong>\n      <em>\n        305XP\n      </em>\n    </div>\n    <div>\n      <strong>Tesouro</strong>\n      <em>\n        -\n        \n          (D)\n        \n      </em>\n    </div>\n    <div>\n      <strong>Movimento</strong>\n      <em>\n        10\n      </em>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"flex justify-between text-center md:mx-10 xl:mx-20\">\n    <div class=\"basis-1/4\">\n      <div><strong>DV [PV]</strong></div>\n      <div><em>6 [30]</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>CA</strong></div>\n      <div><em>16</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>JP</strong></div>\n      <div><em>9</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>MO</strong></div>\n      <div><em>8</em></div>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"mb-6 md:mx-10 xl:mx-20\">\n    \n      <div>2 × tentáculos + 6 (2d4)</div>\n    \n  </div>\n  \n  <div>\n    <ul>\n  <li><strong>Refração</strong>: a fera possui uma habilidade sobrenatural de esconder sua real posição, como se estivesse refratando sua imagem.  Na prática, uma Fera Refratora está sempre a ao menos um metro da posição onde sua imagem demonstra estar. Isso causa uma penalidade de 2 nos ataques de todos os seus oponentes.</li>\n</ul>\n\n  </div>\n  \n  \n  <div data-controller=\"linker\" data-linker-url-value=\"/monstros/fera-refratora\" data-linker-text-value=\"Fera refratora\" data-linker-link-class=\"absolute text-sm -top-6 right-0\">\n  </div>\n</div>\n<hr class=\"my-6 h-px bg-dourado-600 border-0\" />\n\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.jhgWh9FvpCOFX143"
+    },
+    {
+      "sort": 17,
+      "name": "Flagelo da Podridão",
+      "type": "text",
+      "_id": "gkkFBfqXaWJlagvp",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><div class=\"relative mx-auto p-4\">\n  \n  <p class=\"text-center\">\n    Besta, Miúdo e Neutro\n    \n      ◆\n      Pântanos e Subterrâneos\n    \n  </p>\n  \n  <p class=\"text-center italic\">\n    Pequenas criaturas nojentas que se alimentam de carne viva, levando uma morte lenta às suas vítimas.\n  </p>\n  \n  \n  \n  \n  <div class=\"grid grid-cols-2 text-center md:mx-10 xl:mx-20\">\n    <div>\n      <strong>Encontro</strong>\n      <em>\n        5d4\n        \n      </em>\n    </div>\n    <div>\n      <strong>Experiência</strong>\n      <em>\n        5XP\n      </em>\n    </div>\n    <div>\n      <strong>Tesouro</strong>\n      <em>\n        Q\n        \n          (B)\n        \n      </em>\n    </div>\n    <div>\n      <strong>Movimento</strong>\n      <em>\n        1\n      </em>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"flex justify-between text-center md:mx-10 xl:mx-20\">\n    <div class=\"basis-1/4\">\n      <div><strong>DV [PV]</strong></div>\n      <div><em>1-1 [1]</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>CA</strong></div>\n      <div><em>10</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>JP</strong></div>\n      <div><em>3</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>MO</strong></div>\n      <div><em>6</em></div>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"mb-6 md:mx-10 xl:mx-20\">\n    \n      <div>1 × especial + 0 (especial )</div>\n    \n  </div>\n  \n  <div>\n    \n  </div>\n  \n  \n  <div data-controller=\"linker\" data-linker-url-value=\"/monstros/flagelo-da-podridao\" data-linker-text-value=\"Flagelo da podridão\" data-linker-link-class=\"absolute text-sm -top-6 right-0\">\n  </div>\n</div>\n<hr class=\"my-6 h-px bg-dourado-600 border-0\" />\n\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.gkkFBfqXaWJlagvp"
+    },
+    {
+      "sort": 18,
+      "name": "Fogo Fátuo",
+      "type": "text",
+      "_id": "pX4E4z6u2Wcw395T",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><div class=\"relative mx-auto p-4\">\n  \n  <p class=\"text-center\">\n    Besta, Miúdo e Caótico\n    \n      ◆\n      Pântanos\n    \n  </p>\n  \n  <p class=\"text-center italic\">\n    Pequenas esferas brilhantes que pulsam luzes amarelas enquanto dançam sobre as águas paradas dos pântanos.\n  </p>\n  \n  \n  \n  \n  <div class=\"grid grid-cols-2 text-center md:mx-10 xl:mx-20\">\n    <div>\n      <strong>Encontro</strong>\n      <em>\n        1\n        \n          (1d3)\n        \n      </em>\n    </div>\n    <div>\n      <strong>Experiência</strong>\n      <em>\n        1025XP\n      </em>\n    </div>\n    <div>\n      <strong>Tesouro</strong>\n      <em>\n        U\n        \n      </em>\n    </div>\n    <div>\n      <strong>Movimento</strong>\n      <em>\n        15V\n      </em>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"flex justify-between text-center md:mx-10 xl:mx-20\">\n    <div class=\"basis-1/4\">\n      <div><strong>DV [PV]</strong></div>\n      <div><em>9 [45]</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>CA</strong></div>\n      <div><em>23</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>JP</strong></div>\n      <div><em>11</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>MO</strong></div>\n      <div><em>12</em></div>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"mb-6 md:mx-10 xl:mx-20\">\n    \n      <div>1 × toque + 10 (2d8 )</div>\n    \n  </div>\n  \n  <div>\n    <ul>\n  <li>\n    <p><strong>Imunidade</strong>: aos efeitos de encantamentos, de magias de Sono e de outros efeitos mentais.  Também são imunes a venenos ou ácidos.</p>\n  </li>\n  <li>\n    <p><strong>Descarga elétrica</strong>: o Fogo Fátuo pode acumular energia elétrica em seu interior. Esta criatura ataca procurando tocar suas vítimas enquanto descarrega a energia acumulada em forma de um grande choque.</p>\n  </li>\n  <li>\n    <p><strong>Invisibilidade</strong>: o Fogo Fátuo pode apagar sua luz conscientemente e, assim, ficar invisível a todos por até 2d4 rodadas. Enquanto apagados, um Fogo Fátuo não é capaz de atacar seus inimigos.</p>\n  </li>\n</ul>\n\n  </div>\n  \n  \n  <div data-controller=\"linker\" data-linker-url-value=\"/monstros/fogo-fatuo\" data-linker-text-value=\"Fogo fátuo\" data-linker-link-class=\"absolute text-sm -top-6 right-0\">\n  </div>\n</div>\n<hr class=\"my-6 h-px bg-dourado-600 border-0\" />\n\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.pX4E4z6u2Wcw395T"
+    },
+    {
+      "sort": 19,
+      "name": "Fungo Gritador",
+      "type": "text",
+      "_id": "sWRpygyYikrCYbu5",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><div class=\"relative mx-auto p-4\">\n  \n  <p class=\"text-center\">\n    Planta, Médio e Neutro\n    \n      ◆\n      Subterrâneos\n    \n  </p>\n  \n  <p class=\"text-center italic\">\n    Possuem pequenos pseudópodes e pequenas bocas que emitem som para assustar e afastar intrusos.\n  </p>\n  \n  \n  \n  \n  <div class=\"grid grid-cols-2 text-center md:mx-10 xl:mx-20\">\n    <div>\n      <strong>Encontro</strong>\n      <em>\n        1d8\n        \n          (0)\n        \n      </em>\n    </div>\n    <div>\n      <strong>Experiência</strong>\n      <em>\n        75XP\n      </em>\n    </div>\n    <div>\n      <strong>Tesouro</strong>\n      <em>\n        -\n        \n      </em>\n    </div>\n    <div>\n      <strong>Movimento</strong>\n      <em>\n        3\n      </em>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"flex justify-between text-center md:mx-10 xl:mx-20\">\n    <div class=\"basis-1/4\">\n      <div><strong>DV [PV]</strong></div>\n      <div><em>3 [15]</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>CA</strong></div>\n      <div><em>14</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>JP</strong></div>\n      <div><em>6</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>MO</strong></div>\n      <div><em>12</em></div>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"mb-6 md:mx-10 xl:mx-20\">\n    \n      <div>nenhum</div>\n    \n  </div>\n  \n  <div>\n    <ul>\n  <li><strong>Grito</strong>: quando incomodado no seu território de raio de 3 metros do Fungo por invasão, luz ou ruídos, o Fungo Gritador emitirá um som alto e estridente por 1d3+1 rodadas. O som é inofensivo para aqueles que o escutam, mas há uma chance de 1-3 no d6 de atrair monstros na masmorra.</li>\n</ul>\n\n  </div>\n  \n  \n  <div data-controller=\"linker\" data-linker-url-value=\"/monstros/fungo-gritador\" data-linker-text-value=\"Fungo gritador\" data-linker-link-class=\"absolute text-sm -top-6 right-0\">\n  </div>\n</div>\n<hr class=\"my-6 h-px bg-dourado-600 border-0\" />\n\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.sWRpygyYikrCYbu5"
+    },
+    {
+      "sort": 20,
+      "name": "Fungo Pigmeu",
+      "type": "text",
+      "_id": "JgdEhF2QgRxTjShf",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><div class=\"relative mx-auto p-4\">\n  \n  <p class=\"text-center\">\n    Planta, Pequeno e Neutro\n    \n      ◆\n      Pântanos, Florestas e Subterrâneos\n    \n  </p>\n  \n  <p class=\"text-center italic\">\n    Conhecidos como povo bolor, vivem em cavernas úmidas ou florestas escuras, sempre caçando para sobreviver.\n  </p>\n  \n  \n  \n  \n  <div class=\"grid grid-cols-2 text-center md:mx-10 xl:mx-20\">\n    <div>\n      <strong>Encontro</strong>\n      <em>\n        1d12\n        \n          (3d10 x 10)\n        \n      </em>\n    </div>\n    <div>\n      <strong>Experiência</strong>\n      <em>\n        25XP\n      </em>\n    </div>\n    <div>\n      <strong>Tesouro</strong>\n      <em>\n        -\n        \n          (K)\n        \n      </em>\n    </div>\n    <div>\n      <strong>Movimento</strong>\n      <em>\n        6\n      </em>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"flex justify-between text-center md:mx-10 xl:mx-20\">\n    <div class=\"basis-1/4\">\n      <div><strong>DV [PV]</strong></div>\n      <div><em>1+1 [6]</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>CA</strong></div>\n      <div><em>13</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>JP</strong></div>\n      <div><em>5</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>MO</strong></div>\n      <div><em>8</em></div>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"mb-6 md:mx-10 xl:mx-20\">\n    \n      <div>1 × arma + 3 (arma + 0 )</div>\n    \n  </div>\n  \n  <div>\n    <ul>\n  <li>\n    <p><strong>Mesclar</strong>: podem mesclar-se em áreas cobertas com fungos, tornando-se invisíveis.  São detectados apenas com 1 chance em 1d6.</p>\n  </li>\n  <li>\n    <p><strong>Esporos</strong>: ao morrerem, explodem numa nuvem de esporos atingindo 9 metros de raio.  Alvos devem ser bem-sucedidos numa JPC ou ficarão com muita tosse, impedidos de agir por 1d4 rodadas.</p>\n  </li>\n  <li>\n    <p><strong>Inflamáveis</strong>: fogo causa dano dobrado nestas criaturas.</p>\n  </li>\n</ul>\n\n  </div>\n  \n  \n  <div data-controller=\"linker\" data-linker-url-value=\"/monstros/fungo-pigmeu\" data-linker-text-value=\"Fungo pigmeu\" data-linker-link-class=\"absolute text-sm -top-6 right-0\">\n  </div>\n</div>\n<hr class=\"my-6 h-px bg-dourado-600 border-0\" />\n\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.JgdEhF2QgRxTjShf"
+    },
+    {
+      "sort": 21,
+      "name": "Fungo Violeta",
+      "type": "text",
+      "_id": "RR1FXbU1meeGoQg4",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><div class=\"relative mx-auto p-4\">\n  \n  <p class=\"text-center\">\n    Planta, Médio e Neutro\n    \n      ◆\n      Pântanos, Florestas e Subterrâneos\n    \n  </p>\n  \n  <p class=\"text-center italic\">\n    De inteligência primitiva, é capaz de se fixar em superfícies, caindo de surpresa em aventureiros desavisados.\n  </p>\n  \n  \n  \n  \n  <div class=\"grid grid-cols-2 text-center md:mx-10 xl:mx-20\">\n    <div>\n      <strong>Encontro</strong>\n      <em>\n        1d8\n        \n          (1d4)\n        \n      </em>\n    </div>\n    <div>\n      <strong>Experiência</strong>\n      <em>\n        50XP\n      </em>\n    </div>\n    <div>\n      <strong>Tesouro</strong>\n      <em>\n        -\n        \n          (I)\n        \n      </em>\n    </div>\n    <div>\n      <strong>Movimento</strong>\n      <em>\n        3, 1E\n      </em>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"flex justify-between text-center md:mx-10 xl:mx-20\">\n    <div class=\"basis-1/4\">\n      <div><strong>DV [PV]</strong></div>\n      <div><em>2+4 [14]</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>CA</strong></div>\n      <div><em>16</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>JP</strong></div>\n      <div><em>5</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>MO</strong></div>\n      <div><em>10</em></div>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"mb-6 md:mx-10 xl:mx-20\">\n    \n      <div>4 × tentáculos + 4 (1d4 + 4)</div>\n    \n  </div>\n  \n  <div>\n    <ul>\n  <li>\n    <p><strong>Mordida</strong>: se acertar 4 ataques contra o mesmo personagem, causará mais 3d4 de dano por mordida. O alvo só conseguirá se soltar se receber ajuda externa ou se passar em 4 testes de Força consecutivos.</p>\n  </li>\n  <li>\n    <p><strong>Inflamáveis</strong>: fogo causa dano dobrado nestas criaturas.</p>\n  </li>\n  <li>\n    <p><strong>Proliferar</strong>: ao acertar dois ataques de Mordida no mesmo alvo, o Fungo Violeta liberará esporos que entrarão no corpo da vítima que, por sua vez, morrerá em dois dias após dar vida a um Fungo Pigmeu.</p>\n  </li>\n</ul>\n\n  </div>\n  \n  \n  <div data-controller=\"linker\" data-linker-url-value=\"/monstros/fungo-violeta\" data-linker-text-value=\"Fungo violeta\" data-linker-link-class=\"absolute text-sm -top-6 right-0\">\n  </div>\n</div>\n<hr class=\"my-6 h-px bg-dourado-600 border-0\" />\n\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.RR1FXbU1meeGoQg4"
+    },
+    {
+      "sort": 22,
+      "name": "Gárgula",
+      "type": "text",
+      "_id": "QUOsjGlqo7zKdzmp",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><div class=\"relative mx-auto p-4\">\n  \n  <p class=\"text-center\">\n    Humanoide Monstruoso, Médio e Caótico\n    \n      ◆\n      Qualquer\n    \n  </p>\n  \n  <p class=\"text-center italic\">\n    Assemelhadas a estátuas e de aparência demoníaca, misturam- se em construções antigas para atacarem seus inimigos.\n  </p>\n  \n  \n  \n  \n  <div class=\"grid grid-cols-2 text-center md:mx-10 xl:mx-20\">\n    <div>\n      <strong>Encontro</strong>\n      <em>\n        1d6\n        \n          (2d4)\n        \n      </em>\n    </div>\n    <div>\n      <strong>Experiência</strong>\n      <em>\n        175XP\n      </em>\n    </div>\n    <div>\n      <strong>Tesouro</strong>\n      <em>\n        -\n        \n          (C)\n        \n      </em>\n    </div>\n    <div>\n      <strong>Movimento</strong>\n      <em>\n        6, 15V\n      </em>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"flex justify-between text-center md:mx-10 xl:mx-20\">\n    <div class=\"basis-1/4\">\n      <div><strong>DV [PV]</strong></div>\n      <div><em>4 [20]</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>CA</strong></div>\n      <div><em>16</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>JP</strong></div>\n      <div><em>6</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>MO</strong></div>\n      <div><em>11</em></div>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"mb-6 md:mx-10 xl:mx-20\">\n    \n      <div>2 × garras + 5 (1d4)</div>\n    \n      <div>1 × mordida + 5 (1d6)</div>\n    \n  </div>\n  \n  <div>\n    <ul>\n  <li>\n    <p><strong>Surpresa</strong>: pela sua aparência de pedra e sua habilidade de ficarem imóveis, uma Gárgula pode surpreender seus inimigos com 1-4 chances em 1d6.</p>\n  </li>\n  <li>\n    <p><strong>Imunidades</strong>: Gárgulas são feridas apenas por magia e armas mágicas.</p>\n  </li>\n</ul>\n\n  </div>\n  \n  \n  <div data-controller=\"linker\" data-linker-url-value=\"/monstros/gargula\" data-linker-text-value=\"Gárgula\" data-linker-link-class=\"absolute text-sm -top-6 right-0\">\n  </div>\n</div>\n<hr class=\"my-6 h-px bg-dourado-600 border-0\" />\n\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.QUOsjGlqo7zKdzmp"
+    },
+    {
+      "sort": 23,
+      "name": "Gênio",
+      "type": "text",
+      "_id": "zKaXofB6Sy2lt2Iv",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><div class=\"relative mx-auto p-4\">\n  \n  <p class=\"text-center\">\n    Besta, Médio e Caótico\n    \n      ◆\n      Extraplanar\n    \n  </p>\n  \n  <p class=\"text-center italic\">\n    Humanoides do plano elemental do ar. São conhecidos por sua sagacidade e perspicácia.\n  </p>\n  \n  \n  \n  \n  <div class=\"grid grid-cols-2 text-center md:mx-10 xl:mx-20\">\n    <div>\n      <strong>Encontro</strong>\n      <em>\n        1\n        \n          (1)\n        \n      </em>\n    </div>\n    <div>\n      <strong>Experiência</strong>\n      <em>\n        460XP\n      </em>\n    </div>\n    <div>\n      <strong>Tesouro</strong>\n      <em>\n        -\n        \n      </em>\n    </div>\n    <div>\n      <strong>Movimento</strong>\n      <em>\n        9, 15V\n      </em>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"flex justify-between text-center md:mx-10 xl:mx-20\">\n    <div class=\"basis-1/4\">\n      <div><strong>DV [PV]</strong></div>\n      <div><em>7+1 [36]</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>CA</strong></div>\n      <div><em>15</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>JP</strong></div>\n      <div><em>11</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>MO</strong></div>\n      <div><em>12</em></div>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"mb-6 md:mx-10 xl:mx-20\">\n    \n      <div>1 × pancada + 8 (2d8)</div>\n    \n  </div>\n  \n  <div>\n    <ul>\n  <li>\n    <p><strong>Imunidades</strong>: um Gênio é imune ao dano de qualquer arma não mágica.</p>\n  </li>\n  <li>\n    <p><strong>Redemoinho</strong>: um Gênio pode se transformar em um enorme redemoinho quantas vezes desejar. Nesta forma, é capaz de causar 2d6 de dano a todos que estejam até 3 metros.</p>\n  </li>\n  <li>\n    <p><strong>Magia</strong>: um Gênio pode lançar as seguintes magias como se fosse um Mago de 3º nível: Invisibilidade, Ilusão e Criar Alimentos.</p>\n  </li>\n</ul>\n\n  </div>\n  \n  \n  <div data-controller=\"linker\" data-linker-url-value=\"/monstros/genio\" data-linker-text-value=\"Gênio\" data-linker-link-class=\"absolute text-sm -top-6 right-0\">\n  </div>\n</div>\n<hr class=\"my-6 h-px bg-dourado-600 border-0\" />\n\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.zKaXofB6Sy2lt2Iv"
+    },
+    {
+      "sort": 24,
+      "name": "Ghoul",
+      "type": "text",
+      "_id": "70aIvG20Pe9fNHm3",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><div class=\"relative mx-auto p-4\">\n  \n  <p class=\"text-center\">\n    Morto-Vivo, Médio e Caótico\n    \n      ◆\n      Qualquer\n    \n  </p>\n  \n  <p class=\"text-center italic\">\n    Morto-vivo grotesco. Passa todo o tempo procurando carne de semi-humanos para se alimentar.\n  </p>\n  \n  \n  \n  \n  <div class=\"grid grid-cols-2 text-center md:mx-10 xl:mx-20\">\n    <div>\n      <strong>Encontro</strong>\n      <em>\n        1d6\n        \n          (2d8)\n        \n      </em>\n    </div>\n    <div>\n      <strong>Experiência</strong>\n      <em>\n        95XP\n      </em>\n    </div>\n    <div>\n      <strong>Tesouro</strong>\n      <em>\n        -\n        \n          (B)\n        \n      </em>\n    </div>\n    <div>\n      <strong>Movimento</strong>\n      <em>\n        9\n      </em>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"flex justify-between text-center md:mx-10 xl:mx-20\">\n    <div class=\"basis-1/4\">\n      <div><strong>DV [PV]</strong></div>\n      <div><em>3 [15]</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>CA</strong></div>\n      <div><em>14</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>JP</strong></div>\n      <div><em>7</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>MO</strong></div>\n      <div><em>8</em></div>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"mb-6 md:mx-10 xl:mx-20\">\n    \n      <div>2 × garras + 3 (1d4 + paralisia)</div>\n    \n      <div>1 × mordida + 3 (1d3 + paralisia)</div>\n    \n  </div>\n  \n  <div>\n    <ul>\n  <li>\n    <p><strong>Silencioso</strong>: não produz som algum ao movimentar-se e se mantém silencioso até atacar.</p>\n  </li>\n  <li>\n    <p><strong>Morto-vivo</strong>: imune a frio, magias mentais de manipulação, controle ou ilusão, ou demais formas mágicas de interferir na mente de seres vivos. Sofre 1d6 de dano ácido por frasco de água benta.</p>\n  </li>\n  <li>\n    <p><strong>Paralisia</strong>: alvo atingido por um Ghoul deve ser bem-sucedido em uma JPC ou ficará paralisado por até 1d6 turnos. Elfos são imunes à habilidade de Paralisia de um Ghoul.</p>\n  </li>\n  <li>\n    <p><strong>Inabalável</strong>: mortos-vivos não fazem testes de moral, a não ser quando sofrem o efeito de um Afastar Mortos-Vivos.</p>\n  </li>\n</ul>\n\n  </div>\n  \n  \n  <div data-controller=\"linker\" data-linker-url-value=\"/monstros/ghoul\" data-linker-text-value=\"Ghoul\" data-linker-link-class=\"absolute text-sm -top-6 right-0\">\n  </div>\n</div>\n<hr class=\"my-6 h-px bg-dourado-600 border-0\" />\n\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.70aIvG20Pe9fNHm3"
+    },
+    {
+      "sort": 25,
+      "name": "Gigante da Colina",
+      "type": "text",
+      "_id": "BcB91mKPyoEvx6j5",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><div class=\"relative mx-auto p-4\">\n  \n  <p class=\"text-center\">\n    Gigante, Imenso e Caótico\n    \n      ◆\n      Colinas e Montanhas\n    \n  </p>\n  \n  <p class=\"text-center italic\">\n    Com 4 metros de altura, estes gigantes aterrorizam comunidades vizinhas com seus ataques em grupo.\n  </p>\n  \n  \n  \n  \n  <div class=\"grid grid-cols-2 text-center md:mx-10 xl:mx-20\">\n    <div>\n      <strong>Encontro</strong>\n      <em>\n        1d4\n        \n          (2d4)\n        \n      </em>\n    </div>\n    <div>\n      <strong>Experiência</strong>\n      <em>\n        1600XP\n      </em>\n    </div>\n    <div>\n      <strong>Tesouro</strong>\n      <em>\n        R×4\n        \n          (F)\n        \n      </em>\n    </div>\n    <div>\n      <strong>Movimento</strong>\n      <em>\n        12\n      </em>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"flex justify-between text-center md:mx-10 xl:mx-20\">\n    <div class=\"basis-1/4\">\n      <div><strong>DV [PV]</strong></div>\n      <div><em>11+6 [61]</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>CA</strong></div>\n      <div><em>16/17</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>JP</strong></div>\n      <div><em>13</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>MO</strong></div>\n      <div><em>10</em></div>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"mb-6 md:mx-10 xl:mx-20\">\n    \n      <div>1 × arma + 11 (arma + 6)</div>\n    \n      <div>1 × pedrada + 11(2d8)</div>\n    \n  </div>\n  \n  <div>\n    <ul>\n  <li>\n    <p><strong>Classe de armadura</strong>: possuem CA 16 ou 17 quando usam armadura acolchoada.</p>\n  </li>\n  <li>\n    <p><strong>Golpe Potente</strong>: se conseguir causar, com uma pancada ou arma, uma quantidade de dano superior a força do alvo, este é arremessado 1d6 metros para trás.</p>\n  </li>\n</ul>\n\n  </div>\n  \n  \n  <div data-controller=\"linker\" data-linker-url-value=\"/monstros/gigante-da-colina\" data-linker-text-value=\"Gigante da colina\" data-linker-link-class=\"absolute text-sm -top-6 right-0\">\n  </div>\n</div>\n<hr class=\"my-6 h-px bg-dourado-600 border-0\" />\n\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.BcB91mKPyoEvx6j5"
+    },
+    {
+      "sort": 26,
+      "name": "Gigante da Montanha",
+      "type": "text",
+      "_id": "udLDmS73QALSTO3r",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><div class=\"relative mx-auto p-4\">\n  \n  <p class=\"text-center\">\n    Gigante, Imenso e Caótico\n    \n      ◆\n      Montanhas\n    \n  </p>\n  \n  <p class=\"text-center italic\">\n    Com 5 metros de altura, estes gigantes primitivo preferem atacar à distância qualquer um que cruze seu caminho.\n  </p>\n  \n  \n  \n  \n  <div class=\"grid grid-cols-2 text-center md:mx-10 xl:mx-20\">\n    <div>\n      <strong>Encontro</strong>\n      <em>\n        1d2\n        \n          (1d3)\n        \n      </em>\n    </div>\n    <div>\n      <strong>Experiência</strong>\n      <em>\n        2650XP\n      </em>\n    </div>\n    <div>\n      <strong>Tesouro</strong>\n      <em>\n        T\n        \n          (D)\n        \n      </em>\n    </div>\n    <div>\n      <strong>Movimento</strong>\n      <em>\n        9\n      </em>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"flex justify-between text-center md:mx-10 xl:mx-20\">\n    <div class=\"basis-1/4\">\n      <div><strong>DV [PV]</strong></div>\n      <div><em>14+15 [85]</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>CA</strong></div>\n      <div><em>17</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>JP</strong></div>\n      <div><em>14</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>MO</strong></div>\n      <div><em>9</em></div>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"mb-6 md:mx-10 xl:mx-20\">\n    \n      <div>2 × pancadas + 13 (1d8 + 2 )</div>\n    \n      <div>1 × arma + 8 (arma + 10)</div>\n    \n      <div>1 × pedrada + 9 (2d10)</div>\n    \n  </div>\n  \n  <div>\n    <ul>\n  <li><strong>Golpe Potente</strong>: se conseguir causar, com uma pancada, pedrada ou arma, uma quantidade de dano maior que a força do alvo, este é arremessado 1d4 metros para trás.</li>\n</ul>\n\n  </div>\n  \n  \n  <div data-controller=\"linker\" data-linker-url-value=\"/monstros/gigante-da-montanha\" data-linker-text-value=\"Gigante da montanha\" data-linker-link-class=\"absolute text-sm -top-6 right-0\">\n  </div>\n</div>\n<hr class=\"my-6 h-px bg-dourado-600 border-0\" />\n\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.udLDmS73QALSTO3r"
+    },
+    {
+      "sort": 27,
+      "name": "Giganate da Tempestade",
+      "type": "text",
+      "_id": "VEBUgjvbaI9mZeCe",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><div class=\"relative mx-auto p-4\">\n  \n  <p class=\"text-center\">\n    Gigante, Colossal e Caótico\n    \n      ◆\n      Qualquer\n    \n  </p>\n  \n  <p class=\"text-center italic\">\n    Com 8 metros de altura, estes gigantes habitam tanto as nuvens quanto as profundezas dos oceanos.\n  </p>\n  \n  \n  \n  \n  <div class=\"grid grid-cols-2 text-center md:mx-10 xl:mx-20\">\n    <div>\n      <strong>Encontro</strong>\n      <em>\n        1\n        \n          (1d3)\n        \n      </em>\n    </div>\n    <div>\n      <strong>Experiência</strong>\n      <em>\n        3850XP\n      </em>\n    </div>\n    <div>\n      <strong>Tesouro</strong>\n      <em>\n        V×3\n        \n          (G)\n        \n      </em>\n    </div>\n    <div>\n      <strong>Movimento</strong>\n      <em>\n        9\n      </em>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"flex justify-between text-center md:mx-10 xl:mx-20\">\n    <div class=\"basis-1/4\">\n      <div><strong>DV [PV]</strong></div>\n      <div><em>17+10 [95]</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>CA</strong></div>\n      <div><em>21</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>JP</strong></div>\n      <div><em>15</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>MO</strong></div>\n      <div><em>12</em></div>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"mb-6 md:mx-10 xl:mx-20\">\n    \n      <div>1 × arma + 14 (arma + 12)</div>\n    \n      <div>2 × pancadas + 12 (2d6 + 2)</div>\n    \n  </div>\n  \n  <div>\n    <ul>\n  <li>\n    <p><strong>Magias</strong>: 3 vezes ao dia podem lançar uma das seguintes magias: Levitação, Relâmpago e Convocar Relâmpagos como se fossem Magos de 15º nível.</p>\n  </li>\n  <li>\n    <p><strong>Imunidade</strong>: imunes a toda forma de eletricidade.</p>\n  </li>\n  <li>\n    <p><strong>Respirar embaixo d’água</strong>: normalmente, sem restrições.</p>\n  </li>\n  <li>\n    <p><strong>Golpe Potente</strong>: se conseguir causar, com uma pancada ou arma, uma quantidade de dano maior que a força do alvo, este é arremessado 1d8 metros para trás.</p>\n  </li>\n</ul>\n\n  </div>\n  \n  \n  <div data-controller=\"linker\" data-linker-url-value=\"/monstros/gigante-da-tempestade\" data-linker-text-value=\"Gigante da tempestade\" data-linker-link-class=\"absolute text-sm -top-6 right-0\">\n  </div>\n</div>\n<hr class=\"my-6 h-px bg-dourado-600 border-0\" />\n\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.VEBUgjvbaI9mZeCe"
+    },
+    {
+      "sort": 28,
+      "name": "Gigante do Fogo",
+      "type": "text",
+      "_id": "ESlFrPESisLr56eE",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><div class=\"relative mx-auto p-4\">\n  \n  <p class=\"text-center\">\n    Gigante, Imenso e Caótico\n    \n      ◆\n      Montanhas e Subterrâneos\n    \n  </p>\n  \n  <p class=\"text-center italic\">\n    Com 6 metros de altura, estes gigantes militarizados são brutais em seus ataques contra as defesas inimigas.\n  </p>\n  \n  \n  \n  \n  <div class=\"grid grid-cols-2 text-center md:mx-10 xl:mx-20\">\n    <div>\n      <strong>Encontro</strong>\n      <em>\n        1d2\n        \n          (1d3)\n        \n      </em>\n    </div>\n    <div>\n      <strong>Experiência</strong>\n      <em>\n        2725XP\n      </em>\n    </div>\n    <div>\n      <strong>Tesouro</strong>\n      <em>\n        V\n        \n          (GX2)\n        \n      </em>\n    </div>\n    <div>\n      <strong>Movimento</strong>\n      <em>\n        12\n      </em>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"flex justify-between text-center md:mx-10 xl:mx-20\">\n    <div class=\"basis-1/4\">\n      <div><strong>DV [PV]</strong></div>\n      <div><em>14+10 [80]</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>CA</strong></div>\n      <div><em>16/20</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>JP</strong></div>\n      <div><em>14</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>MO</strong></div>\n      <div><em>10</em></div>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"mb-6 md:mx-10 xl:mx-20\">\n    \n      <div>2 × pancadas + 13 (1d8 + 4 )</div>\n    \n      <div>1 × arma + 12 (arma + 8)</div>\n    \n      <div>1 × pedrada + 9 (2d10)</div>\n    \n  </div>\n  \n  <div>\n    <ul>\n  <li>\n    <p><strong>Classe de armadura</strong>: possuem CA 16 ou 20 quando usam cota de malha.</p>\n  </li>\n  <li>\n    <p><strong>Imunidade ao fogo</strong>: imunidade total ao fogo e ao calor oriundos de fontes naturais.  Fogos mágicos causam metade do dano e efeito.</p>\n  </li>\n  <li>\n    <p><strong>Golpe Potente</strong>: se conseguir causar, com uma pancada, pedrada ou arma, uma quantidade de dano maior que a força do alvo, este é arremessado 1d6 metros para trás.</p>\n  </li>\n</ul>\n\n  </div>\n  \n  \n  <div data-controller=\"linker\" data-linker-url-value=\"/monstros/gigante-do-fogo\" data-linker-text-value=\"Gigante do fogo\" data-linker-link-class=\"absolute text-sm -top-6 right-0\">\n  </div>\n</div>\n<hr class=\"my-6 h-px bg-dourado-600 border-0\" />\n\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.ESlFrPESisLr56eE"
+    },
+    {
+      "sort": 29,
+      "name": "Gigante do Gelo",
+      "type": "text",
+      "_id": "2JI8uFo8s5fWycpz",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><div class=\"relative mx-auto p-4\">\n  \n  <p class=\"text-center\">\n    Gigante, Imenso e Caótico\n    \n      ◆\n      Geleiras\n    \n  </p>\n  \n  <p class=\"text-center italic\">\n    Com 7 metros de altura, estes gigantes estúpidos das terras geladas adoram emboscar seus inimigos.\n  </p>\n  \n  \n  \n  \n  <div class=\"grid grid-cols-2 text-center md:mx-10 xl:mx-20\">\n    <div>\n      <strong>Encontro</strong>\n      <em>\n        1d2\n        \n          (1d4)\n        \n      </em>\n    </div>\n    <div>\n      <strong>Experiência</strong>\n      <em>\n        2025XP\n      </em>\n    </div>\n    <div>\n      <strong>Tesouro</strong>\n      <em>\n        U×2, F×2\n        \n      </em>\n    </div>\n    <div>\n      <strong>Movimento</strong>\n      <em>\n        9\n      </em>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"flex justify-between text-center md:mx-10 xl:mx-20\">\n    <div class=\"basis-1/4\">\n      <div><strong>DV [PV]</strong></div>\n      <div><em>12+8 [68]</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>CA</strong></div>\n      <div><em>16/18</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>JP</strong></div>\n      <div><em>13</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>MO</strong></div>\n      <div><em>9</em></div>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"mb-6 md:mx-10 xl:mx-20\">\n    \n      <div>2 × pancadas + 12 (1d8 +6)</div>\n    \n      <div>1 × arma + 9 (arma+8)</div>\n    \n      <div>1 × pedrada + 7 (2d10)</div>\n    \n  </div>\n  \n  <div>\n    <ul>\n  <li>\n    <p><strong>Classe de armadura</strong>: possuem CA 16 ou 18 quando usam armadura de couro.</p>\n  </li>\n  <li>\n    <p><strong>Camuflagem</strong>: quando enterrados sob a neve, surpreendem seus inimigos com 1-4 chances em 1d6.</p>\n  </li>\n  <li>\n    <p><strong>Resistência ao frio</strong>: imunidade total ao frio oriundo de fontes naturais ou mágicas.  Frio mágico pode causar outros efeitos que não seja de dano.</p>\n  </li>\n  <li>\n    <p><strong>Golpe Potente</strong>: se conseguir causar, com uma pancada, pedrada ou arma, uma quantidade de dano maior que a força do alvo, este é arremessado 1d6 metros para trás.</p>\n  </li>\n</ul>\n\n  </div>\n  \n  \n  <div data-controller=\"linker\" data-linker-url-value=\"/monstros/gigante-do-gelo\" data-linker-text-value=\"Gigante do gelo\" data-linker-link-class=\"absolute text-sm -top-6 right-0\">\n  </div>\n</div>\n<hr class=\"my-6 h-px bg-dourado-600 border-0\" />\n\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.2JI8uFo8s5fWycpz"
+    },
+    {
+      "sort": 30,
+      "name": "Gnoll",
+      "type": "text",
+      "_id": "NjJxm3BsB94DX4hc",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><div class=\"relative mx-auto p-4\">\n  \n  <p class=\"text-center\">\n    Humanoide, Grande e Caótico\n    \n      ◆\n      Planícies, Florestas e Subterrâneos\n    \n  </p>\n  \n  <p class=\"text-center italic\">\n    Humanoide cruel. Organizam-se em bandos de salteadores, roubando tudo o que julgarem ser lucrativo.\n  </p>\n  \n  \n  \n  \n  <div class=\"grid grid-cols-2 text-center md:mx-10 xl:mx-20\">\n    <div>\n      <strong>Encontro</strong>\n      <em>\n        1d6\n        \n          (3d6)\n        \n      </em>\n    </div>\n    <div>\n      <strong>Experiência</strong>\n      <em>\n        35XP\n      </em>\n    </div>\n    <div>\n      <strong>Tesouro</strong>\n      <em>\n        R\n        \n          (B)\n        \n      </em>\n    </div>\n    <div>\n      <strong>Movimento</strong>\n      <em>\n        9\n      </em>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"flex justify-between text-center md:mx-10 xl:mx-20\">\n    <div class=\"basis-1/4\">\n      <div><strong>DV [PV]</strong></div>\n      <div><em>2 [10]</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>CA</strong></div>\n      <div><em>12/15</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>JP</strong></div>\n      <div><em>5</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>MO</strong></div>\n      <div><em>7</em></div>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"mb-6 md:mx-10 xl:mx-20\">\n    \n      <div>1 × arma + 2 (arma )</div>\n    \n      <div>1 × mordida + 2 (1d4+1)</div>\n    \n  </div>\n  \n  <div>\n    <ul>\n  <li><strong>Classe de armadura</strong>: Gnolls possuem CA 12 ou 15 quando usam armadura de couro batido.</li>\n</ul>\n\n  </div>\n  \n  \n  <div data-controller=\"linker\" data-linker-url-value=\"/monstros/gnoll\" data-linker-text-value=\"Gnoll\" data-linker-link-class=\"absolute text-sm -top-6 right-0\">\n  </div>\n</div>\n<hr class=\"my-6 h-px bg-dourado-600 border-0\" />\n\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.NjJxm3BsB94DX4hc"
+    },
+    {
+      "sort": 31,
+      "name": "Goblin",
+      "type": "text",
+      "_id": "YygsbhMDPeqA3jMC",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><div class=\"relative mx-auto p-4\">\n  \n  <p class=\"text-center\">\n    Humanoide, Pequeno e Caótico\n    \n      ◆\n      Qualquer\n    \n  </p>\n  \n  <p class=\"text-center italic\">\n    Usam armas comuns e táticas simples de combate, contando com a força dos números para sobrepujar os adversários.\n  </p>\n  \n  \n  \n  \n  <div class=\"grid grid-cols-2 text-center md:mx-10 xl:mx-20\">\n    <div>\n      <strong>Encontro</strong>\n      <em>\n        2d4\n        \n          (6d10)\n        \n      </em>\n    </div>\n    <div>\n      <strong>Experiência</strong>\n      <em>\n        15XP\n      </em>\n    </div>\n    <div>\n      <strong>Tesouro</strong>\n      <em>\n        Q\n        \n          (B)\n        \n      </em>\n    </div>\n    <div>\n      <strong>Movimento</strong>\n      <em>\n        6\n      </em>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"flex justify-between text-center md:mx-10 xl:mx-20\">\n    <div class=\"basis-1/4\">\n      <div><strong>DV [PV]</strong></div>\n      <div><em>1-1 [4]</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>CA</strong></div>\n      <div><em>11/13</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>JP</strong></div>\n      <div><em>5</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>MO</strong></div>\n      <div><em>7</em></div>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"mb-6 md:mx-10 xl:mx-20\">\n    \n      <div>1 × arma + 2 (arma+0)</div>\n    \n  </div>\n  \n  <div>\n    <ul>\n  <li>\n    <p><strong>Classe de armadura</strong>: Goblins possuem CA 11 ou 13 quando usam armadura de couro.</p>\n  </li>\n  <li>\n    <p><strong>Infravisão</strong>: 18 metros.</p>\n  </li>\n</ul>\n\n  </div>\n  \n  \n  <div data-controller=\"linker\" data-linker-url-value=\"/monstros/goblin\" data-linker-text-value=\"Goblin\" data-linker-link-class=\"absolute text-sm -top-6 right-0\">\n  </div>\n</div>\n<hr class=\"my-6 h-px bg-dourado-600 border-0\" />\n\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.YygsbhMDPeqA3jMC"
+    },
+    {
+      "sort": 32,
+      "name": "Golem de Carne",
+      "type": "text",
+      "_id": "LsAb4RNnDkP91Jaw",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><div class=\"relative mx-auto p-4\">\n  \n  <p class=\"text-center\">\n    Constructo, Grande e Neutro\n    \n      ◆\n      Qualquer\n    \n  </p>\n  \n  <p class=\"text-center italic\">\n    Espécie de boneco formado com pedaços de vários corpos diferentes, formando uma única criatura horrenda.\n  </p>\n  \n  \n  \n  \n  <div class=\"grid grid-cols-2 text-center md:mx-10 xl:mx-20\">\n    <div>\n      <strong>Encontro</strong>\n      <em>\n        1\n        \n          (1)\n        \n      </em>\n    </div>\n    <div>\n      <strong>Experiência</strong>\n      <em>\n        1025XP\n      </em>\n    </div>\n    <div>\n      <strong>Tesouro</strong>\n      <em>\n        -\n        \n      </em>\n    </div>\n    <div>\n      <strong>Movimento</strong>\n      <em>\n        9\n      </em>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"flex justify-between text-center md:mx-10 xl:mx-20\">\n    <div class=\"basis-1/4\">\n      <div><strong>DV [PV]</strong></div>\n      <div><em>9 [45]</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>CA</strong></div>\n      <div><em>13</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>JP</strong></div>\n      <div><em>11</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>MO</strong></div>\n      <div><em>12</em></div>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"mb-6 md:mx-10 xl:mx-20\">\n    \n      <div>2 × pancadas + 9 (2d8 )</div>\n    \n  </div>\n  \n  <div>\n    <ul>\n  <li>\n    <p><strong>Imunidades</strong>: um Golem de Carne é imune ao dano de qualquer arma não mágica. Além disso, não são atingidos por ataques que necessitem de um alvo vivo (como gases, venenos ou magias mentais como ilusões ou demais formas mágicas de interferir na mente de seres vivos).</p>\n  </li>\n  <li>\n    <p><strong>Cura Elétrica</strong>: o Golem de Carne cura 1 ponto de vida para cada dado de dano causado por um ataque de fogo.</p>\n  </li>\n  <li>\n    <p><strong>Fogo e Frio</strong>: ataques de fogo e frio, mesmo os mágicos, deixam os golens lerdos por 2d6 rodadas. Um golem lerdo tem seu movimento reduzido à metade, e recebe uma penalidade de 2 em todas as jogadas e na CA.</p>\n  </li>\n  <li>\n    <p><strong>Fúria</strong>: a cada rodada que estiver em combate, um Golem de Carne tem uma chance cumulativa de 1% de se libertar do controle do seu mestre e entrar em fúria, atacando tudo e a todos que estiverem ao seu alcance.</p>\n  </li>\n</ul>\n\n  </div>\n  \n  \n  <div data-controller=\"linker\" data-linker-url-value=\"/monstros/golem-de-carne\" data-linker-text-value=\"Golem de carne\" data-linker-link-class=\"absolute text-sm -top-6 right-0\">\n  </div>\n</div>\n<hr class=\"my-6 h-px bg-dourado-600 border-0\" />\n\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.LsAb4RNnDkP91Jaw"
+    },
+    {
+      "sort": 33,
+      "name": "Golem de Ferro",
+      "type": "text",
+      "_id": "NfL7yb2BwPCGGnYr",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><div class=\"relative mx-auto p-4\">\n  \n  <p class=\"text-center\">\n    Constructo, Grande e Neutro\n    \n      ◆\n      Qualquer\n    \n  </p>\n  \n  <p class=\"text-center italic\">\n    Humanoides forjados como grandes guerreiros armadurados, feitos do mais puro ferro.\n  </p>\n  \n  \n  \n  \n  <div class=\"grid grid-cols-2 text-center md:mx-10 xl:mx-20\">\n    <div>\n      <strong>Encontro</strong>\n      <em>\n        1\n        \n          (1)\n        \n      </em>\n    </div>\n    <div>\n      <strong>Experiência</strong>\n      <em>\n        4200XP\n      </em>\n    </div>\n    <div>\n      <strong>Tesouro</strong>\n      <em>\n        -\n        \n      </em>\n    </div>\n    <div>\n      <strong>Movimento</strong>\n      <em>\n        6\n      </em>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"flex justify-between text-center md:mx-10 xl:mx-20\">\n    <div class=\"basis-1/4\">\n      <div><strong>DV [PV]</strong></div>\n      <div><em>18 [90]</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>CA</strong></div>\n      <div><em>16</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>JP</strong></div>\n      <div><em>14</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>MO</strong></div>\n      <div><em>12</em></div>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"mb-6 md:mx-10 xl:mx-20\">\n    \n      <div>1 × espada curta + 15 (4d10 )</div>\n    \n      <div>1 × pancada + 12(4d8)</div>\n    \n  </div>\n  \n  <div>\n    <ul>\n  <li>\n    <p><strong>Imunidades</strong>: um Golem de Ferro é imune ao dano de qualquer arma não mágica. Além disso, não são atingidos por ataques que necessitem de um alvo vivo (como gases, venenos ou magias mentais como ilusões ou demais formas mágicas de interferir na mente de seres vivos).</p>\n  </li>\n  <li>\n    <p><strong>Baforada de gás</strong>: uma vez a cada 7 ataques desferidos, o Golem de Ferro é capaz de lançar uma nuvem de gás venenoso causando 3d6 de dano a todos a até 6 metros de distância dele.  Uma JPD pode reduzir o dano à metade.</p>\n  </li>\n</ul>\n\n  </div>\n  \n  \n  <div data-controller=\"linker\" data-linker-url-value=\"/monstros/golem-de-ferro\" data-linker-text-value=\"Golem de ferro\" data-linker-link-class=\"absolute text-sm -top-6 right-0\">\n  </div>\n</div>\n<hr class=\"my-6 h-px bg-dourado-600 border-0\" />\n\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.NfL7yb2BwPCGGnYr"
+    },
+    {
+      "sort": 34,
+      "name": "Golem de Gelo",
+      "type": "text",
+      "_id": "xMTk0hteV7M89wi1",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><div class=\"relative mx-auto p-4\">\n  \n  <p class=\"text-center\">\n    Constructo, Grande e Neutro\n    \n      ◆\n      Geleiras\n    \n  </p>\n  \n  <p class=\"text-center italic\">\n    Estátua humanoide feita de gelo coberta de espinhos de gelo afiados por todo o corpo.\n  </p>\n  \n  \n  \n  \n  <div class=\"grid grid-cols-2 text-center md:mx-10 xl:mx-20\">\n    <div>\n      <strong>Encontro</strong>\n      <em>\n        1\n        \n          (1)\n        \n      </em>\n    </div>\n    <div>\n      <strong>Experiência</strong>\n      <em>\n        740XP\n      </em>\n    </div>\n    <div>\n      <strong>Tesouro</strong>\n      <em>\n        -\n        \n      </em>\n    </div>\n    <div>\n      <strong>Movimento</strong>\n      <em>\n        9\n      </em>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"flex justify-between text-center md:mx-10 xl:mx-20\">\n    <div class=\"basis-1/4\">\n      <div><strong>DV [PV]</strong></div>\n      <div><em>8 [40]</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>CA</strong></div>\n      <div><em>17</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>JP</strong></div>\n      <div><em>7</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>MO</strong></div>\n      <div><em>12</em></div>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"mb-6 md:mx-10 xl:mx-20\">\n    \n      <div>2 × pancadas + 9 (2d8 )</div>\n    \n  </div>\n  \n  <div>\n    <ul>\n  <li>\n    <p><strong>Imunidades</strong>: um Golem de Gelo é imune ao dano de qualquer arma não mágica. Além disso, não são atingidos por ataques que necessitem de um alvo vivo (como gases, venenos ou magias mentais como ilusões ou demais formas mágicas de interferir na mente de seres vivos). Um Golem de Gelo também é inume a qualquer ataque de gelo ou frio.</p>\n  </li>\n  <li>\n    <p><strong>Estilhaços de Gelo</strong>: quando reduzido a zero pontos de vida, um Golem de Gelo explode em estilhaços de gelo afiados. Todas as criaturas a até 3 metros de distância do Golem de Gelo recebem 3d6 pontos de dano da explosão. Uma JPD pode reduzir o dano à metade.</p>\n  </li>\n</ul>\n\n  </div>\n  \n  \n  <div data-controller=\"linker\" data-linker-url-value=\"/monstros/golem-de-gelo\" data-linker-text-value=\"Golem de gelo\" data-linker-link-class=\"absolute text-sm -top-6 right-0\">\n  </div>\n</div>\n<hr class=\"my-6 h-px bg-dourado-600 border-0\" />\n\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.xMTk0hteV7M89wi1"
+    },
+    {
+      "sort": 35,
+      "name": "Golem de Madeira",
+      "type": "text",
+      "_id": "1DrrKQN7LvaaLE0q",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><div class=\"relative mx-auto p-4\">\n  \n  <p class=\"text-center\">\n    Constructo, Pequeno e Neutro\n    \n      ◆\n      Qualquer\n    \n  </p>\n  \n  <p class=\"text-center italic\">\n    Pequenos golens construídos com madeira em formas humanoides. Com vontade própria, agem livremente.\n  </p>\n  \n  \n  \n  \n  <div class=\"grid grid-cols-2 text-center md:mx-10 xl:mx-20\">\n    <div>\n      <strong>Encontro</strong>\n      <em>\n        1\n        \n          (1)\n        \n      </em>\n    </div>\n    <div>\n      <strong>Experiência</strong>\n      <em>\n        65XP\n      </em>\n    </div>\n    <div>\n      <strong>Tesouro</strong>\n      <em>\n        -\n        \n      </em>\n    </div>\n    <div>\n      <strong>Movimento</strong>\n      <em>\n        6\n      </em>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"flex justify-between text-center md:mx-10 xl:mx-20\">\n    <div class=\"basis-1/4\">\n      <div><strong>DV [PV]</strong></div>\n      <div><em>2+2 [12]</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>CA</strong></div>\n      <div><em>14</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>JP</strong></div>\n      <div><em>5</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>MO</strong></div>\n      <div><em>12</em></div>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"mb-6 md:mx-10 xl:mx-20\">\n    \n      <div>1 × pancada + 2 (1d8)</div>\n    \n  </div>\n  \n  <div>\n    <ul>\n  <li>\n    <p><strong>Imunidades</strong>: um Golem de Madeira é imune ao dano de qualquer arma não mágica. Além disso, não são atingidos por ataques que necessitem de um alvo vivo (como gases, venenos ou magias mentais como ilusões ou demais formas mágicas de interferir na mente de seres vivos).</p>\n  </li>\n  <li>\n    <p><strong>Vulnerabilidade</strong>: um Golem de Madeira resiste a qualquer ataque de fogo com um penalizador de -2 e recebe um dano adicional de 1 em todo dano causado por fogo.</p>\n  </li>\n</ul>\n\n  </div>\n  \n  \n  <div data-controller=\"linker\" data-linker-url-value=\"/monstros/golem-de-madeira\" data-linker-text-value=\"Golem de madeira\" data-linker-link-class=\"absolute text-sm -top-6 right-0\">\n  </div>\n</div>\n<hr class=\"my-6 h-px bg-dourado-600 border-0\" />\n\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.1DrrKQN7LvaaLE0q"
+    },
+    {
+      "sort": 36,
+      "name": "Golem de Ossos",
+      "type": "text",
+      "_id": "66NTMXGA04cvt6ni",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><div class=\"relative mx-auto p-4\">\n  \n  <p class=\"text-center\">\n    Constructo, Médio e Neutro\n    \n      ◆\n      Qualquer\n    \n  </p>\n  \n  <p class=\"text-center italic\">\n    Golem criado com ossos humanos de diferentes criaturas. Possui quatro braços totalmente funcionais.\n  </p>\n  \n  \n  \n  \n  <div class=\"grid grid-cols-2 text-center md:mx-10 xl:mx-20\">\n    <div>\n      <strong>Encontro</strong>\n      <em>\n        1\n        \n          (1)\n        \n      </em>\n    </div>\n    <div>\n      <strong>Experiência</strong>\n      <em>\n        740XP\n      </em>\n    </div>\n    <div>\n      <strong>Tesouro</strong>\n      <em>\n        -\n        \n      </em>\n    </div>\n    <div>\n      <strong>Movimento</strong>\n      <em>\n        9\n      </em>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"flex justify-between text-center md:mx-10 xl:mx-20\">\n    <div class=\"basis-1/4\">\n      <div><strong>DV [PV]</strong></div>\n      <div><em>8 [40]</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>CA</strong></div>\n      <div><em>18</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>JP</strong></div>\n      <div><em>7</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>MO</strong></div>\n      <div><em>12</em></div>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"mb-6 md:mx-10 xl:mx-20\">\n    \n      <div>1 × arma + 9 (arma + 0)</div>\n    \n  </div>\n  \n  <div>\n    <ul>\n  <li>\n    <p><strong>Imunidades</strong>: um Golem de Ossos é imune ao dano de qualquer arma não mágica. Além disso, não são atingidos por ataques que necessitem de um alvo vivo (como gases, venenos ou magias mentais como ilusões ou demais formas mágicas de interferir na mente de seres vivos).</p>\n  </li>\n  <li>\n    <p><strong>Quatro Braços</strong>: um Golem de Ossos possui 4 braços os quais podem ser usados para atacar até 2 oponentes diferentes. Um Golem de Ossos pode ainda usar duas armas de duas mãos e desferir dois ataques em um único oponente.</p>\n  </li>\n</ul>\n\n  </div>\n  \n  \n  <div data-controller=\"linker\" data-linker-url-value=\"/monstros/golem-de-ossos\" data-linker-text-value=\"Golem de ossos\" data-linker-link-class=\"absolute text-sm -top-6 right-0\">\n  </div>\n</div>\n<hr class=\"my-6 h-px bg-dourado-600 border-0\" />\n\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.66NTMXGA04cvt6ni"
+    },
+    {
+      "sort": 37,
+      "name": "Golem de Pedra",
+      "type": "text",
+      "_id": "UK82ZDzsr5ePWRZa",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><div class=\"relative mx-auto p-4\">\n  \n  <p class=\"text-center\">\n    Constructo, Grande e Neutro\n    \n      ◆\n      Qualquer\n    \n  </p>\n  \n  <p class=\"text-center italic\">\n    Grande humanoide esculpido na pedra bruta e animado em rituais arcanos.\n  </p>\n  \n  \n  \n  \n  <div class=\"grid grid-cols-2 text-center md:mx-10 xl:mx-20\">\n    <div>\n      <strong>Encontro</strong>\n      <em>\n        1\n        \n          (1)\n        \n      </em>\n    </div>\n    <div>\n      <strong>Experiência</strong>\n      <em>\n        2800XP\n      </em>\n    </div>\n    <div>\n      <strong>Tesouro</strong>\n      <em>\n        -\n        \n      </em>\n    </div>\n    <div>\n      <strong>Movimento</strong>\n      <em>\n        6\n      </em>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"flex justify-between text-center md:mx-10 xl:mx-20\">\n    <div class=\"basis-1/4\">\n      <div><strong>DV [PV]</strong></div>\n      <div><em>14 [70]</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>CA</strong></div>\n      <div><em>19</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>JP</strong></div>\n      <div><em>13</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>MO</strong></div>\n      <div><em>12</em></div>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"mb-6 md:mx-10 xl:mx-20\">\n    \n      <div>1 × pancada + 13 (3d8)</div>\n    \n  </div>\n  \n  <div>\n    <ul>\n  <li>\n    <p><strong>Imunidades</strong>: um Golem de Pedra é imune ao dano de qualquer arma não mágica. Além disso, não são atingidos por ataques que necessitem de um alvo vivo (como gases, venenos ou magias mentais como ilusões ou demais formas mágicas de interferir na mente de seres vivos).</p>\n  </li>\n  <li>\n    <p><strong>Lentidão</strong>: Golens de Pedra são capazes de criar uma área de lentidão a todos ao seu redor. Todos dentro de uma área de 6 x 6 metros que não passarem em uma JPC ficarão lentos. Suas movimentações ficam reduzidas pela metade, e recebem uma penalidade de 2 em todas as jogadas e na CA.  O efeito tem duração de 2d6 turnos.</p>\n  </li>\n</ul>\n\n  </div>\n  \n  \n  <div data-controller=\"linker\" data-linker-url-value=\"/monstros/golem-de-pedra\" data-linker-text-value=\"Golem de pedra\" data-linker-link-class=\"absolute text-sm -top-6 right-0\">\n  </div>\n</div>\n<hr class=\"my-6 h-px bg-dourado-600 border-0\" />\n\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.UK82ZDzsr5ePWRZa"
+    },
+    {
+      "sort": 38,
+      "name": "Górgon",
+      "type": "text",
+      "_id": "n4BY70yyyuGVC9by",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><div class=\"relative mx-auto p-4\">\n  \n  <p class=\"text-center\">\n    Besta, Grande e Caótico\n    \n      ◆\n      Planícies e Colinas\n    \n  </p>\n  \n  <p class=\"text-center italic\">\n    Touro enorme com uma carapaça metálica. Hostil, ataca antes sem se importar como e porquê.\n  </p>\n  \n  \n  \n  \n  <div class=\"grid grid-cols-2 text-center md:mx-10 xl:mx-20\">\n    <div>\n      <strong>Encontro</strong>\n      <em>\n        1d2\n        \n          (1d4)\n        \n      </em>\n    </div>\n    <div>\n      <strong>Experiência</strong>\n      <em>\n        740XP\n      </em>\n    </div>\n    <div>\n      <strong>Tesouro</strong>\n      <em>\n        -\n        \n          (E)\n        \n      </em>\n    </div>\n    <div>\n      <strong>Movimento</strong>\n      <em>\n        9\n      </em>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"flex justify-between text-center md:mx-10 xl:mx-20\">\n    <div class=\"basis-1/4\">\n      <div><strong>DV [PV]</strong></div>\n      <div><em>8 [40]</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>CA</strong></div>\n      <div><em>18</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>JP</strong></div>\n      <div><em>8</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>MO</strong></div>\n      <div><em>8</em></div>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"mb-6 md:mx-10 xl:mx-20\">\n    \n      <div>1 × chifre + 9 (2d6 )</div>\n    \n  </div>\n  \n  <div>\n    <ul>\n  <li>\n    <p><strong>Atropelar</strong>: um Górgon ainda não engajado em combate pode usar a manobra de investida para causar o dobro de dano com seus chifres.</p>\n  </li>\n  <li>\n    <p><strong>Baforada Petrificante</strong>: um Górgon é capaz de lançar uma nuvem de gás petrificante a todos a até 10 metros de distância do Górgon. Uma JPC evita a petrificação.</p>\n  </li>\n</ul>\n\n  </div>\n  \n  \n  <div data-controller=\"linker\" data-linker-url-value=\"/monstros/gorgon\" data-linker-text-value=\"Górgon\" data-linker-link-class=\"absolute text-sm -top-6 right-0\">\n  </div>\n</div>\n<hr class=\"my-6 h-px bg-dourado-600 border-0\" />\n\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.n4BY70yyyuGVC9by"
+    },
+    {
+      "sort": 39,
+      "name": "Gosma Ocre",
+      "type": "text",
+      "_id": "pX8eVJGvHkDT0N5g",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><div class=\"relative mx-auto p-4\">\n  \n  <p class=\"text-center\">\n    Gosma, Grande e Neutro\n    \n      ◆\n      Subterrâneos\n    \n  </p>\n  \n  <p class=\"text-center italic\">\n    Criatura amorfa similar a uma ameba gigante e de cor parda.\n  </p>\n  \n  \n  \n  \n  <div class=\"grid grid-cols-2 text-center md:mx-10 xl:mx-20\">\n    <div>\n      <strong>Encontro</strong>\n      <em>\n        1\n        \n          (0)\n        \n      </em>\n    </div>\n    <div>\n      <strong>Experiência</strong>\n      <em>\n        235XP\n      </em>\n    </div>\n    <div>\n      <strong>Tesouro</strong>\n      <em>\n        -\n        \n      </em>\n    </div>\n    <div>\n      <strong>Movimento</strong>\n      <em>\n        6, 6E\n      </em>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"flex justify-between text-center md:mx-10 xl:mx-20\">\n    <div class=\"basis-1/4\">\n      <div><strong>DV [PV]</strong></div>\n      <div><em>5 [25]</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>CA</strong></div>\n      <div><em>12</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>JP</strong></div>\n      <div><em>8</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>MO</strong></div>\n      <div><em>12</em></div>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"mb-6 md:mx-10 xl:mx-20\">\n    \n      <div>1 × toque + 5 (1d6 + ácido)</div>\n    \n  </div>\n  \n  <div>\n    <ul>\n  <li>\n    <p><strong>Ácido</strong>: a Gosma Ocre causa dano ácido aos inimigos tocados em combate. Seu ácido é capaz de destruir papel, tecido, couro e madeira, mas não pedra e metal.</p>\n  </li>\n  <li>\n    <p><strong>Divisão</strong>: se atacadas por eletricidade ou armas cortantes, uma Gosma Ocre pode ser dividida ao meio. As Gosmas Ocres resultantes da divisão devem ser tratadas como dois inimigos diferentes com a metade dos pontos de vida restantes da Gosma Ocre original.</p>\n  </li>\n  <li>\n    <p><strong>Imunidades</strong>: imune aos efeitos do frio e da eletricidade. Uma Gosma Ocre atacada com eletricidade ainda pode se dividir ao meio.</p>\n  </li>\n</ul>\n\n  </div>\n  \n  \n  <div data-controller=\"linker\" data-linker-url-value=\"/monstros/gosma-ocre\" data-linker-text-value=\"Gosma ocre\" data-linker-link-class=\"absolute text-sm -top-6 right-0\">\n  </div>\n</div>\n<hr class=\"my-6 h-px bg-dourado-600 border-0\" />\n\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.pX8eVJGvHkDT0N5g"
+    },
+    {
+      "sort": 40,
+      "name": "Grifo",
+      "type": "text",
+      "_id": "JFzRdTgco09jp5Tl",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><div class=\"relative mx-auto p-4\">\n  \n  <p class=\"text-center\">\n    Besta, Grande e Ordeiro\n    \n      ◆\n      Colinas e Montanhas\n    \n  </p>\n  \n  <p class=\"text-center italic\">\n    Um enorme leão alado com cabeça, patas dianteiras e asas de águia gigante.\n  </p>\n  \n  \n  \n  \n  <div class=\"grid grid-cols-2 text-center md:mx-10 xl:mx-20\">\n    <div>\n      <strong>Encontro</strong>\n      <em>\n        0\n        \n          (2d4)\n        \n      </em>\n    </div>\n    <div>\n      <strong>Experiência</strong>\n      <em>\n        420XP\n      </em>\n    </div>\n    <div>\n      <strong>Tesouro</strong>\n      <em>\n        -\n        \n          (E)\n        \n      </em>\n    </div>\n    <div>\n      <strong>Movimento</strong>\n      <em>\n        9, 21V\n      </em>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"flex justify-between text-center md:mx-10 xl:mx-20\">\n    <div class=\"basis-1/4\">\n      <div><strong>DV [PV]</strong></div>\n      <div><em>7 [35]</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>CA</strong></div>\n      <div><em>15</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>JP</strong></div>\n      <div><em>6</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>MO</strong></div>\n      <div><em>8</em></div>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"mb-6 md:mx-10 xl:mx-20\">\n    \n      <div>2 × garras + 7 (1d4 )</div>\n    \n      <div>1 × mordida + 7 (2d8)</div>\n    \n  </div>\n  \n  <div>\n    <ul>\n  <li><strong>Presa Preferencial</strong>: Grifos na natureza possuem como principal fonte de alimentação os cavalos selvagens. Assim, sempre que encontrar um cavalo, precisará passar em um teste de moral para não atacá-lo instintivamente.</li>\n</ul>\n\n  </div>\n  \n  \n  <div data-controller=\"linker\" data-linker-url-value=\"/monstros/grifo\" data-linker-text-value=\"Grifo\" data-linker-link-class=\"absolute text-sm -top-6 right-0\">\n  </div>\n</div>\n<hr class=\"my-6 h-px bg-dourado-600 border-0\" />\n\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.JFzRdTgco09jp5Tl"
+    },
+    {
+      "sort": 41,
+      "name": "Guerreiro do Caos",
+      "type": "text",
+      "_id": "uzDm0sFrZg7opZUD",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><div class=\"relative mx-auto p-4\">\n  \n  <p class=\"text-center\">\n    Humanoide Monstruoso, Grande e Caótico\n    \n      ◆\n      Qualquer\n    \n  </p>\n  \n  <p class=\"text-center italic\">\n    Guerreiros fanáticos que lutam pelas forças do caos. Possuem poderes que os levam além dos limites da vida e da morte.\n  </p>\n  \n  \n  \n  \n  <div class=\"grid grid-cols-2 text-center md:mx-10 xl:mx-20\">\n    <div>\n      <strong>Encontro</strong>\n      <em>\n        1\n        \n          (1)\n        \n      </em>\n    </div>\n    <div>\n      <strong>Experiência</strong>\n      <em>\n        540XP\n      </em>\n    </div>\n    <div>\n      <strong>Tesouro</strong>\n      <em>\n        T×2\n        \n          (B)\n        \n      </em>\n    </div>\n    <div>\n      <strong>Movimento</strong>\n      <em>\n        9\n      </em>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"flex justify-between text-center md:mx-10 xl:mx-20\">\n    <div class=\"basis-1/4\">\n      <div><strong>DV [PV]</strong></div>\n      <div><em>7+3 [38]</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>CA</strong></div>\n      <div><em>13/20</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>JP</strong></div>\n      <div><em>11</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>MO</strong></div>\n      <div><em>11</em></div>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"mb-6 md:mx-10 xl:mx-20\">\n    \n      <div>1 × machado + 4 (2d6 + 4)</div>\n    \n  </div>\n  \n  <div>\n    <ul>\n  <li>\n    <p><strong>Classe de armadura</strong>: Guerreiros do Caos possuem CA 13 ou 20 quando usam armadura completa.</p>\n  </li>\n  <li>\n    <p><strong>Lutar além da morte</strong>: mantêm-se ativos em combate por até 1d6+2 rodadas após atingirem zero pontos de vida. Ao fim deste tempo, caem imediatamente mortos ao chão.</p>\n  </li>\n  <li>\n    <p><strong>Marca do caos</strong>: ao desejarem, deixam o caos tomar conta de seus corpos. Recebem +2 no BA e +4 no dano, além de 4 pontos de dano em si mesmos ao fim de cada rodada em que esta habilidade estiver acionada.</p>\n  </li>\n  <li>\n    <p><strong>Resistência à dano</strong>: ignoram 1 ponto de dano de cada ataque físico.</p>\n  </li>\n</ul>\n\n  </div>\n  \n  \n  <div data-controller=\"linker\" data-linker-url-value=\"/monstros/guerreiro-do-caos\" data-linker-text-value=\"Guerreiro do caos\" data-linker-link-class=\"absolute text-sm -top-6 right-0\">\n  </div>\n</div>\n<hr class=\"my-6 h-px bg-dourado-600 border-0\" />\n\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.uzDm0sFrZg7opZUD"
+    },
+    {
+      "sort": 42,
+      "name": "Haken",
+      "type": "text",
+      "_id": "HfP8JEuqlm01SHap",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><div class=\"relative mx-auto p-4\">\n  \n  <p class=\"text-center\">\n    Besta, Grande e Neutro\n    \n      ◆\n      Subterrâneos\n    \n  </p>\n  \n  <p class=\"text-center italic\">\n    Perigosa criatura com mãos de gancho. Vive nos subterrâneos e atacam os alvos de surpresa.\n  </p>\n  \n  \n  \n  \n  <div class=\"grid grid-cols-2 text-center md:mx-10 xl:mx-20\">\n    <div>\n      <strong>Encontro</strong>\n      <em>\n        1d4\n        \n          (2d6)\n        \n      </em>\n    </div>\n    <div>\n      <strong>Experiência</strong>\n      <em>\n        175XP\n      </em>\n    </div>\n    <div>\n      <strong>Tesouro</strong>\n      <em>\n        -\n        \n          (J)\n        \n      </em>\n    </div>\n    <div>\n      <strong>Movimento</strong>\n      <em>\n        6, 3E\n      </em>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"flex justify-between text-center md:mx-10 xl:mx-20\">\n    <div class=\"basis-1/4\">\n      <div><strong>DV [PV]</strong></div>\n      <div><em>5 [25]</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>CA</strong></div>\n      <div><em>17</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>JP</strong></div>\n      <div><em>8</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>MO</strong></div>\n      <div><em>8</em></div>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"mb-6 md:mx-10 xl:mx-20\">\n    \n      <div>2 × garras + 2 (1d8+1)</div>\n    \n      <div>1 × chifre + 2 (2d6+1)</div>\n    \n  </div>\n  \n  <div>\n    <ul>\n  <li>\n    <p><strong>Infravisão</strong>: 18 metros.</p>\n  </li>\n  <li>\n    <p><strong>Camuflagem</strong>: sua cor escura garante um bônus de +1 em testes de surpresa.</p>\n  </li>\n  <li>\n    <p><strong>Desarmar</strong>: caso obtenham um resultado 20 no dado de ataque, arrancam das mãos do inimigo seu escudo ou arma (nesta ordem, caso os tenham).</p>\n  </li>\n</ul>\n\n  </div>\n  \n  \n  <div data-controller=\"linker\" data-linker-url-value=\"/monstros/haken\" data-linker-text-value=\"Haken\" data-linker-link-class=\"absolute text-sm -top-6 right-0\">\n  </div>\n</div>\n<hr class=\"my-6 h-px bg-dourado-600 border-0\" />\n\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.HfP8JEuqlm01SHap"
+    },
+    {
+      "sort": 43,
+      "name": "Harpia",
+      "type": "text",
+      "_id": "6AbjRK3CBdtMMI0Z",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><div class=\"relative mx-auto p-4\">\n  \n  <p class=\"text-center\">\n    Humanoide Monstruoso, Médio e Caótico\n    \n      ◆\n      Montanhas e Florestas\n    \n  </p>\n  \n  <p class=\"text-center italic\">\n    Junção de ave de rapina com Bruxa que ataca qualquer criatura em seu território com seu canto lamurioso.\n  </p>\n  \n  \n  \n  \n  <div class=\"grid grid-cols-2 text-center md:mx-10 xl:mx-20\">\n    <div>\n      <strong>Encontro</strong>\n      <em>\n        1d6\n        \n          (2d4)\n        \n      </em>\n    </div>\n    <div>\n      <strong>Experiência</strong>\n      <em>\n        420XP\n      </em>\n    </div>\n    <div>\n      <strong>Tesouro</strong>\n      <em>\n        R\n        \n          (C)\n        \n      </em>\n    </div>\n    <div>\n      <strong>Movimento</strong>\n      <em>\n        6, 15V\n      </em>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"flex justify-between text-center md:mx-10 xl:mx-20\">\n    <div class=\"basis-1/4\">\n      <div><strong>DV [PV]</strong></div>\n      <div><em>7 [35]</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>CA</strong></div>\n      <div><em>15</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>JP</strong></div>\n      <div><em>7</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>MO</strong></div>\n      <div><em>10</em></div>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"mb-6 md:mx-10 xl:mx-20\">\n    \n      <div>2 × garras + 6 (1d6 )</div>\n    \n      <div>1 × arma + 6 (arma)</div>\n    \n  </div>\n  \n  <div>\n    <ul>\n  <li><strong>Canto</strong>: a Harpia emite um canto lamurioso o qual encanta todos que estejam a até 90 metros dela. Uma JPS nega os efeitos do canto pelas próximas 24 horas, mas, em caso de falha, o alvo caminhará em direção à Harpia pelo melhor caminho possível. A única ação possível a uma pessoa sob o efeito do canto da Harpia é se defender. O efeito do encantamento dura até um turno após a interrupção do canto.</li>\n</ul>\n\n  </div>\n  \n  \n  <div data-controller=\"linker\" data-linker-url-value=\"/monstros/harpia\" data-linker-text-value=\"Harpia\" data-linker-link-class=\"absolute text-sm -top-6 right-0\">\n  </div>\n</div>\n<hr class=\"my-6 h-px bg-dourado-600 border-0\" />\n\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.6AbjRK3CBdtMMI0Z"
+    },
+    {
+      "sort": 44,
+      "name": "Hidra",
+      "type": "text",
+      "_id": "MEJ4bu5tobLAC1VX",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><div class=\"relative mx-auto p-4\">\n  \n  <p class=\"text-center\">\n    Besta, Imenso e Neutro\n    \n      ◆\n      Pântanos\n    \n  </p>\n  \n  <p class=\"text-center italic\">\n    Criatura semelhante a um lagarto imenso com várias cabeças.\n  </p>\n  \n  \n  \n  \n  <div class=\"grid grid-cols-2 text-center md:mx-10 xl:mx-20\">\n    <div>\n      <strong>Encontro</strong>\n      <em>\n        1\n        \n          (1)\n        \n      </em>\n    </div>\n    <div>\n      <strong>Experiência</strong>\n      <em>\n        EspecialXP\n      </em>\n    </div>\n    <div>\n      <strong>Tesouro</strong>\n      <em>\n        -\n        \n          (B)\n        \n      </em>\n    </div>\n    <div>\n      <strong>Movimento</strong>\n      <em>\n        9\n      </em>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"flex justify-between text-center md:mx-10 xl:mx-20\">\n    <div class=\"basis-1/4\">\n      <div><strong>DV [PV]</strong></div>\n      <div><em>5 a 12 [25 a 60]</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>CA</strong></div>\n      <div><em>15</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>JP</strong></div>\n      <div><em>12</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>MO</strong></div>\n      <div><em>9</em></div>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"mb-6 md:mx-10 xl:mx-20\">\n    \n      <div>1 × mordida + 8 (1d10 )</div>\n    \n  </div>\n  \n  <div>\n    <ul>\n  <li><strong>Múltiplas cabeças</strong>: Hidras são encontradas com 1d8+4 cabeças, cada uma com 1 Dado de Vida e 1 ataque. Uma Hidra perde 1 cabeça a cada 8 pontos de dano recebidos. Uma cabeça perdida se regenera dando origem a duas outras cabeças em 1d4 turnos (recuperando 2 DV e 2 ataques). Contudo, a cabeça cortada não irá se regenerar caso seja atacada com fogo ou ácido. Nesses casos, o pescoço fica inerte, não regenerando novas cabeças.  Uma Hidra pode possuir no máximo 12 cabeças simultaneamente.</li>\n</ul>\n\n  </div>\n  \n  \n  <div data-controller=\"linker\" data-linker-url-value=\"/monstros/hidra\" data-linker-text-value=\"Hidra\" data-linker-link-class=\"absolute text-sm -top-6 right-0\">\n  </div>\n</div>\n<hr class=\"my-6 h-px bg-dourado-600 border-0\" />\n\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.MEJ4bu5tobLAC1VX"
+    },
+    {
+      "sort": 45,
+      "name": "Hobgoblin",
+      "type": "text",
+      "_id": "DKpovbWsXVRZxmWb",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><div class=\"relative mx-auto p-4\">\n  \n  <p class=\"text-center\">\n    Humanoide, Médio e Ordeiro\n    \n      ◆\n      Qualquer\n    \n  </p>\n  \n  <p class=\"text-center italic\">\n    Militarizados, usam táticas avançadas de guerrilha, tornando-os em grandes forças mercenárias.\n  </p>\n  \n  \n  \n  \n  <div class=\"grid grid-cols-2 text-center md:mx-10 xl:mx-20\">\n    <div>\n      <strong>Encontro</strong>\n      <em>\n        1d6\n        \n          (4d6)\n        \n      </em>\n    </div>\n    <div>\n      <strong>Experiência</strong>\n      <em>\n        15XP\n      </em>\n    </div>\n    <div>\n      <strong>Tesouro</strong>\n      <em>\n        S\n        \n          (E)\n        \n      </em>\n    </div>\n    <div>\n      <strong>Movimento</strong>\n      <em>\n        9\n      </em>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"flex justify-between text-center md:mx-10 xl:mx-20\">\n    <div class=\"basis-1/4\">\n      <div><strong>DV [PV]</strong></div>\n      <div><em>1+1 [6]</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>CA</strong></div>\n      <div><em>11/16</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>JP</strong></div>\n      <div><em>5</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>MO</strong></div>\n      <div><em>9</em></div>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"mb-6 md:mx-10 xl:mx-20\">\n    \n      <div>1 × arma + 3 (1d8 + 1)</div>\n    \n  </div>\n  \n  <div>\n    <ul>\n  <li>\n    <p><strong>Classe de armadura</strong>: Hobglobins possuem CA 11 ou 16 quando usam cota de malha e escudo.</p>\n  </li>\n  <li>\n    <p><strong>Infravisão</strong>: 18 metros.</p>\n  </li>\n</ul>\n\n  </div>\n  \n  \n  <div data-controller=\"linker\" data-linker-url-value=\"/monstros/hobgoblin\" data-linker-text-value=\"Hobgoblin\" data-linker-link-class=\"absolute text-sm -top-6 right-0\">\n  </div>\n</div>\n<hr class=\"my-6 h-px bg-dourado-600 border-0\" />\n\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.DKpovbWsXVRZxmWb"
+    },
+    {
+      "sort": 46,
+      "name": "Homem Esguio",
+      "type": "text",
+      "_id": "4ZJIZnGMahBynJ7S",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><div class=\"relative mx-auto p-4\">\n  \n  <p class=\"text-center\">\n    Humanoide Monstruoso, Grande e Neutro\n    \n      ◆\n      Extraplanar\n    \n  </p>\n  \n  <p class=\"text-center italic\">\n    Percorre os planos atrás de alvos para alimentar-se de suas almas ou sequestrá-los para outros planos.\n  </p>\n  \n  \n  \n  \n  <div class=\"grid grid-cols-2 text-center md:mx-10 xl:mx-20\">\n    <div>\n      <strong>Encontro</strong>\n      <em>\n        1\n        \n          (0)\n        \n      </em>\n    </div>\n    <div>\n      <strong>Experiência</strong>\n      <em>\n        235XP\n      </em>\n    </div>\n    <div>\n      <strong>Tesouro</strong>\n      <em>\n        U\n        \n      </em>\n    </div>\n    <div>\n      <strong>Movimento</strong>\n      <em>\n        9\n      </em>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"flex justify-between text-center md:mx-10 xl:mx-20\">\n    <div class=\"basis-1/4\">\n      <div><strong>DV [PV]</strong></div>\n      <div><em>5+5 [30]</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>CA</strong></div>\n      <div><em>15</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>JP</strong></div>\n      <div><em>8</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>MO</strong></div>\n      <div><em>12</em></div>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"mb-6 md:mx-10 xl:mx-20\">\n    \n      <div>1 × garra + 5 (1d8 + dreno )</div>\n    \n  </div>\n  \n  <div>\n    <ul>\n  <li>\n    <p><strong>Imunidades</strong>: não recebe dano de armas não mágicas e nem é afetado por nenhuma magia, exceto Portal e Desejo.</p>\n  </li>\n  <li>\n    <p><strong>Salto Planar</strong>: até 1d4+2 vezes ao dia, um Homem Esguio pode percorrer até 30 metros em pequenos saltos planares. Uma criatura tocada pelo Homem Esguio o acompanha neste salto.</p>\n  </li>\n  <li>\n    <p><strong>Drenar Energia</strong>: seu ataque drena 1 nível do personagem, caso este não passe em uma JPC. Uma criatura com todos seus níveis drenados por um Homem Esguio tem sua alma devorada por ele e não pode ser ressuscitada.</p>\n  </li>\n</ul>\n\n  </div>\n  \n  \n  <div data-controller=\"linker\" data-linker-url-value=\"/monstros/homem-esguio\" data-linker-text-value=\"Homem esguio\" data-linker-link-class=\"absolute text-sm -top-6 right-0\">\n  </div>\n</div>\n<hr class=\"my-6 h-px bg-dourado-600 border-0\" />\n\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.4ZJIZnGMahBynJ7S"
+    },
+    {
+      "sort": 47,
+      "name": "Homem Lagarto",
+      "type": "text",
+      "_id": "9dj0COXn9RroaqmU",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><div class=\"relative mx-auto p-4\">\n  \n  <p class=\"text-center\">\n    Humanoide, Médio e Caótico\n    \n      ◆\n      Planícies e Pântanos\n    \n  </p>\n  \n  <p class=\"text-center italic\">\n    Selvagens reptilianos. Atacam de forma desordenada com lanças e fundas, devastando povoados.\n  </p>\n  \n  \n  \n  \n  <div class=\"grid grid-cols-2 text-center md:mx-10 xl:mx-20\">\n    <div>\n      <strong>Encontro</strong>\n      <em>\n        2d4\n        \n          (6d6)\n        \n      </em>\n    </div>\n    <div>\n      <strong>Experiência</strong>\n      <em>\n        35XP\n      </em>\n    </div>\n    <div>\n      <strong>Tesouro</strong>\n      <em>\n        P\n        \n          (J)\n        \n      </em>\n    </div>\n    <div>\n      <strong>Movimento</strong>\n      <em>\n        9, 6N\n      </em>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"flex justify-between text-center md:mx-10 xl:mx-20\">\n    <div class=\"basis-1/4\">\n      <div><strong>DV [PV]</strong></div>\n      <div><em>2+1 [11]</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>CA</strong></div>\n      <div><em>15</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>JP</strong></div>\n      <div><em>5</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>MO</strong></div>\n      <div><em>8</em></div>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"mb-6 md:mx-10 xl:mx-20\">\n    \n      <div>1 × garra + 2 (1d4)</div>\n    \n      <div>1 × arma + 2 (arma)</div>\n    \n  </div>\n  \n  <div>\n    <ul>\n  <li><strong>Lutar até morrer</strong>: quando encurralados, recebem +1 no ataque e dano até o fim do combate.</li>\n</ul>\n\n  </div>\n  \n  \n  <div data-controller=\"linker\" data-linker-url-value=\"/monstros/homem-lagarto\" data-linker-text-value=\"Homem lagarto\" data-linker-link-class=\"absolute text-sm -top-6 right-0\">\n  </div>\n</div>\n<hr class=\"my-6 h-px bg-dourado-600 border-0\" />\n\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.9dj0COXn9RroaqmU"
+    },
+    {
+      "sort": 48,
+      "name": "Homúnculo",
+      "type": "text",
+      "_id": "eFaw72C1bjyCMqZ5",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><div class=\"relative mx-auto p-4\">\n  \n  <p class=\"text-center\">\n    Constructo, Miúdo e Neutro\n    \n      ◆\n      Qualquer\n    \n  </p>\n  \n  <p class=\"text-center italic\">\n    Constructo humanoide usado por magos para serviços como envio de mensagens, vigilância ou espionagem.\n  </p>\n  \n  \n  \n  \n  <div class=\"grid grid-cols-2 text-center md:mx-10 xl:mx-20\">\n    <div>\n      <strong>Encontro</strong>\n      <em>\n        1\n        \n          (1)\n        \n      </em>\n    </div>\n    <div>\n      <strong>Experiência</strong>\n      <em>\n        50XP\n      </em>\n    </div>\n    <div>\n      <strong>Tesouro</strong>\n      <em>\n        -\n        \n      </em>\n    </div>\n    <div>\n      <strong>Movimento</strong>\n      <em>\n        6, 15V\n      </em>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"flex justify-between text-center md:mx-10 xl:mx-20\">\n    <div class=\"basis-1/4\">\n      <div><strong>DV [PV]</strong></div>\n      <div><em>2 [10]</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>CA</strong></div>\n      <div><em>15</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>JP</strong></div>\n      <div><em>5</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>MO</strong></div>\n      <div><em>9</em></div>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"mb-6 md:mx-10 xl:mx-20\">\n    \n      <div>1 × mordida + 2 (1d3 + veneno )</div>\n    \n  </div>\n  \n  <div>\n    <ul>\n  <li>\n    <p><strong>Veneno</strong>: qualquer criatura mordida pelo Homúnculo deve ser bem-sucedida em uma JPC para evitar os efeitos soníferos de seu veneno por 1d3 turnos. O veneno começa a fazer efeito 1d6+5 rodadas após a mordida.</p>\n  </li>\n  <li>\n    <p><strong>Vínculo</strong>: o processo de criação do Homúnculo cria um elo telepático permanente com seu criador o qual consegue ver, ouvir, sentir e entender tudo o que o Homúnculo está vendo, ouvindo, sentindo e entendendo.</p>\n  </li>\n  <li>\n    <p><strong>Imunidades</strong>: um Homúnculo não é atingido por ataques que necessitem de um alvo vivo (como gases, venenos ou magias mentais como ilusões, ou demais formas mágicas de interferir na mente de seres vivos).</p>\n  </li>\n</ul>\n\n  </div>\n  \n  \n  <div data-controller=\"linker\" data-linker-url-value=\"/monstros/homunculo\" data-linker-text-value=\"Homúnculo\" data-linker-link-class=\"absolute text-sm -top-6 right-0\">\n  </div>\n</div>\n<hr class=\"my-6 h-px bg-dourado-600 border-0\" />\n\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.eFaw72C1bjyCMqZ5"
+    },
+    {
+      "sort": 49,
+      "name": "Insetos Gigantes",
+      "type": "text",
+      "_id": "rPaIFLMIps0dSOF5",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<p>Insetos gigantes são criaturas gigantes das suas versões comuns, como as encontradas aqui no nosso mundo. Todas estas criaturas estão listadas aqui por serem versões não mágicas e naturais do ambiente, e que podem ser encontradas (ou já terem sido encontradas) no nosso mundo ou no nosso planeta em outras eras.</p>\n\n<p>Estamos falando dos insetos comuns conhecidos por nós: aranhas, moscas, besouros, formigas, etc., mas em suas versões gigantes e monstruosas. Ou seja, muito mais desafiadores.</p>\n\n<h3 id=\"aranha-camufladora-gigante\">Aranha Camufladora Gigante</h3>\n<div class=\"relative mx-auto p-4\">\n  \n  <p class=\"text-center\">\n    Inseto, Médio e Neutro\n    \n      ◆\n      Florestas\n    \n  </p>\n  \n  <p class=\"text-center italic\">\n    Estas terríveis aranhas são capazes de se camuflar para atacar suas presas de surpresa.\n  </p>\n  \n  \n  \n  \n  <div class=\"grid grid-cols-2 text-center md:mx-10 xl:mx-20\">\n    <div>\n      <strong>Encontro</strong>\n      <em>\n        1d4\n        \n          (1d4)\n        \n      </em>\n    </div>\n    <div>\n      <strong>Experiência</strong>\n      <em>\n        50XP\n      </em>\n    </div>\n    <div>\n      <strong>Tesouro</strong>\n      <em>\n        -\n        \n      </em>\n    </div>\n    <div>\n      <strong>Movimento</strong>\n      <em>\n        9\n      </em>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"flex justify-between text-center md:mx-10 xl:mx-20\">\n    <div class=\"basis-1/4\">\n      <div><strong>DV [PV]</strong></div>\n      <div><em>2 [10]</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>CA</strong></div>\n      <div><em>12</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>JP</strong></div>\n      <div><em>5</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>MO</strong></div>\n      <div><em>7</em></div>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"mb-6 md:mx-10 xl:mx-20\">\n    \n      <div>1 × mordida + 3 (1d8 + veneno)</div>\n    \n  </div>\n  \n  <div>\n    <ul>\n  <li><strong>Veneno</strong>: causa morte em 1d3+1 turnos em caso de falha em uma JPC.</li>\n  <li><strong>Surpresa</strong>: surpreende seus inimigos com um resultado de 1 a 4 em 1d6 devido sua camuflagem.</li>\n</ul>\n\n  </div>\n  \n  \n  <div data-controller=\"linker\" data-linker-url-value=\"/monstros/aranha-camufladora-gigante\" data-linker-text-value=\"Aranha camufladora gigante\" data-linker-link-class=\"absolute text-sm -top-6 right-0\">\n  </div>\n</div>\n<hr class=\"my-6 h-px bg-dourado-600 border-0\" />\n\n<h3 id=\"aranha-negra-gigante\">Aranha Negra Gigante</h3>\n<div class=\"relative mx-auto p-4\">\n  \n  <p class=\"text-center\">\n    Inseto, Médio e Neutro\n    \n      ◆\n      Florestas e Subterrâneos\n    \n  </p>\n  \n  <p class=\"text-center italic\">\n    Aranha tecedora de teias gigantescas. É feroz e uma exímia caçadora das florestas e subterrâneos.\n  </p>\n  \n  \n  \n  \n  <div class=\"grid grid-cols-2 text-center md:mx-10 xl:mx-20\">\n    <div>\n      <strong>Encontro</strong>\n      <em>\n        1d4\n        \n          (1d4)\n        \n      </em>\n    </div>\n    <div>\n      <strong>Experiência</strong>\n      <em>\n        95XP\n      </em>\n    </div>\n    <div>\n      <strong>Tesouro</strong>\n      <em>\n        -\n        \n      </em>\n    </div>\n    <div>\n      <strong>Movimento</strong>\n      <em>\n        6, 9E\n      </em>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"flex justify-between text-center md:mx-10 xl:mx-20\">\n    <div class=\"basis-1/4\">\n      <div><strong>DV [PV]</strong></div>\n      <div><em>3 [15]</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>CA</strong></div>\n      <div><em>13</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>JP</strong></div>\n      <div><em>6</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>MO</strong></div>\n      <div><em>8</em></div>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"mb-6 md:mx-10 xl:mx-20\">\n    \n      <div>1 × picada + 4(2d6 + veneno)</div>\n    \n  </div>\n  \n  <div>\n    <ul>\n  <li><strong>Veneno</strong>: causa morte em 1d4+1 turnos em caso de falha em uma JPC.</li>\n  <li><strong>Teia</strong>: criaturas presas na teia são considerados alvos enredados e incapazes de se mover até serem bem-sucedidos em um teste de Força Difícil.</li>\n</ul>\n\n  </div>\n  \n  \n  <div data-controller=\"linker\" data-linker-url-value=\"/monstros/aranha-negra-gigante\" data-linker-text-value=\"Aranha negra gigante\" data-linker-link-class=\"absolute text-sm -top-6 right-0\">\n  </div>\n</div>\n<hr class=\"my-6 h-px bg-dourado-600 border-0\" />\n\n<h3 id=\"aranha-cacadora-gigante\">Aranha Caçadora Gigante</h3>\n<div class=\"relative mx-auto p-4\">\n  \n  <p class=\"text-center\">\n    Inseto, Grande e Neutro\n    \n      ◆\n      Subterrâneos\n    \n  </p>\n  \n  <p class=\"text-center italic\">\n    Essa monstruosa caçadora peluda vive em tocas escondidas, só saindo para ir atrás de suas presas.\n  </p>\n  \n  \n  \n  \n  <div class=\"grid grid-cols-2 text-center md:mx-10 xl:mx-20\">\n    <div>\n      <strong>Encontro</strong>\n      <em>\n        1d3\n        \n          (1d3)\n        \n      </em>\n    </div>\n    <div>\n      <strong>Experiência</strong>\n      <em>\n        150XP\n      </em>\n    </div>\n    <div>\n      <strong>Tesouro</strong>\n      <em>\n        -\n        \n      </em>\n    </div>\n    <div>\n      <strong>Movimento</strong>\n      <em>\n        9\n      </em>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"flex justify-between text-center md:mx-10 xl:mx-20\">\n    <div class=\"basis-1/4\">\n      <div><strong>DV [PV]</strong></div>\n      <div><em>4 [20]</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>CA</strong></div>\n      <div><em>14</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>JP</strong></div>\n      <div><em>6</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>MO</strong></div>\n      <div><em>8</em></div>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"mb-6 md:mx-10 xl:mx-20\">\n    \n      <div>1 × ferrão + 4 (1d8 + veneno)</div>\n    \n  </div>\n  \n  <div>\n    <ul>\n  <li><strong>Veneno</strong>: causa morte em 1d3 turnos em caso de falha em uma JPC.</li>\n</ul>\n\n  </div>\n  \n  \n  <div data-controller=\"linker\" data-linker-url-value=\"/monstros/aranha-cacadora-gigante\" data-linker-text-value=\"Aranha caçadora gigante\" data-linker-link-class=\"absolute text-sm -top-6 right-0\">\n  </div>\n</div>\n<hr class=\"my-6 h-px bg-dourado-600 border-0\" />\n\n<h3 id=\"besouro-de-fogo-gigante\">Besouro de Fogo Gigante</h3>\n<div class=\"relative mx-auto p-4\">\n  \n  <p class=\"text-center\">\n    Inseto, Grande e Neutro\n    \n      ◆\n      Subterrâneos\n    \n  </p>\n  \n  <p class=\"text-center italic\">\n    Usados por criaturas do subterrâneo como montarias por conta da luz que emanam de seu corpo.\n  </p>\n  \n  \n  \n  \n  <div class=\"grid grid-cols-2 text-center md:mx-10 xl:mx-20\">\n    <div>\n      <strong>Encontro</strong>\n      <em>\n        1d8\n        \n          (2d6)\n        \n      </em>\n    </div>\n    <div>\n      <strong>Experiência</strong>\n      <em>\n        15XP\n      </em>\n    </div>\n    <div>\n      <strong>Tesouro</strong>\n      <em>\n        -\n        \n      </em>\n    </div>\n    <div>\n      <strong>Movimento</strong>\n      <em>\n        9\n      </em>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"flex justify-between text-center md:mx-10 xl:mx-20\">\n    <div class=\"basis-1/4\">\n      <div><strong>DV [PV]</strong></div>\n      <div><em>1+2 [7]</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>CA</strong></div>\n      <div><em>16</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>JP</strong></div>\n      <div><em>5</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>MO</strong></div>\n      <div><em>7</em></div>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"mb-6 md:mx-10 xl:mx-20\">\n    \n      <div>1 × mordida +1 (2d4)</div>\n    \n  </div>\n  \n  <div>\n    \n  </div>\n  \n  \n  <div data-controller=\"linker\" data-linker-url-value=\"/monstros/besouro-de-fogo-gigante\" data-linker-text-value=\"Besouro de fogo gigante\" data-linker-link-class=\"absolute text-sm -top-6 right-0\">\n  </div>\n</div>\n<hr class=\"my-6 h-px bg-dourado-600 border-0\" />\n\n<h3 id=\"besouro-bombardeiro-gigante\">Besouro Bombardeiro Gigante</h3>\n<div class=\"relative mx-auto p-4\">\n  \n  <p class=\"text-center\">\n    Inseto, Grande e Neutro\n    \n      ◆\n      Florestas\n    \n  </p>\n  \n  <p class=\"text-center italic\">\n    Estes besouros das florestas atacam suas vítimas lançando um terrível spray de vapores tóxicos.\n  </p>\n  \n  \n  \n  \n  <div class=\"grid grid-cols-2 text-center md:mx-10 xl:mx-20\">\n    <div>\n      <strong>Encontro</strong>\n      <em>\n        1d6\n        \n          (2d4)\n        \n      </em>\n    </div>\n    <div>\n      <strong>Experiência</strong>\n      <em>\n        35XP\n      </em>\n    </div>\n    <div>\n      <strong>Tesouro</strong>\n      <em>\n        -\n        \n      </em>\n    </div>\n    <div>\n      <strong>Movimento</strong>\n      <em>\n        9\n      </em>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"flex justify-between text-center md:mx-10 xl:mx-20\">\n    <div class=\"basis-1/4\">\n      <div><strong>DV [PV]</strong></div>\n      <div><em>2 [10]</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>CA</strong></div>\n      <div><em>16</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>JP</strong></div>\n      <div><em>5</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>MO</strong></div>\n      <div><em>8</em></div>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"mb-6 md:mx-10 xl:mx-20\">\n    \n      <div>1 × mordida + 2 (1d6)</div>\n    \n  </div>\n  \n  <div>\n    <ul>\n  <li><strong>Spray Cáustico</strong>: oponentes a até 3 metros, que falharem em uma JPD são atingidos pelo spray de vapores, ajustando nas próximas 24 horas, os ataques como difíceis.</li>\n</ul>\n\n  </div>\n  \n  \n  <div data-controller=\"linker\" data-linker-url-value=\"/monstros/besouro-bombardeiro-gigante\" data-linker-text-value=\"Besouro bombardeiro gigante\" data-linker-link-class=\"absolute text-sm -top-6 right-0\">\n  </div>\n</div>\n<hr class=\"my-6 h-px bg-dourado-600 border-0\" />\n\n<h3 id=\"centopeia-gigante\">Centopéia Gigante</h3>\n<div class=\"relative mx-auto p-4\">\n  \n  <p class=\"text-center\">\n    Inseto, Grande e Neutro\n    \n      ◆\n      Subterrâneos\n    \n  </p>\n  \n  <p class=\"text-center italic\">\n    Esta criatura feroz dos subterrâneos usa seu tamanho e mobilidade para desferir seus venenos em suas vítimas.\n  </p>\n  \n  \n  \n  \n  <div class=\"grid grid-cols-2 text-center md:mx-10 xl:mx-20\">\n    <div>\n      <strong>Encontro</strong>\n      <em>\n        1d4\n        \n          (2d4)\n        \n      </em>\n    </div>\n    <div>\n      <strong>Experiência</strong>\n      <em>\n        50XP\n      </em>\n    </div>\n    <div>\n      <strong>Tesouro</strong>\n      <em>\n        -\n        \n      </em>\n    </div>\n    <div>\n      <strong>Movimento</strong>\n      <em>\n        12, 9E\n      </em>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"flex justify-between text-center md:mx-10 xl:mx-20\">\n    <div class=\"basis-1/4\">\n      <div><strong>DV [PV]</strong></div>\n      <div><em>2 [10]</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>CA</strong></div>\n      <div><em>15</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>JP</strong></div>\n      <div><em>5</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>MO</strong></div>\n      <div><em>9</em></div>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"mb-6 md:mx-10 xl:mx-20\">\n    \n      <div>1 × mordida + 2 (1d6 + veneno)</div>\n    \n  </div>\n  \n  <div>\n    <ul>\n  <li><strong>Veneno</strong>: causa a perda de 1d4+2 pontos de Constituição em caso de falha em uma JPC.</li>\n</ul>\n\n  </div>\n  \n  \n  <div data-controller=\"linker\" data-linker-url-value=\"/monstros/centopeia-gigante\" data-linker-text-value=\"Centopeia gigante\" data-linker-link-class=\"absolute text-sm -top-6 right-0\">\n  </div>\n</div>\n<hr class=\"my-6 h-px bg-dourado-600 border-0\" />\n\n<h3 id=\"escorpiao-gigante\">Escorpião Gigante</h3>\n<div class=\"relative mx-auto p-4\">\n  \n  <p class=\"text-center\">\n    Inseto, Grande e Neutro\n    \n      ◆\n      Desertos e Planícies\n    \n  </p>\n  \n  <p class=\"text-center italic\">\n    Estes aracnídeos ferozes e encouraçados virem nos desertos e planícies caçando suas presas.\n  </p>\n  \n  \n  \n  \n  <div class=\"grid grid-cols-2 text-center md:mx-10 xl:mx-20\">\n    <div>\n      <strong>Encontro</strong>\n      <em>\n        1d6\n        \n          (1d6)\n        \n      </em>\n    </div>\n    <div>\n      <strong>Experiência</strong>\n      <em>\n        150XP\n      </em>\n    </div>\n    <div>\n      <strong>Tesouro</strong>\n      <em>\n        -\n        \n      </em>\n    </div>\n    <div>\n      <strong>Movimento</strong>\n      <em>\n        9\n      </em>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"flex justify-between text-center md:mx-10 xl:mx-20\">\n    <div class=\"basis-1/4\">\n      <div><strong>DV [PV]</strong></div>\n      <div><em>4 [20]</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>CA</strong></div>\n      <div><em>18</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>JP</strong></div>\n      <div><em>6</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>MO</strong></div>\n      <div><em>11</em></div>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"mb-6 md:mx-10 xl:mx-20\">\n    \n      <div>2 × pinças + 4 (1d10)</div>\n    \n      <div>1 × ferrão + 4 (1d4 + veneno)</div>\n    \n  </div>\n  \n  <div>\n    <ul>\n  <li><strong>Veneno</strong>: causa morte em 1d3+1 turnos em caso de falha em uma JPC.</li>\n</ul>\n\n  </div>\n  \n  \n  <div data-controller=\"linker\" data-linker-url-value=\"/monstros/escorpiao-gigante\" data-linker-text-value=\"Escorpião gigante\" data-linker-link-class=\"absolute text-sm -top-6 right-0\">\n  </div>\n</div>\n<hr class=\"my-6 h-px bg-dourado-600 border-0\" />\n\n<h3 id=\"formiga-gigante\">Formiga Gigante</h3>\n<div class=\"relative mx-auto p-4\">\n  \n  <p class=\"text-center\">\n    Inseto, Médio e Neutro\n    \n      ◆\n      Florestas, Pântanos, Planícies e Subterrâneos\n    \n  </p>\n  \n  <p class=\"text-center italic\">\n    Estas formigas gigantes podem ser encontradas em qualquer ambiente e são perigosas quando famintas.\n  </p>\n  \n  \n  \n  \n  <div class=\"grid grid-cols-2 text-center md:mx-10 xl:mx-20\">\n    <div>\n      <strong>Encontro</strong>\n      <em>\n        2d4\n        \n          (4d6)\n        \n      </em>\n    </div>\n    <div>\n      <strong>Experiência</strong>\n      <em>\n        125XP\n      </em>\n    </div>\n    <div>\n      <strong>Tesouro</strong>\n      <em>\n        -\n        \n      </em>\n    </div>\n    <div>\n      <strong>Movimento</strong>\n      <em>\n        12\n      </em>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"flex justify-between text-center md:mx-10 xl:mx-20\">\n    <div class=\"basis-1/4\">\n      <div><strong>DV [PV]</strong></div>\n      <div><em>4 [20]</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>CA</strong></div>\n      <div><em>17</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>JP</strong></div>\n      <div><em>6</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>MO</strong></div>\n      <div><em>12</em></div>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"mb-6 md:mx-10 xl:mx-20\">\n    \n      <div>1 × mordida + 2 (2d6 )</div>\n    \n  </div>\n  \n  <div>\n    \n  </div>\n  \n  \n  <div data-controller=\"linker\" data-linker-url-value=\"/monstros/formiga-gigante\" data-linker-text-value=\"Formiga gigante\" data-linker-link-class=\"absolute text-sm -top-6 right-0\">\n  </div>\n</div>\n<hr class=\"my-6 h-px bg-dourado-600 border-0\" />\n\n<h3 id=\"vespa-gigante\">Vespa Gigante</h3>\n<div class=\"relative mx-auto p-4\">\n  \n  <p class=\"text-center\">\n    Inseto, Médio e Neutro\n    \n      ◆\n      Florestas\n    \n  </p>\n  \n  <p class=\"text-center italic\">\n    Insetos ainda mais agressivos que as abelhas, criam tocas em florestas densas e nos subterrâneos\n  </p>\n  \n  \n  \n  \n  <div class=\"grid grid-cols-2 text-center md:mx-10 xl:mx-20\">\n    <div>\n      <strong>Encontro</strong>\n      <em>\n        1d4\n        \n          (2d4)\n        \n      </em>\n    </div>\n    <div>\n      <strong>Experiência</strong>\n      <em>\n        175XP\n      </em>\n    </div>\n    <div>\n      <strong>Tesouro</strong>\n      <em>\n        -\n        \n      </em>\n    </div>\n    <div>\n      <strong>Movimento</strong>\n      <em>\n        18V\n      </em>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"flex justify-between text-center md:mx-10 xl:mx-20\">\n    <div class=\"basis-1/4\">\n      <div><strong>DV [PV]</strong></div>\n      <div><em>4 [20]</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>CA</strong></div>\n      <div><em>17</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>JP</strong></div>\n      <div><em>6</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>MO</strong></div>\n      <div><em>8</em></div>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"mb-6 md:mx-10 xl:mx-20\">\n    \n      <div>1 × ferrão + 4 (2d4 + veneno)</div>\n    \n  </div>\n  \n  <div>\n    <ul>\n  <li><strong>Veneno</strong>: causa a perda de 1d4+2 pontos de Constituição em caso de falha em uma JPC.</li>\n</ul>\n\n  </div>\n  \n  \n  <div data-controller=\"linker\" data-linker-url-value=\"/monstros/vespa-gigante\" data-linker-text-value=\"Vespa gigante\" data-linker-link-class=\"absolute text-sm -top-6 right-0\">\n  </div>\n</div>\n<hr class=\"my-6 h-px bg-dourado-600 border-0\" />\n\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.rPaIFLMIps0dSOF5"
+    },
+    {
+      "sort": 50,
+      "name": "Inumano",
+      "type": "text",
+      "_id": "hcBC5zQPI9eBGyk6",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><div class=\"relative mx-auto p-4\">\n  \n  <p class=\"text-center\">\n    Morto-Vivo, Médio e Caótico\n    \n      ◆\n      Qualquer\n    \n  </p>\n  \n  <p class=\"text-center italic\">\n    Cadáveres ambulantes possuídos por espíritos malignos. Usam sua forma física para aterrorizar os mortais.\n  </p>\n  \n  \n  \n  \n  <div class=\"grid grid-cols-2 text-center md:mx-10 xl:mx-20\">\n    <div>\n      <strong>Encontro</strong>\n      <em>\n        1d6\n        \n          (1d8)\n        \n      </em>\n    </div>\n    <div>\n      <strong>Experiência</strong>\n      <em>\n        150XP\n      </em>\n    </div>\n    <div>\n      <strong>Tesouro</strong>\n      <em>\n        P\n        \n      </em>\n    </div>\n    <div>\n      <strong>Movimento</strong>\n      <em>\n        9\n      </em>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"flex justify-between text-center md:mx-10 xl:mx-20\">\n    <div class=\"basis-1/4\">\n      <div><strong>DV [PV]</strong></div>\n      <div><em>4 [20]</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>CA</strong></div>\n      <div><em>14</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>JP</strong></div>\n      <div><em>7</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>MO</strong></div>\n      <div><em>8</em></div>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"mb-6 md:mx-10 xl:mx-20\">\n    \n      <div>1 × garra + 4 (1d4 + 1 + dreno)</div>\n    \n  </div>\n  \n  <div>\n    <ul>\n  <li>\n    <p><strong>Silencioso</strong>: não produz som algum ao movimentar- se e se mantêm silencioso até atacar.</p>\n  </li>\n  <li>\n    <p><strong>Morto-vivo</strong>: imune a frio, magias mentais de manipulação, controle ou ilusão ou demais formas mágicas de interferir na mente de seres vivos. Sofre 1d6 de dano ácido por frasco de água benta.</p>\n  </li>\n  <li>\n    <p><strong>Imunidades</strong>: além das imunidades comuns aos mortos-vivos, Inumanos são feridos apenas por magia e armas mágicas ou de prata.</p>\n  </li>\n  <li>\n    <p><strong>Dreno</strong>: o ataque de um Inumano, além do dano normal, drena 1 nível do alvo caso este não passe em uma JPC. Um alvo que tenha todos os seus níveis drenados assim retorna como um Inumano sob controle do Inumano que o criou.</p>\n  </li>\n  <li>\n    <p><strong>Inabalável</strong>: mortos-vivos não fazem testes de moral, a não ser quando sofrem o efeito de um Afastar Mortos-Vivos.</p>\n  </li>\n</ul>\n\n  </div>\n  \n  \n  <div data-controller=\"linker\" data-linker-url-value=\"/monstros/inumano\" data-linker-text-value=\"Inumano\" data-linker-link-class=\"absolute text-sm -top-6 right-0\">\n  </div>\n</div>\n<hr class=\"my-6 h-px bg-dourado-600 border-0\" />\n\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.hcBC5zQPI9eBGyk6"
+    },
+    {
+      "sort": 51,
+      "name": "Kawamung",
+      "type": "text",
+      "_id": "j488GBSn6vf52ixO",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><div class=\"relative mx-auto p-4\">\n  \n  <p class=\"text-center\">\n    Gigante, Grande e Caótico\n    \n      ◆\n      Qualquer\n    \n  </p>\n  \n  <p class=\"text-center italic\">\n    Guerreiros conquistadores que expandem seus impérios com o trabalho de escravos.\n  </p>\n  \n  \n  \n  \n  <div class=\"grid grid-cols-2 text-center md:mx-10 xl:mx-20\">\n    <div>\n      <strong>Encontro</strong>\n      <em>\n        1d4\n        \n          (2d4)\n        \n      </em>\n    </div>\n    <div>\n      <strong>Experiência</strong>\n      <em>\n        150XP\n      </em>\n    </div>\n    <div>\n      <strong>Tesouro</strong>\n      <em>\n        T\n        \n          (D)\n        \n      </em>\n    </div>\n    <div>\n      <strong>Movimento</strong>\n      <em>\n        9\n      </em>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"flex justify-between text-center md:mx-10 xl:mx-20\">\n    <div class=\"basis-1/4\">\n      <div><strong>DV [PV]</strong></div>\n      <div><em>4+4 [20]</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>CA</strong></div>\n      <div><em>16</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>JP</strong></div>\n      <div><em>7</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>MO</strong></div>\n      <div><em>11</em></div>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"mb-6 md:mx-10 xl:mx-20\">\n    \n      <div>2 × pancadas + 3 (2d4 + 3)</div>\n    \n      <div>1 × chifre + 2 (1d4 + 2)</div>\n    \n      <div>1 × arma + 6 (1d8 + 4)</div>\n    \n  </div>\n  \n  <div>\n    <ul>\n  <li>\n    <p><strong>Empalar</strong>: ao tirar o dano máximo com o chifre, o personagem receberá 12 pontos de dano a mais e ficará preso ao chifre. Uma JPD anula metade do dano e ficar preso no chifre.  O Kawamung recebe uma penalidade de -2 em seu CA contra o personagem empalado.</p>\n  </li>\n  <li>\n    <p><strong>Golpe Potente</strong>: se causar, com uma pancada, chifre ou arma, uma quantidade de dano maior do que a força do alvo, este é arremessado 1d4 metros para trás.</p>\n  </li>\n</ul>\n\n  </div>\n  \n  \n  <div data-controller=\"linker\" data-linker-url-value=\"/monstros/kawamung\" data-linker-text-value=\"Kawamung\" data-linker-link-class=\"absolute text-sm -top-6 right-0\">\n  </div>\n</div>\n<hr class=\"my-6 h-px bg-dourado-600 border-0\" />\n\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.j488GBSn6vf52ixO"
+    },
+    {
+      "sort": 52,
+      "name": "Kobold",
+      "type": "text",
+      "_id": "RFJv4uzWsMhtkG9Y",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><div class=\"relative mx-auto p-4\">\n  \n  <p class=\"text-center\">\n    Humanoide, Pequeno e Caótico\n    \n      ◆\n      Colinas, Montanhas e Subterrâneos\n    \n  </p>\n  \n  <p class=\"text-center italic\">\n    Humanoides pequenos e covardes que armam armadilhas para surpreenderem seus adversários.\n  </p>\n  \n  \n  \n  \n  <div class=\"grid grid-cols-2 text-center md:mx-10 xl:mx-20\">\n    <div>\n      <strong>Encontro</strong>\n      <em>\n        4d4\n        \n          (6d10)\n        \n      </em>\n    </div>\n    <div>\n      <strong>Experiência</strong>\n      <em>\n        5XP\n      </em>\n    </div>\n    <div>\n      <strong>Tesouro</strong>\n      <em>\n        P\n        \n          (C)\n        \n      </em>\n    </div>\n    <div>\n      <strong>Movimento</strong>\n      <em>\n        6\n      </em>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"flex justify-between text-center md:mx-10 xl:mx-20\">\n    <div class=\"basis-1/4\">\n      <div><strong>DV [PV]</strong></div>\n      <div><em>½ [2]</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>CA</strong></div>\n      <div><em>12</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>JP</strong></div>\n      <div><em>4</em></div>\n    </div>\n    <div class=\"basis-1/4\">\n      <div><strong>MO</strong></div>\n      <div><em>5</em></div>\n    </div>\n  </div>\n  <hr class=\"my-2 h-px bg-dourado-600 border-0 md:mx-10 xl:mx-20\" />\n  \n  <div class=\"mb-6 md:mx-10 xl:mx-20\">\n    \n      <div>2 × mordidas + 1 (1d4)</div>\n    \n      <div>1 × arma + 0 (arma)</div>\n    \n  </div>\n  \n  <div>\n    <ul>\n  <li><strong>Infravisão</strong>: 18 metros.</li>\n</ul>\n\n  </div>\n  \n  \n  <div data-controller=\"linker\" data-linker-url-value=\"/monstros/kobold\" data-linker-text-value=\"Kobold\" data-linker-link-class=\"absolute text-sm -top-6 right-0\">\n  </div>\n</div>\n<hr class=\"my-6 h-px bg-dourado-600 border-0\" />\n\n<p><a href=\"/livros/srd/capitulos/monstros-l-z\">Continue para com letras <strong>L</strong> em diante</a>.</p>\n\n<p><a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.pt_BR\" class=\"cc-by\" target=\"_blank\" rel=\"external\"><img src=\"https://static.olddragon.com.br/digital_items_srd/CC_BY-SA_icon.png\" alt=\"CC-BY\" /></a></p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.RFJv4uzWsMhtkG9Y"
+    }
+  ],
+  "flags": {},
+  "_stats": {
+    "systemId": "olddragon2e",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1698721200000,
+    "modifiedTime": 1702782000000,
+    "lastModifiedBy": "enzpVKIAX52oTyPe"
+  },
+  "sort": 11,
+  "ownership": {
+    "default": 0,
+    "enzpVKIAX52oTyPe": 3
+  },
+  "_key": "!journal!DnOfH23Kpu9L7gi1"
+}

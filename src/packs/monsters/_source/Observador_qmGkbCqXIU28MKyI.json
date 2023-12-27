@@ -1,0 +1,123 @@
+{
+  "name": "Observador",
+  "type": "monster",
+  "_id": "qmGkbCqXIU28MKyI",
+  "img": "systems/olddragon2e/assets/monsters-concepts/besta-grande.webp",
+  "system": {
+    "odo_id": "observador",
+    "flavor": "Grande esfera ardilosa. Possui vários olhos, cada um com um poder diferente.",
+    "concept": "Besta",
+    "size": "grande",
+    "alignment": "ordeiro",
+    "variant": false,
+    "description": "<ul>\n  <li>\n    <p><strong>Atento</strong>: só pode ser surpreendido com um resultado 1 em 1d6.</p>\n  </li>\n  <li>\n    <p><strong>Resistência à magia</strong>: qualquer magia lançada contra o Observador possui 1-2 chances em 1d6 de ser completamente ignorada.</p>\n  </li>\n  <li>\n    <p><strong>Olho central</strong>: capaz de anular qualquer efeito mágico (seja de itens, poderes ou habilidades mágicas). Basta o alvo estar dentro de um arco de 90º da visão do olho central para sofrer o efeito.</p>\n  </li>\n  <li>\n    <p><strong>Olhos secundários</strong>: cada um possui uma função, e apenas 3 podem usar suas habilidades ao mesmo tempo (apesar de enxergarem o tempo todo). As habilidades funcionam como se fossem usadas por um personagem de 10º nível. São elas:</p>\n  </li>\n</ul>\n\n<p><strong>1</strong>. Sono;</p>\n\n<p><strong>2</strong>. Enfeitiçar Pessoas;</p>\n\n<p><strong>3</strong>. Aterrorizar;</p>\n\n<p><strong>4</strong>. Detectar Invisibilidade;</p>\n\n<p><strong>5</strong>. Lentidão;</p>\n\n<p><strong>6</strong>. Magia da Morte;</p>\n\n<p><strong>7</strong>. Telecinesia;</p>\n\n<p><strong>8</strong>. Imobilizar Pessoas;</p>\n\n<p><strong>9</strong>. Ilusão;</p>\n\n<p><strong>10</strong>. Confusão.</p>\n",
+    "described_attacks": "<ul>\n  <li>1 × mordida + 4 (1d6 + 3)</li>\n</ul>\n",
+    "encounters": "1",
+    "encounters_lair": "1",
+    "xp": "1900",
+    "treasure": "",
+    "treasure_lair": "a",
+    "mv": "6",
+    "mvc": "",
+    "mve": "",
+    "mvn": "",
+    "mvv": "",
+    "mvo": "",
+    "dv": "11",
+    "dv_bonus": "+10",
+    "pv": "65",
+    "ca": "18",
+    "jp": "14",
+    "mo": "10",
+    "url": "",
+    "habitat": "Subterrâneos",
+    "hp": {
+      "value": "65",
+      "max": "65"
+    }
+  },
+  "prototypeToken": {
+    "name": "Observador",
+    "displayName": 20,
+    "actorLink": false,
+    "appendNumber": false,
+    "prependAdjective": false,
+    "texture": {
+      "src": "systems/olddragon2e/assets/monsters-concepts/besta-grande.webp",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0
+    },
+    "width": 2,
+    "height": 2,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": -1,
+    "displayBars": 40,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "light": {
+      "color": null,
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "sight": {
+      "enabled": false,
+      "range": 0,
+      "angle": 360,
+      "visionMode": "basic",
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": [],
+    "flags": {},
+    "randomImg": false
+  },
+  "items": [],
+  "effects": [],
+  "folder": "8gdK9MBNzpaboPvc",
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "olddragon2e",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1698721200000,
+    "modifiedTime": 1702782000000,
+    "lastModifiedBy": "enzpVKIAX52oTyPe"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "enzpVKIAX52oTyPe": 3
+  },
+  "_key": "!actors!qmGkbCqXIU28MKyI"
+}

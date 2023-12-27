@@ -1,0 +1,37 @@
+{
+  "folder": "8lXrqX2bZWLr3ri1",
+  "name": "Respirar na Água",
+  "type": "spell",
+  "_id": "EekiD6gDREZa3zN2",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "odo_id": "respirar-na-agua",
+    "school": "arcane",
+    "circle": "1",
+    "arcane": "2",
+    "divine": "null",
+    "necromancer": "null",
+    "illusionist": "null",
+    "reverse": false,
+    "range": "9 metros",
+    "duration": "24 horas",
+    "jp": "nenhuma",
+    "description": "<p>Todos os alvos dentro do alcance desta magia poderão respirar dentro da água pelas próximas 24 horas. Esta magia não afeta a capacidade das pessoas de respirar normalmente ao saírem da água e não confere qualquer habilidade para nadar ou se deslocar dentro da água.</p>\n"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "olddragon2e",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1698721200000,
+    "modifiedTime": 1702782000000,
+    "lastModifiedBy": "enzpVKIAX52oTyPe"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "enzpVKIAX52oTyPe": 3
+  },
+  "_key": "!items!EekiD6gDREZa3zN2"
+}

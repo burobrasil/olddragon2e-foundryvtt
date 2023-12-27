@@ -1,0 +1,92 @@
+{
+  "folder": null,
+  "name": "Introdução",
+  "_id": "l8eGwZDdIvFVTlFt",
+  "pages": [
+    {
+      "sort": 0,
+      "name": "Conhecendo os Dados",
+      "type": "text",
+      "_id": "18CZZZDSiS4ClZdc",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<p>Uma das características mais legais dos jogos de RPG são os dados diferentões e com muitos lados: d4 com quatro lados; d6, o comum conhecido por todos, com seis lados; d8 com oito lados; d10 com dez lados; d12 com doze lados e d20 com vinte lados.</p>\n\n<p>Para usá-los, é simples. Quando falamos em jogar <strong>1d8</strong>, pegue o d8 e lance-o na mesa. O resultado voltado para cima, é o resultado do dado. Mas, existem alguns dados nos quais encontrar o resultado pode ser um pouco mais complexo:</p>\n\n<p><strong>D100</strong>: é feita com uma jogada de dois dados de 10 faces, ou seja, <strong>2d10</strong>, onde, antes do lançamento, um d10 é escolhido para representar a <strong>dezena</strong> e o outro d10 para representar a unidade. Ao jogar 2d10 como um d100, se o dado da dezena marcar um 6 e o da unidade marcar um 3 o resultado do d100 é 63. Se a dezena marcar um 0 e unidade um 7, o resultado é 07. Se ambos marcam 0, o resultado é 100.</p>\n\n<p><strong>X em 1d6</strong>: ao se deparar com uma regra que diga “o personagem consegue com uma chance de 1-3 em 1d6”, significa que, ao jogar 1d6, você terá sucesso se obtiver um resultado 1, 2 ou 3; porém, se obtiver como resultado 4, 5 ou 6, terá falhado.</p>\n\n<p><strong>D2</strong>: mais raros de serem usados, este é o simples par-ou-ímpar no qual você joga qualquer dado. Se tirar ímpar, o resultado do dado é lido como 1; se tirar par, o resultado é lido como 2.</p>\n\n<p><strong>D3</strong>: igualmente raro, o d3 é lançado jogando 1d6. Resultados 1 e 2, significam um 1. Resultados 3 e 4, significam um 2. Resultados 5 ou 6, significam um 3.</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!l8eGwZDdIvFVTlFt.18CZZZDSiS4ClZdc"
+    },
+    {
+      "sort": 1,
+      "name": "Arredondamentos",
+      "type": "text",
+      "_id": "byEYfOij9MeNDZEM",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<p>Caso seja necessário fazer qualquer arredondamento de valores no sistema, e a regra específica não citar expressamente como fazê-lo, o padrão do sistema é arredondar para baixo, ignorando o arredondamento por aproximação. Um 3,5 vira um 3 e um 3,9 também é arredondado para 3.</p>\n\n<p><a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.pt_BR\" class=\"cc-by\" target=\"_blank\" rel=\"external\"><img src=\"https://static.olddragon.com.br/digital_items_srd/CC_BY-SA_icon.png\" alt=\"CC-BY\" /></a></p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!l8eGwZDdIvFVTlFt.byEYfOij9MeNDZEM"
+    }
+  ],
+  "flags": {},
+  "_stats": {
+    "systemId": "olddragon2e",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1698721200000,
+    "modifiedTime": 1702782000000,
+    "lastModifiedBy": "enzpVKIAX52oTyPe"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "enzpVKIAX52oTyPe": 3
+  },
+  "_key": "!journal!l8eGwZDdIvFVTlFt"
+}

@@ -1,0 +1,19 @@
+{
+  "folder": null,
+  "name": "Recipientes & Vasilhames",
+  "type": "Item",
+  "_id": "vUaRYqh0qGZgJ326",
+  "sorting": "a",
+  "sort": 0,
+  "color": "#FF8A4C",
+  "flags": {},
+  "_stats": {
+    "systemId": "olddragon2e",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1698721200000,
+    "modifiedTime": 1702782000000,
+    "lastModifiedBy": "enzpVKIAX52oTyPe"
+  },
+  "_key": "!folders!vUaRYqh0qGZgJ326"
+}

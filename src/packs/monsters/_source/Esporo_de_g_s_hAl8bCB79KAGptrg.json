@@ -1,0 +1,123 @@
+{
+  "name": "Esporo de gás",
+  "type": "monster",
+  "_id": "hAl8bCB79KAGptrg",
+  "img": "systems/olddragon2e/assets/monsters-concepts/planta-medio.webp",
+  "system": {
+    "odo_id": "esporo-de-gas",
+    "flavor": "Estes fungos em forma de bola de gás flutuam e, pela sua aparência, são confundidos com Observadores.",
+    "concept": "Planta",
+    "size": "medio",
+    "alignment": "neutro",
+    "variant": false,
+    "description": "<ul>\n  <li>\n    <p><strong>Esporos</strong>: quando um alvo chega a até 6 metros de distância de um Esporo de Gás, este lança uma nuvem de esporos contagiosos os quais aderem a tudo o que tocam. Cada vítima tocada por estes esporos deve ser bem-sucedida em uma JPC ou será infectada.  Estes esporos crescem dentro do hospedeiro, levando-o a morte em 1d6 dias ao fazer com que seu corpo exploda. Após isso, 1d6 novos esporos nascem para continuar o ciclo.</p>\n  </li>\n  <li>\n    <p><strong>Explosão</strong>: quando um Esporo de Gás é ferido, ele causa 6d6 de dano a todos dentro de uma área de 6 metros. Cada vítima deve ser bem-sucedida em uma JPD para receber metade do dano. Este ataque não espalha esporos nas vítimas como um ataque normal faria.</p>\n  </li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>nenhum</li>\n</ul>\n",
+    "encounters": "1d4",
+    "encounters_lair": "2d4",
+    "xp": "10",
+    "treasure": "",
+    "treasure_lair": "",
+    "mv": "",
+    "mvc": "",
+    "mve": "",
+    "mvn": "",
+    "mvv": "6",
+    "mvo": "",
+    "dv": "1",
+    "dv_bonus": "",
+    "pv": "1",
+    "ca": "12",
+    "jp": "4",
+    "mo": "9",
+    "url": "",
+    "habitat": "Subterrâneos",
+    "hp": {
+      "value": "1",
+      "max": "1"
+    }
+  },
+  "prototypeToken": {
+    "name": "Esporo de gás",
+    "displayName": 20,
+    "actorLink": false,
+    "appendNumber": false,
+    "prependAdjective": false,
+    "texture": {
+      "src": "systems/olddragon2e/assets/monsters-concepts/planta-medio.webp",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0
+    },
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": -1,
+    "displayBars": 40,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "light": {
+      "color": null,
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "sight": {
+      "enabled": false,
+      "range": 0,
+      "angle": 360,
+      "visionMode": "basic",
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": [],
+    "flags": {},
+    "randomImg": false
+  },
+  "items": [],
+  "effects": [],
+  "folder": "UU54ksk0UlLgzORT",
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "olddragon2e",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1698721200000,
+    "modifiedTime": 1702782000000,
+    "lastModifiedBy": "enzpVKIAX52oTyPe"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "enzpVKIAX52oTyPe": 3
+  },
+  "_key": "!actors!hAl8bCB79KAGptrg"
+}

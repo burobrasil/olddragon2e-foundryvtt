@@ -1,0 +1,37 @@
+{
+  "folder": "mQgfvQ1d7tezF8KV",
+  "name": "Ventriloquismo",
+  "type": "spell",
+  "_id": "MJFxWAuxiL9dlRX7",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "odo_id": "ventriloquismo",
+    "school": "arcane",
+    "circle": "1",
+    "arcane": "1",
+    "divine": "null",
+    "necromancer": "null",
+    "illusionist": "null",
+    "reverse": false,
+    "range": "18 metros",
+    "duration": "2 turnos",
+    "jp": "nenhuma",
+    "description": "<p>Qualquer som produzido com a boca pelo conjurador, e em qualquer língua conhecida por ele, é transferido para outra pessoa ou objeto dentro do alcance da magia.</p>\n"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "olddragon2e",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1698721200000,
+    "modifiedTime": 1702782000000,
+    "lastModifiedBy": "enzpVKIAX52oTyPe"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "enzpVKIAX52oTyPe": 3
+  },
+  "_key": "!items!MJFxWAuxiL9dlRX7"
+}

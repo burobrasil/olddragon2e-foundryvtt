@@ -1,0 +1,37 @@
+{
+  "folder": "Ki99CL7cfVsm9esy",
+  "name": "Proteger Fortalezas",
+  "type": "spell",
+  "_id": "3JFtjI61r3f2AvEa",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "odo_id": "proteger-fortalezas",
+    "school": "arcane",
+    "circle": "1",
+    "arcane": "6",
+    "divine": "null",
+    "necromancer": "null",
+    "illusionist": "null",
+    "reverse": false,
+    "range": "especial",
+    "duration": "1 turno + 1/nível",
+    "jp": "especial",
+    "description": "<p>Esta magia é utilizada para proteger uma fortaleza, abrangendo uma área de até 200 m² por nível de conjurador, e até 8 metros de altura.  Os diversos andares de uma fortaleza podem ser protegidos com magias diferentes, e o efeito dessa proteção é determinado pelo seu conjurador:</p>\n\n<ul>\n  <li>\n    <p><strong>Neblina</strong>: preenche todos os corredores, obscurecendo a visão além de 2 metros. Uma criatura no meio da neblina e a mais de 2 metros de distância é um alvo difícil de ser atingido em um ataque.</p>\n  </li>\n  <li>\n    <p><strong>Trancas mágicas</strong>: todas as portas na área estão sob o efeito da magia Trancar.</p>\n  </li>\n  <li>\n    <p><strong>Teias</strong>: ocupam todas as escadas do local, com funcionamento semelhante ao da magia Teia.  Mesmo queimadas, as teias crescem novamente em 10 minutos.</p>\n  </li>\n  <li>\n    <p><strong>Confusão</strong>: em todos os lugares em que houver uma escolha a ser feita – cruzamentos de corredores, por exemplo – as criaturas serão afetadas por uma confusão mental que dá 1-3 chances em 1d6 de acreditarem que estão seguindo na direção errada. JPS nega esse efeito.</p>\n  </li>\n  <li>\n    <p><strong>Portas secretas</strong>: uma porta para cada nível do conjurador é coberta por uma ilusão que faz com que seja igual a uma parede. Essa magia impede que a porta secreta seja localizada inclusive por elfos.</p>\n  </li>\n</ul>\n"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "olddragon2e",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1698721200000,
+    "modifiedTime": 1702782000000,
+    "lastModifiedBy": "enzpVKIAX52oTyPe"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "enzpVKIAX52oTyPe": 3
+  },
+  "_key": "!items!3JFtjI61r3f2AvEa"
+}

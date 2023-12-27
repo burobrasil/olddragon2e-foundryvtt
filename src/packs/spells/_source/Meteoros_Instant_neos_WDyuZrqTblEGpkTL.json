@@ -1,0 +1,37 @@
+{
+  "folder": "mbCl7lZt0a0oHfZ7",
+  "name": "Meteoros Instantâneos",
+  "type": "spell",
+  "_id": "WDyuZrqTblEGpkTL",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "odo_id": "meteoros-instantaneos",
+    "school": "arcane",
+    "circle": "1",
+    "arcane": "4",
+    "divine": "null",
+    "necromancer": "null",
+    "illusionist": "null",
+    "reverse": false,
+    "range": "36 metros",
+    "duration": "especial",
+    "jp": "nenhuma",
+    "description": "<p>O conjurador se torna capaz de conjurar e arremessar 1 esfera flamejante de fogo por nível, causando 2d4 pontos de dano de fogo.  O conjurador deve ser bem-sucedido em uma jogada de ataque à distância para atingir um alvo, sendo capaz de arremessar um único meteoro por rodada.</p>\n\n<p>Quando conjurados, os meteoros ficam disponíveis para serem arremessados por até 24 horas, até todos serem arremessados ou até a magia ser dissipada. O conjurador não precisa se concentrar para manter os meteoros disponíveis durante este tempo.</p>\n"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "olddragon2e",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1698721200000,
+    "modifiedTime": 1702782000000,
+    "lastModifiedBy": "enzpVKIAX52oTyPe"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "enzpVKIAX52oTyPe": 3
+  },
+  "_key": "!items!WDyuZrqTblEGpkTL"
+}

@@ -1,0 +1,123 @@
+{
+  "name": "Búfalo",
+  "type": "monster",
+  "_id": "ev6dMkdgpFcR4TZs",
+  "img": "systems/olddragon2e/assets/monsters-concepts/animal-grande.webp",
+  "system": {
+    "odo_id": "bufalo",
+    "flavor": "Grande bovino que vive em grandes rebanhos nas planícies ou pântanos.",
+    "concept": "Animal",
+    "size": "grande",
+    "alignment": "neutro",
+    "variant": false,
+    "description": "<ul>\n  <li><strong>Adaptado</strong>: tratam terrenos pantanosos como se fossem planícies para qualquer cálculo de deslocamento.</li>\n  <li><strong>Carga</strong>: carrega ou puxa até 5.000 moedas.</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × coice + 3 (1d6)</li>\n</ul>\n",
+    "encounters": "0",
+    "encounters_lair": "3d10",
+    "xp": "75",
+    "treasure": "",
+    "treasure_lair": "",
+    "mv": "9",
+    "mvc": "",
+    "mve": "",
+    "mvn": "",
+    "mvv": "",
+    "mvo": "",
+    "dv": "3",
+    "dv_bonus": "",
+    "pv": "15",
+    "ca": "13",
+    "jp": "6",
+    "mo": "5",
+    "url": "",
+    "habitat": "Colinas, Pântanos, Planícies",
+    "hp": {
+      "value": "15",
+      "max": "15"
+    }
+  },
+  "prototypeToken": {
+    "name": "Búfalo",
+    "displayName": 20,
+    "actorLink": false,
+    "appendNumber": false,
+    "prependAdjective": false,
+    "texture": {
+      "src": "systems/olddragon2e/assets/monsters-concepts/animal-grande.webp",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0
+    },
+    "width": 2,
+    "height": 2,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": -1,
+    "displayBars": 40,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "light": {
+      "color": null,
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "sight": {
+      "enabled": false,
+      "range": 0,
+      "angle": 360,
+      "visionMode": "basic",
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": [],
+    "flags": {},
+    "randomImg": false
+  },
+  "items": [],
+  "effects": [],
+  "folder": "fCR6JPmJVtpt7hqx",
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "olddragon2e",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1698721200000,
+    "modifiedTime": 1702782000000,
+    "lastModifiedBy": "enzpVKIAX52oTyPe"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "enzpVKIAX52oTyPe": 3
+  },
+  "_key": "!actors!ev6dMkdgpFcR4TZs"
+}

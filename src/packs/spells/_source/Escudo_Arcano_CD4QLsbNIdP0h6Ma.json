@@ -1,0 +1,37 @@
+{
+  "folder": "mQgfvQ1d7tezF8KV",
+  "name": "Escudo Arcano",
+  "type": "spell",
+  "_id": "CD4QLsbNIdP0h6Ma",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "odo_id": "escudo-arcano",
+    "school": "arcane",
+    "circle": "1",
+    "arcane": "1",
+    "divine": "null",
+    "necromancer": "null",
+    "illusionist": "null",
+    "reverse": false,
+    "range": "pessoal",
+    "duration": "2 turnos",
+    "jp": "nenhuma",
+    "description": "<p>O conjurador invoca um escudo invisível que o protege de ataques físicos, sejam estes projéteis, ataques à distância, ou corpo a corpo. O Escudo Arcano equivale a uma armadura com bônus de +4 e absorve totalmente o dano causado por mísseis mágicos. Se a Classe de Armadura do conjurador já for 14 ou superior, esta não causa efeito, a não ser no que diz respeito à absorção do dano dos mísseis mágicos.</p>\n"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "olddragon2e",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1698721200000,
+    "modifiedTime": 1702782000000,
+    "lastModifiedBy": "enzpVKIAX52oTyPe"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "enzpVKIAX52oTyPe": 3
+  },
+  "_key": "!items!CD4QLsbNIdP0h6Ma"
+}

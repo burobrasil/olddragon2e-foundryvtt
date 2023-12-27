@@ -1,0 +1,37 @@
+{
+  "folder": "XDGnJ8GYBwSWNTSc",
+  "name": "Símbolo de Proteção",
+  "type": "spell",
+  "_id": "BV3rUjH3dW87TeSY",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "odo_id": "simbolo-de-protecao",
+    "school": "arcane",
+    "circle": "1",
+    "arcane": "null",
+    "divine": "3",
+    "necromancer": "null",
+    "illusionist": "null",
+    "reverse": false,
+    "range": "toque",
+    "duration": "permanente",
+    "jp": "nenhuma",
+    "description": "<p>O Símbolo de Proteção cria um gatilho de ativação condicional em uma passagem ou objeto, protegendo-o de alvos que não supram os requisitos para acessá-lo (como uma determinada raça, classe, alinhamento, religião ou senha secreta). Os efeitos do acesso não permitido devem ser dados por outra magia conjurada em conjunto com Símbolo de Proteção, ou, caso não use nenhuma outra magia, 1d4 de dano por nível do conjurador que instalou o símbolo.</p>\n"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "olddragon2e",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1698721200000,
+    "modifiedTime": 1702782000000,
+    "lastModifiedBy": "enzpVKIAX52oTyPe"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "enzpVKIAX52oTyPe": 3
+  },
+  "_key": "!items!BV3rUjH3dW87TeSY"
+}

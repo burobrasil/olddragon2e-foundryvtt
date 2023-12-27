@@ -1,0 +1,123 @@
+{
+  "name": "Limo cinzento",
+  "type": "monster",
+  "_id": "Ket2v9UQ5B0BzkvF",
+  "img": "systems/olddragon2e/assets/monsters-concepts/gosma-medio.webp",
+  "system": {
+    "odo_id": "limo-cinzento",
+    "flavor": "Cinzenta e viscosa esta gosma escorre pelos corredores das masmorras procurando toda forma de metal para corroer.",
+    "concept": "Gosma",
+    "size": "medio",
+    "alignment": "neutro",
+    "variant": false,
+    "description": "<ul>\n  <li>\n    <p><strong>Camuflagem</strong>: pelo seu aspecto acinzentado e molhado, são confundidos com pedras molhadas. Nestas circunstâncias, surpreendem seus inimigos com um resultado de 1 a 4 em 1d6.</p>\n  </li>\n  <li>\n    <p><strong>Ácido</strong>: após um ataque bem-sucedido, o limo gruda na vítima e passa a liberar um potente ácido, mas que corrói apenas metais. Este ácido é capaz de atingir armas e armaduras, causando uma penalidade no dano (no caso de armas) ou na proteção (no caso de armaduras) de 1 a cada rodada que o limo passa aderido ao alvo.  Se uma arma recebe uma quantidade de dano igual ao seu dado de dano (4 para 1d4 ou 6 para 1d6, por exemplo), a arma ficará permanentemente destruída. Se uma armadura recebe uma quantidade de dano igual ao seu bônus no CA (+4 para uma cota de malha, por exemplo), a armadura ficará permanentemente destruída.</p>\n  </li>\n  <li>\n    <p><strong>Imunidades</strong>: imune aos efeitos do frio e da eletricidade.</p>\n  </li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × toque + 3 (2d8)</li>\n</ul>\n",
+    "encounters": "1",
+    "encounters_lair": "1",
+    "xp": "95",
+    "treasure": "",
+    "treasure_lair": "",
+    "mv": "3",
+    "mvc": "",
+    "mve": "",
+    "mvn": "",
+    "mvv": "",
+    "mvo": "",
+    "dv": "3",
+    "dv_bonus": "+3",
+    "pv": "18",
+    "ca": "13",
+    "jp": "6",
+    "mo": "8",
+    "url": "",
+    "habitat": "Subterrâneos",
+    "hp": {
+      "value": "18",
+      "max": "18"
+    }
+  },
+  "prototypeToken": {
+    "name": "Limo cinzento",
+    "displayName": 20,
+    "actorLink": false,
+    "appendNumber": false,
+    "prependAdjective": false,
+    "texture": {
+      "src": "systems/olddragon2e/assets/monsters-concepts/gosma-medio.webp",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0
+    },
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": -1,
+    "displayBars": 40,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "light": {
+      "color": null,
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "sight": {
+      "enabled": false,
+      "range": 0,
+      "angle": 360,
+      "visionMode": "basic",
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": [],
+    "flags": {},
+    "randomImg": false
+  },
+  "items": [],
+  "effects": [],
+  "folder": "Aaa1XYCcgdMm5JDx",
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "olddragon2e",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1698721200000,
+    "modifiedTime": 1702782000000,
+    "lastModifiedBy": "enzpVKIAX52oTyPe"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "enzpVKIAX52oTyPe": 3
+  },
+  "_key": "!actors!Ket2v9UQ5B0BzkvF"
+}

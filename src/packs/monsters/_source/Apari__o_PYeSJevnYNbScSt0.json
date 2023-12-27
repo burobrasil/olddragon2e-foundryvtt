@@ -1,0 +1,123 @@
+{
+  "name": "Aparição",
+  "type": "monster",
+  "_id": "PYeSJevnYNbScSt0",
+  "img": "systems/olddragon2e/assets/monsters-concepts/morto_vivo-medio.webp",
+  "system": {
+    "odo_id": "aparicao",
+    "flavor": "Poderosos humanos que sucumbiram à forças obscuras, e agora se alimentam do espírito e da vontade de viver de suas vítimas.",
+    "concept": "Morto-Vivo",
+    "size": "medio",
+    "alignment": "caotico",
+    "variant": false,
+    "description": "<ul>\n  <li>\n    <p><strong>Silencioso</strong>: não produz som algum ao movimentar-se e se mantém silencioso até atacar.</p>\n  </li>\n  <li>\n    <p><strong>Morto-vivo</strong>: imune a frio, magias mentais de manipulação, controle ou ilusão, ou demais formas mágicas de interferir na mente de seres vivos. Sofre 1d6 de dano ácido por frasco de água benta.</p>\n  </li>\n  <li>\n    <p><strong>Imunidades</strong>: além das imunidades comuns aos mortos-vivos, Aparições são feridas apenas por magia e armas mágicas ou de prata. Armas de prata causam apenas metade do dano.</p>\n  </li>\n  <li>\n    <p><strong>Dreno</strong>: o ataque de uma Aparição, além do dano normal, drena 1 nível do alvo caso este não passe em uma JPC. Se um alvo tiver todos os seus níveis drenados por uma Aparição, irá retornar como uma Aparição sob controle da aparição que o criou.</p>\n  </li>\n  <li>\n    <p><strong>Inabalável</strong>: mortos-vivos não fazem testes de moral, a não ser quando sofrem o efeito de um Afastar Mortos-Vivos.</p>\n  </li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × garra + 5 (1d6+dreno )</li>\n</ul>\n",
+    "encounters": "1d4",
+    "encounters_lair": "1d6",
+    "xp": "235",
+    "treasure": "especial",
+    "treasure_lair": "",
+    "mv": "9",
+    "mvc": "",
+    "mve": "",
+    "mvn": "",
+    "mvv": "",
+    "mvo": "",
+    "dv": "5",
+    "dv_bonus": "",
+    "pv": "25",
+    "ca": "17",
+    "jp": "9",
+    "mo": "9",
+    "url": "",
+    "habitat": "Qualquer",
+    "hp": {
+      "value": "25",
+      "max": "25"
+    }
+  },
+  "prototypeToken": {
+    "name": "Aparição",
+    "displayName": 20,
+    "actorLink": false,
+    "appendNumber": false,
+    "prependAdjective": false,
+    "texture": {
+      "src": "systems/olddragon2e/assets/monsters-concepts/morto_vivo-medio.webp",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0
+    },
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": -1,
+    "displayBars": 40,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "light": {
+      "color": null,
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "sight": {
+      "enabled": false,
+      "range": 0,
+      "angle": 360,
+      "visionMode": "basic",
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": [],
+    "flags": {},
+    "randomImg": false
+  },
+  "items": [],
+  "effects": [],
+  "folder": "gVTyUIxvSEA8UxwB",
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "olddragon2e",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1698721200000,
+    "modifiedTime": 1702782000000,
+    "lastModifiedBy": "enzpVKIAX52oTyPe"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "enzpVKIAX52oTyPe": 3
+  },
+  "_key": "!actors!PYeSJevnYNbScSt0"
+}

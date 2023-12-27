@@ -1,0 +1,123 @@
+{
+  "name": "Diabrete",
+  "type": "monster",
+  "_id": "MWYuX5tp4Ic6WOxu",
+  "img": "systems/olddragon2e/assets/monsters-concepts/humanoide_monstruoso-pequeno.webp",
+  "system": {
+    "odo_id": "diabrete",
+    "flavor": "Pequenos lacaios das forças dos planos inferiores usados para funções de espionagem, pequenas trapaças e sabotagens.",
+    "concept": "Humanoide Monstruoso",
+    "size": "pequeno",
+    "alignment": "neutro",
+    "variant": false,
+    "description": "<ul>\n  <li>\n    <p><strong>Proteção à Magia</strong>: 1-2 chances em 1d6 de anular qualquer efeito mágico.</p>\n  </li>\n  <li>\n    <p><strong>Veneno</strong>: o veneno oriundo do ferrão de um Diabrete causa 1d6 de dano adicional caso o alvo falhe em uma JPC ou metade disso em caso de sucesso.</p>\n  </li>\n  <li>\n    <p><strong>Alterar Forma</strong>: um Diabrete pode alterar sua própria forma assumindo a de qualquer criatura viva de tamanho semelhante (como um porco, cachorro, ou até uma criança pequena).</p>\n  </li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × ferrão + 4 (1d6 + veneno )</li>\n</ul>\n",
+    "encounters": "1",
+    "encounters_lair": "1",
+    "xp": "65",
+    "treasure": "",
+    "treasure_lair": "",
+    "mv": "9",
+    "mvc": "",
+    "mve": "",
+    "mvn": "",
+    "mvv": "18",
+    "mvo": "",
+    "dv": "2",
+    "dv_bonus": "+2",
+    "pv": "12",
+    "ca": "19",
+    "jp": "6",
+    "mo": "7",
+    "url": "",
+    "habitat": "Extraplanar",
+    "hp": {
+      "value": "12",
+      "max": "12"
+    }
+  },
+  "prototypeToken": {
+    "name": "Diabrete",
+    "displayName": 20,
+    "actorLink": false,
+    "appendNumber": false,
+    "prependAdjective": false,
+    "texture": {
+      "src": "systems/olddragon2e/assets/monsters-concepts/humanoide_monstruoso-pequeno.webp",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0
+    },
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": -1,
+    "displayBars": 40,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "light": {
+      "color": null,
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "sight": {
+      "enabled": false,
+      "range": 0,
+      "angle": 360,
+      "visionMode": "basic",
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": [],
+    "flags": {},
+    "randomImg": false
+  },
+  "items": [],
+  "effects": [],
+  "folder": "iiv4e6IKFVP68JnX",
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "olddragon2e",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1698721200000,
+    "modifiedTime": 1702782000000,
+    "lastModifiedBy": "enzpVKIAX52oTyPe"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "enzpVKIAX52oTyPe": 3
+  },
+  "_key": "!actors!MWYuX5tp4Ic6WOxu"
+}

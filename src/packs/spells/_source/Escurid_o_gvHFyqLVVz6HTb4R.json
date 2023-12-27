@@ -1,0 +1,37 @@
+{
+  "folder": "mQgfvQ1d7tezF8KV",
+  "name": "Escuridão",
+  "type": "spell",
+  "_id": "gvHFyqLVVz6HTb4R",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "odo_id": "escuridao",
+    "school": "arcane",
+    "circle": "1",
+    "arcane": "1",
+    "divine": "1",
+    "necromancer": "null",
+    "illusionist": "null",
+    "reverse": true,
+    "range": "especial",
+    "duration": "12 turnos",
+    "jp": "JPS nega",
+    "description": "<p>O objeto alvo tocado produz luz tão brilhante quanto uma tocha, iluminando uma área com raio de 6 metros.</p>\n\n<p>Se conjurada nos olhos de um alvo a até 3m + 1,5m/nível do conjurador, a vítima que não passar em uma JPS fica cega até o final da duração da magia. Neste caso, a luz mágica se apaga e não causa nenhum outro efeito.</p>\n\n<p>[Escuridão] é a versão reversa que permite interromper qualquer fonte de luz, apagando tochas, velas, lâmpadas ou até mesmo dissipando uma magia Luz lançada anteriormente e criando uma área de 4,5 metros de raio de escuridão mágica, deixando todos dentro da área cegos (mesmo se possuírem Infravisão).</p>\n\n<p>Se conjurada nos olhos de um alvo tocado pelo conjurador, a vítima que não passar em uma JPS fica cega até o final da duração da magia.  Neste caso, a escuridão mágica some e não causa nenhum outro efeito.</p>\n"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "olddragon2e",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1698721200000,
+    "modifiedTime": 1702782000000,
+    "lastModifiedBy": "enzpVKIAX52oTyPe"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "enzpVKIAX52oTyPe": 3
+  },
+  "_key": "!items!gvHFyqLVVz6HTb4R"
+}

@@ -1,0 +1,19 @@
+{
+  "folder": null,
+  "name": "Inseto",
+  "type": "Actor",
+  "_id": "tVf2EkWEOvHAHyw9",
+  "sorting": "a",
+  "sort": 0,
+  "color": "#FF8A4C",
+  "flags": {},
+  "_stats": {
+    "systemId": "olddragon2e",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1698721200000,
+    "modifiedTime": 1702782000000,
+    "lastModifiedBy": "enzpVKIAX52oTyPe"
+  },
+  "_key": "!folders!tVf2EkWEOvHAHyw9"
+}

@@ -1,0 +1,123 @@
+{
+  "name": "Homem lagarto",
+  "type": "monster",
+  "_id": "3X9zxF8MKcs90BY4",
+  "img": "systems/olddragon2e/assets/monsters-concepts/humanoide-medio.webp",
+  "system": {
+    "odo_id": "homem-lagarto",
+    "flavor": "Selvagens reptilianos. Atacam de forma desordenada com lanças e fundas, devastando povoados.",
+    "concept": "Humanoide",
+    "size": "medio",
+    "alignment": "caotico",
+    "variant": false,
+    "description": "<ul>\n  <li><strong>Lutar até morrer</strong>: quando encurralados, recebem +1 no ataque e dano até o fim do combate.</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × garra + 2 (1d4)</li>\n  <li>1 × arma + 2 (arma)</li>\n</ul>\n",
+    "encounters": "2d4",
+    "encounters_lair": "6d6",
+    "xp": "35",
+    "treasure": "p",
+    "treasure_lair": "j",
+    "mv": "9",
+    "mvc": "",
+    "mve": "",
+    "mvn": "6",
+    "mvv": "",
+    "mvo": "",
+    "dv": "2",
+    "dv_bonus": "+1",
+    "pv": "11",
+    "ca": "15",
+    "jp": "5",
+    "mo": "8",
+    "url": "",
+    "habitat": "Planícies, Pântanos",
+    "hp": {
+      "value": "11",
+      "max": "11"
+    }
+  },
+  "prototypeToken": {
+    "name": "Homem lagarto",
+    "displayName": 20,
+    "actorLink": false,
+    "appendNumber": false,
+    "prependAdjective": false,
+    "texture": {
+      "src": "systems/olddragon2e/assets/monsters-concepts/humanoide-medio.webp",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0
+    },
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": -1,
+    "displayBars": 40,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "light": {
+      "color": null,
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "sight": {
+      "enabled": false,
+      "range": 0,
+      "angle": 360,
+      "visionMode": "basic",
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": [],
+    "flags": {},
+    "randomImg": false
+  },
+  "items": [],
+  "effects": [],
+  "folder": "rpL2cWeB5HlAT1Tc",
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "olddragon2e",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1698721200000,
+    "modifiedTime": 1702782000000,
+    "lastModifiedBy": "enzpVKIAX52oTyPe"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "enzpVKIAX52oTyPe": 3
+  },
+  "_key": "!actors!3X9zxF8MKcs90BY4"
+}

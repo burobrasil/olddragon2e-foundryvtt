@@ -1,0 +1,37 @@
+{
+  "folder": "hDpu7L7XzYzJ2gUK",
+  "name": "Imobilizar Pessoas",
+  "type": "spell",
+  "_id": "aVwHzKtHXCm6vvTO",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "odo_id": "imobilizar-pessoas",
+    "school": "arcane",
+    "circle": "1",
+    "arcane": "3",
+    "divine": "2",
+    "necromancer": "null",
+    "illusionist": "null",
+    "reverse": false,
+    "range": "36 metros",
+    "duration": "1 turno por nível",
+    "jp": "JPC evita",
+    "description": "<p>O conjurador escolhe até 1d4 pessoas (humano, semi-humano e humanoides vivos de tamanho grande ou menor) para ficarem imobilizadas sem conseguirem sair do lugar, como se estivessem paralisadas. Uma JPC evita este efeito. Também pode escolher uma única pessoa como alvo. Nesse caso, deve realizar uma JPC difícil. Mortos-vivos e alvos com 4 DV a mais que o conjurador não são afetados por esta magia.</p>\n"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "olddragon2e",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1698721200000,
+    "modifiedTime": 1702782000000,
+    "lastModifiedBy": "enzpVKIAX52oTyPe"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "enzpVKIAX52oTyPe": 3
+  },
+  "_key": "!items!aVwHzKtHXCm6vvTO"
+}
