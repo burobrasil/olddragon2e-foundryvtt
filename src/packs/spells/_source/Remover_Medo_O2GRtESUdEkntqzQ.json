@@ -1,0 +1,37 @@
+{
+  "folder": "8VVynUK0GJZaC2Yo",
+  "name": "Remover Medo",
+  "type": "spell",
+  "_id": "O2GRtESUdEkntqzQ",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "odo_id": "remover-medo",
+    "school": "arcane",
+    "circle": "1",
+    "arcane": "null",
+    "divine": "1",
+    "necromancer": "null",
+    "illusionist": "null",
+    "reverse": false,
+    "range": "toque",
+    "duration": "permanente",
+    "jp": "nenhuma",
+    "description": "<p>Esta magia tem dois efeitos: anular permanentemente qualquer efeito de medo (oriundo de magia ou não) que esteja incidindo no alvo; ou conceder aos alvos o benefício de realizar testes muito fáceis de JPS para negar efeitos de medo por 1 turno.</p>\n\n<p>O segundo efeito só será possível se o alvo não estiver previamente sob efeito de qualquer tipo de medo.</p>\n\n<p>Esta magia afeta uma criatura tocada para cada 4 níveis do conjurador.</p>\n"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "olddragon2e",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1698721200000,
+    "modifiedTime": 1702782000000,
+    "lastModifiedBy": "enzpVKIAX52oTyPe"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "enzpVKIAX52oTyPe": 3
+  },
+  "_key": "!items!O2GRtESUdEkntqzQ"
+}

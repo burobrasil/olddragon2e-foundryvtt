@@ -1,0 +1,37 @@
+{
+  "folder": "DvBaIm4P1hrEmNZz",
+  "name": "Metamorfose",
+  "type": "spell",
+  "_id": "Rol2C7qM7Sf6BRoc",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "odo_id": "metamorfose",
+    "school": "arcane",
+    "circle": "1",
+    "arcane": "5",
+    "divine": "null",
+    "necromancer": "null",
+    "illusionist": "null",
+    "reverse": false,
+    "range": "3m + 1,5m/nível",
+    "duration": "permanente",
+    "jp": "JPC evita",
+    "description": "<p>O conjurador consegue modificar fisicamente a forma de uma criatura (com no máximo o dobro dos DV do conjurador) para que esta se pareça com outro tipo de criatura, mas não é possível clonar um indivíduo específico. Uma JPC consegue evitar esse efeito caso o alvo deseje resistir. O alvo metamorfoseado mantém o mesmo número de DV e PV, mas adquire as habilidades especiais, ataques e capacidades físicas do novo tipo de criatura, assim como o comportamento, alinhamento e inteligência. Um anão metamorfoseado em uma gárgula não só se parecerá como uma, mas agirá e pensará como uma gárgula, podendo inclusive voar. Todas as criaturas metamorfoseadas retornam a sua forma original quando mortas.</p>\n"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "olddragon2e",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1698721200000,
+    "modifiedTime": 1702782000000,
+    "lastModifiedBy": "enzpVKIAX52oTyPe"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "enzpVKIAX52oTyPe": 3
+  },
+  "_key": "!items!Rol2C7qM7Sf6BRoc"
+}

@@ -1,0 +1,37 @@
+{
+  "folder": "DvBaIm4P1hrEmNZz",
+  "name": "Pedra em Lama",
+  "type": "spell",
+  "_id": "CeawHU3ECv2k1Ws6",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "odo_id": "pedra-em-lama",
+    "school": "arcane",
+    "circle": "1",
+    "arcane": "5",
+    "divine": "null",
+    "necromancer": "null",
+    "illusionist": "null",
+    "reverse": true,
+    "range": "toque",
+    "duration": "especial",
+    "jp": "especial",
+    "description": "<p>Com esta magia, o conjurador consegue transformar 30 m² de pedra em lama com 3 metros de profundidade, levando 3d6 dias para endurecer.  Criaturas que tentam atravessar a lama têm seu movimento reduzido à metade do normal.  Criaturas de pedra que sejam alvos desta magia, como um Golem de Pedra, podem realizar uma JP para negar os efeitos da magia ou serão destruídas.</p>\n\n<p>[Lama em Pedra] é a versão reversa que permite endurecer até 3 m² de lama em pedra permanentemente.</p>\n"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "olddragon2e",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1698721200000,
+    "modifiedTime": 1702782000000,
+    "lastModifiedBy": "enzpVKIAX52oTyPe"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "enzpVKIAX52oTyPe": 3
+  },
+  "_key": "!items!CeawHU3ECv2k1Ws6"
+}

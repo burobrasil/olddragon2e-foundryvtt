@@ -1,0 +1,37 @@
+{
+  "folder": "DvBaIm4P1hrEmNZz",
+  "name": "Telecinesia",
+  "type": "spell",
+  "_id": "BUC5p0JtDPEkoT1p",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "odo_id": "telecinesia",
+    "school": "arcane",
+    "circle": "1",
+    "arcane": "5",
+    "divine": "null",
+    "necromancer": "null",
+    "illusionist": "null",
+    "reverse": false,
+    "range": "36 metros",
+    "duration": "6 rodadas",
+    "jp": "JPS nega",
+    "description": "<p>O conjurador é capaz de erguer e mover objetos ou criaturas apenas com o poder da sua mente, enquanto concentrado. Se perder a concentração ou levar dano, a magia se dissipará imediatamente.</p>\n\n<p>A quantidade de peso que pode ser movida (com movimento 6) é de até 10 kg por nível do conjurador.  Este também é capaz de arremessar o que está sendo erguido, desde que tenha no máximo ¼ do peso permitido, a até 15 metros de distância.  O alvo desta magia pode realizar uma JPS para negar seus efeitos.</p>\n"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "olddragon2e",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1698721200000,
+    "modifiedTime": 1702782000000,
+    "lastModifiedBy": "enzpVKIAX52oTyPe"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "enzpVKIAX52oTyPe": 3
+  },
+  "_key": "!items!BUC5p0JtDPEkoT1p"
+}

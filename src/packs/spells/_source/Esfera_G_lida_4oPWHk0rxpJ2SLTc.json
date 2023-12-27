@@ -1,0 +1,37 @@
+{
+  "folder": "Ki99CL7cfVsm9esy",
+  "name": "Esfera Gélida",
+  "type": "spell",
+  "_id": "4oPWHk0rxpJ2SLTc",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "odo_id": "esfera-gelida",
+    "school": "arcane",
+    "circle": "1",
+    "arcane": "6",
+    "divine": "null",
+    "necromancer": "null",
+    "illusionist": "null",
+    "reverse": false,
+    "range": "especial",
+    "duration": "especial",
+    "jp": "JPD reduz",
+    "description": "<p>Esta magia pode ser utilizada de três formas diferentes:</p>\n\n<ul>\n  <li>\n    <p><strong>Esfera Congelante</strong>: um pequeno globo de matéria congelante se forma na mão do conjurador, podendo ser usada para congelar todo e qualquer material líquido à base de água com que entre em contato. Uma superfície de 30 m² com até 20 cm de espessura por nível do conjurador pode ser congelada.</p>\n  </li>\n  <li>\n    <p><strong>Raio Gélido</strong>: um pequeno e fino raio de energia gelada sai dos dedos do conjurador para atingir uma única vítima, causando 1d4 pontos de dano +1 de dano por nível. Uma JPD reduz esse dano pela metade.</p>\n  </li>\n  <li>\n    <p><strong>Globo de Frio</strong>: uma pedra pequena, do tamanho de uma pedra de funda, é criada. Ao ser arremessada, se quebra no impacto causando 6d6 pontos de dano em todas as criaturas em uma distância de até 3 metros do ponto da explosão.  Se o globo não for arremessado, ele se quebrará em até 1d4+1 rodadas causando o dano normalmente a todos em uma distância de até 3 metros.  Uma JPD reduz esse dano pela metade.</p>\n  </li>\n</ul>\n"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "olddragon2e",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1698721200000,
+    "modifiedTime": 1702782000000,
+    "lastModifiedBy": "enzpVKIAX52oTyPe"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "enzpVKIAX52oTyPe": 3
+  },
+  "_key": "!items!4oPWHk0rxpJ2SLTc"
+}

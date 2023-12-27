@@ -1,0 +1,123 @@
+{
+  "name": "Pixie",
+  "type": "monster",
+  "_id": "yiPAmPpqJINlF1p9",
+  "img": "systems/olddragon2e/assets/monsters-concepts/humanoide_monstruoso-miudo.webp",
+  "system": {
+    "odo_id": "pixie",
+    "flavor": "Fadas elementais do ar. Gostam de pregar peças e roubar coisas.",
+    "concept": "Humanoide Monstruoso",
+    "size": "miudo",
+    "alignment": "neutro",
+    "variant": false,
+    "description": "<ul>\n  <li>\n    <p><strong>Pó Mágico</strong>: produzem um pó de seus cílios capaz de fazer o alvo dormir (como a magia Sono lançada por um Mago de 10º nível), ou de fazer com que o alvo levite vagarosamente até 60 metros de altura. Ambos os efeitos podem ser evitados com uma JPC.</p>\n  </li>\n  <li>\n    <p><strong>Invisibilidade</strong>: são naturalmente invisíveis, mas qualquer ser invisível pode vê-las normalmente. Sua CA é 11 quando não estiver invisível.</p>\n  </li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × arma + 2 (arma + 0)</li>\n</ul>\n",
+    "encounters": "2d4",
+    "encounters_lair": "1d4 x 10",
+    "xp": "35",
+    "treasure": "l+t",
+    "treasure_lair": "",
+    "mv": "6",
+    "mvc": "",
+    "mve": "",
+    "mvn": "",
+    "mvv": "12",
+    "mvo": "",
+    "dv": "1",
+    "dv_bonus": "",
+    "pv": "5",
+    "ca": "16",
+    "jp": "6",
+    "mo": "8",
+    "url": "",
+    "habitat": "Florestas",
+    "hp": {
+      "value": "5",
+      "max": "5"
+    }
+  },
+  "prototypeToken": {
+    "name": "Pixie",
+    "displayName": 20,
+    "actorLink": false,
+    "appendNumber": false,
+    "prependAdjective": false,
+    "texture": {
+      "src": "systems/olddragon2e/assets/monsters-concepts/humanoide_monstruoso-miudo.webp",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0
+    },
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": -1,
+    "displayBars": 40,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "light": {
+      "color": null,
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "sight": {
+      "enabled": false,
+      "range": 0,
+      "angle": 360,
+      "visionMode": "basic",
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": [],
+    "flags": {},
+    "randomImg": false
+  },
+  "items": [],
+  "effects": [],
+  "folder": "iiv4e6IKFVP68JnX",
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "olddragon2e",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1698721200000,
+    "modifiedTime": 1702782000000,
+    "lastModifiedBy": "enzpVKIAX52oTyPe"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "enzpVKIAX52oTyPe": 3
+  },
+  "_key": "!actors!yiPAmPpqJINlF1p9"
+}

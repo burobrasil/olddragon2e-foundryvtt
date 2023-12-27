@@ -1,0 +1,547 @@
+{
+  "folder": null,
+  "name": "Capítulo 6: Campanha",
+  "_id": "QA57bQmVawCJxoOr",
+  "pages": [
+    {
+      "sort": 0,
+      "name": "Grupo de Aventureiros",
+      "type": "text",
+      "_id": "7Rq8HB8OBgQ5gA6t",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<p>Para aumentar as chances de sobrevivência, aventureiros costumam se reunir em grupos compostos, normalmente, por uma mistura de especialistas em várias áreas: Ladrões para vasculharem as salas procurando armadilhas; Guerreiros para manter os monstros longe e dominados; Clérigos para curar os ferimentos e manter os mortos-vivos afastados; e os Magos para fazer o que todo mundo faz, mas de uma forma mais mística.</p>\n\n<p>Nós até acreditamos que um grupo ideal tenha no mínimo um membro de cada classe, mas campanhas inteiras já foram jogadas com grupos bem menos homogêneos e obtiveram o mesmo sucesso.</p>\n\n<p>Uma solução para complementar os “buracos” na seleção de aventureiros é a contratação de aprendizes ou ajudantes. Existem ajudantes que suprem, ao menos basicamente, quase todos os campos preenchidos pelos personagens. Você encontrará mais informações sobre isso neste mesmo capítulo.</p>\n\n<p><strong>Ordem de Marcha:</strong> em algum momento da aventura e de preferência antes da “ação” começar, como na entrada de uma masmorra, determine entre os jogadores qual é a ordem de marcha do grupo de aventureiros. Avise sempre toda alteração nesta ordem imediatamente ao seu Mestre, pois desta ordem podem depender efeitos previstos para a exploração.</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!QA57bQmVawCJxoOr.7Rq8HB8OBgQ5gA6t"
+    },
+    {
+      "sort": 1,
+      "name": "Reputação",
+      "type": "text",
+      "_id": "bmDgRRUoMdxkqhXo",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<p>Em um jogo típico de Old Dragon, todos os personagens começam quase que invariavelmente como pessoas anônimas. Desconhecidos completos que saíram do meio da população, galgando rumo a condição de herói, e obviamente amealhando alguma fama e reputação no processo.</p>\n\n<p>Nos níveis mais altos do jogo, para tentar representar como cada personagem passa a ser conhecido e para trazer essa característica para a sua mesa, você deve usar a regra de Reputação.</p>\n\n<p><strong>Valor da Reputação:</strong> um aventureiro tem um valor de reputação ligado ao seu nível. Começando do zero até o 10º nível e acrescentando 1 a cada novo nível. Assim, um personagem de 11º nível tem reputação 1, outro personagem de 13º nível tem reputação 3, até chegar a um personagem de 15º nível com reputação 5.</p>\n\n<p><strong>Fama ou Infâmia:</strong> toda reputação gera um valor idêntico de fama ou infâmia, ou seja, sempre que um aventureiro ficar famoso devido ao sucesso da sua carreira, invariavelmente isso resultará na sua infâmia perante os seus inimigos (orcs, trolls, goblins, cultistas, e toda a sorte de inimigos com inteligência o suficiente para ligar um nome a um rosto).</p>\n\n<p>Na prática, a fama ajuda a ter uma reação positiva com as pessoas. A infâmia, ao contrário da fama, a ter uma reação negativa.</p>\n\n<p><strong>Usando a Reputação:</strong> quando um personagem precisar realizar um teste de reação contra personagens do Mestre ou contra um monstro encontrado, o bônus de reputação é usado para bonificar ou penalizar o teste de reação, somando ou subtraindo o valor da reputação do resultado, de acordo com a vontade do personagem e sua Reputação.</p>\n\n<p>Na prática, a Reputação permite influenciar o resultado do <strong>teste de reação</strong> (Tabela 6-15) para torná-lo mais amistoso ou violento, conforme a vontade dos personagens.</p>\n\n<blockquote class=\"example\">\n  <p><strong>Exemplo:</strong> <em>Um grupo de aventureiros de 12º nível se encontra com o Rei dos Orcs em uma trilha montanhosa. Os jogadores decidem usar sua Reputação para assustar o Rei dos Orcs, fazendo com que este os deixe passar incólumes pela trilha. O Mestre realiza um teste de reação e soma 2 ao resultado dos dados, o que facilita obter uma atitude mais amistosa.</em></p>\n\n  <p><strong>Exemplo 2:</strong> <em>Mais adiante, o grupo de aventureiros conversa com um diplomata de uma nação neutra objetivando que os exércitos desta nação invadam seus territórios orcs para justificar uma declaração de guerra. Os jogadores decidem que é hora de engrossar e mostrar que são capazes de destruir a nação neutra. O Mestre realiza um teste de Reação e subtrai 2 ao resultado dos dados, o que facilita obter uma atitude mais agressiva e levando as duas nações a uma declaração de guerra.</em></p>\n</blockquote>\n\n<p><strong>Teste de Reputação:</strong> outra forma de usar o valor de Reputação de um personagem é realizando um teste de Reputação para ser reconhecido ou para obter favores (como valores mais baixos em barganhas comerciais, uma passagem de última hora em um navio prestes a zarpar ou até mesmo uma rodada de graça de cerveja).</p>\n\n<blockquote class=\"highlighted\">\n  <p>REPUTAÇÃO = CHANCE DE 1 EM 1D6 PARA CADA VALOR DE REPUTAÇÃO</p>\n</blockquote>\n\n<blockquote class=\"example\">\n  <p><strong>Exemplo:</strong> <em>Em outro momento da campanha, o grupo de aventureiros procura, sem muito sucesso em uma pequena cidade, um guia para as pradarias da região. Negociando com o desconfiado taverneiro, o guerreiro de 13º nível pede para tentar testar sua Reputação 3 e lança 1d6, obtendo 3. O taverneiro aperta os olhos e diz: — Você não é Traktul, o Guerreiro das Montanhas Centrais? É claro que conheço um guia! Como eu não ajudaria os homens que livraram a vila do primo Kellyk daquela tribo peçonhenta de sibilantes! Uma rodada de cerveja por conta da casa!</em></p>\n</blockquote>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!QA57bQmVawCJxoOr.bmDgRRUoMdxkqhXo"
+    },
+    {
+      "sort": 2,
+      "name": "Medindo o Tempo",
+      "type": "text",
+      "_id": "W5TuWgn0HQ0vhZzA",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<p>No Old Dragon o tempo é medido exatamente como na vida real: anos, meses, dias, horas, minutos e daí em diante. Porém, outras duas medidas de tempo são importantes e especialmente comuns no jogo: os turnos e as rodadas.</p>\n\n<p><strong>Turno</strong> é igual a 10 minutos, existindo então 6 turnos por hora. O turno é usado sobretudo para medir tempo tático durante uma exploração de masmorras e fora de combate.</p>\n\n<p><strong>Rodada</strong> é igual a 10 segundos, existindo então 6 rodadas por minuto. A rodada é usada sobretudo para medir tempo táctico durante um combate ou um encontro.</p>\n\n<p>Turnos e rodadas também são muito usados para determinar a duração de magias, efeitos mágicos ou habilidades de monstros, como os efeitos dos venenos.</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!QA57bQmVawCJxoOr.W5TuWgn0HQ0vhZzA"
+    },
+    {
+      "sort": 3,
+      "name": "Carga",
+      "type": "text",
+      "_id": "1iFkB9JNiCaV2qYW",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<p>A quantidade de peso carregada por um personagem sem que ele fique sobrecarregado é chamada de <strong>Carga Máxima</strong>.  Todo personagem pode carregar equipamentos de acordo com o maior valor entre seus atributos Força e Constituição. Assim, um personagem com Força 12 e Constituição 15 pode carregar, sem nenhuma redução no seu movimento, até uma carga de valor 15.</p>\n\n<blockquote class=\"highlighted\">\n  <p><strong>CARGA MÁXIMA</strong> = MAIOR ATRIBUTO ENTRE <strong>FORÇA</strong> E <strong>CONSTITUIÇÃO</strong></p>\n</blockquote>\n\n<h3 id=\"carga-dos-objetos\">Carga dos Objetos</h3>\n\n<div class=\"overflow-x-auto\">\n  <table>\n    <caption>Carga <span>tabela 6.1</span></caption>\n    <thead>\n      <tr>\n        <th>Carga</th>\n        <th>Armas</th>\n        <th>Armaduras</th>\n        <th>Itens</th>\n        <th>Moedas</th>\n      </tr>\n    </thead>\n    <tbody>\n      <tr class=\"text-center\">\n        <td class=\"font-bold\">1</td>\n        <td>Armas Pequenas</td>\n        <td>Armaduras Leves</td>\n        <td>por kg de equipamento geral, sem incluir 1 mochila, armas e armaduras</td>\n        <td>a cada 100 peças de qualquer valor</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"font-bold\">2</td>\n        <td>Armas Médias</td>\n        <td>Armaduras Médias</td>\n        <td>-</td>\n        <td>-</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"font-bold\">3</td>\n        <td>Armas Grandes</td>\n        <td>Armaduras Pesadas</td>\n        <td>-</td>\n        <td>-</td>\n      </tr>\n    </tbody>\n  </table>\n</div>\n\n<p>Para calcular a carga dos objetos carregados ou vestidos use as informações da tabela 6-1: Carga</p>\n\n<p><strong>Mochilas:</strong> o peso de uma mochila não acrescenta valor à carga de um personagem e ainda adiciona um bônus de 5 à carga máxima carregada por ele. Um personagem com carga máxima 13 usando uma mochila passa a ter carga máxima 18.</p>\n\n<h3 id=\"sobrecarga\">Sobrecarga</h3>\n\n<p>Um personagem carregando uma carga <strong>maior que sua Carga Máxima</strong> está com Sobrecarga e começa a ter problemas para se locomover, <strong>reduzindo 3</strong> no seu <a href=\"/livros/srd/capitulos/personagem#movimento-mv\">movimento</a> e ficando Exausto.</p>\n\n<blockquote class=\"example\">\n  <p><strong>Exemplo:</strong> <em>um personagem com movimento 9, portando uma mochila, Força 11 e Constituição 14 possui <strong>carga máxima 19</strong>.</em></p>\n\n  <p><em>Este personagem carrega:</em></p>\n\n  <ul>\n    <li><em>Arco Longo (carga 3)</em></li>\n    <li><em>Adaga (carga 1)</em></li>\n    <li><em>Escudo (carga 1)</em></li>\n    <li><em>Cota de Malha (carga 3)</em></li>\n    <li><em>Cinco quilos e meio de equipamento (carga 5)</em></li>\n    <li><em>Trezentas e vinte moedas (carga 3)</em></li>\n  </ul>\n\n  <p><em>Portanto, sua carga total é 16, inferior à sua carga máxima de 19, e não tendo  nenhuma penalidade.</em></p>\n\n  <p><em>Mais adiante na exploração da masmorra, ele recolhe outras 430 moedas, adicionando mais <strong>4 à carga</strong>, que passa a somar 20, ultrapassando em 1 sua carga máxima de 19. Com isso, o personagem fica <strong>sobrecarregado</strong>, seu movimento cai de <strong>9 para 6</strong> e ele recebe os efeitos de uma exaustão até que descanse.</em></p>\n</blockquote>\n\n<h3 id=\"exaustao\">Exaustão</h3>\n\n<p>Personagens exaustos estão esgotados, perdendo eficiência.</p>\n\n<p>Estão cansados demais para realizar qualquer atividade física e desconcentrados para as atividades mentais e por isso, todo Teste de Atributo, Jogada de Proteção ou Ataque é ajustado como <strong>teste difícil</strong> até o personagem passar por um descanso.</p>\n\n<p><strong>Descanso</strong> é o período de respiro e parada que os personagens realizam para se recuperar ou para evitar uma Exaustão. Uma noite de descanso e sono de no mínimo 8 horas conta como um <a href=\"/livros/srd/capitulos/campanha#descansar\">descanso</a>. Para descansos menores de ações mais intensas como uma corrida em perseguição ou a exploração de masmorras, é recomendável um tempo de descanso para cada 5 de atividade. Ou seja, a cada 5 turnos correndo ou explorando, é necessário descansar 1 turno completo.</p>\n\n<p><strong>Extenuado:</strong> personagens que acumulem duas ou mais condições de exaustão, por sobrecarga ou falta de descanso, por exemplo, estão mais que exaustos, estão extenuados. Um personagem extenuado acumula as penalidades da sua exaustão, passando a realizar todos os seus testes como <strong>muito difícil</strong>, até conseguir descansar um período para cada condição de exaustão.</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!QA57bQmVawCJxoOr.1iFkB9JNiCaV2qYW"
+    },
+    {
+      "sort": 4,
+      "name": "Deslocamento",
+      "type": "text",
+      "_id": "Kvfp8uNsvPdDs4Uk",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<p>Um personagem pode se deslocar de várias maneiras, todas baseadas no seu movimento convertido em metros por rodada.  Um humano normal se desloca andando até 9 metros por rodada.  Outros tipos de deslocamento são apresentados na tabela 6.2: Deslocamentos.</p>\n\n<div class=\"overflow-x-auto\">\n  <table>\n    <caption>Deslocamentos <span>tabela 6.2</span></caption>\n    <tbody>\n      <tr class=\"text-center\">\n        <td class=\"font-bold\">Correr</td>\n        <td>Dobro do Movimento por rodada</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"font-bold\">Escalar</td>\n        <td>Movimento menos 2 por rodada</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"font-bold\">Nadar</td>\n        <td>Metade do Movimento por rodada</td>\n      </tr>\n    </tbody>\n  </table>\n</div>\n\n<blockquote class=\"example\">\n  <p><strong>Exemplo:</strong> <em>um personagem com movimento 6 é capaz de se deslocar nadando até 3 metros por rodada. Este mesmo personagem com sobrecarga (penalidade de 3 no movimento) é capaz de escalar 1 metro por rodada ou correr 6 metros por rodada.</em></p>\n</blockquote>\n\n<h3 id=\"escalar\">Escalar</h3>\n\n<p>Quando os personagens precisam se deslocar sobre superfícies íngremes, será necessário escalar. Qualquer personagem é capaz de escalar sem que seja necessário um teste, desde que use equipamentos, como cordas, arpéu e ganchos.</p>\n\n<p><strong>Escalada Forçada:</strong> escaladas realizadas sem equipamentos; ou de superfícies lisas e escorregadias como paredes molhadas, com presença de musgos ou lodo; ou com angulação menores que 90º; ou usando qualquer tipo de armaduras; ou ainda em momentos de tensão como em combates ou fugas são realizadas por meio de um teste para cada rodada que permanecer escalando.</p>\n\n<blockquote class=\"highlighted\">\n  <p><strong>ESCALAR</strong> = 1-2 CHANCES DE 1D6</p>\n</blockquote>\n\n<ul>\n  <li><strong>Sucesso:</strong> o personagem escala totalmente a superfície desejada, deslocando seu movimento -2 a cada rodada.</li>\n  <li><strong>Falha:</strong> o personagem cairá da metade da altura total da escalada, recebendo 1d6 pontos de dano para cada 3 metros da queda.</li>\n</ul>\n\n<p><strong>Ladrões:</strong> testam seu talento apenas uma única vez para toda a escalada, deslocando seu movimento total por rodada. Uma escalada nunca é considerada forçada para um Ladrão, salvo a realizada com o uso de armaduras médias ou pesadas. Em caso de falha, Ladrões caem da metade da altura total da escalada, recebendo 1d6 pontos de dano para cada 5 metros da <a href=\"/livros/srd/capitulos/combate#queda\">queda</a>.</p>\n\n<p><strong>Bárbaros:</strong> escalam como Ladrões qualquer superfície natural como árvores, barrancos, encostas rochosas, escorregadias ou não, com 1-3 chances em 1d6. Em caso de falha, Bárbaros caem da metade da altura total da escalada, recebendo 1d6 pontos de dano para cada 3 metros da queda.</p>\n\n<h3 id=\"nadar\">Nadar</h3>\n\n<p>Eventualmente existirão situações nas quais um personagem precisará entrar na água para nadar. Assumimos que todos sabem nadar bem o suficiente para não se afogarem, a não ser que algo dificulte essa situação.</p>\n\n<p>Nenhum teste de natação é necessário para se deslocar metade do seu movimento, a não ser que alguma situação exija o contrário.</p>\n\n<p><strong>Sobrecarregado:</strong> personagens sobrecarregados possuem chance de <strong>1 em 1d6</strong> de se afogarem ao tentarem nadar.</p>\n\n<p><strong>Armaduras Pesadas:</strong> independentemente de estarem ou não sobrecarregados, personagens vestindo armaduras pesadas possuem chance de <strong>1 em 1d6</strong> de se afogarem ao tentarem nadar.</p>\n\n<p><strong>Águas Turbulentas:</strong> personagens nadando em um rio caudaloso ou lutando debaixo da água possuem chance de <strong>1-2 em 1d6</strong> de se afogarem ao tentarem nadar.</p>\n\n<blockquote class=\"example\">\n  <p><strong>Exemplo:</strong> <em>Um personagem sobrecarregado em águas turbulentas possui uma chance de se afogar de 1-3 em 1d6. Se além de sobrecarregado estiver usando Armadura Pesada, esta chance sobe para 1-4 em 1d6 ao tentar nadar.</em></p>\n</blockquote>\n\n<p><strong>Prender a Respiração:</strong> ao falhar na sua chance de nadar, um personagem consegue prender sua respiração enquanto luta contra o afogamento por uma rodada a cada 4 pontos de Constituição. Após este período, deve ser bem-sucedido em uma JPC a cada rodada ou se afogará. Personagens desacordados não podem prender a respiração e se afogarão imediatamente.</p>\n\n<blockquote class=\"example\">\n  <p><strong>Exemplo:</strong> <em>um personagem com Constituição 13 conseguiria prender a respiração por 3 rodadas. A partir da 4ª rodada, ele precisa ser bem-sucedido em uma JPC ou se afogará.</em></p>\n</blockquote>\n\n<p><strong>Afogamento:</strong> quando um personagem se afoga, ele já não consegue prender a respiração e inspira água para dentro dos pulmões. Ele deve ser tratado como um personagem morrendo, deve realizar um teste de <a href=\"/livros/srd/capitulos/combate#agonizando\">agonizar</a> para morrer apenas no final da próxima rodada.</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!QA57bQmVawCJxoOr.Kvfp8uNsvPdDs4Uk"
+    },
+    {
+      "sort": 5,
+      "name": "Ouvir Ruídos",
+      "type": "text",
+      "_id": "w5pjuhXLImfYCx4G",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<p>Durante uma aventura pode ser necessário que personagens tentem ouvir ruídos para evitar um ataque <a href=\"/livros/srd/capitulos/combate#surpresa\">surpresa</a> ou para localizar inimigos.</p>\n\n<p>Seja em ambiente natural ou nos corredores de uma masmorra, ouvir ruídos pode ser a diferença entre estar vivo ou morto.</p>\n\n<p>Para tentar ouvir ruídos, o personagem deve estar em um ambiente silencioso (como numa masmorra e sempre fora de um combate), ouvir algo como uma conversa do outro lado da porta ou sons de monstros se aproximando.</p>\n\n<blockquote class=\"highlighted\">\n  <p><strong>OUVIR RUÍDOS</strong> = CHANCE DE 1 EM <span class=\"blackbox\">1D6</span></p>\n</blockquote>\n\n<p><strong>Tentativas:</strong> a tentativa só pode ser feita uma única vez por personagem.</p>\n\n<p><strong>Mestre Testa:</strong> o teste de Ouvir Ruídos deve ser realizado em segredo pelo Mestre. A incerteza sobre saber se há ou não algo a ser ouvido faz parte da diversão.</p>\n\n<p><strong>Ladrões:</strong> possuem uma chance diferenciada de ouvir ruídos.</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!QA57bQmVawCJxoOr.w5pjuhXLImfYCx4G"
+    },
+    {
+      "sort": 6,
+      "name": "Esconder",
+      "type": "text",
+      "_id": "bjy6QIUkvdhNgSTn",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<p>Em algumas situações os personagens precisarão se esconder dos olhos de monstros, batedores ou guardas.</p>\n\n<p>Caso o Mestre entenda haver a possibilidade, um personagem pode usar algo para tentar se esconder. Entulhos, um beco escuro, uma pilastra, atrás de um tronco na trilha… Um personagem precisa sempre usar algum recurso para conseguir se esconder.</p>\n\n<blockquote class=\"highlighted\">\n  <p><strong>ESCONDER</strong> = CHANCE DE 1 EM <span class=\"blackbox\">1D6</span></p>\n</blockquote>\n\n<p><strong>Tentativas:</strong> a tentativa só pode ser feita uma única vez por personagem.</p>\n\n<p><strong>Mestre Testa:</strong> o teste de Esconder deve ser realizado em segredo pelo Mestre. A incerteza sobre saber se está ou não escondido faz parte da diversão.</p>\n\n<p><strong>Ladrões:</strong> um personagem escondido não se confunde com o talento <em>Furtividade</em> de um Ladrão, porque personagens escondidos precisam ficar imóveis, silenciosos e não podem realizar nenhuma outra ação sem que isso revele sua posição.</p>\n\n<p>Além disso, um personagem escondido pode ser encontrado caso alguém seja bem-sucedido em um teste de procurar, diferente do ocorrido com um Ladrão furtivo, que nenhum “Procurar” é capaz de revelar.</p>\n\n<p><strong>Ataque Furtivo:</strong> não é possível realizar ataques furtivos apenas se escondendo.</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!QA57bQmVawCJxoOr.bjy6QIUkvdhNgSTn"
+    },
+    {
+      "sort": 7,
+      "name": "Procurar",
+      "type": "text",
+      "_id": "1VR7OY3gferwDCMM",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<p>Constantemente um personagem pode sentir necessidade de realizar algum tipo de procura.</p>\n\n<p>De portas secretas a armadilhas em uma dungeon, uma trilha perdida ou uma erva de cura em uma planície deserta.</p>\n\n<p><strong>Área e tempo de Procura:</strong> Procurar leva tempo e o tempo é um recurso sempre escasso para um aventureiro. Procurar em uma área de 3 x 3 metros leva 10 minutos.</p>\n\n<p>Tente ser preciso ao selecionar o local da sua busca para não correr o risco de perder um tempo precioso nos lugares errados.</p>\n\n<blockquote class=\"highlighted\">\n  <p><strong>PROCURAR</strong> = CHANCE DE 1 EM <span class=\"blackbox\">1D6</span></p>\n</blockquote>\n\n<p><strong>Duração:</strong> procurar leva 1 turno inteiro.</p>\n\n<p><strong>Tentativas:</strong> a tentativa só pode ser feita uma única vez por personagem.</p>\n\n<p><strong>Mestre Testa:</strong> o teste de Procurar deve ser realizado em segredo pelo Mestre. A incerteza sobre saber se há ou não algo a ser encontrado faz parte da diversão.</p>\n\n<p><strong>Ladrões:</strong> um Procurar é capaz de encontrar um personagem escondido, mas não é capaz de revelar a localização de um Ladrão furtivo.</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!QA57bQmVawCJxoOr.1VR7OY3gferwDCMM"
+    },
+    {
+      "sort": 8,
+      "name": "Luz e Visibilidade",
+      "type": "text",
+      "_id": "MwA2eeJWIkUE5FqX",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<p>Aventureiros passam boa parte de suas carreiras em masmorras com pouca, ou nenhuma, luz natural.</p>\n\n<p>Nestas condições, dois fatores são importantes: as fontes de luz e a infravisão.</p>\n\n<h3 id=\"tochas\">Tochas</h3>\n\n<p>Iluminam uma área de 9 metros de raio por um período de 1 hora.</p>\n\n<p><strong>Tocha no chão:</strong> o alcance da iluminação de uma tocha é dado tendo em consideração alguém a segurando a uma distância do solo, entre 1 e 3 metros de altura. Caso seja necessário jogar a tocha no chão, como quando um arqueiro se livra da tocha para sacar e usar seu arco, as distâncias são reduzidas à metade. Uma tocha no chão ilumina apenas 4,5 metros de raio.</p>\n\n<p><strong>Tocha como arma:</strong> tochas podem ser usadas como armas. Se apagadas, devem ser tratadas como uma clava causando 1d4 de dano. Se acesas, passam a causar 1d6 de dano.</p>\n\n<h3 id=\"lamparina\">Lamparina</h3>\n\n<p>Iluminam uma área de 9 metros de raio por um período de 4 horas por frasco de óleo.</p>\n\n<p><strong>Lamparina no chão:</strong> ao cair no chão, a lamparina tem 1-3 chances em 1d6 de se apagar.</p>\n\n<h3 id=\"lanterna-furta-fogo\">Lanterna Furta-Fogo</h3>\n\n<p>Iluminam uma área cônica de 18 metros de distância do ponto de partida da luz, em uma área de até 9 metros de largura, por um período de 4 horas por frasco de óleo.</p>\n\n<p><strong>Abre e Fecha:</strong> este modelo de lanterna possui uma portinhola a qual pode ser usada para esconder sua luz caso seja necessário apagá-la e depois reacendê-la.</p>\n\n<h3 id=\"vela\">Vela</h3>\n\n<p>Iluminam uma área de 1 metro de raio por até duas horas.</p>\n\n<p><strong>Contando Tempo:</strong> velas podem ser usadas para contagem de tempo com o uso de pregos presos ao corpo da vela em espaços regulares e um prato de metal. Ao queimar, a vela soltará os pregos que baterão no prato marcando a passagem de tempo.</p>\n\n<h3 id=\"fogueiras\">Fogueiras</h3>\n\n<p>Iluminam uma área de 18 metros de raio por até 1d4+2 horas.</p>\n\n<p><strong>Acendendo Fogueiras:</strong> em algumas situações pode ser necessário um teste para acender fogueiras. Se o personagem dispõe de condições favoráveis (uma pederneira, tempo, condições climáticas e não há risco envolvido) o fogo é aceso automaticamente, sem a necessidade de teste.</p>\n\n<p>Se ao menos uma dessas condições não estiver presente, como a falta de uma pederneira, estarem com pressa, lenha molhada, sob chuva ou vento forte, ou no meio de um combate, o personagem tem uma chance de 1-2 em 1d6 de acender uma fogueira.</p>\n\n<h3 id=\"infravisao\">Infravisão</h3>\n\n<p>É um tipo de visão especial possuída por algumas raças como elfos, anões e alguns monstros a qual lhes permite enxergar na completa escuridão.</p>\n\n<p>A visão da infravisão funciona como uma espécie de visão térmica sendo irradiada dos corpos dos seres vivos, que são vistos como tons brilhantes, enquanto matéria não viva possui tons mais escuros.</p>\n\n<p><strong>Leitura:</strong> a interpretação dos diferentes níveis de cor não permite a visão de detalhes como letras ou números, tornando a leitura com infravisão impossível.</p>\n\n<p><strong>Escuridão Total:</strong> a infravisão precisa de ausência total de luz, qualquer fonte mais forte que a luz da lua e das estrelas é o suficiente para desabilitá-la.</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!QA57bQmVawCJxoOr.MwA2eeJWIkUE5FqX"
+    },
+    {
+      "sort": 9,
+      "name": "Masmorras",
+      "type": "text",
+      "_id": "wOypigzqmtGw5uZP",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<p>A masmorra é o principal local de aventuras dos heróis de níveis baixos. Ela é fonte de riquezas, perigos e proporcionará tudo o que o aventureiro precisa para ganhar experiência e evoluir como herói.</p>\n\n<p>O jeito mais simples de definir o que é uma masmorra, é um grupo de salas sequenciais, ligadas por corredores. Apesar de quase sempre serem subterrâneas, não necessariamente elas estarão abaixo da terra ou dentro de uma montanha.</p>\n\n<p>Podem ser cavernas, minas, salões construídos com tijolos e paredes. Podem ter sido cidades perdidas, templos, criptas, as prisões de uma fortaleza etc., suas formas são as mais variadas possíveis, mas em uma coisa todas elas convergem: são perigosas!</p>\n\n<p>A seguir teremos as principais regras envolvidas na exploração de masmorras.</p>\n\n<h3 id=\"sequencia-de-exploracao\">Sequência de Exploração</h3>\n\n<p>Quando os personagens estão dentro de uma masmorra, eles passam a seguir uma sequência de <a href=\"/livros/srd/capitulos/campanha#deslocamento-1\">exploração</a> que determina os acontecimentos possíveis dentro da masmorra.</p>\n\n<p>Dentro das masmorras, a contagem de tempo deve ser realizada em <a href=\"/livros/srd/capitulos/campanha#medindo-o-tempo\">turnos</a>. Um turno equivale a 10 minutos e possui a seguinte sequência de exploração:</p>\n\n<ol>\n  <li>\n    <p><strong>Encontro Aleatório:</strong> monstros podem ser encontrados;</p>\n  </li>\n  <li>\n    <p><strong>Ações dos Jogadores:</strong> jogadores decidem qual ação de exploração realizarão;</p>\n  </li>\n  <li>\n    <p><strong>Descrição:</strong> Mestre descreve as ações e seus resultados;</p>\n  </li>\n  <li>\n    <p><strong>Fim do Turno:</strong> Mestre faz checagens necessárias, aplica efeitos e o turno se encerra.</p>\n  </li>\n</ol>\n\n<p>Recomendamos o uso de um relógio de turno para controlar a passagem de tempo e os principais efeitos da passagem dos turnos durante uma aventura.</p>\n\n<p>Um relógio de turno perfeito para o Old Dragon possui 24 separações de turnos de 10 minutos, dando um total de 4 horas.</p>\n\n<p>Ele controla o uso de tochas (duração de 6 turnos), lanternas (24 turnos), descansos (ideal de 1 a cada 5 turnos) e a chance de um encontro aleatório ocorrer (chance de 1 em 1d6).</p>\n\n<p><img src=\"https://static.olddragon.com.br/digital_items_srd/relogio-de-turno.webp\" alt=\"Relógio de turno\" title=\"Relógio de Turno\" /></p>\n\n<p><strong>Encontro Aleatório:</strong> um encontro aleatório ocorre quando o grupo de aventureiros topa com um monstro errante vagando pela masmorra. Existe uma chance de 1 em 1d6 a cada 2 turnos de um encontro aleatório ocorrer.</p>\n\n<p>O tipo de monstro, suas quantidades e poderes serão determinados pelo Mestre, em segredo, de acordo com o nível da masmorra e a história da aventura.</p>\n\n<p>Barulhos altos e a presença de luz de tochas, de fogueiras ou de lanternas e lamparinas podem ampliar a chance de um encontro aleatório acontecer para uma chance de 1-2 em 1d6 a cada 2 turnos.</p>\n\n<p><strong>Ações dos Jogadores:</strong> a cada turno os jogadores podem escolher suas ações, o que farão individualmente ou como grupo. As principais ações disponíveis são: deslocar, procurar e descansar.</p>\n\n<p><strong>Descrição:</strong> com base nas ações escolhidas pelos jogadores, o Mestre descreve o que aconteceu. Se armadilhas foram encontradas ou acionadas, o que os personagens estão vendo, sentindo etc.</p>\n\n<p>Se um encontro aleatório ocorrer neste turno, o Mestre deve descrevê-lo e um combate poderá ser iniciado.</p>\n\n<p><strong>Fim do Turno:</strong> o Mestre faz as anotações necessárias da passagem de turno. Tochas queimadas ou frascos de óleo usados são contabilizados, duração de efeitos de magias são ajustados, pontos de vida são recuperados ou perdidos etc.</p>\n\n<h3 id=\"deslocamento\">Deslocamento</h3>\n\n<p>O <a href=\"/livros/srd/capitulos/campanha#deslocamento-1\">deslocamento</a> dentro de uma masmorra pode ocorrer com movimento normal ou de exploração.</p>\n\n<p><strong>Normal:</strong> o personagem se desloca normalmente na taxa de <a href=\"/livros/srd/capitulos/personagem#movimento-mv\">movimento</a> normal. Durante um turno de exploração, um personagem com movimento 9 pode se deslocar 750 metros e um personagem com movimento 6, até 500 metros.</p>\n\n<p><strong>Explorar:</strong> o movimento de exploração é realizado em masmorras a uma taxa de <strong>cinco vezes</strong> o movimento por turno.</p>\n\n<p>Um personagem com movimento 9, levaria 10 minutos para se deslocar 45 metros, já um personagem com movimento 6, se deslocaria apenas 30 metros.</p>\n\n<p>É feito com extremo cuidado, olhando onde se pisa, evitando movimentos bruscos e inspecionando ao máximo a área por onde se desloca em busca de armadilhas, passagens secretas e tentando ouvir ruídos para identificar a presença de inimigos próximos.</p>\n\n<p>É um tipo de deslocamento muito lento, podendo consumir muitos recursos do grupo por levarem um tempo muito grande para cobrir uma distância muito pequena, além de aumentar a chance de encontros aleatórios. Deve ser usado com moderação e cuidado.</p>\n\n<h3 id=\"descansar\">Descansar</h3>\n\n<p>Masmorras são exaustivas. Explorá-las é um processo tenso o qual mina as energias de um grupo.</p>\n\n<p>Por conta disso, os personagens precisam de 1 turno de descanso a cada 5 turnos de exploração e, se não descansarem, ficarão exaustos.</p>\n\n<p><strong>Exaustão:</strong> personagens <a href=\"/livros/srd/capitulos/campanha#exaustao\">exaustos</a> realizam todos os testes de atributo, Jogadas de Proteção ou ataques ajustados como <strong>difícil</strong> até descansarem por 1 turno para saírem do estado de exaustão.</p>\n\n<h3 id=\"portas\">Portas</h3>\n\n<p>Portas são itens comuns e frequentes durante uma exploração nas masmorras, mesmo quando seu personagem nem saiba que ela está ali.</p>\n\n<p>Portas podem estar trancadas, emperradas e podem precisar de Ladrões para arrombá-las ou força para derrubá-las.</p>\n\n<p><strong>Portas Trancadas</strong> podem ser abertas por Ladrões com o seu talento de arrombar, no entanto, qualquer pessoa com as ferramentas de Ladrão pode tentar abrir uma fechadura com uma chance de 1 em 1d6, levando, para isso, 1d8 +4 turnos.</p>\n\n<p>Portas com fechaduras arrombadas são abertas sem fazer barulho, mas uma tentativa fracassada elimina a possibilidade de surpreender quem está do outro lado.</p>\n\n<blockquote class=\"highlighted\">\n  <p><strong>ARROMBAR PORTAS TRANCADAS</strong> = CHANCE DE 1 EM <span class=\"blackbox\">1D6</span></p>\n</blockquote>\n\n<p><strong>Portas Emperradas</strong> sofreram com muito tempo de inatividade, estando com as dobradiças enferrujadas, soldadas e, portanto, precisam ser derrubadas.</p>\n\n<p>Para tentar derrubar uma porta, qualquer personagem possui uma chance de 1 em 1d6. O modificador base de Força deve ser somado à chance básica, ou seja, um personagem com Força 15 (modificador de +2) consegue abrir uma porta emperrada com uma chance de 1-3 em 1d6.</p>\n\n<blockquote class=\"highlighted\">\n  <p><strong>ABRIR PORTAS EMPERRADAS</strong> = CHANCE DE 1 + MOD. DE FORÇA EM <span class=\"blackbox\">1D6</span></p>\n</blockquote>\n\n<p>Portas emperradas abertas a força sempre produzem <strong>barulho</strong>, podendo aumentar a chance de atrair a atenção de monstros errantes no próximo turno.</p>\n\n<p><strong>Portas Secretas</strong> normalmente foram escondidas propositalmente ou estão ocultas por algum motivo. Não podem ser encontradas por ninguém a não ser que se procure no local correto.</p>\n\n<p>Alguém que procure uma porta no local correto, consegue encontrá-la com um resultado de 1 em 1d6 como um teste normal de procurar.</p>\n\n<blockquote class=\"highlighted\">\n  <p><strong>ENCONTRAR PORTA SECRETA</strong> = CHANCE DE 1 EM <span class=\"blackbox\">1D6</span></p>\n</blockquote>\n\n<p>Elfos possuem uma percepção natural para encontrar portas secretas, mesmo quando não procuram por uma. Ao passarem a até 6 metros de uma porta secreta, os elfos podem detectá-la com um resultado de 1 em 1d6 (rolado secretamente pelo Mestre).</p>\n\n<p>Caso um <strong>elfo</strong> esteja efetivamente <strong>procurando</strong> pela porta, essa chance sobe para um resultado de 1-2 em 1d6.</p>\n\n<h3 id=\"armadilhas\">Armadilhas</h3>\n\n<p>Muitas vezes as ruínas exploradas pelos aventureiros são habitadas por criaturas inteligentes as quais, para manter os estranhos afastados, protegem seu território armando armadilhas.</p>\n\n<p><strong>Duração:</strong> procurar armadilhas leva 1 turno inteiro.</p>\n\n<p><strong>Tentativas:</strong> a tentativa só pode ser feita uma única vez por personagem.</p>\n\n<p><strong>Mestre Testa:</strong> o teste de Procurar Armadilhas deve ser realizado em segredo pelo Mestre. A incerteza sobre saber se há ou não uma armadilha na área faz parte da diversão.</p>\n\n<blockquote class=\"highlighted\">\n  <p><strong>PROCURAR ARMADILHA</strong> = CHANCE DE 1 EM <span class=\"blackbox\">1D6</span></p>\n</blockquote>\n\n<p><strong>Ativar Armadilhas:</strong> um personagem não Ladrão que procura uma armadilha acionará seu gatilho acidentalmente caso obtenha um resultado 6 no teste.</p>\n\n<p><strong>Desarmar Armadilhas</strong> é uma tarefa técnica a qual apenas um Ladrão treinado consegue realizar em segurança e silêncio. Qualquer pessoa pode localizar uma armadilha e, até mesmo, identificar seu mecanismo de funcionamento, evitando que seu gatilho seja acionado e, assim, que a armadilha seja disparada acidentalmente.</p>\n\n<p><strong>Ladrões:</strong> possuem chances diferenciadas de procurar e até de desarmar uma armadilha em segurança.</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!QA57bQmVawCJxoOr.wOypigzqmtGw5uZP"
+    },
+    {
+      "sort": 10,
+      "name": "Aventuras nos Ermos",
+      "type": "text",
+      "_id": "WsFQ53k7f7JWApR6",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<p>Criar aventuras nos ermos pode ser mais interessante do que parece. Andar por regiões selvagens e remotas onde não há ninguém para lhe ouvir pedindo socorro. Rodar lugares inexplorados e repletos de monstros errantes. Tudo isso adiciona aquela cor de descobrimento tão empolgante em aventuras de RPG.</p>\n\n<h3 id=\"movimentacao-de-viagens\">Movimentação de Viagens</h3>\n\n<p>Aventureiros costumam percorrer grandes distâncias, viajando de um lado a outro quando adentram os ermos. A movimentação de viagem é usada para calcular o deslocamento de grandes distâncias por dia, e usa uma unidade própria do Old Dragon 2: os hexágonos ou simplesmente <strong>Hex</strong>.</p>\n\n<p>Um personagem com movimentação 9 é capaz de transpor 9 Hex de planícies por dia de viagem. Um personagem com movimentação 6 é capaz de transpor 6 Hex de planícies por dia. Apenas para efeitos de entendimento: um Hex tem em média 6 km entre seus lados, o que faz um personagem com deslocamento 9 conseguir se deslocar até 54 km por dia.</p>\n\n<p><strong>Carga e Viagem:</strong> personagens com sobrecarga perdem 3 pontos em sua movimentação, fazendo com que o viajar seja mais lento do que seria sem sobrecarga. Além disso, terrenos mais acidentados e difíceis de transpor, ou viajar por estradas e trilhas, interferem na velocidade da viagem por possuírem custos maiores em movimentação de viagem. A Tabela 6.12: Viagens dá mais detalhes.</p>\n\n<div class=\"overflow-x-auto\">\n  <table>\n    <caption>Viagens <span>tabela 6.12</span></caption>\n    <thead>\n      <tr>\n        <th class=\"text-left\">Terreno</th>\n        <th>Custo no Movimento</th>\n        <th>Chance de se Perder</th>\n        <th>Chance de encontrar comida</th>\n        <th>Chance de Encontros</th>\n      </tr>\n    </thead>\n    <tbody>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Planície</td>\n        <td>1</td>\n        <td>1 em 1d6</td>\n        <td>1-4 em 1d6</td>\n        <td>1 em 1d6</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Colina</td>\n        <td>2</td>\n        <td>1 em 1d6</td>\n        <td>1-4 em 1d6</td>\n        <td>1 em 1d6</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Floresta</td>\n        <td>2</td>\n        <td>1-2 em 1d6</td>\n        <td>1-4 em 1d6</td>\n        <td>1 em 1d10</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Deserto</td>\n        <td>2</td>\n        <td>1-2 em 1d6</td>\n        <td>1 em 1d6</td>\n        <td>1 em 1d8</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Geleira</td>\n        <td>3</td>\n        <td>1-2 em 1d6</td>\n        <td>1 em 1d6</td>\n        <td>1 em 1d8</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Pântano</td>\n        <td>3</td>\n        <td>1-2 em 1d6</td>\n        <td>1-3 em 1d6</td>\n        <td>1 em 1d8</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Montanha</td>\n        <td>4</td>\n        <td>1 em 1d6</td>\n        <td>1-2 em 1d6</td>\n        <td>1 em 1d10</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">em trilha</td>\n        <td>reduz custo em 1</td>\n        <td>-1 em 1d6</td>\n        <td>-</td>\n        <td>-</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">em estrada</td>\n        <td>reduz custo em 2</td>\n        <td>-</td>\n        <td>-</td>\n        <td>-</td>\n      </tr>\n    </tbody>\n  </table>\n</div>\n\n<p><strong>Custo no Movimento:</strong> todo hexágono para ser adentrado possui um custo de acordo com a sua dificuldade em ser adentrado. Um personagem com movimento de viagem 6 gasta, por exemplo, 4 pontos de movimentação para entrar em um HEX de montanha. Como sobram apenas 2 pontos da sua movimentação de viagem diária (6 - 4 = 2), ele não consegue adentrar um novo HEX neste dia.</p>\n\n<p><strong>Trilhas e estradas</strong> reduzem os modificadores dos terrenos, tornando os caminhos mais fáceis de serem transpostos. O valor mínimo de um custo é 1 e nunca menos do que isso. Uma planície transposta em uma estrada possui custo de movimento de 1 e não de -1.</p>\n\n<blockquote class=\"example\">\n  <p><strong>Exemplo:</strong> <em>ao interpretar a Tabela 6.12: Viagens, se conclui que um anão com movimento 6 atravessando um pântano (custo de 3) por meio de uma trilha (-1, totalizando custo de 2), conseguiria percorrer apenas 3 hexágonos de pântano nesta trilha por dia, uma vez que cada hexágono custaria 2 e ele dispõe de 6 pontos para gastar.</em></p>\n\n  <p><em>Já um humano com sobrecarga (movimento 6) atravessando uma planície (custo 1) em uma estrada (+2) consegue transpor em um dia completo de caminhada 6 hexágonos.</em></p>\n</blockquote>\n\n<p><strong>Mínimo movimento:</strong> mesmo que qualquer fator transforme a movimentação de viagem de um personagem em um valor igual ou menor que zero, ela deve ser sempre considerada 1. Por pior que sejam as condições, um personagem sempre conseguirá se deslocar andando o mínimo de 6 quilômetros por dia.</p>\n\n<p><strong>Marcha</strong> faz com que personagens consigam viajar em períodos longos em um ritmo acelerado, ampliando sua taxa de movimentação em 50%. Uma marcha forçada só pode ser mantida por um dia de viagem, e necessita de 12 horas de descanso (ao contrário das 8 normalmente exigida de personagens viajando em ritmo normal) para os personagens não ficarem fadigados. Assim, um anão com movimento 6 (6 Hex por dia de viagem), pode se movimentar em marcha forçada até 9 Hex em um único dia, ainda que no dia seguinte precise de 4 horas a mais descanso.</p>\n\n<h3 id=\"perdendo-se\">Perdendo-se</h3>\n\n<p>A tabela 6.12 traz valores de referência de chance de se perder. Caso os personagens estejam andando em terreno desconhecido e fora de uma estrada sem a companhia de um guia ou mapa confiável, a chance de se perderem é real.</p>\n\n<p>Uma vez ao dia, o Mestre joga secretamente 1d6 e compara com o resultado da tabela 6.12, de acordo com o terreno percorrido (uma chance de 0 em 1d6 ou menor significa que não é possível se perder, sendo desnecessário o teste).</p>\n\n<p>Caso o teste mostre que os personagens estão perdidos, o Mestre deve escolher uma direção aleatória para onde eles estão realmente viajando. Idealmente a direção deve ser levemente fora do curso, uma vez que com a posição do sol e das estrelas até o mais iniciante dos aventureiros consegue identificar os 4 pontos cardeais. Um personagem Ranger nunca se perde em ambientes selvagens.</p>\n\n<h3 id=\"conseguindo-comida\">Conseguindo Comida</h3>\n\n<p>A tabela 6.12 traz também a chance de encontrar comida em ambientes naturais. Uma falha no teste significa que os personagens não conseguiram encontrar frutos, raízes, folhagens ou animal para caça.</p>\n\n<p>Devem consumir suas rações de viagem ou começam a sofrer os efeitos da inanição.</p>\n\n<p>Um personagem precisa de 1 litro de água por dia para afastar os efeitos de uma desidratação e ao menos 500g de comida diariamente para não sofrer com os efeitos da inanição.</p>\n\n<p><strong>Rangers</strong> em ambientes ermos possuem chances diferenciadas de encontrar comida para si e para seu grupo de viagem.</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!QA57bQmVawCJxoOr.WsFQ53k7f7JWApR6"
+    },
+    {
+      "sort": 11,
+      "name": "Inanição e Desidratação",
+      "type": "text",
+      "_id": "uizouvJ4xnlmfVKb",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<p>Qualquer personagem que fique um dia inteiro sem comer/beber tem uma chance de 1 em 1d6 por dia de sofrer os efeitos da inanição/desidratação. Caso fique sem comer/beber por 4 dias, essa chance sobe para 1-4 em 1d6.</p>\n\n<ul>\n  <li><strong>Sucesso:</strong> nada acontece. Caso o personagem fique mais um dia sem comer/beber, deve realizar novamente o teste com penalidade cumulativa.</li>\n  <li><strong>Fracasso:</strong> o personagem passa a sofrer os efeitos da inanição/desidratação. Novos testes não são mais necessários até todos os efeitos serem recuperados. Apenas comer/beber interrompem os efeitos.</li>\n</ul>\n\n<p>Uma vez que comece a sofrer destes efeitos, um personagem perde 1 na sua movimentação e recebe uma penalidade de 1 em todos os seus testes, cumulativamente. Um personagem que falhe no teste estando sem comer/beber por 3 dias recebe uma penalidade de 3 no seu movimento e -3 em todos os seus testes durante este dia.</p>\n\n<p><strong>Morrendo:</strong> quando o personagem acumula 5 dias seguidos de inanição/desidratação ele deve realizar diariamente uma JPC para não morrer.</p>\n\n<p><strong>Recuperação:</strong> um personagem que come/bebe sem ter falhado no teste, não precisa de mais testes neste dia e reinicia sua contagem de modificadores negativos por novos dias sem comer/beber.</p>\n\n<p>Se o personagem come/bebe após ter falhado no teste, recupera 1 dos seus penalizadores e deve continuar comendo/bebendo até seus penalizadores serem reduzidos a zero. Neste ponto, ele estará livre da inanição/desidratação.</p>\n\n<h3 id=\"acampamentos\">Acampamentos</h3>\n\n<p>Locais ermos e selvagens estão longe de cidades e vilas e, consequentemente, das tavernas e hospedarias.</p>\n\n<p>Escolher um lugar seguro ou menos exposto para montar acampamento e passar a noite pode significar a diferença entre morte e vida para um grupo de aventureiros.</p>\n\n<p>Ao final de cada dia de viagem nos ermos, os jogadores precisam encontrar um local para parar, montar acampamento e se preparar para o dia seguinte.</p>\n\n<p>Durante um acampamento, os personagens podem descansar, dormir, curar ferimentos, comer, preparar magias e discutir a estratégia e os planos para o dia seguinte.</p>\n\n<p>Um acampamento pode ser dividido em normal ou seguro.</p>\n\n<p><strong>Normal:</strong> é criado por qualquer personagem que não possua uma habilidade de criar um Acampamento Seguro. São erguidos em locais não tão protegidos e com técnicas não tão protetoras. Podem estar em clareiras que também servem como passagens de animais, em corredores de vento que levam o cheiro do grupo para predadores ou estarem muito expostos. Um Acampamento Normal possui 1-3 chances em 1d6 de resultar em um encontro aleatório durante a noite.</p>\n\n<p><strong>Seguro:</strong> é criado por personagens que sabem como se virar nos ermos, como Druidas e Rangers. São erguidos em locais com pouca chance de atrair inimigos e animais. Possuem faces protegidas do vento e escondem as chamas da fogueira de observadores desatentos. Um Acampamento Seguro possui 1 chance em 1d6 de resultar em um encontro aleatório durante a noite.</p>\n\n<h3 id=\"encontros\">Encontros</h3>\n\n<p>A tabela 6.12 apresenta na sua coluna Chance de Encontros uma chance básica diária de encontros de acordo com o tipo de terreno percorrido. Ela varia de acordo com o terreno e a facilidade de encontrar um grupo inimigo. Locais mais amplos e com melhor visão usam d6, locais mais fechados com alguns lugares de visão do horizonte usam d8, e lugares muito densos e sem nenhuma ou pouca visão do horizonte usam d10.</p>\n\n<p><strong>Periculosidade:</strong> outro fator incidente na chance de um encontro ocorrer é a periculosidade.</p>\n\n<ul>\n  <li><strong>Locais Normais</strong> possuem 1 chance de ocorrer um encontro;</li>\n  <li><strong>Locais Perigosos</strong> possuem 1-2 chances de ocorrer um encontro;</li>\n  <li><strong>Locais Extremos</strong> possuem 1-3 chances de ocorrer um encontro.</li>\n</ul>\n\n<blockquote class=\"example\">\n  <p><strong>Exemplo:</strong> <em>uma área de planície (d6) extrema (1-3 chances) possui uma chance de 1-3 em 1d6 de que um encontro ocorra a cada dia. Em contrapartida, uma área montanhosa (d10) e perigosa (2) possui 1-2 chances em 1d10 de que um encontro ocorra a cada dia.</em></p>\n</blockquote>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!QA57bQmVawCJxoOr.uizouvJ4xnlmfVKb"
+    },
+    {
+      "sort": 12,
+      "name": "Contratando",
+      "type": "text",
+      "_id": "eYSfvu7112ABuSPN",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<p>Durante as aventuras, é provável que os personagens dos jogadores precisem contratar os serviços de outros personagens, sejam eles especialistas, mercenários, aprendizes ou ajudantes.</p>\n\n<p><strong>Especialistas:</strong> são variados tipos de personagens não voltados para o combate e disponíveis para contratação, com conhecimento técnico em uma área relevante e para uma tarefa específica.<br />\n<strong>Mercenários:</strong> são combatentes contratados para a formação de uma força bélica auxiliar. Farão serviços de vigia, patrulha e proteção de um grupo de aventureiros quando isso se mostrar necessário.<br />\n<strong>Aprendizes:</strong> são futuros aventureiros, personagens os quais já receberam parte do seu treinamento, mas não possuem <a href=\"/livros/srd/capitulos/mestrando#evoluindo-personagens\">experiência</a> o suficiente para atingirem o primeiro nível.<br />\n<strong>Ajudantes:</strong> são a mão de obra menos especializada e barata. São usados quase sempre para serviços menos qualificados e trabalhos mais braçais.</p>\n\n<h3 id=\"alquimista\">Alquimista</h3>\n\n<p>Especialistas contratados para estudos das substâncias, confecções de poções, venenos e antídotos não mágicos.</p>\n\n<p>Um alquimista é capaz de fazer uma réplica idêntica das poções não mágicas, com os mesmos efeitos e pela metade do preço cobrado por um Mago ou Clérigo.</p>\n\n<p>O valor pago ao alquimista não inclui o material necessário para as poções.</p>\n\n<p><strong>Custo:</strong> 250 PO por semana.</p>\n\n<h3 id=\"engenheiro\">Engenheiro</h3>\n\n<p>Especialistas contratados para a construção de projetos de alvenaria como fortes, torres, fortalezas, castelos, muralhas, pontes etc. Além do projeto, são também responsáveis pela administração da planta de construção, contratação de trabalhadores, negociação com guildas de artífices e compra dos materiais.</p>\n\n<p><strong>Custo:</strong> 185 PO por semana.</p>\n\n<h3 id=\"espiao\">Espião</h3>\n\n<p>Especialistas contratados para alguns serviços específicos como vigiar os passos de uma pessoa, interceptar uma mensagem importante ou se infiltrar dentro de um grupo a ser espionado.</p>\n\n<p>Estes especialistas trabalham essencialmente pelo dinheiro e não pensarão duas vezes em trocar de patrono caso o outro lado ofereça uma proposta melhor, motivo pelo qual são caros e bem pagos.</p>\n\n<p><strong>Custo:</strong> 125 PO por semana.</p>\n\n<h3 id=\"capitao\">Capitão</h3>\n\n<p>Especialistas contratados para conduzir embarcações por rios e oceanos. Conhecem todos os meandros da navegação e, normalmente, possuem uma embarcação e uma tripulação própria.</p>\n\n<p>Membros de uma tripulação podem usar armas para se defender, porém não são combatentes muito efetivos.</p>\n\n<p>Seu custo é calculado de acordo com o tamanho da embarcação e da tripulação necessária para operar o navio e pela duração da viagem sendo, no mínimo, o valor de uma semana.</p>\n\n<p><strong>Custo:</strong> Capitão (70 PO por semana), Remador (5 PC por semana), Marinheiro (1 PO por semana)</p>\n\n<h3 id=\"sabio\">Sábio</h3>\n\n<p>Especialistas em alguma área de conhecimento teórico como geografia, história, idiomas, biologia etc.  Quase sempre são encontrados em grandes cidades, em seu entorno ou estabelecimentos de ensino como professores.</p>\n\n<p>Podem ser contratados para pesquisas específicas, e o custo e prazo do serviço dependerá do tipo de pergunta feita ao sábio.</p>\n\n<p><strong>Perguntas Simples:</strong> “⏤ <em>O que foi o grande êxodo?</em>” Levam 1d8 horas para serem pesquisadas a um custo de 50 PO por hora.</p>\n\n<p><strong>Perguntas Gerais:</strong> “⏤ <em>Qual o papel dos acólitos vermelhos no grande êxodo da 2ª Era?</em>” Levam 1d6 dias para serem pesquisadas e custam 100 PO por dia.</p>\n\n<p><strong>Perguntas Específicas:</strong> “⏤ <em>O acólito vermelho Ragandar matou sua esposa no eclipse do grande êxodo da 2ª Era?</em>” Levam 1d4 semanas para serem pesquisadas e custam 500 PO por semana.</p>\n\n<h3 id=\"mercenarios\">Mercenários</h3>\n\n<p>Combatentes contratados para serviços militares, sem atrelar sua lealdade ao seu patrono.</p>\n\n<p>Ao estarem em um grupo com mais de seis homens, deverão ser comandados por um mercenário mais experiente no cargo de sargento com um adicional de 50% no salário.</p>\n\n<p>Além de receberem seus pagamentos, mercenários recebem alimentação e hospedagem, acrescentando ao seu custo 1 PO adicional por homem contratado.</p>\n\n<p><strong>Custo:</strong> é definido pelo tipo de unidade contratada. O menor prazo possível para contratação é um mês.</p>\n\n<h4 id=\"arqueiro\">Arqueiro</h4>\n<div class=\"relative mx-auto p-2 bg-cinza-300 md:mx-52 lg:mx-56 xl:mx-72\" data-controller=\"linker\" data-linker-url-value=\"/monstros/arqueiro-mercenario\" data-linker-text-value=\"Arqueiro (mercenário)\" data-linker-link-class=\"absolute text-sm -bottom-6 right-0\">\n  \n  <div class=\"flex flex-wrap justify-between w-full\">\n    <div class=\"uppercase\">\n      <strong>\n        Arqueiro (mercenário)\n      </strong>\n    </div>\n    <div class=\"flex gap-1\">\n      <div>\n        <em>\n          M\n          –\n          N\n        </em>\n      </div>\n      <div>\n        <em>\n          [15XP]\n        </em>\n      </div>\n    </div>\n  </div>\n  <hr class=\"my-1 h-px bg-black border-0\" />\n  \n  <div class=\"mx-1 flex flex-wrap justify-between\">\n    <div class=\"flex items-center gap-x-1\">\n      <div class=\"text-xs -translate-y-1\"><strong>DV</strong></div>\n      <div class=\"text-lg\">1 [5]</div>\n    </div>\n    <div class=\"flex items-center gap-x-1\">\n      <div class=\"text-xs -translate-y-1\"><strong>CA</strong></div>\n      <div class=\"text-lg\">12</div>\n    </div>\n    <div class=\"flex items-center gap-x-1\">\n      <div class=\"text-xs -translate-y-1\"><strong>JP</strong></div>\n      <div class=\"text-lg\">5</div>\n    </div>\n    <div class=\"flex items-center gap-x-1\">\n      <div class=\"text-xs -translate-y-1\"><strong>MV</strong></div>\n      <div class=\"text-lg\">9</div>\n    </div>\n    <div class=\"flex items-center gap-x-1\">\n      <div class=\"text-xs -translate-y-1\"><strong>MO</strong></div>\n      <div class=\"text-lg\">8</div>\n    </div>\n  </div>\n  <hr class=\"my-1 h-px bg-black border-0\" />\n  \n  <div class=\"mx-2\">\n    \n      <div>1 × arco curto + 1 (1d8)</div>\n    \n      <div>1 × espada curta + 1 (1d6)</div>\n    \n  </div>\n  <hr class=\"my-1 h-px bg-black border-0\" />\n  \n  <p class=\"mx-2\">\n    <em>\n      \n    </em>\n  </p>\n  \n  <div class=\"mx-2\">\n    \n      <ul class=\"odo-ul\">\n        \n          <li>Custo: 4PO por mês.</li>\n        \n      </ul>\n    \n  </div>\n</div>\n\n<h4 id=\"besteiro\">Besteiro</h4>\n<div class=\"relative mx-auto p-2 bg-cinza-300 md:mx-52 lg:mx-56 xl:mx-72\" data-controller=\"linker\" data-linker-url-value=\"/monstros/besteiro-mercenario\" data-linker-text-value=\"Besteiro (mercenário)\" data-linker-link-class=\"absolute text-sm -bottom-6 right-0\">\n  \n  <div class=\"flex flex-wrap justify-between w-full\">\n    <div class=\"uppercase\">\n      <strong>\n        Besteiro (mercenário)\n      </strong>\n    </div>\n    <div class=\"flex gap-1\">\n      <div>\n        <em>\n          M\n          –\n          N\n        </em>\n      </div>\n      <div>\n        <em>\n          [15XP]\n        </em>\n      </div>\n    </div>\n  </div>\n  <hr class=\"my-1 h-px bg-black border-0\" />\n  \n  <div class=\"mx-1 flex flex-wrap justify-between\">\n    <div class=\"flex items-center gap-x-1\">\n      <div class=\"text-xs -translate-y-1\"><strong>DV</strong></div>\n      <div class=\"text-lg\">1 [5]</div>\n    </div>\n    <div class=\"flex items-center gap-x-1\">\n      <div class=\"text-xs -translate-y-1\"><strong>CA</strong></div>\n      <div class=\"text-lg\">13</div>\n    </div>\n    <div class=\"flex items-center gap-x-1\">\n      <div class=\"text-xs -translate-y-1\"><strong>JP</strong></div>\n      <div class=\"text-lg\">5</div>\n    </div>\n    <div class=\"flex items-center gap-x-1\">\n      <div class=\"text-xs -translate-y-1\"><strong>MV</strong></div>\n      <div class=\"text-lg\">9</div>\n    </div>\n    <div class=\"flex items-center gap-x-1\">\n      <div class=\"text-xs -translate-y-1\"><strong>MO</strong></div>\n      <div class=\"text-lg\">8</div>\n    </div>\n  </div>\n  <hr class=\"my-1 h-px bg-black border-0\" />\n  \n  <div class=\"mx-2\">\n    \n      <div>1 × besta + 1 (1d6)</div>\n    \n      <div>1 × espada curta + 1 (1d6)</div>\n    \n  </div>\n  <hr class=\"my-1 h-px bg-black border-0\" />\n  \n  <p class=\"mx-2\">\n    <em>\n      \n    </em>\n  </p>\n  \n  <div class=\"mx-2\">\n    \n      <ul class=\"odo-ul\">\n        \n          <li>Custo: 5PO por mês.</li>\n        \n      </ul>\n    \n  </div>\n</div>\n\n<h4 id=\"cavaleiro-leve\">Cavaleiro Leve</h4>\n<div class=\"relative mx-auto p-2 bg-cinza-300 md:mx-52 lg:mx-56 xl:mx-72\" data-controller=\"linker\" data-linker-url-value=\"/monstros/cavaleiro-leve-mercenario\" data-linker-text-value=\"Cavaleiro leve (mercenário)\" data-linker-link-class=\"absolute text-sm -bottom-6 right-0\">\n  \n  <div class=\"flex flex-wrap justify-between w-full\">\n    <div class=\"uppercase\">\n      <strong>\n        Cavaleiro leve (mercenário)\n      </strong>\n    </div>\n    <div class=\"flex gap-1\">\n      <div>\n        <em>\n          M\n          –\n          N\n        </em>\n      </div>\n      <div>\n        <em>\n          [25XP]\n        </em>\n      </div>\n    </div>\n  </div>\n  <hr class=\"my-1 h-px bg-black border-0\" />\n  \n  <div class=\"mx-1 flex flex-wrap justify-between\">\n    <div class=\"flex items-center gap-x-1\">\n      <div class=\"text-xs -translate-y-1\"><strong>DV</strong></div>\n      <div class=\"text-lg\">1 [5]</div>\n    </div>\n    <div class=\"flex items-center gap-x-1\">\n      <div class=\"text-xs -translate-y-1\"><strong>CA</strong></div>\n      <div class=\"text-lg\">14</div>\n    </div>\n    <div class=\"flex items-center gap-x-1\">\n      <div class=\"text-xs -translate-y-1\"><strong>JP</strong></div>\n      <div class=\"text-lg\">5</div>\n    </div>\n    <div class=\"flex items-center gap-x-1\">\n      <div class=\"text-xs -translate-y-1\"><strong>MV</strong></div>\n      <div class=\"text-lg\">18</div>\n    </div>\n    <div class=\"flex items-center gap-x-1\">\n      <div class=\"text-xs -translate-y-1\"><strong>MO</strong></div>\n      <div class=\"text-lg\">9</div>\n    </div>\n  </div>\n  <hr class=\"my-1 h-px bg-black border-0\" />\n  \n  <div class=\"mx-2\">\n    \n      <div>1 × lança longa + 1 (1d8+1)</div>\n    \n      <div>1 × espada longa + 1 (1d8+1)</div>\n    \n  </div>\n  <hr class=\"my-1 h-px bg-black border-0\" />\n  \n  <p class=\"mx-2\">\n    <em>\n      \n    </em>\n  </p>\n  \n  <div class=\"mx-2\">\n    \n      <ul class=\"odo-ul\">\n        \n          <li>Montado: cavalo de guerra.</li>\n        \n          <li>Custo: 10PO por mês.</li>\n        \n      </ul>\n    \n  </div>\n</div>\n\n<h4 id=\"cavaleiro-de-guerra\">Cavaleiro de Guerra</h4>\n<div class=\"relative mx-auto p-2 bg-cinza-300 md:mx-52 lg:mx-56 xl:mx-72\" data-controller=\"linker\" data-linker-url-value=\"/monstros/cavaleiro-de-guerra-mercenario\" data-linker-text-value=\"Cavaleiro de guerra (mercenário)\" data-linker-link-class=\"absolute text-sm -bottom-6 right-0\">\n  \n  <div class=\"flex flex-wrap justify-between w-full\">\n    <div class=\"uppercase\">\n      <strong>\n        Cavaleiro de guerra (mercenário)\n      </strong>\n    </div>\n    <div class=\"flex gap-1\">\n      <div>\n        <em>\n          M\n          –\n          N\n        </em>\n      </div>\n      <div>\n        <em>\n          [50XP]\n        </em>\n      </div>\n    </div>\n  </div>\n  <hr class=\"my-1 h-px bg-black border-0\" />\n  \n  <div class=\"mx-1 flex flex-wrap justify-between\">\n    <div class=\"flex items-center gap-x-1\">\n      <div class=\"text-xs -translate-y-1\"><strong>DV</strong></div>\n      <div class=\"text-lg\">2 [10]</div>\n    </div>\n    <div class=\"flex items-center gap-x-1\">\n      <div class=\"text-xs -translate-y-1\"><strong>CA</strong></div>\n      <div class=\"text-lg\">17</div>\n    </div>\n    <div class=\"flex items-center gap-x-1\">\n      <div class=\"text-xs -translate-y-1\"><strong>JP</strong></div>\n      <div class=\"text-lg\">5</div>\n    </div>\n    <div class=\"flex items-center gap-x-1\">\n      <div class=\"text-xs -translate-y-1\"><strong>MV</strong></div>\n      <div class=\"text-lg\">16</div>\n    </div>\n    <div class=\"flex items-center gap-x-1\">\n      <div class=\"text-xs -translate-y-1\"><strong>MO</strong></div>\n      <div class=\"text-lg\">9</div>\n    </div>\n  </div>\n  <hr class=\"my-1 h-px bg-black border-0\" />\n  \n  <div class=\"mx-2\">\n    \n      <div>1 × lança longa + 2 (1d8+1)</div>\n    \n      <div>1 × espada bastarda + 2 (1d8+1)</div>\n    \n  </div>\n  <hr class=\"my-1 h-px bg-black border-0\" />\n  \n  <p class=\"mx-2\">\n    <em>\n      \n    </em>\n  </p>\n  \n  <div class=\"mx-2\">\n    \n      <ul class=\"odo-ul\">\n        \n          <li>Montado: cavalo de guerra.</li>\n        \n          <li>Custo: 20PO por mês.</li>\n        \n      </ul>\n    \n  </div>\n</div>\n\n<h4 id=\"piqueiro\">Piqueiro</h4>\n<div class=\"relative mx-auto p-2 bg-cinza-300 md:mx-52 lg:mx-56 xl:mx-72\" data-controller=\"linker\" data-linker-url-value=\"/monstros/piqueiro-mercenario\" data-linker-text-value=\"Piqueiro (mercenário)\" data-linker-link-class=\"absolute text-sm -bottom-6 right-0\">\n  \n  <div class=\"flex flex-wrap justify-between w-full\">\n    <div class=\"uppercase\">\n      <strong>\n        Piqueiro (mercenário)\n      </strong>\n    </div>\n    <div class=\"flex gap-1\">\n      <div>\n        <em>\n          M\n          –\n          N\n        </em>\n      </div>\n      <div>\n        <em>\n          [15XP]\n        </em>\n      </div>\n    </div>\n  </div>\n  <hr class=\"my-1 h-px bg-black border-0\" />\n  \n  <div class=\"mx-1 flex flex-wrap justify-between\">\n    <div class=\"flex items-center gap-x-1\">\n      <div class=\"text-xs -translate-y-1\"><strong>DV</strong></div>\n      <div class=\"text-lg\">1 [5]</div>\n    </div>\n    <div class=\"flex items-center gap-x-1\">\n      <div class=\"text-xs -translate-y-1\"><strong>CA</strong></div>\n      <div class=\"text-lg\">12</div>\n    </div>\n    <div class=\"flex items-center gap-x-1\">\n      <div class=\"text-xs -translate-y-1\"><strong>JP</strong></div>\n      <div class=\"text-lg\">5</div>\n    </div>\n    <div class=\"flex items-center gap-x-1\">\n      <div class=\"text-xs -translate-y-1\"><strong>MV</strong></div>\n      <div class=\"text-lg\">9</div>\n    </div>\n    <div class=\"flex items-center gap-x-1\">\n      <div class=\"text-xs -translate-y-1\"><strong>MO</strong></div>\n      <div class=\"text-lg\">8</div>\n    </div>\n  </div>\n  <hr class=\"my-1 h-px bg-black border-0\" />\n  \n  <div class=\"mx-2\">\n    \n      <div>1 × pique + 1 (1d10)</div>\n    \n      <div>1 × espada curta + 1 (1d6)</div>\n    \n  </div>\n  <hr class=\"my-1 h-px bg-black border-0\" />\n  \n  <p class=\"mx-2\">\n    <em>\n      \n    </em>\n  </p>\n  \n  <div class=\"mx-2\">\n    \n      <ul class=\"odo-ul\">\n        \n          <li>Custo: 3PO por mês.</li>\n        \n      </ul>\n    \n  </div>\n</div>\n\n<h4 id=\"soldado-leve\">Soldado Leve</h4>\n<div class=\"relative mx-auto p-2 bg-cinza-300 md:mx-52 lg:mx-56 xl:mx-72\" data-controller=\"linker\" data-linker-url-value=\"/monstros/soldado-leve-mercenario\" data-linker-text-value=\"Soldado leve (mercenário)\" data-linker-link-class=\"absolute text-sm -bottom-6 right-0\">\n  \n  <div class=\"flex flex-wrap justify-between w-full\">\n    <div class=\"uppercase\">\n      <strong>\n        Soldado leve (mercenário)\n      </strong>\n    </div>\n    <div class=\"flex gap-1\">\n      <div>\n        <em>\n          M\n          –\n          N\n        </em>\n      </div>\n      <div>\n        <em>\n          [15XP]\n        </em>\n      </div>\n    </div>\n  </div>\n  <hr class=\"my-1 h-px bg-black border-0\" />\n  \n  <div class=\"mx-1 flex flex-wrap justify-between\">\n    <div class=\"flex items-center gap-x-1\">\n      <div class=\"text-xs -translate-y-1\"><strong>DV</strong></div>\n      <div class=\"text-lg\">1 [5]</div>\n    </div>\n    <div class=\"flex items-center gap-x-1\">\n      <div class=\"text-xs -translate-y-1\"><strong>CA</strong></div>\n      <div class=\"text-lg\">13</div>\n    </div>\n    <div class=\"flex items-center gap-x-1\">\n      <div class=\"text-xs -translate-y-1\"><strong>JP</strong></div>\n      <div class=\"text-lg\">5</div>\n    </div>\n    <div class=\"flex items-center gap-x-1\">\n      <div class=\"text-xs -translate-y-1\"><strong>MV</strong></div>\n      <div class=\"text-lg\">9</div>\n    </div>\n    <div class=\"flex items-center gap-x-1\">\n      <div class=\"text-xs -translate-y-1\"><strong>MO</strong></div>\n      <div class=\"text-lg\">8</div>\n    </div>\n  </div>\n  <hr class=\"my-1 h-px bg-black border-0\" />\n  \n  <div class=\"mx-2\">\n    \n      <div>1 × espada curta + 1 (1d6+1)</div>\n    \n  </div>\n  <hr class=\"my-1 h-px bg-black border-0\" />\n  \n  <p class=\"mx-2\">\n    <em>\n      \n    </em>\n  </p>\n  \n  <div class=\"mx-2\">\n    \n      <ul>\n  <li><strong>Custo</strong>: 2PO por mês.</li>\n</ul>\n\n    \n  </div>\n</div>\n\n<h4 id=\"soldado-pesado\">Soldado Pesado</h4>\n<div class=\"relative mx-auto p-2 bg-cinza-300 md:mx-52 lg:mx-56 xl:mx-72\" data-controller=\"linker\" data-linker-url-value=\"/monstros/soldado-pesado-sargento-mercenario\" data-linker-text-value=\"Soldado pesado, sargento (mercenário)\" data-linker-link-class=\"absolute text-sm -bottom-6 right-0\">\n  \n  <div class=\"flex flex-wrap justify-between w-full\">\n    <div class=\"uppercase\">\n      <strong>\n        Soldado pesado, sargento (mercenário)\n      </strong>\n    </div>\n    <div class=\"flex gap-1\">\n      <div>\n        <em>\n          M\n          –\n          N\n        </em>\n      </div>\n      <div>\n        <em>\n          [15XP]\n        </em>\n      </div>\n    </div>\n  </div>\n  <hr class=\"my-1 h-px bg-black border-0\" />\n  \n  <div class=\"mx-1 flex flex-wrap justify-between\">\n    <div class=\"flex items-center gap-x-1\">\n      <div class=\"text-xs -translate-y-1\"><strong>DV</strong></div>\n      <div class=\"text-lg\">1 [5]</div>\n    </div>\n    <div class=\"flex items-center gap-x-1\">\n      <div class=\"text-xs -translate-y-1\"><strong>CA</strong></div>\n      <div class=\"text-lg\">16</div>\n    </div>\n    <div class=\"flex items-center gap-x-1\">\n      <div class=\"text-xs -translate-y-1\"><strong>JP</strong></div>\n      <div class=\"text-lg\">5</div>\n    </div>\n    <div class=\"flex items-center gap-x-1\">\n      <div class=\"text-xs -translate-y-1\"><strong>MV</strong></div>\n      <div class=\"text-lg\">9</div>\n    </div>\n    <div class=\"flex items-center gap-x-1\">\n      <div class=\"text-xs -translate-y-1\"><strong>MO</strong></div>\n      <div class=\"text-lg\">8</div>\n    </div>\n  </div>\n  <hr class=\"my-1 h-px bg-black border-0\" />\n  \n  <div class=\"mx-2\">\n    \n      <div>1 × espada longa + 1 (1d8+1)</div>\n    \n  </div>\n  <hr class=\"my-1 h-px bg-black border-0\" />\n  \n  <p class=\"mx-2\">\n    <em>\n      \n    </em>\n  </p>\n  \n  <div class=\"mx-2\">\n    \n      <ul class=\"odo-ul\">\n        \n          <li>Custo: 3PO por mês.</li>\n        \n      </ul>\n    \n  </div>\n</div>\n\n<h3 id=\"aprendizes\">Aprendizes</h3>\n\n<p>São futuros aventureiros ainda buscando a experiência e os recursos necessários para tocarem sua carreira.</p>\n\n<p>Não receberam todo o treinamento necessário, não possuem dinheiro para seus equipamentos e não estão prontos para receber um nível em uma classe.</p>\n\n<p>Ajudantes veem nos grupos de aventureiros uma forma simples de aprenderem, enquanto os grupos de aventureiros veem nos ajudantes uma mão de obra barata, mas mais qualificada do que a média, para diversas funções.</p>\n\n<p><strong>Custo:</strong> aprendizes não costumam receber salários fixos. Normalmente aceitam trabalhar para um grupo de aventureiros em troca de uma parte dos <a href=\"/livros/srd/capitulos/mestrando#tesouros\">tesouros</a> encontrados na aventura, normalmente <strong>3d6x10 PO</strong> ao final da aventura.</p>\n\n<p><strong>Lealdade:</strong> aprendizes normalmente são leais ao seu empregador e não fugirão e nem o trairão, a não ser em situações limítrofes.</p>\n\n<p>Diferentemente dos especialistas ou mercenários, um ajudante está com seu empregador por lealdade e também pelo conhecimento o qual pode adquirir, e não só pelo dinheiro que pode vir a ganhar.</p>\n\n<p><strong>Experiência:</strong> aprendizes, diferentemente de mercenários ou especialistas, entram na divisão de XP dos personagens.</p>\n\n<p>O grupo de aprendizes deve ser considerado como um personagem adicional na divisão dos XP. Apesar de contarem na divisão do XP, os aprendizes não acumulam experiência.</p>\n\n<p>Como uma espécie de “estagiários de aventureiros”, receberão um nível em uma classe básica tão logo o Mestre deseje e entenda que os aprendizes estão prontos para partir nas próprias aventuras.</p>\n\n<p>O aprendiz possui algumas habilidades especiais de acordo com a classe na qual recebem treinamento:</p>\n\n<ul>\n  <li><strong>Guerreiro:</strong> recebe um bônus de +1 para acertar no seu primeiro ataque em cada combate.</li>\n  <li><strong>Clérigo:</strong> uma vez ao dia, o aprendiz de Clérigo é capaz de tocar um alvo e curar um ponto de vida.</li>\n  <li><strong>Ladrão:</strong> possui todos os talentos ladinos em nível 1.</li>\n  <li><strong>Mago:</strong> uma vez ao dia, pode realizar um truque emulando os efeitos de uma magia de 1 círculo. O truque não causa dano, não pode exigir uma Jogada de Proteção e dura no máximo 1 rodada.</li>\n</ul>\n\n<h4 id=\"aprendiz\">Aprendiz</h4>\n<div class=\"relative mx-auto p-2 bg-cinza-300 md:mx-52 lg:mx-56 xl:mx-72\" data-controller=\"linker\" data-linker-url-value=\"/monstros/aprendiz\" data-linker-text-value=\"Aprendiz\" data-linker-link-class=\"absolute text-sm -bottom-6 right-0\">\n  \n  <div class=\"flex flex-wrap justify-between w-full\">\n    <div class=\"uppercase\">\n      <strong>\n        Aprendiz\n      </strong>\n    </div>\n    <div class=\"flex gap-1\">\n      <div>\n        <em>\n          M\n          –\n          N\n        </em>\n      </div>\n      <div>\n        <em>\n          [5XP]\n        </em>\n      </div>\n    </div>\n  </div>\n  <hr class=\"my-1 h-px bg-black border-0\" />\n  \n  <div class=\"mx-1 flex flex-wrap justify-between\">\n    <div class=\"flex items-center gap-x-1\">\n      <div class=\"text-xs -translate-y-1\"><strong>DV</strong></div>\n      <div class=\"text-lg\">½+1 [3]</div>\n    </div>\n    <div class=\"flex items-center gap-x-1\">\n      <div class=\"text-xs -translate-y-1\"><strong>CA</strong></div>\n      <div class=\"text-lg\">10</div>\n    </div>\n    <div class=\"flex items-center gap-x-1\">\n      <div class=\"text-xs -translate-y-1\"><strong>JP</strong></div>\n      <div class=\"text-lg\">4</div>\n    </div>\n    <div class=\"flex items-center gap-x-1\">\n      <div class=\"text-xs -translate-y-1\"><strong>MV</strong></div>\n      <div class=\"text-lg\">9</div>\n    </div>\n    <div class=\"flex items-center gap-x-1\">\n      <div class=\"text-xs -translate-y-1\"><strong>MO</strong></div>\n      <div class=\"text-lg\">7</div>\n    </div>\n  </div>\n  <hr class=\"my-1 h-px bg-black border-0\" />\n  \n  <div class=\"mx-2\">\n    \n      <div>1 × arma + 0 (arma)</div>\n    \n  </div>\n  <hr class=\"my-1 h-px bg-black border-0\" />\n  \n  <p class=\"mx-2\">\n    <em>\n      \n    </em>\n  </p>\n  \n  <div class=\"mx-2\">\n    \n      \n    \n  </div>\n</div>\n\n<h3 id=\"ajudantes\">Ajudantes</h3>\n\n<p>É claro que qualquer camponês pode prestar serviços a um grupo de aventureiros.</p>\n\n<p>Nem todo estivador e carregador de peso se tornará um aventureiro, assim como nem todo ajudante contratado para carregar tocha precisa gostar do seu contratante para realizar o serviço por algumas horas.</p>\n\n<p>Neste caso, esses ajudantes estão ali apenas pelo dinheiro.</p>\n\n<p><strong>Custo:</strong> 2 PP por semana</p>\n\n<p><strong>Limite de contratação:</strong> cada personagem do jogador pode contratar um número fixo de ajudantes de acordo com o valor do modificador de Carisma + 1. Um personagem com Carisma 13 pode contratar até 2 ajudantes. Personagens com Carisma 8 ou menor não podem contratar ajudantes.</p>\n\n<p><strong>Lealdade:</strong> ajudantes não são inteiramente leais aos seus empregadores. Ao final de cada dia, o Mestre deve realizar em segredo um teste de moral para cada ajudante. Os que falharem, fugirão durante a noite ou na primeira oportunidade.</p>\n\n<p>Empregadores <strong>bondosos</strong> concedem um bônus de +1 no moral do ajudante.</p>\n\n<p>Empregadores <strong>cruéis</strong> concedem um penalizador de -1 no moral do ajudante.</p>\n\n<p><strong>Experiência:</strong> ajudantes não acumulam experiência.</p>\n\n<h4 id=\"ajudante\">Ajudante</h4>\n<div class=\"relative mx-auto p-2 bg-cinza-300 md:mx-52 lg:mx-56 xl:mx-72\" data-controller=\"linker\" data-linker-url-value=\"/monstros/ajudante\" data-linker-text-value=\"Ajudante\" data-linker-link-class=\"absolute text-sm -bottom-6 right-0\">\n  \n  <div class=\"flex flex-wrap justify-between w-full\">\n    <div class=\"uppercase\">\n      <strong>\n        Ajudante\n      </strong>\n    </div>\n    <div class=\"flex gap-1\">\n      <div>\n        <em>\n          M\n          –\n          N\n        </em>\n      </div>\n      <div>\n        <em>\n          [5XP]\n        </em>\n      </div>\n    </div>\n  </div>\n  <hr class=\"my-1 h-px bg-black border-0\" />\n  \n  <div class=\"mx-1 flex flex-wrap justify-between\">\n    <div class=\"flex items-center gap-x-1\">\n      <div class=\"text-xs -translate-y-1\"><strong>DV</strong></div>\n      <div class=\"text-lg\">½+1 [3]</div>\n    </div>\n    <div class=\"flex items-center gap-x-1\">\n      <div class=\"text-xs -translate-y-1\"><strong>CA</strong></div>\n      <div class=\"text-lg\">10</div>\n    </div>\n    <div class=\"flex items-center gap-x-1\">\n      <div class=\"text-xs -translate-y-1\"><strong>JP</strong></div>\n      <div class=\"text-lg\">4</div>\n    </div>\n    <div class=\"flex items-center gap-x-1\">\n      <div class=\"text-xs -translate-y-1\"><strong>MV</strong></div>\n      <div class=\"text-lg\">9</div>\n    </div>\n    <div class=\"flex items-center gap-x-1\">\n      <div class=\"text-xs -translate-y-1\"><strong>MO</strong></div>\n      <div class=\"text-lg\">7</div>\n    </div>\n  </div>\n  <hr class=\"my-1 h-px bg-black border-0\" />\n  \n  <div class=\"mx-2\">\n    \n      <div>1 × arma + 0 (arma)</div>\n    \n  </div>\n  <hr class=\"my-1 h-px bg-black border-0\" />\n  \n  <p class=\"mx-2\">\n    <em>\n      \n    </em>\n  </p>\n  \n  <div class=\"mx-2\">\n    \n      \n    \n  </div>\n</div>\n\n<h3 id=\"testes-de-reacao\">Testes de Reação</h3>\n\n<div class=\"overflow-x-auto\">\n  <table>\n    <caption>Testes de Reação <span>tabela 6.3</span></caption>\n    <thead>\n      <tr>\n        <th>2d6</th>\n        <th>Reação de Ataque</th>\n      </tr>\n    </thead>\n    <tbody>\n      <tr class=\"text-center\">\n        <td class=\"font-bold\">2-3</td>\n        <td><strong>Hostil</strong>.<br />Age contra os personagens e/ou atacará e prejudicará se tiver chance de fazê-lo.</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"font-bold\">4-6</td>\n        <td><strong>Ameaça</strong>.<br />Não age contra os personagens até ser minimamente provocado ou estimulado.</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"font-bold\">7-9</td>\n        <td><strong>Neutralidade</strong>.<br />Não possui uma opinião sobre os personagens e, até que haja motivo, os ignorarão completamente.</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"font-bold\">10-11</td>\n        <td><strong>Amigável</strong>.<br />Gosta dos personagens e os tratará com respeito e admiração sempre que possível.</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"font-bold\">12+</td>\n        <td><strong>Aliado</strong>.<br />Age a favor dos personagens e os defenderá ou agirá em seu favor se tiver chance de fazê-lo.</td>\n      </tr>\n    </tbody>\n  </table>\n</div>\n\n<p>Em algumas situações, o Mestre pode necessitar arbitrar a reação de determinados personagens em relação aos personagens dos jogadores. Monstros encontrados de surpresa numa esquina da masmorra, um empregado que se vê numa situação de trair ou não seu patrono, ou mesmo em situações mais específicas como efeitos de magias.  Para estas situações, um teste de reação pode ser necessário.</p>\n\n<p>Um teste de reação é realizado lançando 2d6 e somando o modificador de Carisma do personagem alvo da reação ao resultado. Este teste deve balizar as ações dos personagens não jogadores da sua campanha, mas não necessariamente são a única forma de determinar como agem.</p>\n\n<p>Algumas vezes, determinadas circunstâncias deixarão claro, sem a necessidade de um teste, como cada personagem agirá, tornando muito claro como determinar qual escolha ele adotará para seu comportamento.</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!QA57bQmVawCJxoOr.eYSfvu7112ABuSPN"
+    },
+    {
+      "sort": 13,
+      "name": "Encontros sem Combate",
+      "type": "text",
+      "_id": "ScgcWRYhVceIXtdn",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<p>No <a href=\"/livros/srd/capitulos/combate\">Capítulo 7: Combate</a> do <a data-accordion-ignore=\"true\" data-turbo-frame=\"_top\" href=\"/livros/lb1\">LB1</a> trouxemos regras sobre surpresa nos encontros e como isso resultava em um combate. Mas, e se ao invés de terminar em pancadaria, houvesse conversa, diplomacia, negociação ou até mesmo uma fuga?</p>\n\n<p>Use estas regras para tratar um encontro antes do combate ou para um encontro originalmente pensado para o combate, mas que acabou tendo sua finalidade alterada pelas circunstâncias do jogo.</p>\n\n<h3 id=\"ocorre-o-encontro\">Ocorre o Encontro</h3>\n\n<p>Um encontro ocorre quando dois ou mais grupos se encontram fisicamente frente a frente ou próximos. Eles podiam estar caminhando e se encontram entrando no beco ao lado da ferraria, ou um grupo pode ter aberto uma porta e ter dado de cara exatamente com um covil de monstros, ou ainda uma embarcação avistando outra próxima a linha do horizonte.</p>\n\n<h3 id=\"havera-um-combate\">Haverá um Combate</h3>\n\n<p>Se nenhum dos grupos se preocupou em começar uma conversa e já sacaram suas armas partindo uns contra os outros, continue seu encontro com a regra de <a href=\"/livros/srd/capitulos/combate#surpresa\">Surpresa do Capítulo 7: Combate</a>.</p>\n\n<p>Como estamos tratando de encontros não resultantes em combate, vamos supor que os grupos, ao se encontrarem, não partiram logo para o embate, estudando antes de agir impulsivamente.</p>\n\n<h3 id=\"definindo-a-distancia\">Definindo a Distância</h3>\n\n<p>Qual a distância entre os grupos? Eles estão próximos de modo que o Mago não possa sequer lançar uma magia? Ou há tempo para se preparar, vestir uma parte da armadura ou trocar de armas?</p>\n\n<p><strong>Em masmorras</strong> a distância básica de encontro é 1d6 x 3 metros entre os diferentes grupos do encontro.</p>\n\n<p><strong>Nos ermos</strong> as distâncias são definidas pelo tipo de terreno onde o encontro irá ocorrer. Em ambientes abertos – como planícies, colinas, geleiras, desertos – a distância básica de encontro é 4d6 x 10 metros. Em locais menos abertos – como montanhas, florestas e pântanos – a distância é 1d6 x 10 metros.</p>\n\n<p><strong>Nas ruas</strong> a distância básica de encontro é 1d6 x 3 metros durante o dia com as ruas cheias, ou 1d6 x 10 metros durante a noite com as ruas vazias.</p>\n\n<p><strong>Aquático</strong> em rios ou no mar, a distância de um encontro é de 4d6 x 10 metros.</p>\n\n<h3 id=\"testes-de-reacao-de-encontros\">Testes de Reação de Encontros</h3>\n\n<div class=\"overflow-x-auto\">\n  <table>\n    <caption>Teste de Reação de Encontros <span>tabela 6.15</span></caption>\n    <thead>\n      <tr>\n        <th>2d6</th>\n        <th>Reação de Ataque</th>\n      </tr>\n    </thead>\n    <tbody>\n      <tr class=\"text-center\">\n        <td>2-3</td>\n        <td class=\"text-left\">Hostil. Ataque imediato. Começa um combate</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td>4-6</td>\n        <td class=\"text-left\">Ameaça. Jogue na próxima rodada com -4 no próximo teste</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td>7-9</td>\n        <td class=\"text-left\">Neutralidade. Age com cuidado. Jogue novamente na próxima rodada</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td>10-11</td>\n        <td class=\"text-left\">Indiferente. Jogue na próxima rodada com +4 no próximo teste</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td>12+</td>\n        <td class=\"text-left\">Amigável. Não haverá um combate</td>\n      </tr>\n    </tbody>\n  </table>\n</div>\n\n<p>Após os dois grupos se identificarem mutuamente como alvos e opositores pode haver uma negociação.</p>\n\n<p>Se ambos os lados decidiram conversar e negociar, libere a interpretação dos seus jogadores e analise o desempenho deles.  Se apenas um dos lados tentar se comunicar e negociar de modo a influenciar o comportamento do grupo adversário, o Mestre pode pedir ao porta voz do grupo um teste de reação, conferindo o resultado na tabela 6-15.</p>\n\n<p>Um teste de reação é realizado lançando 2d6 e somando o modificador de Carisma ao resultado.</p>\n\n<p>Após a primeira rodada de negociação, o Mestre pode precisar realizar mais uma jogada na tabela. Quando o resultado pedir um novo teste na próxima rodada, realize e aplique o modificador caso seja necessário. Repita este processo até que o resultado seja Hostil (iniciando um combate) ou Amigável (encerrando a probabilidade de um combate ser iniciado).</p>\n\n<p>Pode ser necessário a reinterpretação dos resultados. Um resultado de ameaça pode fazer com que um monstro ou animal fique acovardado e se afaste, preparando uma fuga. E pode ser que um 2-3 resulte em uma fuga ao invés de um ataque.</p>\n\n<p>Todos precisam ter em mente que um teste de reação é uma alternativa à interpretação. O Mestre tem todo o direito de arbitrar mudanças no teste caso os resultados não apresentem as melhores opções para a campanha.</p>\n\n<p><strong>Bardos e Rangers</strong> possuem modificadores de classe que podem ser aplicados em um teste de reação. Aplique as seguintes alterações a habilidade de 3º nível de um bardo e a habilidade de 6º nível de um Ranger:</p>\n\n<ul>\n  <li>\n    <p><strong>3º nível</strong> o Bardo pode usar o modificador de Carisma dobrado em um teste de reação para tentar evitar um combate.</p>\n  </li>\n  <li>\n    <p><strong>6º nível</strong> o Ranger passa a se locomover sem deixar qualquer tipo de rastro em ambientes selvagens, e pode usar o modificador de Carisma dobrado em um teste de reação para tentar evitar um combate que envolva animais.</p>\n  </li>\n</ul>\n\n<h3 id=\"evasao\">Evasão</h3>\n\n<p>Se o resultado do encontro foi uma evasão, isso significa que um dos grupos envolvidos no encontro o abandonou e fugiu.</p>\n\n<p><strong>Jogadores</strong> podem decidir livremente se perseguirão o grupo fugitivo ou se permitirão que a fuga se concretize.</p>\n\n<p><strong>Monstros</strong> decidirão se perseguirão jogadores em fuga de acordo com a intenção do Mestre. O Mestre pode realizar um teste de moral para determinar se os monstros perseguirão ou não o grupo de jogadores fugitivos.</p>\n\n<p><strong>Sem perseguição:</strong> se o grupo que permanecer decidir não perseguir o grupo fugitivo, o encontro acaba.</p>\n\n<p><strong>Perseguição:</strong> se o grupo decidir perseguir o grupo fugitivo, uma perseguição é iniciada.</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!QA57bQmVawCJxoOr.ScgcWRYhVceIXtdn"
+    },
+    {
+      "sort": 14,
+      "name": "Perseguições",
+      "type": "text",
+      "_id": "Dv2TNJk9HUYz1XCj",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<p>Se dois grupos estão em uma condição de perseguição, ou seja, um grupo fugitivo corre para se distanciar do grupo perseguidor, a primeira coisa a se fazer é determinar a velocidade dos grupos envolvidos.</p>\n\n<p><strong>Velocidade de Perseguição</strong> é determinada pela menor movimentação dentre os integrantes do grupo na perseguição. Se três membros do grupo fugitivo possuem movimentação 9 e um dos membros movimento 6, aquele grupo está se movendo com velocidade de fuga 6. Se o grupo perseguidor é formado por 4 criaturas e todas se deslocam com movimento 9, aquele grupo está em velocidade de perseguição 9.</p>\n\n<p>Após determinar as velocidades, observe a chance de fuga por meio da tabela 6.16.</p>\n\n<div class=\"overflow-x-auto\">\n  <table>\n    <caption>Chance de Fuga <span>tabela 6.16</span></caption>\n    <thead>\n      <tr>\n        <th rowspan=\"2\">Velocidade do Grupo Perseguidor</th>\n        <th colspan=\"4\">Velocidade do Grupo Fugitivo</th>\n      </tr>\n      <tr>\n        <th>1-5</th>\n        <th>6-9</th>\n        <th>10-15</th>\n        <th>16 +</th>\n      </tr>\n    </thead>\n    <tbody>\n      <tr class=\"text-center\">\n        <td class=\"font-bold\">1-5</td>\n        <td>1-3 em 1d6</td>\n        <td>1-4 em 1d6</td>\n        <td>1-4 em 1d6</td>\n        <td>1-4 em 1d6</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"font-bold\">6-9</td>\n        <td>1-2 em 1d6</td>\n        <td>1-3 em 1d6</td>\n        <td>1-4 em 1d6</td>\n        <td>1-4 em 1d6</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"font-bold\">10-15</td>\n        <td>1-2 em 1d6</td>\n        <td>1-2 em 1d6</td>\n        <td>1-3 em 1d6</td>\n        <td>1-4 em 1d6</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"font-bold\">16 +</td>\n        <td>1-2 em 1d6</td>\n        <td>1-2 em 1d6</td>\n        <td>1-2 em 1d6</td>\n        <td>1-3 em 1d6</td>\n      </tr>\n    </tbody>\n  </table>\n</div>\n\n<p><strong>Modificadores de Fuga</strong> como um terreno muito arborizado, labiríntico, ou estar no meio de uma multidão, melhoram a chance de fuga em 1.  Qualquer chance de fuga que seja 6 em 1d6 resulta em uma fuga certa.</p>\n\n<p>Uma vez que a velocidade dos grupos e a chance de fuga esteja determinada, o Mestre faz o teste de fuga de acordo com a tabela 6.16 e os modificadores de fuga.</p>\n\n<blockquote class=\"example\">\n  <p><strong>Exemplo:</strong> <em>um grupo fugitivo possui uma chance de 1-4 em 1d6 de fugir de um grupo de perseguidores. Como o grupo fugitivo é mais rápido que o grupo perseguidor e está fugindo entre as árvores de uma floresta, essa chance passa a ser de 1-5 em 1d6. Lançando o dado, um inacreditável resultado 6 significa que a perseguição continua.</em></p>\n</blockquote>\n\n<p><strong>Perseguição Continua</strong> se um teste de fuga não resultar em uma fuga. Neste caso, faça o passo a passo para determinar o que acontece:</p>\n\n<ul>\n  <li><strong>Perseguidores desistem</strong> e a perseguição resulta em uma fuga. Para determinar se monstros desistem de uma fuga, realize um teste de moral. Se os perseguidores não desistirem, siga para o próximo passo.</li>\n  <li><strong>Perseguidores não desistem</strong> e são mais rápidos que os fugitivos. Neste caso, há uma chance de 1-3 em 1d6 dos perseguidores alcançarem os fugitivos dando início a um combate. Se os perseguidores não forem mais rápidos que os fugitivos, ou se não forem pegos pelos perseguidores, siga ao passo 3.</li>\n  <li><strong>Perseguidores não alcançam</strong> os fugitivos que devem decidir se param de fugir ou se continuam a fuga. Se desistirem, provavelmente um combate se inicia. Se não desistirem e continuarem com a fuga, faça um novo teste de fuga e siga novamente estes passos até um dos dois lados desistir ou até os fugitivos serem alcançados.</li>\n</ul>\n\n<p><strong>Linha de Visão</strong> é fundamental para haver uma perseguição. Se um grupo se afastar o suficiente para não ser mais visto, a perseguição se encerra com uma fuga.</p>\n\n<p><strong>Mapeamento</strong> não é possível durante uma fuga.</p>\n\n<p><strong>Distração:</strong> os fugitivos podem tentar criar distrações para atrapalhar ou dissuadir seus perseguidores a abandonar uma perseguição. Monstros famintos podem preferir ficar com o presunto jogado pelos personagens em fuga à incerteza de continuar correndo atrás deles, ou um monstro inteligente pode preferir apanhar a espada ricamente adornada abandonada no meio da corrida a ter que continuar correndo atrás dos fugitivos. Se uma distração for usada pelos fugitivos, há uma chance de 1-3 em 1d6 dos perseguidores abandonarem a perseguição.</p>\n\n<h3 id=\"depois-da-perseguicao\">Depois da Perseguição</h3>\n\n<p>Se os fugitivos conseguem escapar de seus perseguidores, eles precisarão se recompor, ou seja, descansar da corrida, recuperar do susto e, muito importante, determinar onde estão.</p>\n\n<p>Para cada rodada que a perseguição durou, os fugitivos se moveram em máxima velocidade de corrida em direções aleatórias (a escolha do Mestre).</p>\n\n<p>Certamente eles não consultaram um mapa ao saírem correndo por suas vidas, e o Mestre deve usar isso em prol da campanha, da história e da diversão.  Se a fuga os levou para áreas conhecidas ou já devidamente mapeadas, bastará refazer o caminho de volta. No entanto, se em sua fuga eles adentraram em um pedaço desconhecido do território (como salas ainda não exploradas de uma dungeon, um bairro novo da cidade ou uma parte selvagem fora da trilha), os personagens estarão perdidos e a missão mais urgente para todos será encontrar o caminho de volta ao conhecido.</p>\n\n<p><a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.pt_BR\" class=\"cc-by\" target=\"_blank\" rel=\"external\"><img src=\"https://static.olddragon.com.br/digital_items_srd/CC_BY-SA_icon.png\" alt=\"CC-BY\" /></a></p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!QA57bQmVawCJxoOr.Dv2TNJk9HUYz1XCj"
+    }
+  ],
+  "flags": {},
+  "_stats": {
+    "systemId": "olddragon2e",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1698721200000,
+    "modifiedTime": 1702782000000,
+    "lastModifiedBy": "enzpVKIAX52oTyPe"
+  },
+  "sort": 6,
+  "ownership": {
+    "default": 0,
+    "enzpVKIAX52oTyPe": 3
+  },
+  "_key": "!journal!QA57bQmVawCJxoOr"
+}

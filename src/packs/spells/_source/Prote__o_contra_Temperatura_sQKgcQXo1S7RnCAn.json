@@ -1,0 +1,37 @@
+{
+  "folder": "8VVynUK0GJZaC2Yo",
+  "name": "Proteção contra Temperatura",
+  "type": "spell",
+  "_id": "sQKgcQXo1S7RnCAn",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "odo_id": "protecao-contra-temperatura",
+    "school": "arcane",
+    "circle": "1",
+    "arcane": "null",
+    "divine": "1",
+    "necromancer": "null",
+    "illusionist": "null",
+    "reverse": false,
+    "range": "toque",
+    "duration": "1 turno + 1/nível",
+    "jp": "nenhuma",
+    "description": "<p>Esta magia faz com que calor ou frio extremos se tornem inofensivos para o alvo. Temperaturas de -25° a até 55° são percebidas como temperaturas amenas. Além disso, todas as Jogadas de Proteção para resistir a qualquer efeito mágico ou não mágico provenientes de frio ou calor extremos, como baforadas de dragão ou bolas de fogo, reduzem o dano sofrido em 1 ponto por dado de dano recebido.</p>\n\n<p>Desta forma, um dano de 3d6, passará a causar 3d6-3 pontos de dano. Já um dano de 2d4, passará a causar 2d4-2 de dano.</p>\n"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "olddragon2e",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1698721200000,
+    "modifiedTime": 1702782000000,
+    "lastModifiedBy": "enzpVKIAX52oTyPe"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "enzpVKIAX52oTyPe": 3
+  },
+  "_key": "!items!sQKgcQXo1S7RnCAn"
+}

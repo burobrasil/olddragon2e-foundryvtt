@@ -1,0 +1,123 @@
+{
+  "name": "Lich",
+  "type": "monster",
+  "_id": "ukWxFTzA6bvLsb2A",
+  "img": "systems/olddragon2e/assets/monsters-concepts/morto_vivo-medio.webp",
+  "system": {
+    "odo_id": "lich",
+    "flavor": "O Lich é o resultado do que a cobiça por poder causa a uma mente enlouquecida pelo conhecimento obscuro.",
+    "concept": "Morto-Vivo",
+    "size": "medio",
+    "alignment": "caotico",
+    "variant": false,
+    "description": "<ul>\n  <li>\n    <p><strong>Silencioso</strong>: não produz som algum ao movimentar- se e se mantém silencioso até atacar.</p>\n  </li>\n  <li>\n    <p><strong>Morto-vivo</strong>: imune a frio, magias mentais de manipulação, controle ou ilusão, ou demais formas mágicas de interferir na mente de seres vivos. Sofre 1d6 de dano ácido por frasco de água benta.</p>\n  </li>\n  <li>\n    <p><strong>Imunidades</strong>: além das imunidades comuns aos mortos-vivos, Lichs são feridos apenas por magia e armas mágicas se lançadas ou usadas por criaturas com 5 ou mais dados de vida. Além disso, são imunes a efeitos mágicos que envolvam eletricidade, necromancia ou insanidade. Lichs também são imunes ao poder de Afastar Mortos-Vivos de um Clérigo.</p>\n  </li>\n  <li>\n    <p><strong>Paralisia</strong>: alvo atingido por um Lich deve ser bem-sucedido em uma JPC ou ficará paralisado permanentemente ou até uma Curar Doenças ser lançada por um Clérigo.</p>\n  </li>\n  <li>\n    <p><strong>Aura Aterrorizante</strong>: qualquer criatura com 4 dados de vida ou menos e a até 30 metros do Lich, capaz de ver ou percebê-lo, é afetada pela Aura Aterrorizante do Lich que afugenta todos por 1d4 turnos. Nenhuma Jogada de Proteção pode anular o efeito desta Aura Aterrorizante. Há 1-4 chances em 1d6 de uma de uma pessoa em fuga deixar cair o que estiver carregando.</p>\n  </li>\n  <li>\n    <p><strong>Magias</strong>: um Lich pode lançar magias como um Necromante de 15º nível.</p>\n  </li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × toque + 8 (1d10 + paralisia)</li>\n</ul>\n",
+    "encounters": "1",
+    "encounters_lair": "1",
+    "xp": "4975",
+    "treasure": "especial",
+    "treasure_lair": "h",
+    "mv": "9",
+    "mvc": "",
+    "mve": "",
+    "mvn": "",
+    "mvv": "",
+    "mvo": "",
+    "dv": "20",
+    "dv_bonus": "",
+    "pv": "100",
+    "ca": "20",
+    "jp": "16",
+    "mo": "12",
+    "url": "",
+    "habitat": "Qualquer",
+    "hp": {
+      "value": "100",
+      "max": "100"
+    }
+  },
+  "prototypeToken": {
+    "name": "Lich",
+    "displayName": 20,
+    "actorLink": false,
+    "appendNumber": false,
+    "prependAdjective": false,
+    "texture": {
+      "src": "systems/olddragon2e/assets/monsters-concepts/morto_vivo-medio.webp",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0
+    },
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": -1,
+    "displayBars": 40,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "light": {
+      "color": null,
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "sight": {
+      "enabled": false,
+      "range": 0,
+      "angle": 360,
+      "visionMode": "basic",
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": [],
+    "flags": {},
+    "randomImg": false
+  },
+  "items": [],
+  "effects": [],
+  "folder": "gVTyUIxvSEA8UxwB",
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "olddragon2e",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1698721200000,
+    "modifiedTime": 1702782000000,
+    "lastModifiedBy": "enzpVKIAX52oTyPe"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "enzpVKIAX52oTyPe": 3
+  },
+  "_key": "!actors!ukWxFTzA6bvLsb2A"
+}

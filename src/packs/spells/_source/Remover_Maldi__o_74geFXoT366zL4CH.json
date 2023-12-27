@@ -1,0 +1,37 @@
+{
+  "folder": "P0IKVo6tzkBrcqGV",
+  "name": "Remover Maldição",
+  "type": "spell",
+  "_id": "74geFXoT366zL4CH",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "odo_id": "remover-maldicao",
+    "school": "arcane",
+    "circle": "1",
+    "arcane": "null",
+    "divine": "4",
+    "necromancer": "null",
+    "illusionist": "null",
+    "reverse": true,
+    "range": "toque",
+    "duration": "instantânea",
+    "jp": "especial",
+    "description": "<p>Esta magia remove instantaneamente todas as maldições impostas sobre uma criatura ou objeto.  Esta magia não remove maldição de armas ou armaduras mágicas, mas permite que a criatura usando um desses itens consiga se desfazer deles e dos efeitos que ainda recaiam sobre si.</p>\n\n<p>Certas maldições exigem um determinado nível do conjurador para serem removidas e, nesses casos, a não ser que esse requisito seja cumprido, o Remover Maldição não funcionará.</p>\n\n<p>[Amaldiçoar] é a versão reversa e caótica impondo uma maldição a uma vítima que não seja bem-sucedida numa JPS. O alvo amaldiçoado pode sofrer de um dos quatro efeitos possíveis, a escolha do conjurador:</p>\n\n<ul>\n  <li>\n    <p><strong>Vulnerabilidade do Corpo</strong>: o alvo perde 2 pontos na sua Classe de Armadura;</p>\n  </li>\n  <li>\n    <p><strong>Fluidez da Memória</strong>: conjuradores possuem 1-2 chances em 1d6 de se esquecer de qualquer magia que forem conjurar antes desta ser conjurada.</p>\n  </li>\n  <li>\n    <p><strong>Fraqueza da Alma</strong>: o alvo perde metade dos seus pontos de Constituição e dos possíveis pontos de vida extras que um alto valor de Constituição pode conceder.</p>\n  </li>\n  <li>\n    <p><strong>Ineficiência da Precisão</strong>: todo ataque do alvo é um teste difícil.</p>\n  </li>\n</ul>\n\n<p>Uma maldição mantém seus efeitos até ser removida por uma magia Remover Maldições.</p>\n"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "olddragon2e",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1698721200000,
+    "modifiedTime": 1702782000000,
+    "lastModifiedBy": "enzpVKIAX52oTyPe"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "enzpVKIAX52oTyPe": 3
+  },
+  "_key": "!items!74geFXoT366zL4CH"
+}

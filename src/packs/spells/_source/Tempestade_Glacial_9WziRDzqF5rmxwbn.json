@@ -1,0 +1,37 @@
+{
+  "folder": "mbCl7lZt0a0oHfZ7",
+  "name": "Tempestade Glacial",
+  "type": "spell",
+  "_id": "9WziRDzqF5rmxwbn",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "odo_id": "tempestade-glacial",
+    "school": "arcane",
+    "circle": "1",
+    "arcane": "4",
+    "divine": "null",
+    "necromancer": "null",
+    "illusionist": "null",
+    "reverse": false,
+    "range": "72 metros",
+    "duration": "instantânea",
+    "jp": "JPD reduz",
+    "description": "<p>Esta magia cria um vórtice cônico de gelo e neve com 6 metros de diâmetro, causando 1d6 de dano por frio a todas as criaturas dentro da tempestade. Adicionalmente, a tempestade expele granizo em todas as direções, causando um dano adicional de 1d6 (devido os estilhaços de gelo expelidos) em quem estiver até 6 metros de distância do centro da tempestade. Uma JPD reduz o dano pela metade.</p>\n"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "olddragon2e",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1698721200000,
+    "modifiedTime": 1702782000000,
+    "lastModifiedBy": "enzpVKIAX52oTyPe"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "enzpVKIAX52oTyPe": 3
+  },
+  "_key": "!items!9WziRDzqF5rmxwbn"
+}

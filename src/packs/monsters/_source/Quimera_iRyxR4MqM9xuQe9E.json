@@ -1,0 +1,123 @@
+{
+  "name": "Quimera",
+  "type": "monster",
+  "_id": "iRyxR4MqM9xuQe9E",
+  "img": "systems/olddragon2e/assets/monsters-concepts/besta-grande.webp",
+  "system": {
+    "odo_id": "quimera",
+    "flavor": "Corpo meio leonino e meio caprino, asas dracônicas e três cabeças: uma de bode, uma de leão e uma de dragão.",
+    "concept": "Besta",
+    "size": "grande",
+    "alignment": "caotico",
+    "variant": false,
+    "description": "<ul>\n  <li><strong>Baforada de Dragão</strong>: há 1-3 chances em 1d6 de uma cabeça de dragão trocar os ataques de mordida por uma baforada de dragão de 3d6 de dano.</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>3 × mordidas + 9 (2d4)</li>\n  <li>2 × garras + 7 (1d6)</li>\n  <li>1 × chifre + 7 (1d4)</li>\n</ul>\n",
+    "encounters": "1d2",
+    "encounters_lair": "1d4",
+    "xp": "975",
+    "treasure": "",
+    "treasure_lair": "f",
+    "mv": "9",
+    "mvc": "",
+    "mve": "",
+    "mvn": "",
+    "mvv": "12",
+    "mvo": "",
+    "dv": "9",
+    "dv_bonus": "",
+    "pv": "45",
+    "ca": "16",
+    "jp": "11",
+    "mo": "9",
+    "url": "",
+    "habitat": "Planícies, Montanhas",
+    "hp": {
+      "value": "45",
+      "max": "45"
+    }
+  },
+  "prototypeToken": {
+    "name": "Quimera",
+    "displayName": 20,
+    "actorLink": false,
+    "appendNumber": false,
+    "prependAdjective": false,
+    "texture": {
+      "src": "systems/olddragon2e/assets/monsters-concepts/besta-grande.webp",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0
+    },
+    "width": 2,
+    "height": 2,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": -1,
+    "displayBars": 40,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "light": {
+      "color": null,
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "sight": {
+      "enabled": false,
+      "range": 0,
+      "angle": 360,
+      "visionMode": "basic",
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": [],
+    "flags": {},
+    "randomImg": false
+  },
+  "items": [],
+  "effects": [],
+  "folder": "8gdK9MBNzpaboPvc",
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "olddragon2e",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1698721200000,
+    "modifiedTime": 1702782000000,
+    "lastModifiedBy": "enzpVKIAX52oTyPe"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "enzpVKIAX52oTyPe": 3
+  },
+  "_key": "!actors!iRyxR4MqM9xuQe9E"
+}

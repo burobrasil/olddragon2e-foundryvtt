@@ -1,0 +1,123 @@
+{
+  "name": "Troglodita",
+  "type": "monster",
+  "_id": "8a08reKu2BafE5hC",
+  "img": "systems/olddragon2e/assets/monsters-concepts/humanoide-medio.webp",
+  "system": {
+    "odo_id": "troglodita",
+    "flavor": "Humanoides reptilianos conhecidos pela sua ferocidade em combate e pelo ódio que possuem dos humanos.",
+    "concept": "Humanoide",
+    "size": "medio",
+    "alignment": "caotico",
+    "variant": false,
+    "description": "<ul>\n  <li>\n    <p><strong>Odor Fétido</strong>: o Troglodita expele um óleo fétido em sua própria pele. Qualquer um que se engajar em combate com um Troglodita deverá ser bem-sucedido em uma JPC ou sofrerá um modificador de -2 em todos os seus ataques.</p>\n  </li>\n  <li>\n    <p><strong>Surpresa</strong>: os Trogloditas conseguem alterar levemente o tom da sua pele, permitindo que consigam surpreender seus inimigos com um resultado de 1 a 4 em 1d6.</p>\n  </li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × garra + 2 (1d4)</li>\n  <li>1 × mordida + 2 (1d4)</li>\n  <li>1 × arma + 2 (arma)</li>\n</ul>\n",
+    "encounters": "1d8",
+    "encounters_lair": "5d8",
+    "xp": "35",
+    "treasure": "",
+    "treasure_lair": "a",
+    "mv": "9",
+    "mvc": "",
+    "mve": "",
+    "mvn": "",
+    "mvv": "",
+    "mvo": "",
+    "dv": "2",
+    "dv_bonus": "",
+    "pv": "10",
+    "ca": "15",
+    "jp": "5",
+    "mo": "9",
+    "url": "",
+    "habitat": "Montanhas, Subterrâneos",
+    "hp": {
+      "value": "10",
+      "max": "10"
+    }
+  },
+  "prototypeToken": {
+    "name": "Troglodita",
+    "displayName": 20,
+    "actorLink": false,
+    "appendNumber": false,
+    "prependAdjective": false,
+    "texture": {
+      "src": "systems/olddragon2e/assets/monsters-concepts/humanoide-medio.webp",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0
+    },
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": -1,
+    "displayBars": 40,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "light": {
+      "color": null,
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "sight": {
+      "enabled": false,
+      "range": 0,
+      "angle": 360,
+      "visionMode": "basic",
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": [],
+    "flags": {},
+    "randomImg": false
+  },
+  "items": [],
+  "effects": [],
+  "folder": "rpL2cWeB5HlAT1Tc",
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "olddragon2e",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1698721200000,
+    "modifiedTime": 1702782000000,
+    "lastModifiedBy": "enzpVKIAX52oTyPe"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "enzpVKIAX52oTyPe": 3
+  },
+  "_key": "!actors!8a08reKu2BafE5hC"
+}

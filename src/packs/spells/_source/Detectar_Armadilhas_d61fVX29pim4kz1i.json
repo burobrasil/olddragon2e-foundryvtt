@@ -1,0 +1,37 @@
+{
+  "folder": "HNpUQ1OJpXzBYbNC",
+  "name": "Detectar Armadilhas",
+  "type": "spell",
+  "_id": "d61fVX29pim4kz1i",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "odo_id": "detectar-armadilhas",
+    "school": "arcane",
+    "circle": "1",
+    "arcane": "null",
+    "divine": "2",
+    "necromancer": "null",
+    "illusionist": "null",
+    "reverse": false,
+    "range": "9 metros",
+    "duration": "2 turnos",
+    "jp": "nenhuma",
+    "description": "<p>O conjurador consegue identificar magicamente qualquer armadilha, mágica ou não, como se fosse um Ladrão, fazendo-as brilhar com uma tênue luz azulada. Esta magia não revela o funcionamento das armadilhas e nem como desativá-las.</p>\n"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "olddragon2e",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1698721200000,
+    "modifiedTime": 1702782000000,
+    "lastModifiedBy": "enzpVKIAX52oTyPe"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "enzpVKIAX52oTyPe": 3
+  },
+  "_key": "!items!d61fVX29pim4kz1i"
+}

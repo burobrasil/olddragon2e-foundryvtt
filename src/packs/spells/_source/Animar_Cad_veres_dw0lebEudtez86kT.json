@@ -1,0 +1,37 @@
+{
+  "folder": "DvBaIm4P1hrEmNZz",
+  "name": "Animar Cadáveres",
+  "type": "spell",
+  "_id": "dw0lebEudtez86kT",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "odo_id": "animar-cadaveres",
+    "school": "arcane",
+    "circle": "1",
+    "arcane": "5",
+    "divine": "null",
+    "necromancer": "null",
+    "illusionist": "null",
+    "reverse": false,
+    "range": "toque",
+    "duration": "1 turno/nível",
+    "jp": "nenhuma",
+    "description": "<p>O conjurador pode dar vida a um cadáver ou a uma ossada para criar um zumbi ou um esqueleto, respectivamente. Os mortos-vivos criados desta forma não reconhecem mestres, não cumprem ordens ou aceitam comandos, atacando qualquer um desavisado. Um conjurador pode manter apenas um único Animar Cadáveres por vez no máximo de 1 turno por nível. Uma nova conjuração dissipará a anterior. Mortos-vivos destruídos não podem ser reanimados.</p>\n"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "olddragon2e",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1698721200000,
+    "modifiedTime": 1702782000000,
+    "lastModifiedBy": "enzpVKIAX52oTyPe"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "enzpVKIAX52oTyPe": 3
+  },
+  "_key": "!items!dw0lebEudtez86kT"
+}

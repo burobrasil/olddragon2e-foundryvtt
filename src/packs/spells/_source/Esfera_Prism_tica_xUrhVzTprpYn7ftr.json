@@ -1,0 +1,37 @@
+{
+  "folder": "iEpCCiH9YD1AP1Zt",
+  "name": "Esfera Prismática",
+  "type": "spell",
+  "_id": "xUrhVzTprpYn7ftr",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "odo_id": "esfera-prismatica",
+    "school": "arcane",
+    "circle": "1",
+    "arcane": "9",
+    "divine": "null",
+    "necromancer": "null",
+    "illusionist": "null",
+    "reverse": false,
+    "range": "pessoal",
+    "duration": "1 turno/nível",
+    "jp": "nenhuma",
+    "description": "<p>Uma esfera multicolorida com 3 metros de diâmetro encobre o conjurador como se fosse uma enorme bolha de proteção. Essa esfera é formada por 7 camadas coloridas as quais absorvem todos os ataques físicos direcionados ao conjurador.  Cada camada possui características individuais e somem ao absorver um ataque qualquer. Da mais externa para a mais interna:</p>\n\n<ul>\n  <li>\n    <p><strong>Vermelha</strong>: causa 12 pontos de dano ao toque e bloqueia magias de 1º círculo;</p>\n  </li>\n  <li>\n    <p><strong>Laranja</strong>: causa 24 pontos de dano ao toque e bloqueia magias de 1º a 3º círculo;</p>\n  </li>\n  <li>\n    <p><strong>Amarela</strong>: causa 48 pontos de dano ao toque e bloqueia magias de 1º a 4º círculo;</p>\n  </li>\n  <li>\n    <p><strong>Verde</strong>: causa morte instantânea ao toque (JPC evita) e bloqueia magias de 1º a 5º círculo;</p>\n  </li>\n  <li>\n    <p><strong>Azul</strong>: petrifica ao toque (JPC evita) e bloqueia todas as magias de 1º a 6º círculo;</p>\n  </li>\n  <li>\n    <p><strong>Anil</strong>: destrói a alma ao toque, causando a morte (sem Jogada de Proteção), e bloqueia todas as magias divinas;</p>\n  </li>\n  <li>\n    <p><strong>Violeta</strong>: causa insanidade ao toque e bloqueia todas as magias arcanas.</p>\n  </li>\n</ul>\n"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "olddragon2e",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1698721200000,
+    "modifiedTime": 1702782000000,
+    "lastModifiedBy": "enzpVKIAX52oTyPe"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "enzpVKIAX52oTyPe": 3
+  },
+  "_key": "!items!xUrhVzTprpYn7ftr"
+}

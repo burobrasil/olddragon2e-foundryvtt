@@ -1,0 +1,47 @@
+{
+  "folder": "vUaRYqh0qGZgJ326",
+  "name": "Aljava",
+  "type": "container",
+  "_id": "FJXb8rSDzI45VrfZ",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "odo_id": "aljava",
+    "quantity": 1,
+    "cost": "1 PO",
+    "description": "De couro, rígida para até 40 flechas ou 80 virotes. Comporta até 150 moedas.",
+    "weight_in_load": null,
+    "weight_in_grams": 500,
+    "magic_item": false,
+    "bonus_ca": null,
+    "type": null,
+    "damage_type": "none",
+    "damage": null,
+    "bonus_damage": null,
+    "bonus_ba": null,
+    "shoot_range": null,
+    "throw_range": null,
+    "arrow": false,
+    "bolt": false,
+    "bolt_small": false,
+    "polearm": false,
+    "two_handed": false,
+    "versatile": false,
+    "increases_load_by": null
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "olddragon2e",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1698721200000,
+    "modifiedTime": 1702782000000,
+    "lastModifiedBy": "enzpVKIAX52oTyPe"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "enzpVKIAX52oTyPe": 3
+  },
+  "_key": "!items!FJXb8rSDzI45VrfZ"
+}

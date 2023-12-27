@@ -1,0 +1,37 @@
+{
+  "folder": "DwXIBCnJvEFmiMD4",
+  "name": "Penitência",
+  "type": "spell",
+  "_id": "MsnhsxvFosufl9Mb",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "odo_id": "penitencia",
+    "school": "arcane",
+    "circle": "1",
+    "arcane": "null",
+    "divine": "5",
+    "necromancer": "null",
+    "illusionist": "null",
+    "reverse": false,
+    "range": "toque",
+    "duration": "instantânea",
+    "jp": "nenhuma",
+    "description": "<p>Esta magia remove o fardo causado por pecados cometidos pelo alvo, mesmo se cometidos sem consciência ou involuntariamente.</p>\n\n<p>Ele deve estar efetivamente arrependido e buscando penitência pelos seus atos, e deve aceitar a conjuração da magia sobre ele.</p>\n\n<p>Esta magia pode restaurar os poderes de Paladinos caídos ou Clérigos que tenham perdido a conexão com a sua fé.</p>\n"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "olddragon2e",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1698721200000,
+    "modifiedTime": 1702782000000,
+    "lastModifiedBy": "enzpVKIAX52oTyPe"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "enzpVKIAX52oTyPe": 3
+  },
+  "_key": "!items!MsnhsxvFosufl9Mb"
+}

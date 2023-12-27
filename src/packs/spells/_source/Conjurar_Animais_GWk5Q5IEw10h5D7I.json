@@ -1,0 +1,37 @@
+{
+  "folder": "xZpF7qdHMTjhEawz",
+  "name": "Conjurar Animais",
+  "type": "spell",
+  "_id": "GWk5Q5IEw10h5D7I",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "odo_id": "conjurar-animais",
+    "school": "arcane",
+    "circle": "1",
+    "arcane": "null",
+    "divine": "6",
+    "necromancer": "null",
+    "illusionist": "null",
+    "reverse": false,
+    "range": "18 metros",
+    "duration": "2 turnos",
+    "jp": "nenhuma",
+    "description": "<p>O conjurador convoca animais das redondezas como seus aliados. Qual criatura será conjurada e a quantidade de criaturas será determinada com uma jogada de 1d6 segundo a lista abaixo.  Também deverá estar de acordo com a localização do conjurador e com o tamanho do animal:</p>\n\n<ul>\n  <li>\n    <p><strong>1-3</strong>: 1d4+2 animais pequenos como Cobra, Hiena, Lobo ou Raposa</p>\n  </li>\n  <li>\n    <p><strong>4-5</strong>: 1d3+1 animais médios como Tigre, Gorila ou Águia</p>\n  </li>\n  <li>\n    <p><strong>6</strong>: 1d3 animais grandes como Búfalo, Rinoceronte ou Urso</p>\n  </li>\n</ul>\n\n<p>Os animais obedecem aos comandos do conjurador até serem feridos, maltratados ou dispensados.</p>\n"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "olddragon2e",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1698721200000,
+    "modifiedTime": 1702782000000,
+    "lastModifiedBy": "enzpVKIAX52oTyPe"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "enzpVKIAX52oTyPe": 3
+  },
+  "_key": "!items!GWk5Q5IEw10h5D7I"
+}

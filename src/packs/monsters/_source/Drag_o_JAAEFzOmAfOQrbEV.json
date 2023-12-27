@@ -1,0 +1,19 @@
+{
+  "folder": null,
+  "name": "Dragão",
+  "type": "Actor",
+  "_id": "JAAEFzOmAfOQrbEV",
+  "sorting": "a",
+  "sort": 0,
+  "color": "#BE123C",
+  "flags": {},
+  "_stats": {
+    "systemId": "olddragon2e",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1698721200000,
+    "modifiedTime": 1702782000000,
+    "lastModifiedBy": "enzpVKIAX52oTyPe"
+  },
+  "_key": "!folders!JAAEFzOmAfOQrbEV"
+}

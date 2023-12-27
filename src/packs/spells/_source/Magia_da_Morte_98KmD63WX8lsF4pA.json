@@ -1,0 +1,37 @@
+{
+  "folder": "mRRk0DsEXz2fqzFh",
+  "name": "Magia da Morte",
+  "type": "spell",
+  "_id": "98KmD63WX8lsF4pA",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "odo_id": "magia-da-morte",
+    "school": "arcane",
+    "circle": "1",
+    "arcane": "null",
+    "divine": "null",
+    "necromancer": "5",
+    "illusionist": "null",
+    "reverse": false,
+    "range": "3 metros + 1/nível",
+    "duration": "instantânea",
+    "jp": "JPC evita",
+    "description": "<p>Um raio de energia negativa sai das mãos do conjurador, matando 2d6 criaturas com 4 dados de vida ou menos as quais estejam dentro do alcance da magia (a magia afeta por ordem de proximidade em relação ao conjurador). Uma JPC evita os efeitos desta magia. Esta magia faz o Necromante perder 90% dos seus pontos de vida atuais. Um Necromante com 36 pontos de vida seria reduzido imediatamente a 3 pontos de vida.</p>\n"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "olddragon2e",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1698721200000,
+    "modifiedTime": 1702782000000,
+    "lastModifiedBy": "enzpVKIAX52oTyPe"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "enzpVKIAX52oTyPe": 3
+  },
+  "_key": "!items!98KmD63WX8lsF4pA"
+}

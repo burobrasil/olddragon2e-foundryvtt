@@ -1,0 +1,37 @@
+{
+  "folder": "Ki99CL7cfVsm9esy",
+  "name": "Concha Antimagia",
+  "type": "spell",
+  "_id": "A8L5YQgseSfDL95I",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "odo_id": "concha-antimagia",
+    "school": "arcane",
+    "circle": "1",
+    "arcane": "6",
+    "divine": "null",
+    "necromancer": "null",
+    "illusionist": "null",
+    "reverse": false,
+    "range": "pessoal",
+    "duration": "12 turnos",
+    "jp": "nenhuma",
+    "description": "<p>Uma concha de força mágica envolve o conjurador, impedindo que qualquer efeito mágico entre ou saia da concha. O conjurador pode, mesmo dentro da concha, dissipá-la quando desejar.</p>\n"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "olddragon2e",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1698721200000,
+    "modifiedTime": 1702782000000,
+    "lastModifiedBy": "enzpVKIAX52oTyPe"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "enzpVKIAX52oTyPe": 3
+  },
+  "_key": "!items!A8L5YQgseSfDL95I"
+}

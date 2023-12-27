@@ -1,0 +1,37 @@
+{
+  "folder": "mbCl7lZt0a0oHfZ7",
+  "name": "Muralha de Energia",
+  "type": "spell",
+  "_id": "2JSyzw5FC3oaqFNN",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "odo_id": "muralha-de-energia",
+    "school": "arcane",
+    "circle": "1",
+    "arcane": "4",
+    "divine": "null",
+    "necromancer": "null",
+    "illusionist": "null",
+    "reverse": false,
+    "range": "18 metros",
+    "duration": "6 turnos + 1/nível",
+    "jp": "nenhuma",
+    "description": "<p>O conjurador cria uma muralha de energia invisível com até 90 centímetros de espessura, 15 metros de altura e 15 metros de comprimento ao seu redor. Nenhum efeito mágico de um conjurador de nível inferior é capaz de ultrapassar a muralha, mas pessoas e projéteis sim.</p>\n"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "olddragon2e",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1698721200000,
+    "modifiedTime": 1702782000000,
+    "lastModifiedBy": "enzpVKIAX52oTyPe"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "enzpVKIAX52oTyPe": 3
+  },
+  "_key": "!items!2JSyzw5FC3oaqFNN"
+}

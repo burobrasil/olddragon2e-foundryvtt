@@ -1,0 +1,37 @@
+{
+  "folder": "1GdIatDAUmBOoNQj",
+  "name": "Terremoto",
+  "type": "spell",
+  "_id": "80J5UGAs0SCKqnKj",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "odo_id": "terremoto",
+    "school": "arcane",
+    "circle": "1",
+    "arcane": "null",
+    "divine": "7",
+    "necromancer": "null",
+    "illusionist": "null",
+    "reverse": false,
+    "range": "18 metros",
+    "duration": "instantânea",
+    "jp": "especial",
+    "description": "<p>O conjurador sacode o solo, mais precisamente um raio de 15 metros + 1 metro/nível, fazendo-o tremer como se fosse um grande terremoto.  Fissuras no solo são abertas, rios transbordam, encostas caem, montanhas deslizam, avalanches de neve são formadas, etc. Há uma chance de 1-5 em 1d6 de construções pequenas e frágeis serem reduzidas a escombros, e uma chance de 1-2 em 1d6 de construções resistentes terem o mesmo fim.</p>\n\n<p>Criaturas na área de um terremoto precisam de sucesso numa JPD para se manterem de pé e se deslocarem a um terço de sua movimentação normal. Há ainda 1 chance em 1d6 de uma fenda na terra se abrir e engolir qualquer criatura na área de efeito.</p>\n\n<p>Criaturas alvos de uma fenda podem realizar um JPD para se segurar em qualquer coisa, anulando assim a queda e a morte.</p>\n"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "olddragon2e",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1698721200000,
+    "modifiedTime": 1702782000000,
+    "lastModifiedBy": "enzpVKIAX52oTyPe"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "enzpVKIAX52oTyPe": 3
+  },
+  "_key": "!items!80J5UGAs0SCKqnKj"
+}

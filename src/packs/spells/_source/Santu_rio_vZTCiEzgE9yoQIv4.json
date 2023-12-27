@@ -1,0 +1,37 @@
+{
+  "folder": "8VVynUK0GJZaC2Yo",
+  "name": "Santuário",
+  "type": "spell",
+  "_id": "vZTCiEzgE9yoQIv4",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "odo_id": "santuario",
+    "school": "arcane",
+    "circle": "1",
+    "arcane": "null",
+    "divine": "1",
+    "necromancer": "null",
+    "illusionist": "null",
+    "reverse": false,
+    "range": "pessoal",
+    "duration": "1 turno + 1/nível",
+    "jp": "JPS nega",
+    "description": "<p>Esta magia cria uma aura de proteção no conjurador.  Todos que desejarem atacar o conjurador, devem realizar uma JPS. Caso falhem, não conseguirão atacá-lo, ignorando sua presença até o final do efeito da magia.</p>\n\n<p>Santuário não protege do efeito de magias de área, e perde o efeito (dissipando-se) caso o conjurador ataque ou conjure magias de ataque.</p>\n"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "olddragon2e",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1698721200000,
+    "modifiedTime": 1702782000000,
+    "lastModifiedBy": "enzpVKIAX52oTyPe"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "enzpVKIAX52oTyPe": 3
+  },
+  "_key": "!items!vZTCiEzgE9yoQIv4"
+}

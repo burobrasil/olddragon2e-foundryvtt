@@ -1,0 +1,37 @@
+{
+  "folder": "DvBaIm4P1hrEmNZz",
+  "name": "Recipiente Arcano",
+  "type": "spell",
+  "_id": "NSBlXucyDjawaS1W",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "odo_id": "recipiente-arcano",
+    "school": "arcane",
+    "circle": "1",
+    "arcane": "5",
+    "divine": "null",
+    "necromancer": "null",
+    "illusionist": "null",
+    "reverse": false,
+    "range": "pessoal",
+    "duration": "especial",
+    "jp": "especial",
+    "description": "<p>O conjurador cria um recipiente arcano contendo sua própria força vital, podendo ser usado para possuir o corpo de outras criaturas. O recipiente deve ser um objeto inanimado e deve estar a até 9 metros de distância do conjurador.</p>\n\n<p>Durante a transferência o conjurador entra num estado de transe, próximo a um coma, e não é capaz de se defender ou de realizar qualquer outra ação. Se o corpo do conjurador for destruído, a sua força vital fica presa no recipiente até conseguir realizar uma possessão. Se o recipiente for destruído nesta fase, o conjurador morre imediatamente.</p>\n\n<ul>\n  <li>\n    <p><strong>Possuindo</strong>: quando a força vital do conjurador estiver no recipiente, o conjurador pode tentar possuir o corpo de outra criatura a até 36 metros do recipiente. A vítima pode realizar uma JPS para negar a possessão.  Se bem-sucedida, fica imune a uma nova possessão por um turno. Se falhar, o conjurador consegue possuir o corpo da vítima pelo tempo desejado por ele, retornando sua força vital para seu próprio corpo no final do processo.</p>\n  </li>\n  <li>\n    <p><strong>Possuído</strong>: o conjurador passa a controlar totalmente o corpo da vítima após possuí-lo, mas não conseguirá conjurar magias durante uma possessão. Se o recipiente é destruído durante a possessão, a força vital do conjurador fica presa no corpo possuído, mas, se o corpo possuído morrer, a força vital migra para o recipiente. Se ambos forem destruídos ao mesmo tempo, o conjurador morre imediatamente.</p>\n  </li>\n</ul>\n"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "olddragon2e",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1698721200000,
+    "modifiedTime": 1702782000000,
+    "lastModifiedBy": "enzpVKIAX52oTyPe"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "enzpVKIAX52oTyPe": 3
+  },
+  "_key": "!items!NSBlXucyDjawaS1W"
+}

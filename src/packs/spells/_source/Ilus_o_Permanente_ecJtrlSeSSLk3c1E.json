@@ -1,0 +1,37 @@
+{
+  "folder": "AqfeFBrtRy9JshJZ",
+  "name": "Ilusão Permanente",
+  "type": "spell",
+  "_id": "ecJtrlSeSSLk3c1E",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "odo_id": "ilusao-permanente",
+    "school": "arcane",
+    "circle": "1",
+    "arcane": "null",
+    "divine": "null",
+    "necromancer": "null",
+    "illusionist": "5",
+    "reverse": false,
+    "range": "especial",
+    "duration": "permanente",
+    "jp": "JPS nega",
+    "description": "<p>Enquanto estiver ativa e até ser dissipada, o conjurador cria a ilusão de uma criatura, objeto ou cena, mesmo se nunca vista pelo conjurador. A ilusão movimenta-se, emite sons – inclusive os da fala com palavras inteligíveis – irradia temperatura, possui odor e é sensível ao toque dos oponentes, já que não desaparece quando tocada. Se usada para atacar ou simular um ataque, o alvo pode realizar uma JPS para negar os efeitos da ilusão.</p>\n\n<p>A Ilusão criada possui CA 16, o mesmo BA do conjurador e pontos de vida ilusórios iguais ao valor de inteligência do conjurador. Esta ilusão só desaparece quando dissipada. Ao ser atingida com sucesso em combate perde os pontos de vida ilusórios até ser morta ilusoriamente.</p>\n\n<p>Uma ilusão nunca causa dano real, no entanto, em uma Ilusão Permanente, há uma chance de 1 em 1d6 de que o alvo atingido – que receba 15 ou mais pontos de dano da ilusão – morra de verdade por acreditar estar seriamente ferido. Caso o alvo, ainda que receba 15 ou mais pontos de dano da ilusão, não morra pela chance de 1 em 1d6, cairá no chão inconsciente por 1 turno.</p>\n"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "olddragon2e",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1698721200000,
+    "modifiedTime": 1702782000000,
+    "lastModifiedBy": "enzpVKIAX52oTyPe"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "enzpVKIAX52oTyPe": 3
+  },
+  "_key": "!items!ecJtrlSeSSLk3c1E"
+}

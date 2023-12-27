@@ -1,0 +1,37 @@
+{
+  "folder": "8lXrqX2bZWLr3ri1",
+  "name": "Localizar Objetos",
+  "type": "spell",
+  "_id": "oq0ah7vh6sZBVbVH",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "odo_id": "localizar-objetos",
+    "school": "arcane",
+    "circle": "1",
+    "arcane": "2",
+    "divine": "null",
+    "necromancer": "null",
+    "illusionist": "null",
+    "reverse": false,
+    "range": "18 metros + 2m/nível",
+    "duration": "2 turnos",
+    "jp": "nenhuma",
+    "description": "<p>Esta magia dá ao conjurador a direção correta até um objeto do tipo especificado na descrição.</p>\n\n<p>O objeto não pode ser algo nunca visto pelo conjurador, apesar de que a magia pode detectar um objeto em uma classe geral de itens conhecidos do conjurador (cadeiras, ouro etc.), mas com uma precisão ainda menor.</p>\n\n<p>Esta magia não permite a localização de criaturas vivas ou animadas.</p>\n"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "olddragon2e",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1698721200000,
+    "modifiedTime": 1702782000000,
+    "lastModifiedBy": "enzpVKIAX52oTyPe"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "enzpVKIAX52oTyPe": 3
+  },
+  "_key": "!items!oq0ah7vh6sZBVbVH"
+}

@@ -1,0 +1,37 @@
+{
+  "folder": "kbBlGamoucDOFqX7",
+  "name": "Ilusão",
+  "type": "spell",
+  "_id": "ozYQy4fdWItgKuVC",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "odo_id": "ilusao",
+    "school": "arcane",
+    "circle": "1",
+    "arcane": "null",
+    "divine": "null",
+    "necromancer": "null",
+    "illusionist": "1",
+    "reverse": false,
+    "range": "especial",
+    "duration": "especial",
+    "jp": "JPS nega",
+    "description": "<p>Enquanto concentrado, o conjurador cria a ilusão de uma criatura, objeto ou cena, desde que já tenha a visto anteriormente. A Ilusão é apenas visual e, apesar de possuir movimentos, não emite sons, não possui cheiro e não irradia temperatura.</p>\n\n<p>Se não for usada para criar um falso ataque, a ilusão desaparecerá ao ser tocada. Se usada para atacar ou simular um ataque, o alvo poderá realizar uma JPS para negar os efeitos da ilusão.</p>\n\n<p>A Ilusão criada possui CA 11, o mesmo BA do conjurador e desaparece após a concentração do conjurador ser interrompida ou ao ser atingida com sucesso em combate.</p>\n\n<p>Uma ilusão nunca causa dano real. Ao ser “morto” por uma ilusão, o oponente ficará inconsciente por 1d4 rodadas.</p>\n"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "olddragon2e",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1698721200000,
+    "modifiedTime": 1702782000000,
+    "lastModifiedBy": "enzpVKIAX52oTyPe"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "enzpVKIAX52oTyPe": 3
+  },
+  "_key": "!items!ozYQy4fdWItgKuVC"
+}

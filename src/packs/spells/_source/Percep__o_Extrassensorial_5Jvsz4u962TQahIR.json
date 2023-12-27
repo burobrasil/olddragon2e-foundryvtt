@@ -1,0 +1,37 @@
+{
+  "folder": "8lXrqX2bZWLr3ri1",
+  "name": "Percepção Extrassensorial",
+  "type": "spell",
+  "_id": "5Jvsz4u962TQahIR",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "odo_id": "percepcao-extrassensorial",
+    "school": "arcane",
+    "circle": "1",
+    "arcane": "2",
+    "divine": "null",
+    "necromancer": "null",
+    "illusionist": "null",
+    "reverse": false,
+    "range": "18 metros",
+    "duration": "12 turnos",
+    "jp": "nenhuma",
+    "description": "<p>Concentrando-se por 1 minuto, o conjurador pode detectar e entender os pensamentos de outras criaturas dentro de um raio máximo de 18 metros, ainda que não compartilhem o mesmo idioma. A magia não pode penetrar mais de 60 centímetros de pedra e é bloqueada até mesmo pela mais fina folha de chumbo.</p>\n\n<p>Se mais de duas criaturas estiverem na área de efeito, o conjurador precisa concentrar-se um turno adicional para selecionar exatamente os pensamentos que deseja perceber.</p>\n"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "olddragon2e",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1698721200000,
+    "modifiedTime": 1702782000000,
+    "lastModifiedBy": "enzpVKIAX52oTyPe"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "enzpVKIAX52oTyPe": 3
+  },
+  "_key": "!items!5Jvsz4u962TQahIR"
+}

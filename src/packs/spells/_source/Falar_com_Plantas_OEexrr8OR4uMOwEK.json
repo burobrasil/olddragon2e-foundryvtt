@@ -1,0 +1,37 @@
+{
+  "folder": "P0IKVo6tzkBrcqGV",
+  "name": "Falar com Plantas",
+  "type": "spell",
+  "_id": "OEexrr8OR4uMOwEK",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "odo_id": "falar-com-plantas",
+    "school": "arcane",
+    "circle": "1",
+    "arcane": "null",
+    "divine": "4",
+    "necromancer": "null",
+    "illusionist": "null",
+    "reverse": false,
+    "range": "pessoal",
+    "duration": "6 turnos",
+    "jp": "nenhuma",
+    "description": "<p>O conjurador é capaz de se comunicar, falar, ser entendido e entender uma planta não mágica.  O conjurador pode fazer perguntas, receber respostas e até solicitar favores, os quais podem ser atendidos ou não, de acordo com o teste de reação da planta. Apenas favores não ofensivos e realizáveis serão atendidos.</p>\n"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "olddragon2e",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1698721200000,
+    "modifiedTime": 1702782000000,
+    "lastModifiedBy": "enzpVKIAX52oTyPe"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "enzpVKIAX52oTyPe": 3
+  },
+  "_key": "!items!OEexrr8OR4uMOwEK"
+}
