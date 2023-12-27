@@ -1,0 +1,27 @@
+<div class="form-group">
+    <label>Fórmula</label>
+    <input type="text" name="formula" value="{{formula}}" disabled>
+</div>
+<div class="form-group">
+    <label>Ajuste de Moral</em></label>
+    <select name="adjustment" id="adjustment">
+        <option value="none" selected>Nenhum</option>
+        <option value="easy">Fácil (F)</option>
+        <option value="very-easy">Muito Fácil (MF)</option>
+        <option value="hard">Difícil (D)</option>
+        <option value="very-hard">Muito Difícil (MD)</option>
+    </select>
+</div>
+<div class="form-group">
+    <label>Mod. Opcional <em>(valor ou dados)</em></label>
+    <input type="text" name="bonus" id="bonus" value="" placeholder="Ex.: -1, 10, 2d4, 1d6 + 1d8 + 1d10">
+</div>
+<div class="form-group">
+    <label>Modo de Rolagem</label>
+    <select name="rollMode" id="rollMode">
+        <option value="public" selected>Public Roll</option>
+        <option value="private">Private GM Roll</option>
+        <option value="blind">Blind GM Roll</option>
+        <option value="self">Self Roll</option>
+    </select>
+</div>

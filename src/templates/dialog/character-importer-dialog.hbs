@@ -1,8 +1,9 @@
 <div class="character-importer">
-    <p>Adicione o link da página do personagem no ODO (só copiar da URL no browser ou copiar via o botão "Compartilhar") </p>
+    <p>Insira o link da página da ficha do personagem escolhido no <a href="https://olddragon.com.br/">ODO</a>.</p>
+    <p>Utilize o botão “Compartilhar”, ou copie a URL no browser.</p>
     <input name="character-importer" id="character-importer-url-text" type="text">{{character-importer}}</input>
     <div class="button-row">
-        <button type="submit" class="button cancel-button" name="cancel" value="1">Cancelar</button>
-        <button type="submit" class="button character-importer-button" name="character-importer" value="1">Importar</button>
+        <button type="submit" class="button character-importer-button" name="character-importer" value="1"><i class="fa-solid fa-file-import"></i>{{localize "olddragon2e.import"}}</button>
+        <button type="submit" class="button cancel-button" name="cancel" value="1"><i class='fa-solid fa-xmark'></i>{{localize "olddragon2e.cancel"}}</button>
     </div>
 </div>

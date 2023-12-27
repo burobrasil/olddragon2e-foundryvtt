@@ -12,8 +12,8 @@
             </div>
         </div>
         <ol class="item-list">
-            {{#each weapon as |weapon id|}}
-            <li class="item" data-item-id="{{weapon._id}}">
+            {{#each weapon as |weapon|}}
+            <li class="item" data-item-id="{{weapon.id}}">
                 {{> "systems/olddragon2e/templates/partials/cards/weapon-card.hbs" weapon}}
             </li>
             {{/each}}
@@ -33,8 +33,8 @@
             </div>
         </div>
         <ol class="item-list">
-            {{#each armor as |armor id|}}
-            <li class="item" data-item-id="{{armor._id}}">
+            {{#each armor as |armor|}}
+            <li class="item" data-item-id="{{armor.id}}">
                 {{> "systems/olddragon2e/templates/partials/cards/armor-card.hbs" armor}}
             </li>
             {{/each}}
@@ -54,8 +54,8 @@
             </div>
         </div>
         <ol class="item-list">
-            {{#each shield as |shield id|}}
-            <li class="item" data-item-id="{{shield._id}}">
+            {{#each shield as |shield|}}
+            <li class="item" data-item-id="{{shield.id}}">
                 {{> "systems/olddragon2e/templates/partials/cards/shield-card.hbs" shield}}
             </li>
             {{/each}}
@@ -75,8 +75,8 @@
             </div>
         </div>
         <ol class="item-list">
-            {{#each misc as |misc id|}}
-            <li class="item" data-item-id="{{misc._id}}">
+            {{#each misc as |misc|}}
+            <li class="item" data-item-id="{{misc.id}}">
                 {{> "systems/olddragon2e/templates/partials/cards/misc-card.hbs" misc}}
             </li>
             {{/each}}
@@ -96,8 +96,8 @@
             </div>
         </div>
         <ol class="item-list">
-            {{#each container as |container id|}}
-            <li class="item" data-item-id="{{container._id}}">
+            {{#each container as |container|}}
+            <li class="item" data-item-id="{{container.id}}">
                 {{> "systems/olddragon2e/templates/partials/cards/container-card.hbs" container}}
             </li>
             {{/each}}
@@ -117,8 +117,8 @@
             </div>
         </div>
         <ol class="item-list">
-            {{#each vehicle as |vehicle id|}}
-            <li class="item" data-item-id="{{vehicle._id}}">
+            {{#each vehicle as |vehicle|}}
+            <li class="item" data-item-id="{{vehicle.id}}">
                 {{> "systems/olddragon2e/templates/partials/cards/vehicle-card.hbs" vehicle}}
             </li>
             {{/each}}
@@ -131,12 +131,12 @@
         <div class="load-values">
             {{!-- Carga | Atual --}}
             <div class="current-load">
-                <input id="current-load" name="system.load.current" type="text" value="{{system.load.current}}" data-dtype="Number" disabled="true">
+                <input id="current-load" name="system.load_current" type="text" value="{{system.load_current}}" data-dtype="Number" disabled="true">
                 <label class="text-xs font-bold">{{localize "olddragon2e.load_current"}}</label>
             </div>
             {{!-- Carga | Máxima --}}
             <div class="max-load">
-                <input name="system.load.max" type="text" value="{{system.load.max}}" data-dtype="Number" disabled="true">
+                <input name="system.load_max" type="text" value="{{system.load_max}}" data-dtype="Number" disabled="true">
                 <label class="text-xs font-bold">{{localize "olddragon2e.load_max"}}</label>
             </div>
         </div>
