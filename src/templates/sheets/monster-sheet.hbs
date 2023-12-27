@@ -154,6 +154,16 @@
                                 <input name="system.mv" type="text" value="{{system.mv}}" data-dtype="String">
                                 <label class="text-xs">{{localize "olddragon2e.base"}}</label>
                             </div>
+                            {{!-- Correr --}}
+                            <div class="mv-value">
+                                <input name="system.mvc" type="text" value="{{system.mvc}}" data-dtype="Number" disabled>
+                                <label class="text-xs">{{localize "olddragon2e.mv_run"}}</label>
+                            </div>
+                            {{!-- Escalar --}}
+                            <div class="mv-value">
+                                <input name="system.mve" type="text" value="{{system.mve}}" data-dtype="Number" disabled>
+                                <label class="text-xs">{{localize "olddragon2e.mv_climb"}}</label>
+                            </div>
                             {{!-- Nadar --}}
                             <div class="mv-value">
                                 <input name="system.mvn" type="text" value="{{system.mvn}}" data-dtype="String">
@@ -173,17 +183,17 @@
                     </div>
                     {{!-- PV | Pontos de Vida --}}
                     <div class="hp">
-                        <label class="font-bold">{{localize "olddragon2e.hp_long"}}</label>
+                        <label class="font-bold">{{localize "olddragon2e.hp_short"}}</label>
                         <div class="hp-values">
                             {{!-- PV Atual --}}
                             <div class="hp-value">
                                 <input name="system.hp.value" type="text" value="{{system.hp.value}}" data-dtype="Number">
-                                <label class="text-xs font-bold">{{localize "olddragon2e.hp_value"}}</label>
+                                <label class="text-xs font-bold">{{localize "olddragon2e.current"}}</label>
                             </div>
                             {{!-- PV Total --}}
                             <div class="hp-value">
                                 <input name="system.hp.max" type="text" value="{{system.hp.max}}" data-dtype="Number">
-                                <label class="text-xs font-bold">{{localize "olddragon2e.hp_max"}}</label>
+                                <label class="text-xs font-bold">{{localize "olddragon2e.total"}}</label>
                             </div>
                         </div>
                     </div>

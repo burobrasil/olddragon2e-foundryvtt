@@ -84,7 +84,7 @@
                 <div class="jp-group">
                     {{!-- JPD --}}
                     <div class="jpd">
-                        <input class="system-jpd" name="system.jpd.value" type="text" value="{{system.jpd.value}}" data-dtype="Number">
+                        <input class="system-jpd" name="system.jpd_total" type="text" value="{{system.jpd_total}}" data-dtype="Number" disabled>
                         <a class="font-bold jp-roll" data-jp="jpd" data-jp-label="{{localize "olddragon2e.jpd_short"}}" title="Rolar jogada de proteção de destreza"><i class="fa-light fa-dice-d20 fa-sm"></i>{{localize "olddragon2e.jpd_short"}}</a>
                     </div>
                     <div class="jp-values">
@@ -109,7 +109,7 @@
                 <div class="jp-group">
                     {{!-- JPC --}}
                     <div class="jpc">
-                        <input name="system.jpc.value" type="text" value="{{system.jpc.value}}" data-dtype="Number">
+                        <input name="system.jpc_total" type="text" value="{{system.jpc_total}}" data-dtype="Number" disabled>
                         <a class="font-bold jp-roll" data-jp="jpc" data-jp-label="{{localize "olddragon2e.jpc_short"}}" title="Rolar jogada de proteção de constituição"><i class="fa-light fa-dice-d20 fa-sm"></i>{{localize "olddragon2e.jpc_short"}}</a>
                     </div>
                     <div class="jp-values">
@@ -134,7 +134,7 @@
                 <div class="jp-group">
                     {{!-- JPS --}}
                     <div class="jps">
-                        <input name="system.jps.value" type="text" value="{{system.jps.value}}" data-dtype="Number">
+                        <input name="system.jps_total" type="text" value="{{system.jps_total}}" data-dtype="Number" disabled>
                         <a class="font-bold jp-roll" data-jp="jps" data-jp-label="{{localize "olddragon2e.jps_short"}}" title="Rolar jogada de proteção de sabedoria"><i class="fa-light fa-dice-d20 fa-sm"></i>{{localize "olddragon2e.jps_short"}}</a>
                     </div>
                     <div class="jp-values">
@@ -223,22 +223,22 @@
                         <div class="mv-values">
                             {{!-- Atual --}}
                             <div class="mv-value">
-                                <input class="system-current-movement" name="system.current_movement.value" type="text" value="{{system.current_movement.value}}" data-dtype="Number">
+                                <input class="system-current-movement" name="system.current_movement" type="text" value="{{system.current_movement}}" data-dtype="Number">
                                 <label class="text-xs">{{localize "olddragon2e.current_mv"}}</label>
                             </div>
                             {{!-- Correr --}}
                             <div class="mv-value">
-                                <input name="system.movement_run" type="text" value="{{system.movement_run}}" data-dtype="Number">
+                                <input name="system.movement_run" type="text" value="{{system.movement_run}}" data-dtype="Number" disabled>
                                 <label class="text-xs">{{localize "olddragon2e.mv_run"}}</label>
                             </div>
                             {{!-- Escalar --}}
                             <div class="mv-value">
-                                <input name="system.movement_climb" type="text" value="{{system.movement_climb}}" data-dtype="Number">
+                                <input name="system.movement_climb" type="text" value="{{system.movement_climb}}" data-dtype="Number" disabled>
                                 <label class="text-xs">{{localize "olddragon2e.mv_climb"}}</label>
                             </div>
                             {{!-- Nadar --}}
                             <div class="mv-value">
-                                <input name="system.movement_swim" type="text" value="{{system.movement_swim}}" data-dtype="Number">
+                                <input name="system.movement_swim" type="text" value="{{system.movement_swim}}" data-dtype="Number" disabled>
                                 <label class="text-xs">{{localize "olddragon2e.mv_swim"}}</label>
                             </div>
                         </div>
@@ -287,7 +287,7 @@
                         <div class="ca-values">
                             {{!-- CA --}}
                             <div class="ca-total">
-                                <input name="system.ac.value" type="text" value="{{system.ac.value}}" data-dtype="Number" disabled>
+                                <input name="system.ac_total" type="text" value="{{system.ac_total}}" data-dtype="Number" disabled>
                                 <label class="font-bold">{{localize "olddragon2e.ac_short"}}</label>
                             </div>
                             {{!-- Base --}}
@@ -302,12 +302,12 @@
                             </div>
                             {{!-- Armadura --}}
                             <div class="ca-value">
-                                <input class="system-ac" name="system.ac.armor" type="text" value="{{system.ac.armor}}" data-dtype="Number" disabled>
+                                <input class="system-ac" name="system.ac_armor" type="text" value="{{system.ac_armor}}" data-dtype="Number" disabled>
                                 <label class="text-2xs">{{localize "olddragon2e.armor"}}</label>
                             </div>
                             {{!-- Escudo --}}
                             <div class="ca-value">
-                                <input class="system-ac" name="system.ac.shield" type="text" value="{{system.ac.shield}}" data-dtype="Number" disabled>
+                                <input class="system-ac" name="system.ac_shield" type="text" value="{{system.ac_shield}}" data-dtype="Number" disabled>
                                 <label class="text-2xs">{{localize "olddragon2e.shield"}}</label>
                             </div>
                             {{!-- Arma Mágica --}}
@@ -324,7 +324,7 @@
                         <div class="ba-values">
                             {{!-- BAC --}}
                             <div class="bac">
-                                <input name="system.bac" type="text" value="{{signed_number system.bac}}" data-dtype="Number">
+                                <input name="system.bac" type="text" value="{{signed_number system.bac}}" data-dtype="Number" disabled>
                                 <a class="font-bold ba-roll" data-ba="bac" data-ba-label="{{localize "olddragon2e.bac_short"}}" title="Rolar base de ataque corpo a corpo"><i class="fa-light fa-dice-d20 fa-xs"></i>{{localize "olddragon2e.bac_short"}}</a>
                             </div>
                             {{!-- M. FOR --}}
@@ -334,7 +334,7 @@
                             </div>
                             {{!-- Base --}}
                             <div class="ba-value">
-                                <input class="system-ba" name="system.ba.value" type="text" value="{{system.ba.value}}" data-dtype="Number">
+                                <input class="system-ba" name="system.ba" type="text" value="{{system.ba}}" data-dtype="Number">
                                 <label class="text-2xs">{{localize "olddragon2e.base"}}</label>
                             </div>
                             {{!-- M. DES --}}
@@ -344,7 +344,7 @@
                             </div>
                             {{!-- BAD --}}
                             <div class="bad">
-                                <input name="system.bad" type="text" value="{{signed_number system.bad}}" data-dtype="Number">
+                                <input name="system.bad" type="text" value="{{signed_number system.bad}}" data-dtype="Number" disabled>
                                 <a class="font-bold ba-roll" data-ba="bad" data-ba-label="{{localize "olddragon2e.bad_short"}}" title="Rolar base de ataque à distância"><i class="fa-light fa-dice-d20 fa-xs"></i>{{localize "olddragon2e.bad_short"}}</a>
                             </div>
                         </div>
