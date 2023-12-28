@@ -1,5 +1,14 @@
-2023/11/29-11:30:07.305 5048 Delete type=3 #1
-2023/11/29-11:48:36.343 3858 Level-0 table #5: started
-2023/11/29-11:48:36.343 3858 Level-0 table #5: 0 bytes OK
-2023/11/29-11:48:36.354 3858 Delete type=0 #3
-2023/11/29-11:48:36.369 3858 Manual compaction at level-0 from 'undefined' @ 72057594037927935 : 1 .. 'undefined' @ 0 : 0; will stop at (end)
+2023/12/27-15:06:07.794691 172bab000 Recovering log #11
+2023/12/27-15:06:07.795986 172bab000 Delete type=0 #11
+2023/12/27-15:06:07.796235 172bab000 Delete type=3 #8
+2023/12/27-15:06:07.803321 173c4f000 Level-0 table #17: started
+2023/12/27-15:06:07.807193 173c4f000 Level-0 table #17: 616347 bytes OK
+2023/12/27-15:06:07.807309 173c4f000 Delete type=0 #15
+2023/12/27-15:06:07.807740 173c4f000 Manual compaction at level-0 from '!journal!3OOJyr7lvbYBywdI' @ 72057594037927935 : 1 .. '!journal.pages!l8eGwZDdIvFVTlFt.byEYfOij9MeNDZEM' @ 0 : 0; will stop at '!journal.pages!l8eGwZDdIvFVTlFt.byEYfOij9MeNDZEM' @ 558 : 1
+2023/12/27-15:06:07.807747 173c4f000 Compacting 1@0 + 1@1 files
+2023/12/27-15:06:07.813157 173c4f000 Generated table #18@0: 275 keys, 616347 bytes
+2023/12/27-15:06:07.813162 173c4f000 Compacted 1@0 + 1@1 files => 616347 bytes
+2023/12/27-15:06:07.813205 173c4f000 compacted to: files[ 0 1 0 0 0 0 0 ]
+2023/12/27-15:06:07.813233 173c4f000 Delete type=2 #17
+2023/12/27-15:06:07.813585 173c4f000 Delete type=2 #13
+2023/12/27-15:06:07.813895 173c4f000 Manual compaction at level-0 from '!journal.pages!l8eGwZDdIvFVTlFt.byEYfOij9MeNDZEM' @ 558 : 1 .. '!journal.pages!l8eGwZDdIvFVTlFt.byEYfOij9MeNDZEM' @ 0 : 0; will stop at (end)
