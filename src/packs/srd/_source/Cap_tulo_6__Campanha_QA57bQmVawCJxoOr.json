@@ -7,7 +7,7 @@
       "sort": 0,
       "name": "Grupo de Aventureiros",
       "type": "text",
-      "_id": "7Rq8HB8OBgQ5gA6t",
+      "_id": "JCjXbO8FUtUxVz5Q",
       "title": {
         "show": true,
         "level": 1
@@ -36,13 +36,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!QA57bQmVawCJxoOr.7Rq8HB8OBgQ5gA6t"
+      "_key": "!journal.pages!QA57bQmVawCJxoOr.JCjXbO8FUtUxVz5Q"
     },
     {
       "sort": 1,
       "name": "Reputação",
       "type": "text",
-      "_id": "bmDgRRUoMdxkqhXo",
+      "_id": "4jnFJP2X2v028xtI",
       "title": {
         "show": true,
         "level": 1
@@ -71,13 +71,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!QA57bQmVawCJxoOr.bmDgRRUoMdxkqhXo"
+      "_key": "!journal.pages!QA57bQmVawCJxoOr.4jnFJP2X2v028xtI"
     },
     {
       "sort": 2,
       "name": "Medindo o Tempo",
       "type": "text",
-      "_id": "W5TuWgn0HQ0vhZzA",
+      "_id": "sBeD4Wq4Py3vkTfC",
       "title": {
         "show": true,
         "level": 1
@@ -106,13 +106,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!QA57bQmVawCJxoOr.W5TuWgn0HQ0vhZzA"
+      "_key": "!journal.pages!QA57bQmVawCJxoOr.sBeD4Wq4Py3vkTfC"
     },
     {
       "sort": 3,
       "name": "Carga",
       "type": "text",
-      "_id": "1iFkB9JNiCaV2qYW",
+      "_id": "Ae7g6aVKEzIt0MCO",
       "title": {
         "show": true,
         "level": 1
@@ -141,13 +141,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!QA57bQmVawCJxoOr.1iFkB9JNiCaV2qYW"
+      "_key": "!journal.pages!QA57bQmVawCJxoOr.Ae7g6aVKEzIt0MCO"
     },
     {
       "sort": 4,
       "name": "Deslocamento",
       "type": "text",
-      "_id": "Kvfp8uNsvPdDs4Uk",
+      "_id": "Jw7px2YYAo2zHJm0",
       "title": {
         "show": true,
         "level": 1
@@ -176,13 +176,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!QA57bQmVawCJxoOr.Kvfp8uNsvPdDs4Uk"
+      "_key": "!journal.pages!QA57bQmVawCJxoOr.Jw7px2YYAo2zHJm0"
     },
     {
       "sort": 5,
       "name": "Ouvir Ruídos",
       "type": "text",
-      "_id": "w5pjuhXLImfYCx4G",
+      "_id": "nqmoJVkVAFmxzhgH",
       "title": {
         "show": true,
         "level": 1
@@ -211,13 +211,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!QA57bQmVawCJxoOr.w5pjuhXLImfYCx4G"
+      "_key": "!journal.pages!QA57bQmVawCJxoOr.nqmoJVkVAFmxzhgH"
     },
     {
       "sort": 6,
       "name": "Esconder",
       "type": "text",
-      "_id": "bjy6QIUkvdhNgSTn",
+      "_id": "tQkYp7UXuDPREVNd",
       "title": {
         "show": true,
         "level": 1
@@ -246,13 +246,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!QA57bQmVawCJxoOr.bjy6QIUkvdhNgSTn"
+      "_key": "!journal.pages!QA57bQmVawCJxoOr.tQkYp7UXuDPREVNd"
     },
     {
       "sort": 7,
       "name": "Procurar",
       "type": "text",
-      "_id": "1VR7OY3gferwDCMM",
+      "_id": "DCe85L9ohjEe0fSg",
       "title": {
         "show": true,
         "level": 1
@@ -281,13 +281,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!QA57bQmVawCJxoOr.1VR7OY3gferwDCMM"
+      "_key": "!journal.pages!QA57bQmVawCJxoOr.DCe85L9ohjEe0fSg"
     },
     {
       "sort": 8,
       "name": "Luz e Visibilidade",
       "type": "text",
-      "_id": "MwA2eeJWIkUE5FqX",
+      "_id": "C68JWrXTMx1Nr9E7",
       "title": {
         "show": true,
         "level": 1
@@ -316,13 +316,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!QA57bQmVawCJxoOr.MwA2eeJWIkUE5FqX"
+      "_key": "!journal.pages!QA57bQmVawCJxoOr.C68JWrXTMx1Nr9E7"
     },
     {
       "sort": 9,
       "name": "Masmorras",
       "type": "text",
-      "_id": "wOypigzqmtGw5uZP",
+      "_id": "5wkXdvJSphp6COmT",
       "title": {
         "show": true,
         "level": 1
@@ -351,13 +351,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!QA57bQmVawCJxoOr.wOypigzqmtGw5uZP"
+      "_key": "!journal.pages!QA57bQmVawCJxoOr.5wkXdvJSphp6COmT"
     },
     {
       "sort": 10,
       "name": "Aventuras nos Ermos",
       "type": "text",
-      "_id": "WsFQ53k7f7JWApR6",
+      "_id": "6GE1Xe1cHqX1a2kX",
       "title": {
         "show": true,
         "level": 1
@@ -386,13 +386,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!QA57bQmVawCJxoOr.WsFQ53k7f7JWApR6"
+      "_key": "!journal.pages!QA57bQmVawCJxoOr.6GE1Xe1cHqX1a2kX"
     },
     {
       "sort": 11,
       "name": "Inanição e Desidratação",
       "type": "text",
-      "_id": "uizouvJ4xnlmfVKb",
+      "_id": "tudIXLuduJVSE9IA",
       "title": {
         "show": true,
         "level": 1
@@ -421,13 +421,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!QA57bQmVawCJxoOr.uizouvJ4xnlmfVKb"
+      "_key": "!journal.pages!QA57bQmVawCJxoOr.tudIXLuduJVSE9IA"
     },
     {
       "sort": 12,
       "name": "Contratando",
       "type": "text",
-      "_id": "eYSfvu7112ABuSPN",
+      "_id": "llHlqhMB2qM5gA7u",
       "title": {
         "show": true,
         "level": 1
@@ -456,13 +456,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!QA57bQmVawCJxoOr.eYSfvu7112ABuSPN"
+      "_key": "!journal.pages!QA57bQmVawCJxoOr.llHlqhMB2qM5gA7u"
     },
     {
       "sort": 13,
       "name": "Encontros sem Combate",
       "type": "text",
-      "_id": "ScgcWRYhVceIXtdn",
+      "_id": "FMqqsOOLphpex92G",
       "title": {
         "show": true,
         "level": 1
@@ -491,13 +491,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!QA57bQmVawCJxoOr.ScgcWRYhVceIXtdn"
+      "_key": "!journal.pages!QA57bQmVawCJxoOr.FMqqsOOLphpex92G"
     },
     {
       "sort": 14,
       "name": "Perseguições",
       "type": "text",
-      "_id": "Dv2TNJk9HUYz1XCj",
+      "_id": "QOo2ECRtYiJzTnlv",
       "title": {
         "show": true,
         "level": 1
@@ -526,7 +526,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!QA57bQmVawCJxoOr.Dv2TNJk9HUYz1XCj"
+      "_key": "!journal.pages!QA57bQmVawCJxoOr.QOo2ECRtYiJzTnlv"
     }
   ],
   "flags": {},

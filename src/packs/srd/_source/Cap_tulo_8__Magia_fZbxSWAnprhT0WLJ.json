@@ -5,9 +5,9 @@
   "pages": [
     {
       "sort": 0,
-      "name": "",
+      "name": "Introdução",
       "type": "text",
-      "_id": "C5ieR5VmNME5aJjg",
+      "_id": "Jk6YmsT9Ro42FAjq",
       "title": {
         "show": true,
         "level": 1
@@ -36,13 +36,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!fZbxSWAnprhT0WLJ.C5ieR5VmNME5aJjg"
+      "_key": "!journal.pages!fZbxSWAnprhT0WLJ.Jk6YmsT9Ro42FAjq"
     },
     {
       "sort": 1,
       "name": "Memorizando Magias",
       "type": "text",
-      "_id": "1xjmmRYLz3SKG2zu",
+      "_id": "O8NTfrTt7LFgX9L0",
       "title": {
         "show": true,
         "level": 1
@@ -71,13 +71,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!fZbxSWAnprhT0WLJ.1xjmmRYLz3SKG2zu"
+      "_key": "!journal.pages!fZbxSWAnprhT0WLJ.O8NTfrTt7LFgX9L0"
     },
     {
       "sort": 2,
       "name": "Grimório Arcano",
       "type": "text",
-      "_id": "IzHeehL8tn2DAEeb",
+      "_id": "CvEk0EFteBHBaBwK",
       "title": {
         "show": true,
         "level": 1
@@ -106,13 +106,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!fZbxSWAnprhT0WLJ.IzHeehL8tn2DAEeb"
+      "_key": "!journal.pages!fZbxSWAnprhT0WLJ.CvEk0EFteBHBaBwK"
     },
     {
       "sort": 3,
       "name": "Ampliando o Grimório",
       "type": "text",
-      "_id": "r7SxxT96yM8iLynR",
+      "_id": "l0G8Qms5ykmP2mlD",
       "title": {
         "show": true,
         "level": 1
@@ -141,13 +141,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!fZbxSWAnprhT0WLJ.r7SxxT96yM8iLynR"
+      "_key": "!journal.pages!fZbxSWAnprhT0WLJ.l0G8Qms5ykmP2mlD"
     },
     {
       "sort": 4,
       "name": "Magias por Dia",
       "type": "text",
-      "_id": "tZncbFlCR4IPmge3",
+      "_id": "bAKLwQIADChLHtYE",
       "title": {
         "show": true,
         "level": 1
@@ -176,13 +176,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!fZbxSWAnprhT0WLJ.tZncbFlCR4IPmge3"
+      "_key": "!journal.pages!fZbxSWAnprhT0WLJ.bAKLwQIADChLHtYE"
     },
     {
       "sort": 5,
       "name": "Conjurando Magias",
       "type": "text",
-      "_id": "6sydrY8IDLOx1Uby",
+      "_id": "RspJEf9aOkpvGj66",
       "title": {
         "show": true,
         "level": 1
@@ -211,13 +211,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!fZbxSWAnprhT0WLJ.6sydrY8IDLOx1Uby"
+      "_key": "!journal.pages!fZbxSWAnprhT0WLJ.RspJEf9aOkpvGj66"
     },
     {
       "sort": 6,
       "name": "Listas de Magias",
       "type": "text",
-      "_id": "TENnDSP9GLPrmSlW",
+      "_id": "stSZTKifKuxLDlMH",
       "title": {
         "show": true,
         "level": 1
@@ -246,7 +246,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!fZbxSWAnprhT0WLJ.TENnDSP9GLPrmSlW"
+      "_key": "!journal.pages!fZbxSWAnprhT0WLJ.stSZTKifKuxLDlMH"
     }
   ],
   "flags": {},
