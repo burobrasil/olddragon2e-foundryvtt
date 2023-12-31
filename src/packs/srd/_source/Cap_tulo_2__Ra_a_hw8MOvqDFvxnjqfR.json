@@ -7,7 +7,7 @@
       "sort": 0,
       "name": "Humano",
       "type": "text",
-      "_id": "mRPBJQfETCnYW4nm",
+      "_id": "SO5Arwa3xSeV50Uz",
       "title": {
         "show": true,
         "level": 1
@@ -36,13 +36,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!hw8MOvqDFvxnjqfR.mRPBJQfETCnYW4nm"
+      "_key": "!journal.pages!hw8MOvqDFvxnjqfR.SO5Arwa3xSeV50Uz"
     },
     {
       "sort": 1,
       "name": "Elfo",
       "type": "text",
-      "_id": "7nwHq2kYjOMt31WO",
+      "_id": "yAm1sprwRw2cr2V1",
       "title": {
         "show": true,
         "level": 1
@@ -71,13 +71,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!hw8MOvqDFvxnjqfR.7nwHq2kYjOMt31WO"
+      "_key": "!journal.pages!hw8MOvqDFvxnjqfR.yAm1sprwRw2cr2V1"
     },
     {
       "sort": 2,
       "name": "Anão",
       "type": "text",
-      "_id": "ReIra4AQfzBPGOw4",
+      "_id": "30uFcJuYx98SUwAm",
       "title": {
         "show": true,
         "level": 1
@@ -106,13 +106,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!hw8MOvqDFvxnjqfR.ReIra4AQfzBPGOw4"
+      "_key": "!journal.pages!hw8MOvqDFvxnjqfR.30uFcJuYx98SUwAm"
     },
     {
       "sort": 3,
       "name": "Halfling",
       "type": "text",
-      "_id": "VEDSEWvJem4PgtPN",
+      "_id": "Mu5DFSwD5T3kIhom",
       "title": {
         "show": true,
         "level": 1
@@ -141,13 +141,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!hw8MOvqDFvxnjqfR.VEDSEWvJem4PgtPN"
+      "_key": "!journal.pages!hw8MOvqDFvxnjqfR.Mu5DFSwD5T3kIhom"
     },
     {
       "sort": 4,
       "name": "Meio-Elfo",
       "type": "text",
-      "_id": "Oo4MFDhTxKMV2qsl",
+      "_id": "SlkrHi2m47WsXXPs",
       "title": {
         "show": true,
         "level": 1
@@ -176,13 +176,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!hw8MOvqDFvxnjqfR.Oo4MFDhTxKMV2qsl"
+      "_key": "!journal.pages!hw8MOvqDFvxnjqfR.SlkrHi2m47WsXXPs"
     },
     {
       "sort": 5,
       "name": "Gnomo",
       "type": "text",
-      "_id": "ceNuGfiSZeOXSwCC",
+      "_id": "LvMal7UMLU9yrSM5",
       "title": {
         "show": true,
         "level": 1
@@ -211,7 +211,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!hw8MOvqDFvxnjqfR.ceNuGfiSZeOXSwCC"
+      "_key": "!journal.pages!hw8MOvqDFvxnjqfR.LvMal7UMLU9yrSM5"
     }
   ],
   "flags": {},

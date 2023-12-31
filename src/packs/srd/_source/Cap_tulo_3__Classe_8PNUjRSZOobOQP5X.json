@@ -7,7 +7,7 @@
       "sort": 0,
       "name": "Guerreiro",
       "type": "text",
-      "_id": "1oJhqi7kiOb2zC5i",
+      "_id": "UQ1PgeIUamufRUhS",
       "title": {
         "show": true,
         "level": 1
@@ -36,13 +36,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!8PNUjRSZOobOQP5X.1oJhqi7kiOb2zC5i"
+      "_key": "!journal.pages!8PNUjRSZOobOQP5X.UQ1PgeIUamufRUhS"
     },
     {
       "sort": 1,
       "name": "Bárbaro (Guerreiro)",
       "type": "text",
-      "_id": "zydnxt0bkUiNymq2",
+      "_id": "Ahto2qdLkBuxmrs2",
       "title": {
         "show": true,
         "level": 1
@@ -71,13 +71,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!8PNUjRSZOobOQP5X.zydnxt0bkUiNymq2"
+      "_key": "!journal.pages!8PNUjRSZOobOQP5X.Ahto2qdLkBuxmrs2"
     },
     {
       "sort": 2,
       "name": "Paladino (Guerreiro)",
       "type": "text",
-      "_id": "SOc6vViasvC1pBzv",
+      "_id": "xnOh3k3bFGPZOnkt",
       "title": {
         "show": true,
         "level": 1
@@ -106,13 +106,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!8PNUjRSZOobOQP5X.SOc6vViasvC1pBzv"
+      "_key": "!journal.pages!8PNUjRSZOobOQP5X.xnOh3k3bFGPZOnkt"
     },
     {
       "sort": 3,
       "name": "Anão Aventureiro (Guerreiro)",
       "type": "text",
-      "_id": "aRv9Rh9nrsPVxE3c",
+      "_id": "Rmqwpwak7Zug75NR",
       "title": {
         "show": true,
         "level": 1
@@ -141,13 +141,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!8PNUjRSZOobOQP5X.aRv9Rh9nrsPVxE3c"
+      "_key": "!journal.pages!8PNUjRSZOobOQP5X.Rmqwpwak7Zug75NR"
     },
     {
       "sort": 4,
       "name": "Arqueiro (Guerreiro)",
       "type": "text",
-      "_id": "QUpA32Pv2UIvBT49",
+      "_id": "HsllBZK16WszIHHY",
       "title": {
         "show": true,
         "level": 1
@@ -176,13 +176,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!8PNUjRSZOobOQP5X.QUpA32Pv2UIvBT49"
+      "_key": "!journal.pages!8PNUjRSZOobOQP5X.HsllBZK16WszIHHY"
     },
     {
       "sort": 5,
       "name": "Clérigo",
       "type": "text",
-      "_id": "spsFuFT3wSiUeFhF",
+      "_id": "DtLb1aau65LnixCJ",
       "title": {
         "show": true,
         "level": 1
@@ -211,13 +211,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!8PNUjRSZOobOQP5X.spsFuFT3wSiUeFhF"
+      "_key": "!journal.pages!8PNUjRSZOobOQP5X.DtLb1aau65LnixCJ"
     },
     {
       "sort": 6,
       "name": "Druida (Clérigo)",
       "type": "text",
-      "_id": "QK7bzPMkMuQEb8ea",
+      "_id": "InAyoCC1B7uFI0xb",
       "title": {
         "show": true,
         "level": 1
@@ -246,13 +246,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!8PNUjRSZOobOQP5X.QK7bzPMkMuQEb8ea"
+      "_key": "!journal.pages!8PNUjRSZOobOQP5X.InAyoCC1B7uFI0xb"
     },
     {
       "sort": 7,
       "name": "Acadêmico (Clérigo)",
       "type": "text",
-      "_id": "BySiLAblAcXHauoy",
+      "_id": "7UKx6vMzedFOIhEK",
       "title": {
         "show": true,
         "level": 1
@@ -281,13 +281,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!8PNUjRSZOobOQP5X.BySiLAblAcXHauoy"
+      "_key": "!journal.pages!8PNUjRSZOobOQP5X.7UKx6vMzedFOIhEK"
     },
     {
       "sort": 8,
       "name": "Xamã (Clérigo)",
       "type": "text",
-      "_id": "Dy9mT6JKCZ3bu8LG",
+      "_id": "UjxQciTIW4GTmptx",
       "title": {
         "show": true,
         "level": 1
@@ -316,13 +316,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!8PNUjRSZOobOQP5X.Dy9mT6JKCZ3bu8LG"
+      "_key": "!journal.pages!8PNUjRSZOobOQP5X.UjxQciTIW4GTmptx"
     },
     {
       "sort": 9,
       "name": "Proscrito (Clérigo)",
       "type": "text",
-      "_id": "rsTUOdHykQVPmcrY",
+      "_id": "WysOhYhxtJs2hoHK",
       "title": {
         "show": true,
         "level": 1
@@ -351,13 +351,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!8PNUjRSZOobOQP5X.rsTUOdHykQVPmcrY"
+      "_key": "!journal.pages!8PNUjRSZOobOQP5X.WysOhYhxtJs2hoHK"
     },
     {
       "sort": 10,
       "name": "Ladrão",
       "type": "text",
-      "_id": "8BPDEu53rljrTPe2",
+      "_id": "6nmt5IqFfMykGST9",
       "title": {
         "show": true,
         "level": 1
@@ -386,13 +386,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!8PNUjRSZOobOQP5X.8BPDEu53rljrTPe2"
+      "_key": "!journal.pages!8PNUjRSZOobOQP5X.6nmt5IqFfMykGST9"
     },
     {
       "sort": 11,
       "name": "Ranger (Ladrão)",
       "type": "text",
-      "_id": "FC9kAMIYzDCWhwNu",
+      "_id": "FnwC4vL7BUzq24mN",
       "title": {
         "show": true,
         "level": 1
@@ -421,13 +421,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!8PNUjRSZOobOQP5X.FC9kAMIYzDCWhwNu"
+      "_key": "!journal.pages!8PNUjRSZOobOQP5X.FnwC4vL7BUzq24mN"
     },
     {
       "sort": 12,
       "name": "Bardo (Ladrão)",
       "type": "text",
-      "_id": "VtJyRPKAr3ZVz685",
+      "_id": "FHJcdaZ99uklORMg",
       "title": {
         "show": true,
         "level": 1
@@ -456,13 +456,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!8PNUjRSZOobOQP5X.VtJyRPKAr3ZVz685"
+      "_key": "!journal.pages!8PNUjRSZOobOQP5X.FHJcdaZ99uklORMg"
     },
     {
       "sort": 13,
       "name": "Assassino (Ladrão)",
       "type": "text",
-      "_id": "90plupIWQsYypDQc",
+      "_id": "Nobjx9niaheHPZ22",
       "title": {
         "show": true,
         "level": 1
@@ -491,13 +491,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!8PNUjRSZOobOQP5X.90plupIWQsYypDQc"
+      "_key": "!journal.pages!8PNUjRSZOobOQP5X.Nobjx9niaheHPZ22"
     },
     {
       "sort": 14,
       "name": "Halfling Aventureiro (Ladrão)",
       "type": "text",
-      "_id": "Cyjpyp8b3nJvLKXX",
+      "_id": "6kdRasd3AmfzNrpN",
       "title": {
         "show": true,
         "level": 1
@@ -526,13 +526,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!8PNUjRSZOobOQP5X.Cyjpyp8b3nJvLKXX"
+      "_key": "!journal.pages!8PNUjRSZOobOQP5X.6kdRasd3AmfzNrpN"
     },
     {
       "sort": 15,
       "name": "Mago",
       "type": "text",
-      "_id": "pjTFoymmP7I0Xy0D",
+      "_id": "LXEmGOoiBk1isG0Y",
       "title": {
         "show": true,
         "level": 1
@@ -561,13 +561,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!8PNUjRSZOobOQP5X.pjTFoymmP7I0Xy0D"
+      "_key": "!journal.pages!8PNUjRSZOobOQP5X.LXEmGOoiBk1isG0Y"
     },
     {
       "sort": 16,
       "name": "Ilusionista (Mago)",
       "type": "text",
-      "_id": "lhcy9GLN5PmRRZkQ",
+      "_id": "vw6p5q7JjBKS9eSB",
       "title": {
         "show": true,
         "level": 1
@@ -596,13 +596,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!8PNUjRSZOobOQP5X.lhcy9GLN5PmRRZkQ"
+      "_key": "!journal.pages!8PNUjRSZOobOQP5X.vw6p5q7JjBKS9eSB"
     },
     {
       "sort": 17,
       "name": "Necromante (Mago)",
       "type": "text",
-      "_id": "OUMRDifvd8ukgFMv",
+      "_id": "3aw0UPZxnsEQhJOQ",
       "title": {
         "show": true,
         "level": 1
@@ -631,13 +631,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!8PNUjRSZOobOQP5X.OUMRDifvd8ukgFMv"
+      "_key": "!journal.pages!8PNUjRSZOobOQP5X.3aw0UPZxnsEQhJOQ"
     },
     {
       "sort": 18,
       "name": "Bruxo (Mago)",
       "type": "text",
-      "_id": "5KCfuki1nmBJP9K2",
+      "_id": "MWrzbIazPk2vZfLU",
       "title": {
         "show": true,
         "level": 1
@@ -666,13 +666,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!8PNUjRSZOobOQP5X.5KCfuki1nmBJP9K2"
+      "_key": "!journal.pages!8PNUjRSZOobOQP5X.MWrzbIazPk2vZfLU"
     },
     {
       "sort": 19,
       "name": "Elfo Aventureiro (Mago)",
       "type": "text",
-      "_id": "P4Jb4dGaG4dh5soO",
+      "_id": "JGSdcY1BY5S3nW83",
       "title": {
         "show": true,
         "level": 1
@@ -701,13 +701,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!8PNUjRSZOobOQP5X.P4Jb4dGaG4dh5soO"
+      "_key": "!journal.pages!8PNUjRSZOobOQP5X.JGSdcY1BY5S3nW83"
     },
     {
       "sort": 20,
       "name": "Especializações",
       "type": "text",
-      "_id": "qTelbgfpcjgaHMNr",
+      "_id": "mlGncFaJYJKuhPXS",
       "title": {
         "show": true,
         "level": 1
@@ -736,7 +736,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!8PNUjRSZOobOQP5X.qTelbgfpcjgaHMNr"
+      "_key": "!journal.pages!8PNUjRSZOobOQP5X.mlGncFaJYJKuhPXS"
     }
   ],
   "flags": {},

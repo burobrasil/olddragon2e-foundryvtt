@@ -5,9 +5,9 @@
   "pages": [
     {
       "sort": 0,
-      "name": "",
+      "name": "Introdução",
       "type": "text",
-      "_id": "C5ieR5VmNME5aJjg",
+      "_id": "vu2I8bdWPmvgLjRc",
       "title": {
         "show": true,
         "level": 1
@@ -36,13 +36,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!3OOJyr7lvbYBywdI.C5ieR5VmNME5aJjg"
+      "_key": "!journal.pages!3OOJyr7lvbYBywdI.vu2I8bdWPmvgLjRc"
     },
     {
       "sort": 1,
       "name": "Força",
       "type": "text",
-      "_id": "tdwqWBf46RJN2ZJm",
+      "_id": "5rWn2W9MbvmUIVLp",
       "title": {
         "show": true,
         "level": 1
@@ -71,13 +71,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!3OOJyr7lvbYBywdI.tdwqWBf46RJN2ZJm"
+      "_key": "!journal.pages!3OOJyr7lvbYBywdI.5rWn2W9MbvmUIVLp"
     },
     {
       "sort": 2,
       "name": "Destreza",
       "type": "text",
-      "_id": "zigRrGFyfDFpxTL2",
+      "_id": "TDGpPIsOKgbhjZWa",
       "title": {
         "show": true,
         "level": 1
@@ -106,13 +106,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!3OOJyr7lvbYBywdI.zigRrGFyfDFpxTL2"
+      "_key": "!journal.pages!3OOJyr7lvbYBywdI.TDGpPIsOKgbhjZWa"
     },
     {
       "sort": 3,
       "name": "Constituição",
       "type": "text",
-      "_id": "7rvP7BoKy5QSsVA4",
+      "_id": "4zJfXjQAHklR7xBA",
       "title": {
         "show": true,
         "level": 1
@@ -141,13 +141,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!3OOJyr7lvbYBywdI.7rvP7BoKy5QSsVA4"
+      "_key": "!journal.pages!3OOJyr7lvbYBywdI.4zJfXjQAHklR7xBA"
     },
     {
       "sort": 4,
       "name": "Inteligência",
       "type": "text",
-      "_id": "JT9YFrVvohDvyLKr",
+      "_id": "kT9QFLu6hs1XyZ2K",
       "title": {
         "show": true,
         "level": 1
@@ -176,13 +176,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!3OOJyr7lvbYBywdI.JT9YFrVvohDvyLKr"
+      "_key": "!journal.pages!3OOJyr7lvbYBywdI.kT9QFLu6hs1XyZ2K"
     },
     {
       "sort": 5,
       "name": "Sabedoria",
       "type": "text",
-      "_id": "2IeQALNml8gHOPhG",
+      "_id": "c2FR56dsnoFblIxW",
       "title": {
         "show": true,
         "level": 1
@@ -211,13 +211,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!3OOJyr7lvbYBywdI.2IeQALNml8gHOPhG"
+      "_key": "!journal.pages!3OOJyr7lvbYBywdI.c2FR56dsnoFblIxW"
     },
     {
       "sort": 6,
       "name": "Carisma",
       "type": "text",
-      "_id": "9dNpprTc4sLRN2RG",
+      "_id": "nmz4BezHUNNrXAR3",
       "title": {
         "show": true,
         "level": 1
@@ -246,13 +246,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!3OOJyr7lvbYBywdI.9dNpprTc4sLRN2RG"
+      "_key": "!journal.pages!3OOJyr7lvbYBywdI.nmz4BezHUNNrXAR3"
     },
     {
       "sort": 7,
       "name": "Rolando Atributos",
       "type": "text",
-      "_id": "F1JZktn9LmZ3ajJc",
+      "_id": "iNrZOpekUtiAn0Bo",
       "title": {
         "show": true,
         "level": 1
@@ -281,13 +281,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!3OOJyr7lvbYBywdI.F1JZktn9LmZ3ajJc"
+      "_key": "!journal.pages!3OOJyr7lvbYBywdI.iNrZOpekUtiAn0Bo"
     },
     {
       "sort": 8,
       "name": "Teste de Atributos",
       "type": "text",
-      "_id": "dU9oexY6m3Puk8l3",
+      "_id": "58XSid5pwjM8RayO",
       "title": {
         "show": true,
         "level": 1
@@ -316,7 +316,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!3OOJyr7lvbYBywdI.dU9oexY6m3Puk8l3"
+      "_key": "!journal.pages!3OOJyr7lvbYBywdI.58XSid5pwjM8RayO"
     }
   ],
   "flags": {},

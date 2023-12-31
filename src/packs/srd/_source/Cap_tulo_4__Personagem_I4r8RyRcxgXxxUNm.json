@@ -5,9 +5,9 @@
   "pages": [
     {
       "sort": 0,
-      "name": "",
+      "name": "Introdução",
       "type": "text",
-      "_id": "C5ieR5VmNME5aJjg",
+      "_id": "kIfdMxrH06mj9q4l",
       "title": {
         "show": true,
         "level": 1
@@ -36,13 +36,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!I4r8RyRcxgXxxUNm.C5ieR5VmNME5aJjg"
+      "_key": "!journal.pages!I4r8RyRcxgXxxUNm.kIfdMxrH06mj9q4l"
     },
     {
       "sort": 1,
       "name": "Pontos de Vida (PV)",
       "type": "text",
-      "_id": "HRr7VZE5vjHZ8YXm",
+      "_id": "smbofqurLfAwGgFo",
       "title": {
         "show": true,
         "level": 1
@@ -71,13 +71,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!I4r8RyRcxgXxxUNm.HRr7VZE5vjHZ8YXm"
+      "_key": "!journal.pages!I4r8RyRcxgXxxUNm.smbofqurLfAwGgFo"
     },
     {
       "sort": 2,
       "name": "Classe de Armadura (CA)",
       "type": "text",
-      "_id": "zeKELTco5DbHSvK0",
+      "_id": "cDHSpwCxPzlZtvDP",
       "title": {
         "show": true,
         "level": 1
@@ -106,13 +106,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!I4r8RyRcxgXxxUNm.zeKELTco5DbHSvK0"
+      "_key": "!journal.pages!I4r8RyRcxgXxxUNm.cDHSpwCxPzlZtvDP"
     },
     {
       "sort": 3,
       "name": "Base de Ataque (BA)",
       "type": "text",
-      "_id": "FqPtI4WcpkVSnfyU",
+      "_id": "Gb4OvejacRxzHn1q",
       "title": {
         "show": true,
         "level": 1
@@ -141,13 +141,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!I4r8RyRcxgXxxUNm.FqPtI4WcpkVSnfyU"
+      "_key": "!journal.pages!I4r8RyRcxgXxxUNm.Gb4OvejacRxzHn1q"
     },
     {
       "sort": 4,
       "name": "Jogada de Proteção (JP)",
       "type": "text",
-      "_id": "XxIOYq3Be6aMS44W",
+      "_id": "HaJFN9ES1Pn5J8qT",
       "title": {
         "show": true,
         "level": 1
@@ -176,13 +176,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!I4r8RyRcxgXxxUNm.XxIOYq3Be6aMS44W"
+      "_key": "!journal.pages!I4r8RyRcxgXxxUNm.HaJFN9ES1Pn5J8qT"
     },
     {
       "sort": 5,
       "name": "Movimento (MV)",
       "type": "text",
-      "_id": "My9jNSiuMTJSUNUM",
+      "_id": "7AR7EP9amT2VNO1l",
       "title": {
         "show": true,
         "level": 1
@@ -211,13 +211,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!I4r8RyRcxgXxxUNm.My9jNSiuMTJSUNUM"
+      "_key": "!journal.pages!I4r8RyRcxgXxxUNm.7AR7EP9amT2VNO1l"
     },
     {
       "sort": 6,
       "name": "Idiomas",
       "type": "text",
-      "_id": "PFAR1VdVa4HsUCVQ",
+      "_id": "LxAdebMoiPInxWJo",
       "title": {
         "show": true,
         "level": 1
@@ -246,13 +246,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!I4r8RyRcxgXxxUNm.PFAR1VdVa4HsUCVQ"
+      "_key": "!journal.pages!I4r8RyRcxgXxxUNm.LxAdebMoiPInxWJo"
     },
     {
       "sort": 7,
       "name": "Alinhamento",
       "type": "text",
-      "_id": "DykIWaTcFIZ4PMDC",
+      "_id": "GEMNeQ97fddRnQBM",
       "title": {
         "show": true,
         "level": 1
@@ -281,13 +281,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!I4r8RyRcxgXxxUNm.DykIWaTcFIZ4PMDC"
+      "_key": "!journal.pages!I4r8RyRcxgXxxUNm.GEMNeQ97fddRnQBM"
     },
     {
       "sort": 8,
       "name": "Detalhes Finais (Opcional)",
       "type": "text",
-      "_id": "vFWafMAHj21m6Vrw",
+      "_id": "iNklG5ggpXw033Uy",
       "title": {
         "show": true,
         "level": 1
@@ -316,7 +316,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!I4r8RyRcxgXxxUNm.vFWafMAHj21m6Vrw"
+      "_key": "!journal.pages!I4r8RyRcxgXxxUNm.iNklG5ggpXw033Uy"
     }
   ],
   "flags": {},

@@ -7,7 +7,7 @@
       "sort": 0,
       "name": "Grupo de Aventureiros",
       "type": "text",
-      "_id": "7Rq8HB8OBgQ5gA6t",
+      "_id": "JCjXbO8FUtUxVz5Q",
       "title": {
         "show": true,
         "level": 1
@@ -36,13 +36,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!QA57bQmVawCJxoOr.7Rq8HB8OBgQ5gA6t"
+      "_key": "!journal.pages!QA57bQmVawCJxoOr.JCjXbO8FUtUxVz5Q"
     },
     {
       "sort": 1,
       "name": "Reputação",
       "type": "text",
-      "_id": "bmDgRRUoMdxkqhXo",
+      "_id": "4jnFJP2X2v028xtI",
       "title": {
         "show": true,
         "level": 1
@@ -71,13 +71,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!QA57bQmVawCJxoOr.bmDgRRUoMdxkqhXo"
+      "_key": "!journal.pages!QA57bQmVawCJxoOr.4jnFJP2X2v028xtI"
     },
     {
       "sort": 2,
       "name": "Medindo o Tempo",
       "type": "text",
-      "_id": "W5TuWgn0HQ0vhZzA",
+      "_id": "sBeD4Wq4Py3vkTfC",
       "title": {
         "show": true,
         "level": 1
@@ -106,13 +106,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!QA57bQmVawCJxoOr.W5TuWgn0HQ0vhZzA"
+      "_key": "!journal.pages!QA57bQmVawCJxoOr.sBeD4Wq4Py3vkTfC"
     },
     {
       "sort": 3,
       "name": "Carga",
       "type": "text",
-      "_id": "1iFkB9JNiCaV2qYW",
+      "_id": "Ae7g6aVKEzIt0MCO",
       "title": {
         "show": true,
         "level": 1
@@ -141,13 +141,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!QA57bQmVawCJxoOr.1iFkB9JNiCaV2qYW"
+      "_key": "!journal.pages!QA57bQmVawCJxoOr.Ae7g6aVKEzIt0MCO"
     },
     {
       "sort": 4,
       "name": "Deslocamento",
       "type": "text",
-      "_id": "Kvfp8uNsvPdDs4Uk",
+      "_id": "Jw7px2YYAo2zHJm0",
       "title": {
         "show": true,
         "level": 1
@@ -176,13 +176,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!QA57bQmVawCJxoOr.Kvfp8uNsvPdDs4Uk"
+      "_key": "!journal.pages!QA57bQmVawCJxoOr.Jw7px2YYAo2zHJm0"
     },
     {
       "sort": 5,
       "name": "Ouvir Ruídos",
       "type": "text",
-      "_id": "w5pjuhXLImfYCx4G",
+      "_id": "nqmoJVkVAFmxzhgH",
       "title": {
         "show": true,
         "level": 1
@@ -211,13 +211,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!QA57bQmVawCJxoOr.w5pjuhXLImfYCx4G"
+      "_key": "!journal.pages!QA57bQmVawCJxoOr.nqmoJVkVAFmxzhgH"
     },
     {
       "sort": 6,
       "name": "Esconder",
       "type": "text",
-      "_id": "bjy6QIUkvdhNgSTn",
+      "_id": "tQkYp7UXuDPREVNd",
       "title": {
         "show": true,
         "level": 1
@@ -246,13 +246,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!QA57bQmVawCJxoOr.bjy6QIUkvdhNgSTn"
+      "_key": "!journal.pages!QA57bQmVawCJxoOr.tQkYp7UXuDPREVNd"
     },
     {
       "sort": 7,
       "name": "Procurar",
       "type": "text",
-      "_id": "1VR7OY3gferwDCMM",
+      "_id": "DCe85L9ohjEe0fSg",
       "title": {
         "show": true,
         "level": 1
@@ -281,13 +281,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!QA57bQmVawCJxoOr.1VR7OY3gferwDCMM"
+      "_key": "!journal.pages!QA57bQmVawCJxoOr.DCe85L9ohjEe0fSg"
     },
     {
       "sort": 8,
       "name": "Luz e Visibilidade",
       "type": "text",
-      "_id": "MwA2eeJWIkUE5FqX",
+      "_id": "C68JWrXTMx1Nr9E7",
       "title": {
         "show": true,
         "level": 1
@@ -316,13 +316,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!QA57bQmVawCJxoOr.MwA2eeJWIkUE5FqX"
+      "_key": "!journal.pages!QA57bQmVawCJxoOr.C68JWrXTMx1Nr9E7"
     },
     {
       "sort": 9,
       "name": "Masmorras",
       "type": "text",
-      "_id": "wOypigzqmtGw5uZP",
+      "_id": "5wkXdvJSphp6COmT",
       "title": {
         "show": true,
         "level": 1
@@ -351,13 +351,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!QA57bQmVawCJxoOr.wOypigzqmtGw5uZP"
+      "_key": "!journal.pages!QA57bQmVawCJxoOr.5wkXdvJSphp6COmT"
     },
     {
       "sort": 10,
       "name": "Aventuras nos Ermos",
       "type": "text",
-      "_id": "WsFQ53k7f7JWApR6",
+      "_id": "6GE1Xe1cHqX1a2kX",
       "title": {
         "show": true,
         "level": 1
@@ -386,13 +386,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!QA57bQmVawCJxoOr.WsFQ53k7f7JWApR6"
+      "_key": "!journal.pages!QA57bQmVawCJxoOr.6GE1Xe1cHqX1a2kX"
     },
     {
       "sort": 11,
       "name": "Inanição e Desidratação",
       "type": "text",
-      "_id": "uizouvJ4xnlmfVKb",
+      "_id": "tudIXLuduJVSE9IA",
       "title": {
         "show": true,
         "level": 1
@@ -421,13 +421,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!QA57bQmVawCJxoOr.uizouvJ4xnlmfVKb"
+      "_key": "!journal.pages!QA57bQmVawCJxoOr.tudIXLuduJVSE9IA"
     },
     {
       "sort": 12,
       "name": "Contratando",
       "type": "text",
-      "_id": "eYSfvu7112ABuSPN",
+      "_id": "llHlqhMB2qM5gA7u",
       "title": {
         "show": true,
         "level": 1
@@ -435,7 +435,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<div class=\"odo-markdown\">\n<p>Durante as aventuras, é provável que os personagens dos jogadores precisem contratar os serviços de outros personagens, sejam eles especialistas, mercenários, aprendizes ou ajudantes.</p>\n\n<p><strong>Especialistas:</strong> são variados tipos de personagens não voltados para o combate e disponíveis para contratação, com conhecimento técnico em uma área relevante e para uma tarefa específica.<br />\n<strong>Mercenários:</strong> são combatentes contratados para a formação de uma força bélica auxiliar. Farão serviços de vigia, patrulha e proteção de um grupo de aventureiros quando isso se mostrar necessário.<br />\n<strong>Aprendizes:</strong> são futuros aventureiros, personagens os quais já receberam parte do seu treinamento, mas não possuem <a href=\"/livros/srd/capitulos/mestrando#evoluindo-personagens\">experiência</a> o suficiente para atingirem o primeiro nível.<br />\n<strong>Ajudantes:</strong> são a mão de obra menos especializada e barata. São usados quase sempre para serviços menos qualificados e trabalhos mais braçais.</p>\n\n<h3 id=\"alquimista\">Alquimista</h3>\n\n<p>Especialistas contratados para estudos das substâncias, confecções de poções, venenos e antídotos não mágicos.</p>\n\n<p>Um alquimista é capaz de fazer uma réplica idêntica das poções não mágicas, com os mesmos efeitos e pela metade do preço cobrado por um Mago ou Clérigo.</p>\n\n<p>O valor pago ao alquimista não inclui o material necessário para as poções.</p>\n\n<p><strong>Custo:</strong> 250 PO por semana.</p>\n\n<h3 id=\"engenheiro\">Engenheiro</h3>\n\n<p>Especialistas contratados para a construção de projetos de alvenaria como fortes, torres, fortalezas, castelos, muralhas, pontes etc. Além do projeto, são também responsáveis pela administração da planta de construção, contratação de trabalhadores, negociação com guildas de artífices e compra dos materiais.</p>\n\n<p><strong>Custo:</strong> 185 PO por semana.</p>\n\n<h3 id=\"espiao\">Espião</h3>\n\n<p>Especialistas contratados para alguns serviços específicos como vigiar os passos de uma pessoa, interceptar uma mensagem importante ou se infiltrar dentro de um grupo a ser espionado.</p>\n\n<p>Estes especialistas trabalham essencialmente pelo dinheiro e não pensarão duas vezes em trocar de patrono caso o outro lado ofereça uma proposta melhor, motivo pelo qual são caros e bem pagos.</p>\n\n<p><strong>Custo:</strong> 125 PO por semana.</p>\n\n<h3 id=\"capitao\">Capitão</h3>\n\n<p>Especialistas contratados para conduzir embarcações por rios e oceanos. Conhecem todos os meandros da navegação e, normalmente, possuem uma embarcação e uma tripulação própria.</p>\n\n<p>Membros de uma tripulação podem usar armas para se defender, porém não são combatentes muito efetivos.</p>\n\n<p>Seu custo é calculado de acordo com o tamanho da embarcação e da tripulação necessária para operar o navio e pela duração da viagem sendo, no mínimo, o valor de uma semana.</p>\n\n<p><strong>Custo:</strong> Capitão (70 PO por semana), Remador (5 PC por semana), Marinheiro (1 PO por semana)</p>\n\n<h3 id=\"sabio\">Sábio</h3>\n\n<p>Especialistas em alguma área de conhecimento teórico como geografia, história, idiomas, biologia etc.  Quase sempre são encontrados em grandes cidades, em seu entorno ou estabelecimentos de ensino como professores.</p>\n\n<p>Podem ser contratados para pesquisas específicas, e o custo e prazo do serviço dependerá do tipo de pergunta feita ao sábio.</p>\n\n<p><strong>Perguntas Simples:</strong> “⏤ <em>O que foi o grande êxodo?</em>” Levam 1d8 horas para serem pesquisadas a um custo de 50 PO por hora.</p>\n\n<p><strong>Perguntas Gerais:</strong> “⏤ <em>Qual o papel dos acólitos vermelhos no grande êxodo da 2ª Era?</em>” Levam 1d6 dias para serem pesquisadas e custam 100 PO por dia.</p>\n\n<p><strong>Perguntas Específicas:</strong> “⏤ <em>O acólito vermelho Ragandar matou sua esposa no eclipse do grande êxodo da 2ª Era?</em>” Levam 1d4 semanas para serem pesquisadas e custam 500 PO por semana.</p>\n\n<h3 id=\"mercenarios\">Mercenários</h3>\n\n<p>Combatentes contratados para serviços militares, sem atrelar sua lealdade ao seu patrono.</p>\n\n<p>Ao estarem em um grupo com mais de seis homens, deverão ser comandados por um mercenário mais experiente no cargo de sargento com um adicional de 50% no salário.</p>\n\n<p>Além de receberem seus pagamentos, mercenários recebem alimentação e hospedagem, acrescentando ao seu custo 1 PO adicional por homem contratado.</p>\n\n<p><strong>Custo:</strong> é definido pelo tipo de unidade contratada. O menor prazo possível para contratação é um mês.</p>\n\n<h4 id=\"arqueiro\">Arqueiro</h4>\n<div class=\"relative mx-auto p-2 bg-cinza-300 md:mx-52 lg:mx-56 xl:mx-72\" data-controller=\"linker\" data-linker-url-value=\"/monstros/arqueiro-mercenario\" data-linker-text-value=\"Arqueiro (mercenário)\" data-linker-link-class=\"absolute text-sm -bottom-6 right-0\">\n  \n  <div class=\"flex flex-wrap justify-between w-full\">\n    <div class=\"uppercase\">\n      <strong>\n        Arqueiro (mercenário)\n      </strong>\n    </div>\n    <div class=\"flex gap-1\">\n      <div>\n        <em>\n          M\n          –\n          N\n        </em>\n      </div>\n      <div>\n        <em>\n          [15XP]\n        </em>\n      </div>\n    </div>\n  </div>\n  <hr class=\"my-1 h-px bg-black border-0\" />\n  \n  <div class=\"mx-1 flex flex-wrap justify-between\">\n    <div class=\"flex items-center gap-x-1\">\n      <div class=\"text-xs -translate-y-1\"><strong>DV</strong></div>\n      <div class=\"text-lg\">1 [5]</div>\n    </div>\n    <div class=\"flex items-center gap-x-1\">\n      <div class=\"text-xs -translate-y-1\"><strong>CA</strong></div>\n      <div class=\"text-lg\">12</div>\n    </div>\n    <div class=\"flex items-center gap-x-1\">\n      <div class=\"text-xs -translate-y-1\"><strong>JP</strong></div>\n      <div class=\"text-lg\">5</div>\n    </div>\n    <div class=\"flex items-center gap-x-1\">\n      <div class=\"text-xs -translate-y-1\"><strong>MV</strong></div>\n      <div class=\"text-lg\">9</div>\n    </div>\n    <div class=\"flex items-center gap-x-1\">\n      <div class=\"text-xs -translate-y-1\"><strong>MO</strong></div>\n      <div class=\"text-lg\">8</div>\n    </div>\n  </div>\n  <hr class=\"my-1 h-px bg-black border-0\" />\n  \n  <div class=\"mx-2\">\n    \n      <div>1 × arco curto + 1 (1d8)</div>\n    \n      <div>1 × espada curta + 1 (1d6)</div>\n    \n  </div>\n  <hr class=\"my-1 h-px bg-black border-0\" />\n  \n  <p class=\"mx-2\">\n    <em>\n      \n    </em>\n  </p>\n  \n  <div class=\"mx-2\">\n    \n      <ul class=\"odo-ul\">\n        \n          <li>Custo: 4PO por mês.</li>\n        \n      </ul>\n    \n  </div>\n</div>\n\n<h4 id=\"besteiro\">Besteiro</h4>\n<div class=\"relative mx-auto p-2 bg-cinza-300 md:mx-52 lg:mx-56 xl:mx-72\" data-controller=\"linker\" data-linker-url-value=\"/monstros/besteiro-mercenario\" data-linker-text-value=\"Besteiro (mercenário)\" data-linker-link-class=\"absolute text-sm -bottom-6 right-0\">\n  \n  <div class=\"flex flex-wrap justify-between w-full\">\n    <div class=\"uppercase\">\n      <strong>\n        Besteiro (mercenário)\n      </strong>\n    </div>\n    <div class=\"flex gap-1\">\n      <div>\n        <em>\n          M\n          –\n          N\n        </em>\n      </div>\n      <div>\n        <em>\n          [15XP]\n        </em>\n      </div>\n    </div>\n  </div>\n  <hr class=\"my-1 h-px bg-black border-0\" />\n  \n  <div class=\"mx-1 flex flex-wrap justify-between\">\n    <div class=\"flex items-center gap-x-1\">\n      <div class=\"text-xs -translate-y-1\"><strong>DV</strong></div>\n      <div class=\"text-lg\">1 [5]</div>\n    </div>\n    <div class=\"flex items-center gap-x-1\">\n      <div class=\"text-xs -translate-y-1\"><strong>CA</strong></div>\n      <div class=\"text-lg\">13</div>\n    </div>\n    <div class=\"flex items-center gap-x-1\">\n      <div class=\"text-xs -translate-y-1\"><strong>JP</strong></div>\n      <div class=\"text-lg\">5</div>\n    </div>\n    <div class=\"flex items-center gap-x-1\">\n      <div class=\"text-xs -translate-y-1\"><strong>MV</strong></div>\n      <div class=\"text-lg\">9</div>\n    </div>\n    <div class=\"flex items-center gap-x-1\">\n      <div class=\"text-xs -translate-y-1\"><strong>MO</strong></div>\n      <div class=\"text-lg\">8</div>\n    </div>\n  </div>\n  <hr class=\"my-1 h-px bg-black border-0\" />\n  \n  <div class=\"mx-2\">\n    \n      <div>1 × besta + 1 (1d6)</div>\n    \n      <div>1 × espada curta + 1 (1d6)</div>\n    \n  </div>\n  <hr class=\"my-1 h-px bg-black border-0\" />\n  \n  <p class=\"mx-2\">\n    <em>\n      \n    </em>\n  </p>\n  \n  <div class=\"mx-2\">\n    \n      <ul class=\"odo-ul\">\n        \n          <li>Custo: 5PO por mês.</li>\n        \n      </ul>\n    \n  </div>\n</div>\n\n<h4 id=\"cavaleiro-leve\">Cavaleiro Leve</h4>\n<div class=\"relative mx-auto p-2 bg-cinza-300 md:mx-52 lg:mx-56 xl:mx-72\" data-controller=\"linker\" data-linker-url-value=\"/monstros/cavaleiro-leve-mercenario\" data-linker-text-value=\"Cavaleiro leve (mercenário)\" data-linker-link-class=\"absolute text-sm -bottom-6 right-0\">\n  \n  <div class=\"flex flex-wrap justify-between w-full\">\n    <div class=\"uppercase\">\n      <strong>\n        Cavaleiro leve (mercenário)\n      </strong>\n    </div>\n    <div class=\"flex gap-1\">\n      <div>\n        <em>\n          M\n          –\n          N\n        </em>\n      </div>\n      <div>\n        <em>\n          [25XP]\n        </em>\n      </div>\n    </div>\n  </div>\n  <hr class=\"my-1 h-px bg-black border-0\" />\n  \n  <div class=\"mx-1 flex flex-wrap justify-between\">\n    <div class=\"flex items-center gap-x-1\">\n      <div class=\"text-xs -translate-y-1\"><strong>DV</strong></div>\n      <div class=\"text-lg\">1 [5]</div>\n    </div>\n    <div class=\"flex items-center gap-x-1\">\n      <div class=\"text-xs -translate-y-1\"><strong>CA</strong></div>\n      <div class=\"text-lg\">14</div>\n    </div>\n    <div class=\"flex items-center gap-x-1\">\n      <div class=\"text-xs -translate-y-1\"><strong>JP</strong></div>\n      <div class=\"text-lg\">5</div>\n    </div>\n    <div class=\"flex items-center gap-x-1\">\n      <div class=\"text-xs -translate-y-1\"><strong>MV</strong></div>\n      <div class=\"text-lg\">18</div>\n    </div>\n    <div class=\"flex items-center gap-x-1\">\n      <div class=\"text-xs -translate-y-1\"><strong>MO</strong></div>\n      <div class=\"text-lg\">9</div>\n    </div>\n  </div>\n  <hr class=\"my-1 h-px bg-black border-0\" />\n  \n  <div class=\"mx-2\">\n    \n      <div>1 × lança longa + 1 (1d8+1)</div>\n    \n      <div>1 × espada longa + 1 (1d8+1)</div>\n    \n  </div>\n  <hr class=\"my-1 h-px bg-black border-0\" />\n  \n  <p class=\"mx-2\">\n    <em>\n      \n    </em>\n  </p>\n  \n  <div class=\"mx-2\">\n    \n      <ul class=\"odo-ul\">\n        \n          <li>Montado: cavalo de guerra.</li>\n        \n          <li>Custo: 10PO por mês.</li>\n        \n      </ul>\n    \n  </div>\n</div>\n\n<h4 id=\"cavaleiro-de-guerra\">Cavaleiro de Guerra</h4>\n<div class=\"relative mx-auto p-2 bg-cinza-300 md:mx-52 lg:mx-56 xl:mx-72\" data-controller=\"linker\" data-linker-url-value=\"/monstros/cavaleiro-de-guerra-mercenario\" data-linker-text-value=\"Cavaleiro de guerra (mercenário)\" data-linker-link-class=\"absolute text-sm -bottom-6 right-0\">\n  \n  <div class=\"flex flex-wrap justify-between w-full\">\n    <div class=\"uppercase\">\n      <strong>\n        Cavaleiro de guerra (mercenário)\n      </strong>\n    </div>\n    <div class=\"flex gap-1\">\n      <div>\n        <em>\n          M\n          –\n          N\n        </em>\n      </div>\n      <div>\n        <em>\n          [50XP]\n        </em>\n      </div>\n    </div>\n  </div>\n  <hr class=\"my-1 h-px bg-black border-0\" />\n  \n  <div class=\"mx-1 flex flex-wrap justify-between\">\n    <div class=\"flex items-center gap-x-1\">\n      <div class=\"text-xs -translate-y-1\"><strong>DV</strong></div>\n      <div class=\"text-lg\">2 [10]</div>\n    </div>\n    <div class=\"flex items-center gap-x-1\">\n      <div class=\"text-xs -translate-y-1\"><strong>CA</strong></div>\n      <div class=\"text-lg\">17</div>\n    </div>\n    <div class=\"flex items-center gap-x-1\">\n      <div class=\"text-xs -translate-y-1\"><strong>JP</strong></div>\n      <div class=\"text-lg\">5</div>\n    </div>\n    <div class=\"flex items-center gap-x-1\">\n      <div class=\"text-xs -translate-y-1\"><strong>MV</strong></div>\n      <div class=\"text-lg\">16</div>\n    </div>\n    <div class=\"flex items-center gap-x-1\">\n      <div class=\"text-xs -translate-y-1\"><strong>MO</strong></div>\n      <div class=\"text-lg\">9</div>\n    </div>\n  </div>\n  <hr class=\"my-1 h-px bg-black border-0\" />\n  \n  <div class=\"mx-2\">\n    \n      <div>1 × lança longa + 2 (1d8+1)</div>\n    \n      <div>1 × espada bastarda + 2 (1d8+1)</div>\n    \n  </div>\n  <hr class=\"my-1 h-px bg-black border-0\" />\n  \n  <p class=\"mx-2\">\n    <em>\n      \n    </em>\n  </p>\n  \n  <div class=\"mx-2\">\n    \n      <ul class=\"odo-ul\">\n        \n          <li>Montado: cavalo de guerra.</li>\n        \n          <li>Custo: 20PO por mês.</li>\n        \n      </ul>\n    \n  </div>\n</div>\n\n<h4 id=\"piqueiro\">Piqueiro</h4>\n<div class=\"relative mx-auto p-2 bg-cinza-300 md:mx-52 lg:mx-56 xl:mx-72\" data-controller=\"linker\" data-linker-url-value=\"/monstros/piqueiro-mercenario\" data-linker-text-value=\"Piqueiro (mercenário)\" data-linker-link-class=\"absolute text-sm -bottom-6 right-0\">\n  \n  <div class=\"flex flex-wrap justify-between w-full\">\n    <div class=\"uppercase\">\n      <strong>\n        Piqueiro (mercenário)\n      </strong>\n    </div>\n    <div class=\"flex gap-1\">\n      <div>\n        <em>\n          M\n          –\n          N\n        </em>\n      </div>\n      <div>\n        <em>\n          [15XP]\n        </em>\n      </div>\n    </div>\n  </div>\n  <hr class=\"my-1 h-px bg-black border-0\" />\n  \n  <div class=\"mx-1 flex flex-wrap justify-between\">\n    <div class=\"flex items-center gap-x-1\">\n      <div class=\"text-xs -translate-y-1\"><strong>DV</strong></div>\n      <div class=\"text-lg\">1 [5]</div>\n    </div>\n    <div class=\"flex items-center gap-x-1\">\n      <div class=\"text-xs -translate-y-1\"><strong>CA</strong></div>\n      <div class=\"text-lg\">12</div>\n    </div>\n    <div class=\"flex items-center gap-x-1\">\n      <div class=\"text-xs -translate-y-1\"><strong>JP</strong></div>\n      <div class=\"text-lg\">5</div>\n    </div>\n    <div class=\"flex items-center gap-x-1\">\n      <div class=\"text-xs -translate-y-1\"><strong>MV</strong></div>\n      <div class=\"text-lg\">9</div>\n    </div>\n    <div class=\"flex items-center gap-x-1\">\n      <div class=\"text-xs -translate-y-1\"><strong>MO</strong></div>\n      <div class=\"text-lg\">8</div>\n    </div>\n  </div>\n  <hr class=\"my-1 h-px bg-black border-0\" />\n  \n  <div class=\"mx-2\">\n    \n      <div>1 × pique + 1 (1d10)</div>\n    \n      <div>1 × espada curta + 1 (1d6)</div>\n    \n  </div>\n  <hr class=\"my-1 h-px bg-black border-0\" />\n  \n  <p class=\"mx-2\">\n    <em>\n      \n    </em>\n  </p>\n  \n  <div class=\"mx-2\">\n    \n      <ul class=\"odo-ul\">\n        \n          <li>Custo: 3PO por mês.</li>\n        \n      </ul>\n    \n  </div>\n</div>\n\n<h4 id=\"soldado-leve\">Soldado Leve</h4>\n<div class=\"relative mx-auto p-2 bg-cinza-300 md:mx-52 lg:mx-56 xl:mx-72\" data-controller=\"linker\" data-linker-url-value=\"/monstros/soldado-leve-mercenario\" data-linker-text-value=\"Soldado leve (mercenário)\" data-linker-link-class=\"absolute text-sm -bottom-6 right-0\">\n  \n  <div class=\"flex flex-wrap justify-between w-full\">\n    <div class=\"uppercase\">\n      <strong>\n        Soldado leve (mercenário)\n      </strong>\n    </div>\n    <div class=\"flex gap-1\">\n      <div>\n        <em>\n          M\n          –\n          N\n        </em>\n      </div>\n      <div>\n        <em>\n          [15XP]\n        </em>\n      </div>\n    </div>\n  </div>\n  <hr class=\"my-1 h-px bg-black border-0\" />\n  \n  <div class=\"mx-1 flex flex-wrap justify-between\">\n    <div class=\"flex items-center gap-x-1\">\n      <div class=\"text-xs -translate-y-1\"><strong>DV</strong></div>\n      <div class=\"text-lg\">1 [5]</div>\n    </div>\n    <div class=\"flex items-center gap-x-1\">\n      <div class=\"text-xs -translate-y-1\"><strong>CA</strong></div>\n      <div class=\"text-lg\">13</div>\n    </div>\n    <div class=\"flex items-center gap-x-1\">\n      <div class=\"text-xs -translate-y-1\"><strong>JP</strong></div>\n      <div class=\"text-lg\">5</div>\n    </div>\n    <div class=\"flex items-center gap-x-1\">\n      <div class=\"text-xs -translate-y-1\"><strong>MV</strong></div>\n      <div class=\"text-lg\">9</div>\n    </div>\n    <div class=\"flex items-center gap-x-1\">\n      <div class=\"text-xs -translate-y-1\"><strong>MO</strong></div>\n      <div class=\"text-lg\">8</div>\n    </div>\n  </div>\n  <hr class=\"my-1 h-px bg-black border-0\" />\n  \n  <div class=\"mx-2\">\n    \n      <div>1 × espada curta + 1 (1d6+1)</div>\n    \n  </div>\n  <hr class=\"my-1 h-px bg-black border-0\" />\n  \n  <p class=\"mx-2\">\n    <em>\n      \n    </em>\n  </p>\n  \n  <div class=\"mx-2\">\n    \n      <ul>\n  <li><strong>Custo</strong>: 2PO por mês.</li>\n</ul>\n\n    \n  </div>\n</div>\n\n<h4 id=\"soldado-pesado\">Soldado Pesado</h4>\n<div class=\"relative mx-auto p-2 bg-cinza-300 md:mx-52 lg:mx-56 xl:mx-72\" data-controller=\"linker\" data-linker-url-value=\"/monstros/soldado-pesado-sargento-mercenario\" data-linker-text-value=\"Soldado pesado, sargento (mercenário)\" data-linker-link-class=\"absolute text-sm -bottom-6 right-0\">\n  \n  <div class=\"flex flex-wrap justify-between w-full\">\n    <div class=\"uppercase\">\n      <strong>\n        Soldado pesado, sargento (mercenário)\n      </strong>\n    </div>\n    <div class=\"flex gap-1\">\n      <div>\n        <em>\n          M\n          –\n          N\n        </em>\n      </div>\n      <div>\n        <em>\n          [15XP]\n        </em>\n      </div>\n    </div>\n  </div>\n  <hr class=\"my-1 h-px bg-black border-0\" />\n  \n  <div class=\"mx-1 flex flex-wrap justify-between\">\n    <div class=\"flex items-center gap-x-1\">\n      <div class=\"text-xs -translate-y-1\"><strong>DV</strong></div>\n      <div class=\"text-lg\">1 [5]</div>\n    </div>\n    <div class=\"flex items-center gap-x-1\">\n      <div class=\"text-xs -translate-y-1\"><strong>CA</strong></div>\n      <div class=\"text-lg\">16</div>\n    </div>\n    <div class=\"flex items-center gap-x-1\">\n      <div class=\"text-xs -translate-y-1\"><strong>JP</strong></div>\n      <div class=\"text-lg\">5</div>\n    </div>\n    <div class=\"flex items-center gap-x-1\">\n      <div class=\"text-xs -translate-y-1\"><strong>MV</strong></div>\n      <div class=\"text-lg\">9</div>\n    </div>\n    <div class=\"flex items-center gap-x-1\">\n      <div class=\"text-xs -translate-y-1\"><strong>MO</strong></div>\n      <div class=\"text-lg\">8</div>\n    </div>\n  </div>\n  <hr class=\"my-1 h-px bg-black border-0\" />\n  \n  <div class=\"mx-2\">\n    \n      <div>1 × espada longa + 1 (1d8+1)</div>\n    \n  </div>\n  <hr class=\"my-1 h-px bg-black border-0\" />\n  \n  <p class=\"mx-2\">\n    <em>\n      \n    </em>\n  </p>\n  \n  <div class=\"mx-2\">\n    \n      <ul class=\"odo-ul\">\n        \n          <li>Custo: 3PO por mês.</li>\n        \n      </ul>\n    \n  </div>\n</div>\n\n<h3 id=\"aprendizes\">Aprendizes</h3>\n\n<p>São futuros aventureiros ainda buscando a experiência e os recursos necessários para tocarem sua carreira.</p>\n\n<p>Não receberam todo o treinamento necessário, não possuem dinheiro para seus equipamentos e não estão prontos para receber um nível em uma classe.</p>\n\n<p>Ajudantes veem nos grupos de aventureiros uma forma simples de aprenderem, enquanto os grupos de aventureiros veem nos ajudantes uma mão de obra barata, mas mais qualificada do que a média, para diversas funções.</p>\n\n<p><strong>Custo:</strong> aprendizes não costumam receber salários fixos. Normalmente aceitam trabalhar para um grupo de aventureiros em troca de uma parte dos <a href=\"/livros/srd/capitulos/mestrando#tesouros\">tesouros</a> encontrados na aventura, normalmente <strong>3d6x10 PO</strong> ao final da aventura.</p>\n\n<p><strong>Lealdade:</strong> aprendizes normalmente são leais ao seu empregador e não fugirão e nem o trairão, a não ser em situações limítrofes.</p>\n\n<p>Diferentemente dos especialistas ou mercenários, um ajudante está com seu empregador por lealdade e também pelo conhecimento o qual pode adquirir, e não só pelo dinheiro que pode vir a ganhar.</p>\n\n<p><strong>Experiência:</strong> aprendizes, diferentemente de mercenários ou especialistas, entram na divisão de XP dos personagens.</p>\n\n<p>O grupo de aprendizes deve ser considerado como um personagem adicional na divisão dos XP. Apesar de contarem na divisão do XP, os aprendizes não acumulam experiência.</p>\n\n<p>Como uma espécie de “estagiários de aventureiros”, receberão um nível em uma classe básica tão logo o Mestre deseje e entenda que os aprendizes estão prontos para partir nas próprias aventuras.</p>\n\n<p>O aprendiz possui algumas habilidades especiais de acordo com a classe na qual recebem treinamento:</p>\n\n<ul>\n  <li><strong>Guerreiro:</strong> recebe um bônus de +1 para acertar no seu primeiro ataque em cada combate.</li>\n  <li><strong>Clérigo:</strong> uma vez ao dia, o aprendiz de Clérigo é capaz de tocar um alvo e curar um ponto de vida.</li>\n  <li><strong>Ladrão:</strong> possui todos os talentos ladinos em nível 1.</li>\n  <li><strong>Mago:</strong> uma vez ao dia, pode realizar um truque emulando os efeitos de uma magia de 1 círculo. O truque não causa dano, não pode exigir uma Jogada de Proteção e dura no máximo 1 rodada.</li>\n</ul>\n\n<h4 id=\"aprendiz\">Aprendiz</h4>\n<div class=\"relative mx-auto p-2 bg-cinza-300 md:mx-52 lg:mx-56 xl:mx-72\" data-controller=\"linker\" data-linker-url-value=\"/monstros/aprendiz\" data-linker-text-value=\"Aprendiz\" data-linker-link-class=\"absolute text-sm -bottom-6 right-0\">\n  \n  <div class=\"flex flex-wrap justify-between w-full\">\n    <div class=\"uppercase\">\n      <strong>\n        Aprendiz\n      </strong>\n    </div>\n    <div class=\"flex gap-1\">\n      <div>\n        <em>\n          M\n          –\n          N\n        </em>\n      </div>\n      <div>\n        <em>\n          [5XP]\n        </em>\n      </div>\n    </div>\n  </div>\n  <hr class=\"my-1 h-px bg-black border-0\" />\n  \n  <div class=\"mx-1 flex flex-wrap justify-between\">\n    <div class=\"flex items-center gap-x-1\">\n      <div class=\"text-xs -translate-y-1\"><strong>DV</strong></div>\n      <div class=\"text-lg\">½+1 [3]</div>\n    </div>\n    <div class=\"flex items-center gap-x-1\">\n      <div class=\"text-xs -translate-y-1\"><strong>CA</strong></div>\n      <div class=\"text-lg\">10</div>\n    </div>\n    <div class=\"flex items-center gap-x-1\">\n      <div class=\"text-xs -translate-y-1\"><strong>JP</strong></div>\n      <div class=\"text-lg\">4</div>\n    </div>\n    <div class=\"flex items-center gap-x-1\">\n      <div class=\"text-xs -translate-y-1\"><strong>MV</strong></div>\n      <div class=\"text-lg\">9</div>\n    </div>\n    <div class=\"flex items-center gap-x-1\">\n      <div class=\"text-xs -translate-y-1\"><strong>MO</strong></div>\n      <div class=\"text-lg\">7</div>\n    </div>\n  </div>\n  <hr class=\"my-1 h-px bg-black border-0\" />\n  \n  <div class=\"mx-2\">\n    \n      <div>1 × arma + 0 (arma)</div>\n    \n  </div>\n  <hr class=\"my-1 h-px bg-black border-0\" />\n  \n  <p class=\"mx-2\">\n    <em>\n      \n    </em>\n  </p>\n  \n  <div class=\"mx-2\">\n    \n      \n    \n  </div>\n</div>\n\n<h3 id=\"ajudantes\">Ajudantes</h3>\n\n<p>É claro que qualquer camponês pode prestar serviços a um grupo de aventureiros.</p>\n\n<p>Nem todo estivador e carregador de peso se tornará um aventureiro, assim como nem todo ajudante contratado para carregar tocha precisa gostar do seu contratante para realizar o serviço por algumas horas.</p>\n\n<p>Neste caso, esses ajudantes estão ali apenas pelo dinheiro.</p>\n\n<p><strong>Custo:</strong> 2 PP por semana</p>\n\n<p><strong>Limite de contratação:</strong> cada personagem do jogador pode contratar um número fixo de ajudantes de acordo com o valor do modificador de Carisma + 1. Um personagem com Carisma 13 pode contratar até 2 ajudantes. Personagens com Carisma 8 ou menor não podem contratar ajudantes.</p>\n\n<p><strong>Lealdade:</strong> ajudantes não são inteiramente leais aos seus empregadores. Ao final de cada dia, o Mestre deve realizar em segredo um teste de moral para cada ajudante. Os que falharem, fugirão durante a noite ou na primeira oportunidade.</p>\n\n<p>Empregadores <strong>bondosos</strong> concedem um bônus de +1 no moral do ajudante.</p>\n\n<p>Empregadores <strong>cruéis</strong> concedem um penalizador de -1 no moral do ajudante.</p>\n\n<p><strong>Experiência:</strong> ajudantes não acumulam experiência.</p>\n\n<h4 id=\"ajudante\">Ajudante</h4>\n<div class=\"relative mx-auto p-2 bg-cinza-300 md:mx-52 lg:mx-56 xl:mx-72\" data-controller=\"linker\" data-linker-url-value=\"/monstros/ajudante\" data-linker-text-value=\"Ajudante\" data-linker-link-class=\"absolute text-sm -bottom-6 right-0\">\n  \n  <div class=\"flex flex-wrap justify-between w-full\">\n    <div class=\"uppercase\">\n      <strong>\n        Ajudante\n      </strong>\n    </div>\n    <div class=\"flex gap-1\">\n      <div>\n        <em>\n          M\n          –\n          N\n        </em>\n      </div>\n      <div>\n        <em>\n          [5XP]\n        </em>\n      </div>\n    </div>\n  </div>\n  <hr class=\"my-1 h-px bg-black border-0\" />\n  \n  <div class=\"mx-1 flex flex-wrap justify-between\">\n    <div class=\"flex items-center gap-x-1\">\n      <div class=\"text-xs -translate-y-1\"><strong>DV</strong></div>\n      <div class=\"text-lg\">½+1 [3]</div>\n    </div>\n    <div class=\"flex items-center gap-x-1\">\n      <div class=\"text-xs -translate-y-1\"><strong>CA</strong></div>\n      <div class=\"text-lg\">10</div>\n    </div>\n    <div class=\"flex items-center gap-x-1\">\n      <div class=\"text-xs -translate-y-1\"><strong>JP</strong></div>\n      <div class=\"text-lg\">4</div>\n    </div>\n    <div class=\"flex items-center gap-x-1\">\n      <div class=\"text-xs -translate-y-1\"><strong>MV</strong></div>\n      <div class=\"text-lg\">9</div>\n    </div>\n    <div class=\"flex items-center gap-x-1\">\n      <div class=\"text-xs -translate-y-1\"><strong>MO</strong></div>\n      <div class=\"text-lg\">7</div>\n    </div>\n  </div>\n  <hr class=\"my-1 h-px bg-black border-0\" />\n  \n  <div class=\"mx-2\">\n    \n      <div>1 × arma + 0 (arma)</div>\n    \n  </div>\n  <hr class=\"my-1 h-px bg-black border-0\" />\n  \n  <p class=\"mx-2\">\n    <em>\n      \n    </em>\n  </p>\n  \n  <div class=\"mx-2\">\n    \n      \n    \n  </div>\n</div>\n\n<h3 id=\"testes-de-reacao\">Testes de Reação</h3>\n\n<div class=\"overflow-x-auto\">\n  <table>\n    <caption>Testes de Reação <span>tabela 6.3</span></caption>\n    <thead>\n      <tr>\n        <th>2d6</th>\n        <th>Reação de Ataque</th>\n      </tr>\n    </thead>\n    <tbody>\n      <tr class=\"text-center\">\n        <td class=\"font-bold\">2-3</td>\n        <td><strong>Hostil</strong>.<br />Age contra os personagens e/ou atacará e prejudicará se tiver chance de fazê-lo.</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"font-bold\">4-6</td>\n        <td><strong>Ameaça</strong>.<br />Não age contra os personagens até ser minimamente provocado ou estimulado.</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"font-bold\">7-9</td>\n        <td><strong>Neutralidade</strong>.<br />Não possui uma opinião sobre os personagens e, até que haja motivo, os ignorarão completamente.</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"font-bold\">10-11</td>\n        <td><strong>Amigável</strong>.<br />Gosta dos personagens e os tratará com respeito e admiração sempre que possível.</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"font-bold\">12+</td>\n        <td><strong>Aliado</strong>.<br />Age a favor dos personagens e os defenderá ou agirá em seu favor se tiver chance de fazê-lo.</td>\n      </tr>\n    </tbody>\n  </table>\n</div>\n\n<p>Em algumas situações, o Mestre pode necessitar arbitrar a reação de determinados personagens em relação aos personagens dos jogadores. Monstros encontrados de surpresa numa esquina da masmorra, um empregado que se vê numa situação de trair ou não seu patrono, ou mesmo em situações mais específicas como efeitos de magias.  Para estas situações, um teste de reação pode ser necessário.</p>\n\n<p>Um teste de reação é realizado lançando 2d6 e somando o modificador de Carisma do personagem alvo da reação ao resultado. Este teste deve balizar as ações dos personagens não jogadores da sua campanha, mas não necessariamente são a única forma de determinar como agem.</p>\n\n<p>Algumas vezes, determinadas circunstâncias deixarão claro, sem a necessidade de um teste, como cada personagem agirá, tornando muito claro como determinar qual escolha ele adotará para seu comportamento.</p>\n</div>"
+        "content": "<div class=\"odo-markdown\">\n<p>Durante as aventuras, é provável que os personagens dos jogadores precisem contratar os serviços de outros personagens, sejam eles especialistas, mercenários, aprendizes ou ajudantes.</p>\n\n<p><strong>Especialistas:</strong> são variados tipos de personagens não voltados para o combate e disponíveis para contratação, com conhecimento técnico em uma área relevante e para uma tarefa específica.<br />\n<strong>Mercenários:</strong> são combatentes contratados para a formação de uma força bélica auxiliar. Farão serviços de vigia, patrulha e proteção de um grupo de aventureiros quando isso se mostrar necessário.<br />\n<strong>Aprendizes:</strong> são futuros aventureiros, personagens os quais já receberam parte do seu treinamento, mas não possuem <a href=\"/livros/srd/capitulos/mestrando#evoluindo-personagens\">experiência</a> o suficiente para atingirem o primeiro nível.<br />\n<strong>Ajudantes:</strong> são a mão de obra menos especializada e barata. São usados quase sempre para serviços menos qualificados e trabalhos mais braçais.</p>\n\n<h3 id=\"alquimista\">Alquimista</h3>\n\n<p>Especialistas contratados para estudos das substâncias, confecções de poções, venenos e antídotos não mágicos.</p>\n\n<p>Um alquimista é capaz de fazer uma réplica idêntica das poções não mágicas, com os mesmos efeitos e pela metade do preço cobrado por um Mago ou Clérigo.</p>\n\n<p>O valor pago ao alquimista não inclui o material necessário para as poções.</p>\n\n<p><strong>Custo:</strong> 250 PO por semana.</p>\n\n<h3 id=\"engenheiro\">Engenheiro</h3>\n\n<p>Especialistas contratados para a construção de projetos de alvenaria como fortes, torres, fortalezas, castelos, muralhas, pontes etc. Além do projeto, são também responsáveis pela administração da planta de construção, contratação de trabalhadores, negociação com guildas de artífices e compra dos materiais.</p>\n\n<p><strong>Custo:</strong> 185 PO por semana.</p>\n\n<h3 id=\"espiao\">Espião</h3>\n\n<p>Especialistas contratados para alguns serviços específicos como vigiar os passos de uma pessoa, interceptar uma mensagem importante ou se infiltrar dentro de um grupo a ser espionado.</p>\n\n<p>Estes especialistas trabalham essencialmente pelo dinheiro e não pensarão duas vezes em trocar de patrono caso o outro lado ofereça uma proposta melhor, motivo pelo qual são caros e bem pagos.</p>\n\n<p><strong>Custo:</strong> 125 PO por semana.</p>\n\n<h3 id=\"capitao\">Capitão</h3>\n\n<p>Especialistas contratados para conduzir embarcações por rios e oceanos. Conhecem todos os meandros da navegação e, normalmente, possuem uma embarcação e uma tripulação própria.</p>\n\n<p>Membros de uma tripulação podem usar armas para se defender, porém não são combatentes muito efetivos.</p>\n\n<p>Seu custo é calculado de acordo com o tamanho da embarcação e da tripulação necessária para operar o navio e pela duração da viagem sendo, no mínimo, o valor de uma semana.</p>\n\n<p><strong>Custo:</strong> Capitão (70 PO por semana), Remador (5 PC por semana), Marinheiro (1 PO por semana)</p>\n\n<h3 id=\"sabio\">Sábio</h3>\n\n<p>Especialistas em alguma área de conhecimento teórico como geografia, história, idiomas, biologia etc.  Quase sempre são encontrados em grandes cidades, em seu entorno ou estabelecimentos de ensino como professores.</p>\n\n<p>Podem ser contratados para pesquisas específicas, e o custo e prazo do serviço dependerá do tipo de pergunta feita ao sábio.</p>\n\n<p><strong>Perguntas Simples:</strong> “⏤ <em>O que foi o grande êxodo?</em>” Levam 1d8 horas para serem pesquisadas a um custo de 50 PO por hora.</p>\n\n<p><strong>Perguntas Gerais:</strong> “⏤ <em>Qual o papel dos acólitos vermelhos no grande êxodo da 2ª Era?</em>” Levam 1d6 dias para serem pesquisadas e custam 100 PO por dia.</p>\n\n<p><strong>Perguntas Específicas:</strong> “⏤ <em>O acólito vermelho Ragandar matou sua esposa no eclipse do grande êxodo da 2ª Era?</em>” Levam 1d4 semanas para serem pesquisadas e custam 500 PO por semana.</p>\n\n<h3 id=\"mercenarios\">Mercenários</h3>\n\n<p>Combatentes contratados para serviços militares, sem atrelar sua lealdade ao seu patrono.</p>\n\n<p>Ao estarem em um grupo com mais de seis homens, deverão ser comandados por um mercenário mais experiente no cargo de sargento com um adicional de 50% no salário.</p>\n\n<p>Além de receberem seus pagamentos, mercenários recebem alimentação e hospedagem, acrescentando ao seu custo 1 PO adicional por homem contratado.</p>\n\n<p><strong>Custo:</strong> é definido pelo tipo de unidade contratada. O menor prazo possível para contratação é um mês.</p>\n\n<h4 id=\"arqueiro\">Arqueiro</h4>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.Gc62Pqit8oC5KIsh]{Arqueiro (mercenário)}</p>\n\n<h4 id=\"besteiro\">Besteiro</h4>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.1Y16pZfwlepMpQ3f]{Besteiro (mercenário)}</p>\n\n<h4 id=\"cavaleiro-leve\">Cavaleiro Leve</h4>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.OE6DlNFKkPMbRf5i]{Cavaleiro leve (mercenário)}</p>\n\n<h4 id=\"cavaleiro-de-guerra\">Cavaleiro de Guerra</h4>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.4MBqlTeEjZMYi5q8]{Cavaleiro de guerra (mercenário)}</p>\n\n<h4 id=\"piqueiro\">Piqueiro</h4>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.D5kUIzs4W1kQYEKU]{Piqueiro (mercenário)}</p>\n\n<h4 id=\"soldado-leve\">Soldado Leve</h4>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.RlkSU5tbnR3MwKEv]{Soldado leve (mercenário)}</p>\n\n<h4 id=\"soldado-pesado\">Soldado Pesado</h4>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.Gc6QWFyyyDwP2eLX]{Soldado pesado, sargento (mercenário)}</p>\n\n<h3 id=\"aprendizes\">Aprendizes</h3>\n\n<p>São futuros aventureiros ainda buscando a experiência e os recursos necessários para tocarem sua carreira.</p>\n\n<p>Não receberam todo o treinamento necessário, não possuem dinheiro para seus equipamentos e não estão prontos para receber um nível em uma classe.</p>\n\n<p>Ajudantes veem nos grupos de aventureiros uma forma simples de aprenderem, enquanto os grupos de aventureiros veem nos ajudantes uma mão de obra barata, mas mais qualificada do que a média, para diversas funções.</p>\n\n<p><strong>Custo:</strong> aprendizes não costumam receber salários fixos. Normalmente aceitam trabalhar para um grupo de aventureiros em troca de uma parte dos <a href=\"/livros/srd/capitulos/mestrando#tesouros\">tesouros</a> encontrados na aventura, normalmente <strong>3d6x10 PO</strong> ao final da aventura.</p>\n\n<p><strong>Lealdade:</strong> aprendizes normalmente são leais ao seu empregador e não fugirão e nem o trairão, a não ser em situações limítrofes.</p>\n\n<p>Diferentemente dos especialistas ou mercenários, um ajudante está com seu empregador por lealdade e também pelo conhecimento o qual pode adquirir, e não só pelo dinheiro que pode vir a ganhar.</p>\n\n<p><strong>Experiência:</strong> aprendizes, diferentemente de mercenários ou especialistas, entram na divisão de XP dos personagens.</p>\n\n<p>O grupo de aprendizes deve ser considerado como um personagem adicional na divisão dos XP. Apesar de contarem na divisão do XP, os aprendizes não acumulam experiência.</p>\n\n<p>Como uma espécie de “estagiários de aventureiros”, receberão um nível em uma classe básica tão logo o Mestre deseje e entenda que os aprendizes estão prontos para partir nas próprias aventuras.</p>\n\n<p>O aprendiz possui algumas habilidades especiais de acordo com a classe na qual recebem treinamento:</p>\n\n<ul>\n  <li><strong>Guerreiro:</strong> recebe um bônus de +1 para acertar no seu primeiro ataque em cada combate.</li>\n  <li><strong>Clérigo:</strong> uma vez ao dia, o aprendiz de Clérigo é capaz de tocar um alvo e curar um ponto de vida.</li>\n  <li><strong>Ladrão:</strong> possui todos os talentos ladinos em nível 1.</li>\n  <li><strong>Mago:</strong> uma vez ao dia, pode realizar um truque emulando os efeitos de uma magia de 1 círculo. O truque não causa dano, não pode exigir uma Jogada de Proteção e dura no máximo 1 rodada.</li>\n</ul>\n\n<h4 id=\"aprendiz\">Aprendiz</h4>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.CpGSsRVpKIVkZzwX]{Aprendiz}</p>\n\n<h3 id=\"ajudantes\">Ajudantes</h3>\n\n<p>É claro que qualquer camponês pode prestar serviços a um grupo de aventureiros.</p>\n\n<p>Nem todo estivador e carregador de peso se tornará um aventureiro, assim como nem todo ajudante contratado para carregar tocha precisa gostar do seu contratante para realizar o serviço por algumas horas.</p>\n\n<p>Neste caso, esses ajudantes estão ali apenas pelo dinheiro.</p>\n\n<p><strong>Custo:</strong> 2 PP por semana</p>\n\n<p><strong>Limite de contratação:</strong> cada personagem do jogador pode contratar um número fixo de ajudantes de acordo com o valor do modificador de Carisma + 1. Um personagem com Carisma 13 pode contratar até 2 ajudantes. Personagens com Carisma 8 ou menor não podem contratar ajudantes.</p>\n\n<p><strong>Lealdade:</strong> ajudantes não são inteiramente leais aos seus empregadores. Ao final de cada dia, o Mestre deve realizar em segredo um teste de moral para cada ajudante. Os que falharem, fugirão durante a noite ou na primeira oportunidade.</p>\n\n<p>Empregadores <strong>bondosos</strong> concedem um bônus de +1 no moral do ajudante.</p>\n\n<p>Empregadores <strong>cruéis</strong> concedem um penalizador de -1 no moral do ajudante.</p>\n\n<p><strong>Experiência:</strong> ajudantes não acumulam experiência.</p>\n\n<h4 id=\"ajudante\">Ajudante</h4>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.zJEgFv1JHQ7q3pEf]{Ajudante}</p>\n\n<h3 id=\"testes-de-reacao\">Testes de Reação</h3>\n\n<div class=\"overflow-x-auto\">\n  <table>\n    <caption>Testes de Reação <span>tabela 6.3</span></caption>\n    <thead>\n      <tr>\n        <th>2d6</th>\n        <th>Reação de Ataque</th>\n      </tr>\n    </thead>\n    <tbody>\n      <tr class=\"text-center\">\n        <td class=\"font-bold\">2-3</td>\n        <td><strong>Hostil</strong>.<br />Age contra os personagens e/ou atacará e prejudicará se tiver chance de fazê-lo.</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"font-bold\">4-6</td>\n        <td><strong>Ameaça</strong>.<br />Não age contra os personagens até ser minimamente provocado ou estimulado.</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"font-bold\">7-9</td>\n        <td><strong>Neutralidade</strong>.<br />Não possui uma opinião sobre os personagens e, até que haja motivo, os ignorarão completamente.</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"font-bold\">10-11</td>\n        <td><strong>Amigável</strong>.<br />Gosta dos personagens e os tratará com respeito e admiração sempre que possível.</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"font-bold\">12+</td>\n        <td><strong>Aliado</strong>.<br />Age a favor dos personagens e os defenderá ou agirá em seu favor se tiver chance de fazê-lo.</td>\n      </tr>\n    </tbody>\n  </table>\n</div>\n\n<p>Em algumas situações, o Mestre pode necessitar arbitrar a reação de determinados personagens em relação aos personagens dos jogadores. Monstros encontrados de surpresa numa esquina da masmorra, um empregado que se vê numa situação de trair ou não seu patrono, ou mesmo em situações mais específicas como efeitos de magias.  Para estas situações, um teste de reação pode ser necessário.</p>\n\n<p>Um teste de reação é realizado lançando 2d6 e somando o modificador de Carisma do personagem alvo da reação ao resultado. Este teste deve balizar as ações dos personagens não jogadores da sua campanha, mas não necessariamente são a única forma de determinar como agem.</p>\n\n<p>Algumas vezes, determinadas circunstâncias deixarão claro, sem a necessidade de um teste, como cada personagem agirá, tornando muito claro como determinar qual escolha ele adotará para seu comportamento.</p>\n</div>"
       },
       "video": {
         "controls": true,
@@ -456,13 +456,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!QA57bQmVawCJxoOr.eYSfvu7112ABuSPN"
+      "_key": "!journal.pages!QA57bQmVawCJxoOr.llHlqhMB2qM5gA7u"
     },
     {
       "sort": 13,
       "name": "Encontros sem Combate",
       "type": "text",
-      "_id": "ScgcWRYhVceIXtdn",
+      "_id": "FMqqsOOLphpex92G",
       "title": {
         "show": true,
         "level": 1
@@ -491,13 +491,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!QA57bQmVawCJxoOr.ScgcWRYhVceIXtdn"
+      "_key": "!journal.pages!QA57bQmVawCJxoOr.FMqqsOOLphpex92G"
     },
     {
       "sort": 14,
       "name": "Perseguições",
       "type": "text",
-      "_id": "Dv2TNJk9HUYz1XCj",
+      "_id": "QOo2ECRtYiJzTnlv",
       "title": {
         "show": true,
         "level": 1
@@ -526,7 +526,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!QA57bQmVawCJxoOr.Dv2TNJk9HUYz1XCj"
+      "_key": "!journal.pages!QA57bQmVawCJxoOr.QOo2ECRtYiJzTnlv"
     }
   ],
   "flags": {},
