@@ -54,11 +54,41 @@
 	{{#if system.damage}}
 		<a class="damage-roll border-button" title="{{localize 'olddragon2e.damage_roll'}}">
 			<i class="fa-light fa-dice-d20"></i>
-			{{#if system.bonus_damage}}
-				{{system.damage}}+{{system.bonus_damage}}
-			{{else}}
-				{{system.damage}}
-			{{/if}}
+			{{#ifCond system.type '==' "melee"}}
+				{{#ifCond actor.mod_forca '>' 0}}
+					{{#if system.bonus_damage}}
+						{{system.damage}}+{{actor.mod_forca}}+{{system.bonus_damage}}
+					{{else}}
+						{{system.damage}}+{{actor.mod_forca}}
+					{{/if}}
+				{{else}}
+					{{#if system.bonus_damage}}
+						{{system.damage}}+{{system.bonus_damage}}
+					{{else}}
+						{{system.damage}}
+					{{/if}}
+				{{/ifCond}}
+			{{else ifCond system.type '==' "throwing"}}
+				{{#ifCond actor.mod_forca '>' 0}}
+					{{#if system.bonus_damage}}
+						{{system.damage}}+{{actor.mod_forca}}+{{system.bonus_damage}}
+					{{else}}
+						{{system.damage}}+{{actor.mod_forca}}
+					{{/if}}
+				{{else}}
+					{{#if system.bonus_damage}}
+						{{system.damage}}+{{system.bonus_damage}}
+					{{else}}
+						{{system.damage}}
+					{{/if}}
+				{{/ifCond}}
+			{{else ifCond system.type '==' "ammunition"}}
+				{{#if system.bonus_damage}}
+					{{system.damage}}+{{system.bonus_damage}}
+				{{else}}
+					{{system.damage}}
+				{{/if}}
+			{{/ifCond}}
 		</a>
 	{{else}}
 	–
