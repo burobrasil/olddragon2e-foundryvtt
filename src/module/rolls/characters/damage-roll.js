@@ -42,11 +42,11 @@ export class DamageRoll extends BaseRoll {
     let formula = this.item.system.damage;
 
     if (_attackMode === 'melee' || _attackMode === 'throwing') {
-      formula += `+${this.actor.system.mod_forca} (M. FOR)`;
+      formula += ` + ${this.actor.system.mod_forca} (M. FOR)`;
     }
 
     if (this.item.system.bonus_damage) {
-      formula += `+ ${this.actor.system.bonus_damage} (bônus)`;
+      formula += ` + ${this.item.system.bonus_damage} (bônus)`;
     }
 
     return formula;
@@ -55,12 +55,12 @@ export class DamageRoll extends BaseRoll {
   formula(bonus, attackMode) {
     let formula = `${this.item.system.damage}`;
 
-    if (this.item.system.bonus_damage) {
-      formula += `+${this.item.system.bonus_damage}`;
-    }
-
     if (attackMode === 'melee' || attackMode === 'throwing') {
       formula += `+${this.actor.system.mod_forca}`;
+    }
+
+    if (this.item.system.bonus_damage) {
+      formula += `+${this.item.system.bonus_damage}`;
     }
 
     if (bonus) {
