@@ -22,12 +22,6 @@ const _jsonToActorData = (json) => {
       inteligencia: json.inteligencia,
       sabedoria: json.sabedoria,
       carisma: json.carisma,
-      mod_forca: json.mod_forca,
-      mod_destreza: json.mod_destreza,
-      mod_constituicao: json.mod_constituicao,
-      mod_inteligencia: json.mod_inteligencia,
-      mod_sabedoria: json.mod_sabedoria,
-      mod_carisma: json.mod_carisma,
       ac: {
         value: json.ac,
       },
@@ -42,12 +36,7 @@ const _jsonToActorData = (json) => {
       jps: {
         value: json.jps,
       },
-      current_movement: {
-        value: json.current_movement,
-      },
-      movement_run: json.movement_run,
-      movement_climb: json.movement_climb,
-      movement_swim: json.movement_swim,
+      current_movement: json.current_movement,
       race: {
         name: _getRace(json.race),
       },

@@ -17,7 +17,6 @@
 
   // Journal Pages (div)
   .journal-entry-pages .journal-entry-page {
-
     // Journal Page Header (header)
     .journal-page-header {
       h1 {
@@ -30,7 +29,7 @@
         .font-bold;
       }
     }
-    
+
     // Journal Page Content (section)
     .journal-page-content {
       .odo-markdown {
@@ -68,33 +67,33 @@
           margin-top: 0px;
           margin-bottom: 0.5rem;
         }
-    
+
         a {
           color: @carmesim-600;
           text-decoration: underline;
         }
-    
+
         a:hover {
           text-shadow: none;
           color: @carmesim-500;
         }
-    
+
         ul {
           margin: 0px;
           margin-bottom: 0.75rem;
           padding: 0px;
           list-style-position: inside;
           .list-image-diamond;
-    
+
           p {
             display: inline;
           }
         }
-    
+
         .overflow-x-auto {
           overflow-x: auto;
         }
-    
+
         table {
           margin-top: 1rem;
           margin-bottom: 1rem;
@@ -103,7 +102,7 @@
           max-width: 400px;
           border-top: none;
           background-color: transparent;
-    
+
           caption {
             padding-top: 0.25rem;
             padding-bottom: 0.25rem;
@@ -111,7 +110,7 @@
             .text-2xl;
             .text-left;
             .font-bold;
-    
+
             span {
               padding-left: 0.5rem;
               border-top: 2px solid @dourado-300;
@@ -121,14 +120,14 @@
               .uppercase;
             }
           }
-    
+
           thead {
             background-color: transparent;
             color: black;
             text-shadow: none;
             border-top: none;
             border-bottom: none;
-    
+
             tr th {
               padding-left: 0.5rem;
               padding-right: 0.5rem;
@@ -136,35 +135,35 @@
               padding-bottom: 0.25rem;
             }
           }
-    
+
           tbody {
             border-bottom: 2px solid @dourado-300;
-    
+
             tr td {
               padding-left: 0.5rem;
               padding-right: 0.5rem;
               padding-top: 0.25rem;
               padding-bottom: 0.25rem;
-    
+
               img {
                 margin-left: auto;
                 margin-right: auto;
               }
             }
-    
+
             tr:nth-child(odd) {
               background-color: @dourado-50;
             }
           }
         }
-    
+
         blockquote {
           margin: 0px;
           padding: 0px;
           border-left: none;
           font-style: normal;
         }
-    
+
         blockquote.example,
         blockquote.highlighted,
         blockquote.roll,
@@ -175,15 +174,17 @@
           padding: 0.5rem;
           padding-bottom: 0.25rem;
         }
-    
+
         blockquote.example {
           background-color: @cinza-200;
-          
-          p, strong, em {
+
+          p,
+          strong,
+          em {
             font-style: italic;
           }
         }
-        
+
         blockquote.highlighted {
           margin-top: 0.75rem;
           margin-left: auto;
@@ -199,7 +200,9 @@
           .text-center;
           .uppercase;
 
-          p, strong, span {
+          p,
+          strong,
+          span {
             font-family: 'Alegreya Sans', sans-serif;
           }
         }
@@ -211,11 +214,13 @@
           border-bottom: 2px solid @dourado-300;
           .text-center;
 
-          p, strong, span {
+          p,
+          strong,
+          span {
             font-family: 'Alegreya Sans', sans-serif;
           }
         }
-    
+
         .redbox,
         .blackbox,
         .bluebox {
@@ -231,23 +236,23 @@
           .text-sm;
           .font-bold;
         }
-    
+
         .redbox {
           background-color: @carmesim-600;
         }
-    
+
         .blackbox {
           background-color: @cinza-600;
         }
-    
+
         .bluebox {
           background-color: rgb(2, 132, 199);
         }
-    
+
         .cc-by {
           display: flex;
           margin-top: 2rem;
-    
+
           img {
             width: 8rem;
             margin: auto;

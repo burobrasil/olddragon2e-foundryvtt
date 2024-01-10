@@ -25,6 +25,8 @@
     "hp_long": "PV | Pontos de Vida",
     "hp_value": "PV Atual",
     "hp_max": "PV Total",
+    "current": "Atual",
+    "total": "Total",
     "stats": "Atributos",
     "stat": "Atributo",
     "stat_short": "Atrib.",
@@ -312,6 +314,8 @@
       }
     },
     "success": "Sucesso",
-    "failure": "Falha"
+    "failure": "Falha",
+    "import": "Importar",
+    "cancel": "Cancelar"
   }
 }
