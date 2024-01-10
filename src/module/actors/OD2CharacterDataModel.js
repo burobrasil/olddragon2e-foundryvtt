@@ -180,6 +180,16 @@ export class OD2CharacterDataModel extends foundry.abstract.TypeDataModel {
     };
   }
 
+  static migrateData(source) {
+    if (typeof source.ba === 'object') {
+      source.ba = source.ba.value;
+    }
+    if (typeof source.current_movement === 'object') {
+      source.current_movement = source.current_movement.value;
+    }
+    return super.migrateData(source);
+  }
+
   get ac_total() {
     const base = this.ac.base;
     const magic_weapon = this.ac.magic_weapon;
