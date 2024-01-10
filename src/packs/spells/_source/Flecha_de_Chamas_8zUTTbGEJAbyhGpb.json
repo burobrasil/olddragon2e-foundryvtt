@@ -1,0 +1,37 @@
+{
+  "folder": "hDpu7L7XzYzJ2gUK",
+  "name": "Flecha de Chamas",
+  "type": "spell",
+  "_id": "8zUTTbGEJAbyhGpb",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "odo_id": "flecha-de-chamas",
+    "school": "arcane",
+    "circle": "1",
+    "arcane": "3",
+    "divine": "null",
+    "necromancer": "null",
+    "illusionist": "null",
+    "reverse": false,
+    "range": "45 metros",
+    "duration": "instantânea",
+    "jp": "nenhuma",
+    "description": "<p>Com esta magia, o conjurador consegue criar e disparar de suas mãos flechas de fogo (1 para cada 5 níveis do conjurador). Cada flecha causa 1d6 pontos de dano pela perfuração e outros 2d6 pontos de dano por fogo. Uma jogada de ataque à distância é necessária para atingir os alvos com essas flechas. O conjurador pode designar um alvo diferente para cada flecha.</p>\n"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "olddragon2e",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1698721200000,
+    "modifiedTime": 1702782000000,
+    "lastModifiedBy": "enzpVKIAX52oTyPe"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "enzpVKIAX52oTyPe": 3
+  },
+  "_key": "!items!8zUTTbGEJAbyhGpb"
+}

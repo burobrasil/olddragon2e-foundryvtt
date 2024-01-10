@@ -1,0 +1,37 @@
+{
+  "folder": "kSmJ0Bw8h9WNMoiF",
+  "name": "Miragem",
+  "type": "spell",
+  "_id": "Fj9ye4KzimoAKMK4",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "odo_id": "miragem",
+    "school": "arcane",
+    "circle": "1",
+    "arcane": "null",
+    "divine": "null",
+    "necromancer": "null",
+    "illusionist": "3",
+    "reverse": false,
+    "range": "especial",
+    "duration": "especial",
+    "jp": "especial",
+    "description": "<p>O conjurador cria uma ilusão a qual esconde, dentro da área de alcance da magia, o verdadeiro terreno. Todos os sentidos são afetados, mas os possíveis efeitos causados pelo terreno verdadeiro não – um fosso de lava ainda é um fosso de lava capaz de matar queimado qualquer desavisado, mesmo aparentando ser um campo florido.</p>\n\n<p>Se a alteração do terreno criada pela ilusão for sutil, uma JPS é permitida, no entanto, se a mudança causar suspeita, uma JPS fácil é permitida para negar a ilusão. Apenas alvos bem-sucedidos ficam livres dos efeitos, e a ilusão persiste até o fim de sua duração.</p>\n\n<p>Caso uma criatura seja vítima da ilusão (caindo em um precipício aparentando ser uma floresta, por exemplo), todos os observadores recebem automaticamente o direito a uma JPS muito fácil.</p>\n"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "olddragon2e",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1698721200000,
+    "modifiedTime": 1702782000000,
+    "lastModifiedBy": "enzpVKIAX52oTyPe"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "enzpVKIAX52oTyPe": 3
+  },
+  "_key": "!items!Fj9ye4KzimoAKMK4"
+}

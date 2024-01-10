@@ -1,0 +1,37 @@
+{
+  "folder": "yGCm2zx9WuJKgUUG",
+  "name": "Símbolo",
+  "type": "spell",
+  "_id": "sUN8gx47fX7nNXD3",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "odo_id": "simbolo",
+    "school": "arcane",
+    "circle": "1",
+    "arcane": "8",
+    "divine": "null",
+    "necromancer": "null",
+    "illusionist": "null",
+    "reverse": false,
+    "range": "especial",
+    "duration": "especial",
+    "jp": "nenhuma",
+    "description": "<p>Esta magia cria uma runa mágica similar a uma escrita que pode ser instalada em um objeto como uma porta, muro, passagem ou ainda flutuando, mas de forma fixa, em pleno ar. Quando uma criatura viva (que não seja o próprio conjurador) passar pelo símbolo ou tocar o objeto onde o símbolo está instalado, o símbolo é ativado imediatamente.</p>\n\n<p>Uma vez instalado, é impossível mudar o tipo do símbolo ou a sua localização. É preciso escolhê-lo durante a conjuração da magia. Os símbolos mais conhecidos são:</p>\n\n<ul>\n  <li>\n    <p><strong>Símbolo da Morte</strong>: mata imediatamente qualquer criatura com menos de 10 DV, sem direito a nenhuma JP. Nada acontece com alvos de 10 DV ou mais.</p>\n  </li>\n  <li>\n    <p><strong>Símbolo da Discórdia</strong>: causa os mesmos efeitos da magia Confusão, sem direito a nenhuma JP. Esta condição é permanente ou até ser removida.</p>\n  </li>\n  <li>\n    <p><strong>Símbolo do Medo</strong>: causa os mesmos efeitos da magia Medo, sem direito a nenhuma JP.</p>\n  </li>\n  <li>\n    <p><strong>Símbolo da Loucura</strong>: causa insanidade na vítima que age desconexa com a realidade.  Ela não pode atacar, conjurar magias, usar habilidades de raça ou classe e deve ser vigiada de perto para não causar problemas ou mesmo desaparecer. Esta condição é permanente ou até ser removida.</p>\n  </li>\n  <li>\n    <p><strong>Símbolo do Atordoamento</strong>: atordoa imediatamente qualquer criatura com menos de 10 DV, sem direito a nenhuma JP. Nada acontece com alvos de 10 DV ou mais. Causa os mesmos efeitos da magia Palavra do Poder: Atordoar.</p>\n  </li>\n  <li>\n    <p><strong>Símbolo do Sono</strong>: adormece imediatamente qualquer criatura com menos de 10 DV, sem direito a nenhuma JP. Nada acontece com alvos de 10 DV ou mais. Causa os mesmos efeitos da magia Sono, mas com duração de 1d10+10 horas.</p>\n  </li>\n</ul>\n"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "olddragon2e",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1698721200000,
+    "modifiedTime": 1702782000000,
+    "lastModifiedBy": "enzpVKIAX52oTyPe"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "enzpVKIAX52oTyPe": 3
+  },
+  "_key": "!items!sUN8gx47fX7nNXD3"
+}

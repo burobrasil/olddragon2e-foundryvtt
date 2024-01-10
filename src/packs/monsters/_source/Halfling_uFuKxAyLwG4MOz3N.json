@@ -1,0 +1,123 @@
+{
+  "name": "Halfling",
+  "type": "monster",
+  "_id": "uFuKxAyLwG4MOz3N",
+  "img": "systems/olddragon2e/assets/monsters-concepts/humanoide-medio.webp",
+  "system": {
+    "odo_id": "halfling",
+    "flavor": "",
+    "concept": "Humanoide",
+    "size": "medio",
+    "alignment": "neutro",
+    "variant": false,
+    "description": "<ul>\n  <li>\n    <p><strong>Variações</strong>: a cada 15 halflings, um deles será um Halfling Líder, e há 1-2 chances em 1d6 do líder ser um Halfling Aventureiro.</p>\n  </li>\n  <li>\n    <p><strong>Furtivo</strong>: 1-2 chances em 1d6 de se esconderem.</p>\n  </li>\n  <li>\n    <p><strong>Bom de mira</strong>: ataques à distância como ataques fáceis.</p>\n  </li>\n  <li>\n    <p><strong>Pequenos</strong>: atacantes grandes ou maiores realizam ataques difíceis para acertar um halfling.</p>\n  </li>\n  <li>\n    <p><strong>Infravisão</strong>: 18 metros.</p>\n  </li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × espada curta+ 1 (1d6)</li>\n  <li>1 × funda + 2 (1d4)</li>\n</ul>\n",
+    "encounters": "-",
+    "encounters_lair": "-",
+    "xp": "35",
+    "treasure": "q",
+    "treasure_lair": "g",
+    "mv": "6",
+    "mvc": "",
+    "mve": "",
+    "mvn": "",
+    "mvv": "",
+    "mvo": "",
+    "dv": "1",
+    "dv_bonus": "",
+    "pv": "5",
+    "ca": "12",
+    "jp": "6",
+    "mo": "8",
+    "url": "",
+    "habitat": "Qualquer",
+    "hp": {
+      "value": "5",
+      "max": "5"
+    }
+  },
+  "prototypeToken": {
+    "name": "Halfling",
+    "displayName": 20,
+    "actorLink": false,
+    "appendNumber": false,
+    "prependAdjective": false,
+    "texture": {
+      "src": "systems/olddragon2e/assets/monsters-concepts/humanoide-medio.webp",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0
+    },
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": -1,
+    "displayBars": 40,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "light": {
+      "color": null,
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "sight": {
+      "enabled": false,
+      "range": 0,
+      "angle": 360,
+      "visionMode": "basic",
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": [],
+    "flags": {},
+    "randomImg": false
+  },
+  "items": [],
+  "effects": [],
+  "folder": "rpL2cWeB5HlAT1Tc",
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "olddragon2e",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1698721200000,
+    "modifiedTime": 1702782000000,
+    "lastModifiedBy": "enzpVKIAX52oTyPe"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "enzpVKIAX52oTyPe": 3
+  },
+  "_key": "!actors!uFuKxAyLwG4MOz3N"
+}

@@ -1,0 +1,47 @@
+{
+  "folder": "bkBRbMCUMv15wltn",
+  "name": "Flecha de Caça",
+  "type": "weapon",
+  "_id": "BPz09ztaAV9aGUKf",
+  "img": "systems/olddragon2e/assets/equipment-concepts/weapon.svg",
+  "system": {
+    "odo_id": "flecha-de-caca",
+    "quantity": 20,
+    "cost": "1 PP",
+    "description": "Perfurante, Madeira. Peso e preço pelo conjunto de 20 unidades.",
+    "weight_in_load": null,
+    "weight_in_grams": null,
+    "magic_item": false,
+    "bonus_ca": null,
+    "type": "ammunition",
+    "damage_type": "piercing",
+    "damage": "1d6",
+    "bonus_damage": null,
+    "bonus_ba": null,
+    "shoot_range": null,
+    "throw_range": null,
+    "arrow": true,
+    "bolt": false,
+    "bolt_small": false,
+    "polearm": false,
+    "two_handed": false,
+    "versatile": false,
+    "increases_load_by": null
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "olddragon2e",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1698721200000,
+    "modifiedTime": 1702782000000,
+    "lastModifiedBy": "enzpVKIAX52oTyPe"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "enzpVKIAX52oTyPe": 3
+  },
+  "_key": "!items!BPz09ztaAV9aGUKf"
+}

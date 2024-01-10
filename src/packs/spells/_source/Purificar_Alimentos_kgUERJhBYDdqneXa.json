@@ -1,0 +1,37 @@
+{
+  "folder": "8VVynUK0GJZaC2Yo",
+  "name": "Purificar Alimentos",
+  "type": "spell",
+  "_id": "kgUERJhBYDdqneXa",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "odo_id": "purificar-alimentos",
+    "school": "arcane",
+    "circle": "1",
+    "arcane": "null",
+    "divine": "1",
+    "necromancer": "null",
+    "illusionist": "null",
+    "reverse": false,
+    "range": "toque",
+    "duration": "permanente",
+    "jp": "nenhuma",
+    "description": "<p>Esta magia purifica comida e água suficiente para doze pessoas durante um dia, removendo apodrecimento, venenos, contaminações ou qualquer outro efeito negativo não mágico.</p>\n"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "olddragon2e",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1698721200000,
+    "modifiedTime": 1702782000000,
+    "lastModifiedBy": "enzpVKIAX52oTyPe"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "enzpVKIAX52oTyPe": 3
+  },
+  "_key": "!items!kgUERJhBYDdqneXa"
+}

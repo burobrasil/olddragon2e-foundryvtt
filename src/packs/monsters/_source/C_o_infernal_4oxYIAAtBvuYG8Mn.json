@@ -1,0 +1,123 @@
+{
+  "name": "Cão infernal",
+  "type": "monster",
+  "_id": "4oxYIAAtBvuYG8Mn",
+  "img": "systems/olddragon2e/assets/monsters-concepts/besta-medio.webp",
+  "system": {
+    "odo_id": "cao-infernal",
+    "flavor": "Cão gigantesco que solta fogo pela boca. Pode ser visto com Gigantes do Fogo ou em perigosas matilhas.",
+    "concept": "Besta",
+    "size": "medio",
+    "alignment": "caotico",
+    "variant": false,
+    "description": "<ul>\n  <li>\n    <p><strong>Sopro de fogo</strong>: podem usar a vontade.  Causa 1d10 de dano. Quando mordem o alvo e tiram um 20 no dado, causam automaticamente 1d10 de dano extra pelo sopro.</p>\n  </li>\n  <li>\n    <p><strong>Imunidade</strong>: são imunes a qualquer fogo normal, recebendo metade do dano caso a origem do fogo seja mágica.</p>\n  </li>\n  <li>\n    <p><strong>Visão extradimensional</strong>: possuem 50% de chance de ver alvos invisíveis ou em viagem planar.</p>\n  </li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>2 × mordidas + 5 (1d6+2 )</li>\n  <li>1 × baforada + 3 (1d10)</li>\n</ul>\n",
+    "encounters": "2d4",
+    "encounters_lair": "2d4",
+    "xp": "175",
+    "treasure": "",
+    "treasure_lair": "",
+    "mv": "12",
+    "mvc": "",
+    "mve": "",
+    "mvn": "",
+    "mvv": "",
+    "mvo": "",
+    "dv": "4",
+    "dv_bonus": "+8",
+    "pv": "28",
+    "ca": "16",
+    "jp": "7",
+    "mo": "10",
+    "url": "",
+    "habitat": "Planícies, Colinas, Montanhas",
+    "hp": {
+      "value": "28",
+      "max": "28"
+    }
+  },
+  "prototypeToken": {
+    "name": "Cão infernal",
+    "displayName": 20,
+    "actorLink": false,
+    "appendNumber": false,
+    "prependAdjective": false,
+    "texture": {
+      "src": "systems/olddragon2e/assets/monsters-concepts/besta-medio.webp",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0
+    },
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": -1,
+    "displayBars": 40,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "light": {
+      "color": null,
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "sight": {
+      "enabled": false,
+      "range": 0,
+      "angle": 360,
+      "visionMode": "basic",
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": [],
+    "flags": {},
+    "randomImg": false
+  },
+  "items": [],
+  "effects": [],
+  "folder": "8gdK9MBNzpaboPvc",
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "olddragon2e",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1698721200000,
+    "modifiedTime": 1702782000000,
+    "lastModifiedBy": "enzpVKIAX52oTyPe"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "enzpVKIAX52oTyPe": 3
+  },
+  "_key": "!actors!4oxYIAAtBvuYG8Mn"
+}

@@ -1,0 +1,37 @@
+{
+  "folder": "yGCm2zx9WuJKgUUG",
+  "name": "Imunidade à Magia",
+  "type": "spell",
+  "_id": "W1ZUqq6uJdNQMRJN",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "odo_id": "imunidade-a-magia",
+    "school": "arcane",
+    "circle": "1",
+    "arcane": "8",
+    "divine": "null",
+    "necromancer": "null",
+    "illusionist": "null",
+    "reverse": false,
+    "range": "toque",
+    "duration": "1d4 turnos + 1/nível",
+    "jp": "nenhuma",
+    "description": "<p>Com esta magia, o conjurador pode proteger uma criatura contra efeitos mágicos para cada 4 níveis que possui. Essa proteção confere ajuste nas jogadas de proteção:</p>\n\n<ul>\n  <li>\n    <p><strong>Magias de 1º a 3º círculo</strong>: falha apenas com um 20;</p>\n  </li>\n  <li>\n    <p><strong>Magias de 4º a 6º círculo</strong>: muito fácil;</p>\n  </li>\n  <li>\n    <p><strong>Magias de 7º e 8º círculo</strong>: fácil.</p>\n  </li>\n</ul>\n"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "olddragon2e",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1698721200000,
+    "modifiedTime": 1702782000000,
+    "lastModifiedBy": "enzpVKIAX52oTyPe"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "enzpVKIAX52oTyPe": 3
+  },
+  "_key": "!items!W1ZUqq6uJdNQMRJN"
+}

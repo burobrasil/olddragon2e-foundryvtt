@@ -1,1 +1,7 @@
-src/packs/**
+/src/packs/**/*.ldb
+/src/packs/**/*.log
+/src/packs/**/CURRENT
+/src/packs/**/LOG
+/src/packs/**/LOG.old
+/src/packs/**/MANIFEST-*
+/src/packs/**/LOCK

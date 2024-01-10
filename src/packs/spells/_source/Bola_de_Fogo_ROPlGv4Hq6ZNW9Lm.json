@@ -1,0 +1,37 @@
+{
+  "folder": "hDpu7L7XzYzJ2gUK",
+  "name": "Bola de Fogo",
+  "type": "spell",
+  "_id": "ROPlGv4Hq6ZNW9Lm",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "odo_id": "bola-de-fogo",
+    "school": "arcane",
+    "circle": "1",
+    "arcane": "3",
+    "divine": "null",
+    "necromancer": "null",
+    "illusionist": "null",
+    "reverse": false,
+    "range": "72 metros",
+    "duration": "instantânea",
+    "jp": "JPD reduz",
+    "description": "<p>Um projétil semelhante a uma pequena bola de chamas com 20 cm de diâmetro, disparado pelas mãos do conjurador e explodindo em chamas no lugar alvo. O raio da explosão é de 6 metros e o dano é de 1d6 por nível do conjurador (máximo 10d6). A explosão é adaptada ao volume disponível.  Um sucesso em uma JPD reduz o dano desta magia pela metade. Se memorizada como uma magia de 7º círculo, a explosão pode ser adiada por até 10 minutos.</p>\n"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "olddragon2e",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1698721200000,
+    "modifiedTime": 1702782000000,
+    "lastModifiedBy": "enzpVKIAX52oTyPe"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "enzpVKIAX52oTyPe": 3
+  },
+  "_key": "!items!ROPlGv4Hq6ZNW9Lm"
+}

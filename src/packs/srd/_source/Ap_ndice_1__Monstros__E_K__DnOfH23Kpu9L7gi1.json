@@ -1,0 +1,1877 @@
+{
+  "folder": null,
+  "name": "Apêndice 1: Monstros (E-K)",
+  "_id": "DnOfH23Kpu9L7gi1",
+  "pages": [
+    {
+      "sort": 0,
+      "name": "Introdução",
+      "type": "text",
+      "_id": "I2yOPQpz1g1TYoXR",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<p>Continuação dos monstros, você encontra das letras <strong>E</strong> até <strong>K</strong>.</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.I2yOPQpz1g1TYoXR"
+    },
+    {
+      "sort": 1,
+      "name": "Efreeti",
+      "type": "text",
+      "_id": "n6fZi9TThrtWmTMd",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.LhKcrs94NrvjIpV8]{Efreeti}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.n6fZi9TThrtWmTMd"
+    },
+    {
+      "sort": 2,
+      "name": "Elemental da Água",
+      "type": "text",
+      "_id": "FZdsPh7CP6qF6thd",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.fmVvOo3lPKb5Zarh]{Elemental da água}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.FZdsPh7CP6qF6thd"
+    },
+    {
+      "sort": 3,
+      "name": "Elemental da Terra",
+      "type": "text",
+      "_id": "24AWwthhAtM13pIS",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.orp1AN6ErEku2Wat]{Elemental da terra}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.24AWwthhAtM13pIS"
+    },
+    {
+      "sort": 4,
+      "name": "Elemental do Ar",
+      "type": "text",
+      "_id": "LWYPzAGwKk2MLVLo",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.sR7K4GLPgHEJjHn2]{Elemental do ar}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.LWYPzAGwKk2MLVLo"
+    },
+    {
+      "sort": 5,
+      "name": "Elemental do Fogo",
+      "type": "text",
+      "_id": "GAVipfYtQ5tmctqG",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.811B5okY4RHGMH5h]{Elemental do fogo}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.GAVipfYtQ5tmctqG"
+    },
+    {
+      "sort": 6,
+      "name": "Elfo Drow",
+      "type": "text",
+      "_id": "tSiGuhp8UX5hQ8rt",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.6mpuCdyzTG13OO7r]{Elfo drow}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.tSiGuhp8UX5hQ8rt"
+    },
+    {
+      "sort": 7,
+      "name": "Enxame de Insetos",
+      "type": "text",
+      "_id": "cxF2ovqplitXluoz",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.15LHpJehKB856mfO]{Enxame de insetos}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.cxF2ovqplitXluoz"
+    },
+    {
+      "sort": 8,
+      "name": "Esfera de Aniquilação",
+      "type": "text",
+      "_id": "cZFCr0SUEfUrnonR",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.syjxIYJs3m5k0yYg]{Esfera da aniquilação}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.cZFCr0SUEfUrnonR"
+    },
+    {
+      "sort": 9,
+      "name": "Esfinge",
+      "type": "text",
+      "_id": "dSxcXfLjhKJEVXDT",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.cOWcAhuLb8MUIJhT]{Esfinge}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.dSxcXfLjhKJEVXDT"
+    },
+    {
+      "sort": 10,
+      "name": "Espectro",
+      "type": "text",
+      "_id": "8dvjlGyjSD9uBMMZ",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.GbGZyoLuSkyPz50b]{Espectro}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.8dvjlGyjSD9uBMMZ"
+    },
+    {
+      "sort": 11,
+      "name": "Esperos de Gás",
+      "type": "text",
+      "_id": "jTxEIgY2y8mtRzs1",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.hAl8bCB79KAGptrg]{Esporo de gás}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.jTxEIgY2y8mtRzs1"
+    },
+    {
+      "sort": 12,
+      "name": "Esqueleto",
+      "type": "text",
+      "_id": "TD9CirlsVMf5L3cq",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.jgyUAhsIv36nYyuT]{Esqueleto}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.TD9CirlsVMf5L3cq"
+    },
+    {
+      "sort": 13,
+      "name": "Ettin",
+      "type": "text",
+      "_id": "WXsLbVqtdZZrXE0v",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.YeeDbKpzBfoEIwxe]{Ettin}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.WXsLbVqtdZZrXE0v"
+    },
+    {
+      "sort": 14,
+      "name": "Fantasma",
+      "type": "text",
+      "_id": "bDMivh7IdVhu9JR6",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.X92GJGI2QzJ8d3pJ]{Fantasma}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.bDMivh7IdVhu9JR6"
+    },
+    {
+      "sort": 15,
+      "name": "Fera do Pântano",
+      "type": "text",
+      "_id": "hDWxuLQSpM0exZJn",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.ge9F4rZLBUcw0LqC]{Fera do pântano}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.hDWxuLQSpM0exZJn"
+    },
+    {
+      "sort": 16,
+      "name": "Fera Refratora",
+      "type": "text",
+      "_id": "5HEIWhemT96mwzGh",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.1f7XX0q1VNa6zGno]{Fera refratora}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.5HEIWhemT96mwzGh"
+    },
+    {
+      "sort": 17,
+      "name": "Flagelo da Podridão",
+      "type": "text",
+      "_id": "1s1Ua1MbeJ15Jhg2",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.OkKDRY1HKenvyVVZ]{Flagelo da podridão}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.1s1Ua1MbeJ15Jhg2"
+    },
+    {
+      "sort": 18,
+      "name": "Fogo Fátuo",
+      "type": "text",
+      "_id": "aVmM0XDUtg2CJi4j",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.l4AcWtCThX3fJj6M]{Fogo fátuo}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.aVmM0XDUtg2CJi4j"
+    },
+    {
+      "sort": 19,
+      "name": "Fungo Gritador",
+      "type": "text",
+      "_id": "tmWM7mcJvtqveVA3",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.Y60yvnzzA5SlxpZn]{Fungo gritador}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.tmWM7mcJvtqveVA3"
+    },
+    {
+      "sort": 20,
+      "name": "Fungo Pigmeu",
+      "type": "text",
+      "_id": "e6WXe07D5oixrcKl",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.o0lM6UFqFOXoYSVH]{Fungo pigmeu}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.e6WXe07D5oixrcKl"
+    },
+    {
+      "sort": 21,
+      "name": "Fungo Violeta",
+      "type": "text",
+      "_id": "24gQqyb5TuxDLZR6",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.zOOlZ0m75Rj3KrSq]{Fungo violeta}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.24gQqyb5TuxDLZR6"
+    },
+    {
+      "sort": 22,
+      "name": "Gárgula",
+      "type": "text",
+      "_id": "kG00gBjIpuHuysWm",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.3n6q2oZ5gJ062Oe1]{Gárgula}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.kG00gBjIpuHuysWm"
+    },
+    {
+      "sort": 23,
+      "name": "Gênio",
+      "type": "text",
+      "_id": "jV7yaklM6CmU9Xzx",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.wYXWVGvOX8mQzRkZ]{Gênio}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.jV7yaklM6CmU9Xzx"
+    },
+    {
+      "sort": 24,
+      "name": "Ghoul",
+      "type": "text",
+      "_id": "eYqCtbyfO67hgKH2",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.nNyeV0KC3wEcy7kY]{Ghoul}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.eYqCtbyfO67hgKH2"
+    },
+    {
+      "sort": 25,
+      "name": "Gigante da Colina",
+      "type": "text",
+      "_id": "hsWFA7nIHbfkU3a9",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.86NNeIYT7gAab5r5]{Gigante da colina}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.hsWFA7nIHbfkU3a9"
+    },
+    {
+      "sort": 26,
+      "name": "Gigante da Montanha",
+      "type": "text",
+      "_id": "k7wYtmZfYUF6VlfR",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.hhaHlRthbWI9GscD]{Gigante da montanha}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.k7wYtmZfYUF6VlfR"
+    },
+    {
+      "sort": 27,
+      "name": "Giganate da Tempestade",
+      "type": "text",
+      "_id": "h9QpD4shMffk6VTF",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.Xg0m4zZleA84QRbG]{Gigante da tempestade}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.h9QpD4shMffk6VTF"
+    },
+    {
+      "sort": 28,
+      "name": "Gigante do Fogo",
+      "type": "text",
+      "_id": "PNmrce058p8Mug9T",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.QwSwd2T47PrpmKvE]{Gigante do fogo}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.PNmrce058p8Mug9T"
+    },
+    {
+      "sort": 29,
+      "name": "Gigante do Gelo",
+      "type": "text",
+      "_id": "1mWlhIyBwSIeKllR",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.J0AY9Asu5UaQVmTx]{Gigante do gelo}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.1mWlhIyBwSIeKllR"
+    },
+    {
+      "sort": 30,
+      "name": "Gnoll",
+      "type": "text",
+      "_id": "GLVHuqenjXkPNW3S",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.Mqx0l0XohhegdUBL]{Gnoll}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.GLVHuqenjXkPNW3S"
+    },
+    {
+      "sort": 31,
+      "name": "Goblin",
+      "type": "text",
+      "_id": "k5eCDpcxJSBHY3Ze",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.m6f12oUx0jWjIbJ2]{Goblin}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.k5eCDpcxJSBHY3Ze"
+    },
+    {
+      "sort": 32,
+      "name": "Golem de Carne",
+      "type": "text",
+      "_id": "Peev29pSldO25fLs",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.GDZiUKXyyoMf5dEh]{Golem de carne}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.Peev29pSldO25fLs"
+    },
+    {
+      "sort": 33,
+      "name": "Golem de Ferro",
+      "type": "text",
+      "_id": "OInCMAi0Nv58sIzC",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.FClDTqsmVWXStr7P]{Golem de ferro}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.OInCMAi0Nv58sIzC"
+    },
+    {
+      "sort": 34,
+      "name": "Golem de Gelo",
+      "type": "text",
+      "_id": "NIitQqR916HchpWb",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.H2DaBzdOUr1LK0t8]{Golem de gelo}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.NIitQqR916HchpWb"
+    },
+    {
+      "sort": 35,
+      "name": "Golem de Madeira",
+      "type": "text",
+      "_id": "6heOdxiXkdTLOWEU",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.QIHnmPBxxC7Z0Lkb]{Golem de madeira}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.6heOdxiXkdTLOWEU"
+    },
+    {
+      "sort": 36,
+      "name": "Golem de Ossos",
+      "type": "text",
+      "_id": "qhv1kNmIxuu75aC3",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.VgJmRRrztoAxOVEH]{Golem de ossos}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.qhv1kNmIxuu75aC3"
+    },
+    {
+      "sort": 37,
+      "name": "Golem de Pedra",
+      "type": "text",
+      "_id": "lfM6MqEytCgJNTH7",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.Molmr6Enrvty1SQi]{Golem de pedra}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.lfM6MqEytCgJNTH7"
+    },
+    {
+      "sort": 38,
+      "name": "Górgon",
+      "type": "text",
+      "_id": "vUTGnrNB4IuWpssz",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.rmBx11FajNQ2p2L6]{Górgon}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.vUTGnrNB4IuWpssz"
+    },
+    {
+      "sort": 39,
+      "name": "Gosma Ocre",
+      "type": "text",
+      "_id": "Hvka1BMmAxx64p6n",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.iA4pwS4UkPCibVsH]{Gosma ocre}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.Hvka1BMmAxx64p6n"
+    },
+    {
+      "sort": 40,
+      "name": "Grifo",
+      "type": "text",
+      "_id": "Ksj0QPdXeEiNaQHK",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.gytVUQnMuHtY9kCS]{Grifo}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.Ksj0QPdXeEiNaQHK"
+    },
+    {
+      "sort": 41,
+      "name": "Guerreiro do Caos",
+      "type": "text",
+      "_id": "2Zo1ZxCs4vzcBCUz",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.JedQWEWorDRcsShc]{Guerreiro do caos}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.2Zo1ZxCs4vzcBCUz"
+    },
+    {
+      "sort": 42,
+      "name": "Haken",
+      "type": "text",
+      "_id": "1mMVtAtXiIead5T7",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.NV6aP799xKEU67Hs]{Haken}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.1mMVtAtXiIead5T7"
+    },
+    {
+      "sort": 43,
+      "name": "Harpia",
+      "type": "text",
+      "_id": "RWOX8kxr4naPfZEh",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.QAMt2BFaTIwrIGvL]{Harpia}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.RWOX8kxr4naPfZEh"
+    },
+    {
+      "sort": 44,
+      "name": "Hidra",
+      "type": "text",
+      "_id": "uhfrYkMwWMgojSxk",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.s6pqMAIC0YV4KLvt]{Hidra}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.uhfrYkMwWMgojSxk"
+    },
+    {
+      "sort": 45,
+      "name": "Hobgoblin",
+      "type": "text",
+      "_id": "k0qwHlaCFo3GhHpV",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.JiosMbi2MN6fymly]{Hobgoblin}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.k0qwHlaCFo3GhHpV"
+    },
+    {
+      "sort": 46,
+      "name": "Homem Esguio",
+      "type": "text",
+      "_id": "U0TyzQOuW4Eu8jeJ",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.JHGwTcYpXUDMmlYF]{Homem esguio}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.U0TyzQOuW4Eu8jeJ"
+    },
+    {
+      "sort": 47,
+      "name": "Homem Lagarto",
+      "type": "text",
+      "_id": "SyvaWrxvVWmRfzzc",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.3X9zxF8MKcs90BY4]{Homem lagarto}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.SyvaWrxvVWmRfzzc"
+    },
+    {
+      "sort": 48,
+      "name": "Homúnculo",
+      "type": "text",
+      "_id": "SGl9QdrDCF1GhFJ0",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.W5Yt1OhvpLcTgl4h]{Homúnculo}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.SGl9QdrDCF1GhFJ0"
+    },
+    {
+      "sort": 49,
+      "name": "Insetos Gigantes",
+      "type": "text",
+      "_id": "rsSian1TXxJDbAPe",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<p>Insetos gigantes são criaturas gigantes das suas versões comuns, como as encontradas aqui no nosso mundo. Todas estas criaturas estão listadas aqui por serem versões não mágicas e naturais do ambiente, e que podem ser encontradas (ou já terem sido encontradas) no nosso mundo ou no nosso planeta em outras eras.</p>\n\n<p>Estamos falando dos insetos comuns conhecidos por nós: aranhas, moscas, besouros, formigas, etc., mas em suas versões gigantes e monstruosas. Ou seja, muito mais desafiadores.</p>\n\n<h3 id=\"aranha-camufladora-gigante\">Aranha Camufladora Gigante</h3>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.GZPloEigW2XRuCPP]{Aranha camufladora gigante}</p>\n\n<h3 id=\"aranha-negra-gigante\">Aranha Negra Gigante</h3>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.tc4KI54e5APe8ZPZ]{Aranha negra gigante}</p>\n\n<h3 id=\"aranha-cacadora-gigante\">Aranha Caçadora Gigante</h3>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.5HItjpuJ9zeUtfMZ]{Aranha caçadora gigante}</p>\n\n<h3 id=\"besouro-de-fogo-gigante\">Besouro de Fogo Gigante</h3>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.hQXbZielvscxsiM0]{Besouro de fogo gigante}</p>\n\n<h3 id=\"besouro-bombardeiro-gigante\">Besouro Bombardeiro Gigante</h3>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.mglcQMsur4d7Rsw8]{Besouro bombardeiro gigante}</p>\n\n<h3 id=\"centopeia-gigante\">Centopéia Gigante</h3>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.pRIcC51vpNg5hF7W]{Centopeia gigante}</p>\n\n<h3 id=\"escorpiao-gigante\">Escorpião Gigante</h3>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.IZPWsptfdPvejbyw]{Escorpião gigante}</p>\n\n<h3 id=\"formiga-gigante\">Formiga Gigante</h3>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.D59mYqnYIgRAGVsU]{Formiga gigante}</p>\n\n<h3 id=\"vespa-gigante\">Vespa Gigante</h3>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.xgVmlpgM5Uh0yjxn]{Vespa gigante}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.rsSian1TXxJDbAPe"
+    },
+    {
+      "sort": 50,
+      "name": "Inumano",
+      "type": "text",
+      "_id": "xSOy2FiiIQGCtOxz",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.SvbC3CbyCHHlYUbd]{Inumano}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.xSOy2FiiIQGCtOxz"
+    },
+    {
+      "sort": 51,
+      "name": "Kawamung",
+      "type": "text",
+      "_id": "T1g3XJ0kNStdwg5T",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.YECBiWRQS5lkNHJj]{Kawamung}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.T1g3XJ0kNStdwg5T"
+    },
+    {
+      "sort": 52,
+      "name": "Kobold",
+      "type": "text",
+      "_id": "IW9Jg1ppNLkanbzm",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.8vOr22mk55Kff0Sl]{Kobold}</p>\n\n<p><a href=\"/livros/srd/capitulos/monstros-l-z\">Continue para com letras <strong>L</strong> em diante</a>.</p>\n\n<p><a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.pt_BR\" class=\"cc-by\" target=\"_blank\" rel=\"external\"><img src=\"https://static.olddragon.com.br/digital_items_srd/CC_BY-SA_icon.png\" alt=\"CC-BY\" /></a></p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.IW9Jg1ppNLkanbzm"
+    }
+  ],
+  "flags": {},
+  "_stats": {
+    "systemId": "olddragon2e",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1698721200000,
+    "modifiedTime": 1702782000000,
+    "lastModifiedBy": "enzpVKIAX52oTyPe"
+  },
+  "sort": 11,
+  "ownership": {
+    "default": 0,
+    "enzpVKIAX52oTyPe": 3
+  },
+  "_key": "!journal!DnOfH23Kpu9L7gi1"
+}

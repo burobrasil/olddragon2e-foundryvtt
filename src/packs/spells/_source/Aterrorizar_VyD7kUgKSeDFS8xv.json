@@ -1,0 +1,37 @@
+{
+  "folder": "NG7PBUL1PVluyb0W",
+  "name": "Aterrorizar",
+  "type": "spell",
+  "_id": "VyD7kUgKSeDFS8xv",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "odo_id": "aterrorizar",
+    "school": "arcane",
+    "circle": "1",
+    "arcane": "null",
+    "divine": "null",
+    "necromancer": "1",
+    "illusionist": "null",
+    "reverse": false,
+    "range": "9m + 3m/nível",
+    "duration": "1d6 turnos + 1/nível",
+    "jp": "JPS nega",
+    "description": "<p>Todas as criaturas com menos de 2 dados de vida e dentro do raio de alcance da magia ficarão automaticamente aterrorizadas caso falhem em uma JPS. Criaturas aterrorizadas tremem sem controle, deixando todos os seus testes difíceis.</p>\n"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "olddragon2e",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1698721200000,
+    "modifiedTime": 1702782000000,
+    "lastModifiedBy": "enzpVKIAX52oTyPe"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "enzpVKIAX52oTyPe": 3
+  },
+  "_key": "!items!VyD7kUgKSeDFS8xv"
+}

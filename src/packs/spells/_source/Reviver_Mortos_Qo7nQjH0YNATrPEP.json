@@ -1,0 +1,37 @@
+{
+  "folder": "DwXIBCnJvEFmiMD4",
+  "name": "Reviver Mortos",
+  "type": "spell",
+  "_id": "Qo7nQjH0YNATrPEP",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "odo_id": "reviver-mortos",
+    "school": "arcane",
+    "circle": "1",
+    "arcane": "null",
+    "divine": "5",
+    "necromancer": "null",
+    "illusionist": "null",
+    "reverse": false,
+    "range": "toque",
+    "duration": "instantânea",
+    "jp": "nenhuma",
+    "description": "<p>Esta magia permite ao conjurador trazer um alvo de volta à vida, desde que esteja de posse do cadáver intacto e que o alvo não tenha morrido há mais de 5 dias. Ser trazido de volta à vida desta forma faz com que 1d6 pontos de Constituição sejam perdidos, sem possibilidade de restauração.  Alvos revividos, para se recuperarem do trauma da magia, precisam de 1 dia de repouso por ponto de Constituição perdido. Durante este tempo de recuperação, o alvo revivido fica em um estado semelhante ao coma, totalmente desacordado.</p>\n"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "olddragon2e",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1698721200000,
+    "modifiedTime": 1702782000000,
+    "lastModifiedBy": "enzpVKIAX52oTyPe"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "enzpVKIAX52oTyPe": 3
+  },
+  "_key": "!items!Qo7nQjH0YNATrPEP"
+}

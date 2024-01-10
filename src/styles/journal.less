@@ -1,0 +1,286 @@
+// Journal Content (section)
+.journal-sheet .window-content .journal-sheet-container .journal-entry-content {
+  background: none;
+  background-color: white;
+
+  // Journal Header (form)
+  .journal-header {
+    input {
+      margin: 0px;
+      padding: 0px;
+      background-color: transparent;
+      color: black;
+      .text-3xl;
+      .font-bold;
+    }
+  }
+
+  // Journal Pages (div)
+  .journal-entry-pages .journal-entry-page {
+    // Journal Page Header (header)
+    .journal-page-header {
+      h1 {
+        margin: 0px;
+        margin-top: 0.25rem;
+        padding: 0px;
+        border-bottom: none;
+        color: @carmesim-600;
+        .text-2xl;
+        .font-bold;
+      }
+    }
+
+    // Journal Page Content (section)
+    .journal-page-content {
+      .odo-markdown {
+        h3 {
+          margin: 0px;
+          margin-top: 1rem;
+          padding: 0px;
+          border-bottom: none;
+          color: @carmesim-600;
+          .text-xl;
+          .font-bold;
+        }
+
+        h4 {
+          margin: 0px;
+          margin-top: 1rem;
+          padding: 0px;
+          border-bottom: none;
+          color: @carmesim-600;
+          .text-lg;
+          .font-bold;
+        }
+
+        h5 {
+          margin: 0px;
+          margin-top: 0.5rem;
+          padding: 0px;
+          border-bottom: none;
+          color: @carmesim-600;
+          .text-base;
+          .font-bold;
+        }
+
+        p {
+          margin-top: 0px;
+          margin-bottom: 0.5rem;
+        }
+
+        a {
+          color: @carmesim-600;
+          text-decoration: underline;
+        }
+
+        a:hover {
+          text-shadow: none;
+          color: @carmesim-500;
+        }
+
+        ul {
+          margin: 0px;
+          margin-bottom: 0.75rem;
+          padding: 0px;
+          list-style-position: inside;
+          .list-image-diamond;
+
+          p {
+            display: inline;
+          }
+        }
+
+        .overflow-x-auto {
+          overflow-x: auto;
+        }
+
+        table {
+          margin-top: 1rem;
+          margin-bottom: 1rem;
+          margin-left: auto;
+          margin-right: auto;
+          max-width: 400px;
+          border-top: none;
+          background-color: transparent;
+
+          caption {
+            padding-top: 0.25rem;
+            padding-bottom: 0.25rem;
+            background-color: transparent;
+            .text-2xl;
+            .text-left;
+            .font-bold;
+
+            span {
+              padding-left: 0.5rem;
+              border-top: 2px solid @dourado-300;
+              width: 100%;
+              display: block;
+              .text-sm;
+              .uppercase;
+            }
+          }
+
+          thead {
+            background-color: transparent;
+            color: black;
+            text-shadow: none;
+            border-top: none;
+            border-bottom: none;
+
+            tr th {
+              padding-left: 0.5rem;
+              padding-right: 0.5rem;
+              padding-top: 0.25rem;
+              padding-bottom: 0.25rem;
+            }
+          }
+
+          tbody {
+            border-bottom: 2px solid @dourado-300;
+
+            tr td {
+              padding-left: 0.5rem;
+              padding-right: 0.5rem;
+              padding-top: 0.25rem;
+              padding-bottom: 0.25rem;
+
+              img {
+                margin-left: auto;
+                margin-right: auto;
+              }
+            }
+
+            tr:nth-child(odd) {
+              background-color: @dourado-50;
+            }
+          }
+        }
+
+        blockquote {
+          margin: 0px;
+          padding: 0px;
+          border-left: none;
+          font-style: normal;
+        }
+
+        blockquote.example,
+        blockquote.highlighted,
+        blockquote.roll,
+        blockquote.readme,
+        blockquote.rule,
+        blockquote.lesson {
+          margin-bottom: 0.75rem;
+          padding: 0.5rem;
+          padding-bottom: 0.25rem;
+        }
+
+        blockquote.example {
+          background-color: @cinza-200;
+
+          p,
+          strong,
+          em {
+            font-style: italic;
+          }
+        }
+
+        blockquote.highlighted {
+          margin-top: 0.75rem;
+          margin-left: auto;
+          margin-right: auto;
+          padding-bottom: 0px;
+          padding-left: 0.75rem;
+          padding-right: 0.75rem;
+          width: fit-content;
+          background-color: @dourado-100;
+          border: 2px solid white;
+          outline: 4px solid @dourado-100;
+          .text-sm;
+          .text-center;
+          .uppercase;
+
+          p,
+          strong,
+          span {
+            font-family: 'Alegreya Sans', sans-serif;
+          }
+        }
+
+        blockquote.roll {
+          margin-top: 0.75rem;
+          background-color: @dourado-100;
+          border-top: 2px solid @dourado-300;
+          border-bottom: 2px solid @dourado-300;
+          .text-center;
+
+          p,
+          strong,
+          span {
+            font-family: 'Alegreya Sans', sans-serif;
+          }
+        }
+
+        .redbox,
+        .blackbox,
+        .bluebox {
+          display: inline-flex;
+          justify-content: center;
+          align-items: center;
+          margin-left: 0.125rem;
+          margin-right: 0.125rem;
+          padding: 0.375rem;
+          height: 1rem;
+          color: white;
+          font-family: 'Alegreya', serif;
+          .text-sm;
+          .font-bold;
+        }
+
+        .redbox {
+          background-color: @carmesim-600;
+        }
+
+        .blackbox {
+          background-color: @cinza-600;
+        }
+
+        .bluebox {
+          background-color: rgb(2, 132, 199);
+        }
+
+        .cc-by {
+          display: flex;
+          margin-top: 2rem;
+
+          img {
+            width: 8rem;
+            margin: auto;
+          }
+        }
+
+        // Monster cards
+
+        div.relative {
+          margin-left: auto;
+          margin-right: auto;
+          padding: 0.5rem;
+          position: relative;
+          background-color: @cinza-300;
+          @media screen and (min-width: 768px) {
+            margin-left: 13rem;
+            margin-right: 13rem;
+          }
+          @media screen and (min-width: 1024px) {
+            margin-left: 14rem;
+            margin-right: 14rem;
+          }
+          @media screen and (min-width: 1280px) {
+            margin-left: 18rem;
+            margin-right: 18rem;
+          }
+        }
+      }
+    }
+  }
+}

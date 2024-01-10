@@ -1,0 +1,123 @@
+{
+  "name": "Puma",
+  "type": "monster",
+  "_id": "8rmM8EB75SMrMNZ9",
+  "img": "systems/olddragon2e/assets/monsters-concepts/animal-miudo.webp",
+  "system": {
+    "odo_id": "puma",
+    "flavor": "Um pouco menor que a Pantera, vive nas montanhas temperadas e desertos rochosos. Não vive em grupo.",
+    "concept": "Animal",
+    "size": "miudo",
+    "alignment": "neutro",
+    "variant": false,
+    "description": null,
+    "described_attacks": "<ul>\n  <li>2 × garras + 4 (1d3)</li>\n  <li>1 × mordida+ 4 (1d6)</li>\n</ul>\n",
+    "encounters": "1d4",
+    "encounters_lair": "1d4",
+    "xp": "75",
+    "treasure": "",
+    "treasure_lair": "",
+    "mv": "10",
+    "mvc": "",
+    "mve": "",
+    "mvn": "",
+    "mvv": "",
+    "mvo": "",
+    "dv": "3",
+    "dv_bonus": "+2",
+    "pv": "17",
+    "ca": "14",
+    "jp": "6",
+    "mo": "8",
+    "url": "",
+    "habitat": "Colinas, Desertos, Montanhas",
+    "hp": {
+      "value": "17",
+      "max": "17"
+    }
+  },
+  "prototypeToken": {
+    "name": "Puma",
+    "displayName": 20,
+    "actorLink": false,
+    "appendNumber": false,
+    "prependAdjective": false,
+    "texture": {
+      "src": "systems/olddragon2e/assets/monsters-concepts/animal-miudo.webp",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0
+    },
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": -1,
+    "displayBars": 40,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "light": {
+      "color": null,
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "sight": {
+      "enabled": false,
+      "range": 0,
+      "angle": 360,
+      "visionMode": "basic",
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": [],
+    "flags": {},
+    "randomImg": false
+  },
+  "items": [],
+  "effects": [],
+  "folder": "fCR6JPmJVtpt7hqx",
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "olddragon2e",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1698721200000,
+    "modifiedTime": 1702782000000,
+    "lastModifiedBy": "enzpVKIAX52oTyPe"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "enzpVKIAX52oTyPe": 3
+  },
+  "_key": "!actors!8rmM8EB75SMrMNZ9"
+}

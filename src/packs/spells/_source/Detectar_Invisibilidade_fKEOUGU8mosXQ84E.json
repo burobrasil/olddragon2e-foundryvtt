@@ -1,0 +1,37 @@
+{
+  "folder": "8lXrqX2bZWLr3ri1",
+  "name": "Detectar Invisibilidade",
+  "type": "spell",
+  "_id": "fKEOUGU8mosXQ84E",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "odo_id": "detectar-invisibilidade",
+    "school": "arcane",
+    "circle": "1",
+    "arcane": "2",
+    "divine": "null",
+    "necromancer": "null",
+    "illusionist": "null",
+    "reverse": false,
+    "range": "18 metros",
+    "duration": "2 turnos",
+    "jp": "nenhuma",
+    "description": "<p>O conjurador consegue detectar objetos e criaturas invisíveis como se fossem normalmente visíveis para ele.</p>\n"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "olddragon2e",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1698721200000,
+    "modifiedTime": 1702782000000,
+    "lastModifiedBy": "enzpVKIAX52oTyPe"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "enzpVKIAX52oTyPe": 3
+  },
+  "_key": "!items!fKEOUGU8mosXQ84E"
+}

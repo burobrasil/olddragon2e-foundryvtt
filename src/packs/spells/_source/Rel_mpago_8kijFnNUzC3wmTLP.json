@@ -1,0 +1,37 @@
+{
+  "folder": "hDpu7L7XzYzJ2gUK",
+  "name": "Relâmpago",
+  "type": "spell",
+  "_id": "8kijFnNUzC3wmTLP",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "odo_id": "relampago",
+    "school": "arcane",
+    "circle": "1",
+    "arcane": "3",
+    "divine": "null",
+    "necromancer": "null",
+    "illusionist": "null",
+    "reverse": false,
+    "range": "54 metros",
+    "duration": "instantânea",
+    "jp": "JPD reduz",
+    "description": "<p>Apontando o dedo para um alvo, o conjurador emite um raio de sua mão causando 1d8 pontos de dano +1d8 de dano para cada 2 níveis do conjurador até um máximo de 10d8. O relâmpago ricocheteará no primeiro alvo e atingirá outra criatura à escolha do conjurador (desde que esta criatura esteja a até 6 metros de distância do primeiro alvo), recebendo 1d6 pontos de dano +1d6 pontos de dano a cada 2 níveis de conjurador até um máximo de 10d6. O relâmpago poderá ainda atingir uma terceira criatura à escolha do conjurador (desde que esteja a até 6 metros de distância da segunda criatura atingida), e receberá 1d4 pontos de dano a cada 2 níveis de conjurador até um máximo de 10d4. Uma JPD reduz o dano desta magia pela metade.</p>\n"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "olddragon2e",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1698721200000,
+    "modifiedTime": 1702782000000,
+    "lastModifiedBy": "enzpVKIAX52oTyPe"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "enzpVKIAX52oTyPe": 3
+  },
+  "_key": "!items!8kijFnNUzC3wmTLP"
+}

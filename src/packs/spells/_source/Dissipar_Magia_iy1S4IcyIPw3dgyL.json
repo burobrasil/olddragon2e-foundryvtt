@@ -1,0 +1,37 @@
+{
+  "folder": "hDpu7L7XzYzJ2gUK",
+  "name": "Dissipar Magia",
+  "type": "spell",
+  "_id": "iy1S4IcyIPw3dgyL",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "odo_id": "dissipar-magia",
+    "school": "arcane",
+    "circle": "1",
+    "arcane": "3",
+    "divine": "4",
+    "necromancer": "null",
+    "illusionist": "null",
+    "reverse": false,
+    "range": "36 metros",
+    "duration": "permanente",
+    "jp": "nenhuma",
+    "description": "<p>Esta magia pode ser usada para dissipar completamente os efeitos de outra magia, lançada sobre um objeto ou área. A jogada para tentar dissipar a magia é de 1d20 + nível do personagem que está lançando a magia, contra uma dificuldade de 5 + círculo da magia a ser dissipada + nível do personagem que lançou a magia a ser dissipada.</p>\n\n<blockquote>\n  <p>Exemplo: um conjurador de 9º nível que tenta dissipar uma magia de 3º círculo lançada por outro conjurador de 8º nível, deve jogar 1d20 e somar seu resultado ao seu nível (9).  O resultado precisa ser igual ou maior que a dificuldade de 5 + o círculo da magia a ser dissipada (3) + o nível do conjurador da magia (8), ou seja, maior ou igual a 16.</p>\n</blockquote>\n\n<p>Magos só podem dissipar magias arcanas e Clérigos só podem dissipar magias divinas.  Esta magia não é capaz de desencantar permanentemente um item mágico, mas suprime seus efeitos por 1 turno.</p>\n"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "olddragon2e",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1698721200000,
+    "modifiedTime": 1702782000000,
+    "lastModifiedBy": "enzpVKIAX52oTyPe"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "enzpVKIAX52oTyPe": 3
+  },
+  "_key": "!items!iy1S4IcyIPw3dgyL"
+}

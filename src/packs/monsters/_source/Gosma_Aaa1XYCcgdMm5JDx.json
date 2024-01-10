@@ -1,0 +1,19 @@
+{
+  "folder": null,
+  "name": "Gosma",
+  "type": "Actor",
+  "_id": "Aaa1XYCcgdMm5JDx",
+  "sorting": "a",
+  "sort": 0,
+  "color": "#84CC16",
+  "flags": {},
+  "_stats": {
+    "systemId": "olddragon2e",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1698721200000,
+    "modifiedTime": 1702782000000,
+    "lastModifiedBy": "enzpVKIAX52oTyPe"
+  },
+  "_key": "!folders!Aaa1XYCcgdMm5JDx"
+}

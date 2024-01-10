@@ -1,0 +1,512 @@
+{
+  "folder": null,
+  "name": "Capítulo 7: Combate",
+  "_id": "XnXWjFRIVJ7PhIm4",
+  "pages": [
+    {
+      "sort": 0,
+      "name": "Introdução",
+      "type": "text",
+      "_id": "y1q7fkPuPs83NfOI",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<p>No Old Dragon quando ocorre um encontro entre o grupo de aventureiros e um ou mais monstros ou inimigos, é bem provável que termine em um combate.</p>\n\n<p>Um combate típico é o confronto de dois ou mais lados, com uma tormenta de coisas acontecendo ao mesmo tempo de forma caótica, com todos tentando derrotar seus inimigos e, ao mesmo tempo, permanecer vivos até o final.</p>\n\n<p>A função deste capítulo é organizar o caos do combate de forma que ele seja compreendido pelos jogadores e administrável pelo Mestre.</p>\n\n<p>Usam-se ciclos de <strong>rodadas</strong> de 10 segundos onde cada participante do combate realiza suas ações de acordo com a estratégia individual ou a traçada pelo grupo.</p>\n\n<p>Como nenhum combatente está preso ao chão, também trataremos das manobras durante o combate, dos efeitos da magia no meio das batalhas e, claro, das suas consequências.</p>\n\n<p>Também cuidamos de detalhar tudo o que você precisa saber sobre danos e ferimentos de diferentes tipos de fontes, sobre formas de cura e, obviamente, sobre morte.</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!XnXWjFRIVJ7PhIm4.y1q7fkPuPs83NfOI"
+    },
+    {
+      "sort": 1,
+      "name": "Surpresa",
+      "type": "text",
+      "_id": "ie5RaZCGYI8i2VaZ",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<p>Quando dois ou mais grupos se encontram subitamente, existe a chance de um desses grupos não estar preparado para o encontro, sendo pego de surpresa.</p>\n\n<p>Se um monstro está sentado em silêncio num canto da masmorra enquanto escuta o grupo de aventureiros se aproximando, esse monstro claramente não ficará surpreso, mas o grupo, que obviamente não espera um monstro à espreita no final do corredor, pode ser pego de surpresa, com os aventureiros ficando paralisados e tentando entender o ocorrido na primeira rodada do combate.</p>\n\n<p>Se o Mestre determinar que um lado do encontro pode ser surpreendido, existe uma chance de 1-2 em 1d6 deste grupo ficar surpreso.</p>\n\n<p><strong>Chance de Surpresa:</strong> algumas situações podem alterar a chance de um grupo ser pego de surpresa, como um monstro escondido, camuflado, furtivo ou no escuro. Com isso, a chance sobe para 1-3 em 1d6.</p>\n\n<blockquote class=\"roll\">\n  <p><strong>TESTE DE SURPRESA</strong></p>\n\n  <p><span class=\"blackbox\">1D6</span></p>\n\n  <p>Sucesso (<strong>você está surpreso</strong> e perde a ação da primeira rodada) quando rolar &gt; CHANCE DE SURPRESA</p>\n\n  <p>Falha (<strong>você não está surpreso</strong>. Age na primeira rodada) quando rolar ≤ CHANCE DE SURPRESA</p>\n</blockquote>\n\n<blockquote class=\"example\">\n  <p><strong>Exemplo:</strong> <em>um grupo de heróis anda pela masmorra em busca de uma saída. Após a curva do corredor, um grupo de goblins os espreita de um canto escuro, aguardando o melhor momento para atacar.</em></p>\n\n  <p><em>O grupo dos goblins obviamente já sabe da presença do grupo de heróis e não será pego de surpresa.</em> <em>Já os heróis têm uma chance de 1-3 em 1d6 de serem pegos de surpresa, pois os goblins estão escondidos no escuro aguardando para atacar.</em></p>\n</blockquote>\n\n<p><strong>Outras situações</strong> ou habilidades de algumas classes podem aumentar ou diminuir a chance de ficar surpreso para o próprio personagem ou para seu grupo. Um Bárbaro de 6º nível, por exemplo, possui a habilidade <em>Surpresa Selvagem</em> a qual permite surpreender inimigos em terreno natural com uma chance de <strong>1-4 em 1d6</strong>.</p>\n\n<p><strong>Dois Lados Surpresos:</strong> caso os dois lados fiquem surpresos, nada acontece a não ser uma confusão momentânea até todos entenderem o que está acontecendo e se preparem para o que está por vir.</p>\n\n<p><strong>Nenhum Lado Surpreso:</strong> se nenhum dos lados ficou surpreso, um lado pode tentar fugir do combate, iniciar uma negociação ou começar um combate. Neste último caso, se passa direto para a <strong>iniciativa</strong>.</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!XnXWjFRIVJ7PhIm4.ie5RaZCGYI8i2VaZ"
+    },
+    {
+      "sort": 2,
+      "name": "Iniciativa",
+      "type": "text",
+      "_id": "OildthJbbl1YpFEX",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<p>No início de um combate, após a rodada de surpresa (caso ela tenha sido necessária) os lados envolvidos no encontro precisam determinar a ordem das ações na primeira rodada de combate.</p>\n\n<p>Cada jogador deve realizar um teste de atributo: Destreza, devido a agilidade; ou Sabedoria, por conta da percepção, o que for maior.</p>\n\n<blockquote class=\"roll\">\n  <p><strong>TESTE DE INICIATIVA</strong></p>\n\n  <p><span class=\"blackbox\">1D20</span> (DESTREZA OU SABEDORIA)</p>\n\n  <p>Sucesso (você age <strong>antes</strong> dos monstros) quando rolar ≤ VALOR DO ATRIBUTO</p>\n\n  <p>Falha (você age <strong>após</strong> os monstros) quando rolar &gt; VALOR DO ATRIBUTO</p>\n</blockquote>\n\n<p><strong>Ordem das Ações:</strong> após os jogadores realizarem seus testes de iniciativa, a ordem das ações será a seguinte:</p>\n\n<blockquote class=\"highlighted\">\n  <p><strong>SUCESSO</strong> NO TESTE DE INICIATIVA &gt; MONSTROS OU INIMIGOS &gt; <strong>FALHA</strong> NO TESTE DE INICIATIVA</p>\n</blockquote>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!XnXWjFRIVJ7PhIm4.OildthJbbl1YpFEX"
+    },
+    {
+      "sort": 3,
+      "name": "Ações de Combate",
+      "type": "text",
+      "_id": "KiFTUzFIspbFZssk",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<p>Quando os personagens iniciam um combate, eles passam a seguir uma ordem de ações, respeitando o definido pelo teste de iniciativa.</p>\n\n<p><strong>Rodada:</strong> dentro de um combate, a contagem de tempo deve ser realizada em rodadas de <strong>10 segundos</strong>, ou seja, 6 rodadas, equivalem a 1 minuto ou 1 turno.</p>\n\n<p>Cada personagem envolvido no combate tem direito a um combo de <a href=\"/livros/srd/capitulos/personagem#movimento-mv\">movimento</a> + ataque dentro da rodada, na ordem desejada por ele, ou ainda trocar o seu ataque por outro movimento para realizar um movimento duplo.</p>\n\n<blockquote class=\"highlighted\">\n  <p>ATAQUE + MOVIMENTO</p>\n</blockquote>\n\n<blockquote class=\"highlighted\">\n  <p>MOVIMENTO + ATAQUE</p>\n</blockquote>\n\n<blockquote class=\"highlighted\">\n  <p>MOVIMENTO + MOVIMENTO</p>\n</blockquote>\n\n<h3 id=\"engajado\">Engajado</h3>\n\n<p>Algumas ações possuem efeitos especiais envolvendo personagens engajados em combate.</p>\n\n<p>Considera-se engajado um combatente que esteja em combate contra outro combatente. No máximo a 3 metros um do outro.</p>\n\n<p>Personagens não engajados são considerados <strong>desengajados</strong>.</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!XnXWjFRIVJ7PhIm4.KiFTUzFIspbFZssk"
+    },
+    {
+      "sort": 4,
+      "name": "Movimentos",
+      "type": "text",
+      "_id": "h5P47phIWCRm9Jnt",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<p><a href=\"/livros/srd/capitulos/personagem#movimento-mv\">Movimentos</a> são ações que não envolvem ataques contra outros combatentes.</p>\n\n<p>A não ser no caso de uma fuga, ao movimentar-se se considera que um combatente se desloca na maior velocidade viável e sempre sendo o mais cuidadoso possível, evitando os ataques dos inimigos.</p>\n\n<h3 id=\"correr\">Correr</h3>\n\n<p>Um personagem realiza <strong>um movimento</strong> para <a href=\"/livros/srd/capitulos/campanha#deslocamento\">correr</a>.</p>\n\n<p>Um personagem correndo é capaz de chegar a qualquer ponto do campo de batalha de forma cuidadosa a ponto de evitar qualquer contra-ataque de um inimigo.</p>\n\n<p><strong>Próxima rodada:</strong> um personagem que correu ainda pode ser alcançado por um atacante caso este se desloque até ele na próxima rodada.</p>\n\n<h3 id=\"recuar\">Recuar</h3>\n\n<p>Um personagem faz <strong>dois movimentos</strong> em uma mesma rodada, abrindo mão de realizar qualquer outro tipo de ação.</p>\n\n<p>Ao recuar, um personagem se desloca cuidadosamente, desengajando-se de um combate corpo a corpo sem se expor a nenhum contra-ataque.</p>\n\n<p>Qualquer ataque idealizado contra o personagem nesta rodada será perdido ou poderá ser direcionado para outro personagem no alcance do atacante.</p>\n\n<p><strong>Próxima rodada:</strong> um personagem que recuou pode ser alcançado por um atacante caso este se desloque até ele na próxima rodada.</p>\n\n<h3 id=\"fugir\">Fugir</h3>\n\n<p>Um personagem realiza <strong>dois movimentos</strong> em uma mesma rodada, abrindo mão de realizar qualquer outro tipo de ação.</p>\n\n<p>Ao fugir, um personagem se desloca rapidamente, <a href=\"/livros/srd/capitulos/combate#engajado\">desengajando-se</a> de um combate corpo a corpo, mas dando às costas aos seus inimigos sem se preocupar com um contra-ataque.</p>\n\n<p>Qualquer ataque idealizado contra o personagem nesta rodada será um ataque fácil.</p>\n\n<p><strong>Próxima rodada:</strong> um personagem que fugiu <strong>não</strong> poderá ser alcançado por um atacante, mesmo que este tente se deslocar até ele na próxima rodada.</p>\n\n<h3 id=\"manobra\">Manobra</h3>\n\n<p>Um personagem realiza <strong>um movimento</strong> para fazer uma manobra.</p>\n\n<p>Com uma manobra é possível acudir um personagem <a href=\"/livros/srd/capitulos/combate#agonizando\">agonizando</a>, procurar coisas na mochila, trocar de arma, preparar uma arma para uma contrainvestida, recarregar ou preparar uma arma para ser arremessada, soltar um escudo das mãos, abaixar para pegar algo no chão, beber uma poção, usar um talento ladino ou qualquer coisa que se assemelhe a estas ações. Assume-se sempre que o personagem realiza esta manobra enquanto evita os ataques dos seus inimigos e, ao mesmo tempo, não baixa sua guarda.</p>\n\n<p><strong>Próxima rodada:</strong> Um personagem que realizou uma manobra pode ser alcançado por um atacante caso este se desloque até ele na próxima rodada.</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!XnXWjFRIVJ7PhIm4.h5P47phIWCRm9Jnt"
+    },
+    {
+      "sort": 5,
+      "name": "Ações",
+      "type": "text",
+      "_id": "XzSTyRKgZHzcxfhz",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<p>Ações envolvem ataques ou ameaças a outros combatentes.</p>\n\n<p>Usualmente, um combatente só pode realizar uma única ação por rodada. Porém, alguns monstros são capazes de realizar ataques múltiplos e alguns combatentes de níveis mais altos conseguem realizar ações adicionais em uma mesma rodada.</p>\n\n<p><strong>Múltiplos Ataques:</strong> personagens com múltiplos ataques, como um Guerreiro de 6º nível ou monstros como um troll ou uma hidra, realizam seus ataques extras por último logo em sequência, antes da ação do próximo jogador na ordem da iniciativa com a mesma BA usada no primeiro ataque.</p>\n\n<h3 id=\"ataque-corpo-a-corpo\">Ataque Corpo a Corpo</h3>\n\n<p>São ações realizadas com armas para atacar alvos a até 3 metros de distância.</p>\n\n<blockquote class=\"roll\">\n  <p><strong>ATAQUE CORPO A CORPO</strong></p>\n\n  <p><span class=\"blackbox\">1D20</span> + BAC + AJUSTES</p>\n\n  <p>Sucesso (você <strong>acerta</strong> o ataque no alvo) quando rolar &gt; CA do alvo</p>\n\n  <p>Falha (você <strong>erra</strong> o ataque no alvo) quando rolar ≤ CA do alvo</p>\n</blockquote>\n\n<p><strong>Dano:</strong> o dano de um ataque corpo a corpo é determinado pela arma usada no ataque + o <strong>mod. de Força</strong> do personagem, se houver. Algumas raças e classes também possuem modificadores de dano em determinados ataques.</p>\n\n<p><strong>Resultado 20:</strong> independentemente do valor de Classe de Armadura ou dos modificadores e ajustes de ataque do combatente alvo, um resultado 20 na rolagem do dado será sempre considerado um <em>Acerto Crítico</em>.</p>\n\n<p><strong>Resultado 01:</strong> independentemente do valor de Classe de Armadura ou dos modificadores e ajustes de ataque do combatente alvo, um resultado 1 na rolagem do dado será sempre considerado um <em>Erro Crítico</em>.</p>\n\n<p><strong>Armas Naturais:</strong> armas naturais de monstros como garras, tentáculos, mordidas etc. são consideradas ataques corpo a corpo.</p>\n\n<h3 id=\"ataque-desarmado\">Ataque Desarmado</h3>\n\n<p>São ações realizadas para atacar um alvo sem o uso de armas, usando apenas as mãos nuas ou outras parte do corpo como cotovelos, joelhos e chutes para desferir golpes contra alvos a até 3 metros de distância.</p>\n\n<blockquote class=\"roll\">\n  <p><strong>ATAQUE DESARMADO</strong></p>\n\n  <p><span class=\"blackbox\">1D20</span> + BAC + AJUSTES</p>\n\n  <p>Sucesso (você <strong>acerta</strong> o golpe no alvo) quando rolar &gt; CA do alvo</p>\n\n  <p>Falha (você <strong>erra</strong> o golpe no alvo) quando rolar ≤ CA do alvo</p>\n</blockquote>\n\n<p><strong>Monstros</strong> possuidores de armas naturais como garras, tentáculos, mordidas etc. não realizam um ataque desarmado porque seus ataques são considerados como armas naturais.</p>\n\n<p><strong>Dano:</strong> um ataque desarmado não causa dano, mas chance de nocaute. Cada golpe certeiro, possui uma chance de 1 em 1d6 de deixar o alvo desacordado.</p>\n\n<p><strong>Modificador de Força:</strong> atacantes com modificador de força trocam a chance de nocaute básica pelo seu próprio modificador. Assim, um personagem como modificador de força +2, possui uma chance de 1-2 em 1d6 de nocautear um alvo.</p>\n\n<p><strong>Resultado 20:</strong> independentemente do valor de Classe de Armadura ou dos modificadores e ajustes de ataque do combatente alvo, um resultado 20 na rolagem do dado será sempre considerado um <em>Acerto Crítico</em> que dobra chance de nocaute.</p>\n\n<p><strong>Resultado 01:</strong> independentemente do valor de Classe de Armadura ou dos modificadores e ajustes de ataque do combatente alvo, um resultado 1 na rolagem do dado será sempre considerado um <em>Erro Crítico</em>.</p>\n\n<h3 id=\"ataque-a-distancia\">Ataque à Distância</h3>\n\n<p>Ações realizadas com armas de arremesso ou disparo contra alvos a 3 metros ou mais de distância.</p>\n\n<blockquote class=\"roll\">\n  <p><strong>ATAQUE À DISTÂNCIA</strong></p>\n\n  <p><span class=\"blackbox\">1D20</span> + BAD + AJUSTES</p>\n\n  <p>Sucesso (você <strong>acerta</strong> o ataque no alvo) quando rolar &gt; CA do alvo</p>\n\n  <p>Falha (você <strong>erra</strong> o ataque no alvo) quando rolar ≤ CA do alvo</p>\n</blockquote>\n\n<p><strong>Dano Disparo:</strong> o dano de um ataque à distância de <strong>disparo</strong> é determinado <strong>apenas</strong> pela arma usada no ataque sem modificadores de dano de força. Algumas raças e classes também possuem modificadores de dano em determinados ataques.</p>\n\n<p><strong>Dano Arremesso:</strong> o dano de um ataque à distância de <strong>Arremesso</strong> é determinado pela arma usada no ataque e <strong>também</strong> pelos modificadores de dano de força. Algumas raças e classes também possuem modificadores de dano em determinados ataques.</p>\n\n<p><strong>Resultado 20:</strong> independentemente do valor de Classe de Armadura ou dos modificadores e ajustes de ataque do combatente alvo, um resultado 20 na rolagem do dado será sempre considerado um <em>Acerto Crítico</em>.</p>\n\n<p><strong>Resultado 01:</strong> independentemente do valor de Classe de Armadura ou dos modificadores e ajustes de ataque do combatente alvo, um resultado 1 na rolagem do dado será sempre considerado um <em>Erro Crítico</em>.</p>\n\n<p><strong>Recarregar</strong> ataques à distância, sejam armas de projéteis ou de arremesso, precisam de uma ação de manobra posterior para serem recarregadas antes de novo ataque à distância seja tentado novamente.</p>\n\n<h3 id=\"ataque-em-area\">Ataque em Área</h3>\n\n<p>Ações realizadas com armas de arremesso ou disparo contra uma área (e não contra um alvo) a pelo menos 3 metros ou mais de distância.</p>\n\n<blockquote class=\"roll\">\n  <p><strong>ATAQUE EM ÁREA</strong></p>\n\n  <p><span class=\"blackbox\">1D20</span> + BAD + AJUSTES</p>\n\n  <p>Sucesso (você <strong>acerta</strong> o ataque na área) quando rolar &gt; CA do alvo</p>\n\n  <p>Falha (você <strong>erra</strong> o ataque em área e ocorre um desvio) quando rolar ≤ CA do alvo</p>\n</blockquote>\n\n<p><strong>Dano:</strong> o dano de um ataque em área é determinado <strong>apenas</strong> pelo tipo de objeto atirado, sem modificadores de dano de força.</p>\n\n<p><strong>Resultado 20:</strong> independentemente do valor que a área alvo tenha de Classe de Armadura ou dos modificadores e ajustes de ataque, um resultado 20 na rolagem do dado será sempre considerado um <em>Acerto Crítico</em>.</p>\n\n<p><strong>Resultado 01:</strong> independentemente do valor que a área alvo tenha de Classe de Armadura ou dos modificadores e ajustes de ataque, um resultado 1 na rolagem do dado será sempre considerado um <em>Erro Crítico</em>.</p>\n\n<p><strong>CA da Área</strong> é calculada de acordo com a distância da área desejada a ser atingida, sendo uma CA base de 10 + 1 para cada 3 metros de distância do personagem.</p>\n\n<p>Assim, para acertar uma área a 12 metros de distância, deve-se ser bem-sucedido em um ataque contra um CA 14.</p>\n\n<p><strong>Desvio:</strong> em caso de falha no teste de ataque em Área, a distância do erro é dada pela diferença entre o CA do alvo e o resultado do disparo.</p>\n\n<p>Se o CA da área alvo era 14 e o dado de ataque lançado resulta em um 12, o disparo erra a área por 2 metros. Para determinar a direção do erro, lance 1d8 e compare com o diagrama de desvio.</p>\n\n<div class=\"overflow-x-auto\">\n  <table>\n    <caption>Diagrama de Desvio</caption>\n    <tbody>\n      <tr class=\"text-center\">\n        <td>8</td>\n        <td>1</td>\n        <td>2</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td>7</td>\n        <td class=\"font-bold\">ALVO</td>\n        <td>3</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td>6</td>\n        <td>5</td>\n        <td>4</td>\n      </tr>\n    </tbody>\n  </table>\n</div>\n\n<p><strong>Redes:</strong> uma rede pode ser usada em um Ataque em Área para enredar combatentes na área alvo.</p>\n\n<h3 id=\"ativacao\">Ativação</h3>\n\n<p>São ações realizadas para conjurar uma magia, ativar uma habilidade de classe, raça ou usar um item mágico que não seja uma poção.</p>\n\n<p><strong>Efeitos</strong> das ativações ocorrem no momento da ação do personagem a não ser que sua descrição diga o contrário, como ocorre com <em>Afastar Mortos-Vivos</em> de um Clérigo que ativa ao final da rodada.</p>\n\n<p><strong>Conflitos:</strong> caso seja necessário identificar a ordem de efeitos das ativações, como, por exemplo, magias lançadas ao mesmo tempo, as magias de menor círculo sempre ocorrem antes de uma magia de maior círculo.</p>\n\n<p><strong>Conjurar Magia</strong> é uma ação usada por conjuradores para realizar efeitos mágicos.</p>\n\n<p>Para ser conjurada, o conjurador deve estar em solo estável, ser capaz de falar (não pode estar amordaçado ou mudo) e de mover as mãos livremente (pode estar segurando objetos como adagas, bordões ou tochas, mas não pode estar preso, algemado, montado numa montaria não treinada para a batalha ou amarrado).</p>\n\n<p><strong>Dano em conjuradores:</strong> se um conjurador receber dano ou falhar em qualquer Jogada de Proteção nesta rodada e antes de completar a conjuração, a magia é perdida como se tivesse sido conjurada e sem surtir nenhum efeito.</p>\n\n<p><strong><a href=\"/livros/srd/capitulos/classe#habilidades-de-classe-1\">Afastar Mortos-Vivos</a></strong> pode ser realizada pelo Clérigo como se fosse uma magia e, portanto, o Clérigo deve ser capaz de falar e ostentar seu símbolo sagrado para que este seja visto pelos mortos-vivos.</p>\n\n<p>Os efeitos de uma magia <em>Afastar Mortos-Vivos</em> são executados apenas no fim da rodada.</p>\n\n<p><strong><a href=\"/livros/srd/capitulos/mestrando#itens-magicos\">Itens Mágicos</a></strong> os quais precisem de ativação como anéis, cajados, varinhas, cetros, pergaminhos ou outros itens gerais, devem ser usados com uma ação de ativação.</p>\n\n<p>Espadas, escudos, armaduras, poções ou outros itens já ativados e que funcionem passivamente, não precisam de uma ação de ativação.</p>\n\n<p><strong>Habilidades Especiais</strong> como as habilidades especiais de classe, raça ou de monstros as quais se assemelham a uma magia; como a habilidade de <em>Ler</em> ou <em>Detectar Magia</em> de um Mago, <em>Alterar Forma</em> de um Vampiro, ou <em>Convocar Animais</em> dos Licantropos; devem ser usadas com uma ação de ativação.</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!XnXWjFRIVJ7PhIm4.XzSTyRKgZHzcxfhz"
+    },
+    {
+      "sort": 6,
+      "name": "Fim da Rodada",
+      "type": "text",
+      "_id": "3wg8mFXJTbCloc7q",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<p>Quando todos tiverem realizado suas ações, a rodada de 10 segundos é encerrada.</p>\n\n<p>Neste momento, o Mestre realiza todas as verificações e condições dos combatentes: quais estão feridos, quais ainda estarão sob os efeitos de magia nas rodadas futuras, quais morreram, quais realizam testes de moral, etc.</p>\n\n<h3 id=\"mortos\">Mortos</h3>\n\n<p>O Mestre confere suas anotações para determinar quais inimigos ou monstros foram <a href=\"/livros/srd/capitulos/combate#morte\">mortos</a> ou estão fora de combate.</p>\n\n<p><strong>Teste de Moral:</strong> se metade ou mais do grupo inimigo está fora de combate (morto, nocauteado, preso ou fugido), esta rodada ativa um gatilho de Teste de Moral.</p>\n\n<p><strong>Personagens dos jogadores</strong> que <a href=\"/livros/srd/capitulos/combate#agonizando\">agonizaram</a> na rodada anterior e que não receberam ajuda de seus companheiros, estão mortos.</p>\n\n<h3 id=\"testes-de-moral\">Testes de Moral</h3>\n\n<p>Ao fim de cada rodada, verifique se um dos dois gatilhos para ativar um Teste de Moral ocorreu.</p>\n\n<blockquote class=\"roll\">\n  <p><strong>TESTE DE MORAL</strong></p>\n\n  <p><span class=\"blackbox\">2D6</span></p>\n\n  <p>Sucesso (o alvo <strong>resiste</strong> ao ímpeto de fugir) quando rolar ≤ moral do alvo</p>\n\n  <p>Falha (o alvo se desespera e foge) quando rolar &gt; moral do alvo</p>\n</blockquote>\n\n<p>O Moral é uma espécie de força de vontade de autopreservação de um monstro ou personagem do Mestre, o qual pode fazer com que estes combatentes se rendam ou simplesmente fujam.</p>\n\n<p>Moral deve ser checado pelo Mestre quando um dos dois gatilhos ocorrer numa rodada que acabou de terminar:</p>\n\n<ol>\n  <li>\n    <p>Metade daquele grupo está morto ou fora de combate.</p>\n  </li>\n  <li>\n    <p>Um Clérigo tenta afastar um morto-vivo.</p>\n  </li>\n</ol>\n\n<p><strong>MO - Moral:</strong> todo monstro ou personagem do Mestre possui um valor de moral indo de 2 (nunca luta a não ser quando obrigado) a 12 (só para de lutar quando morto).</p>\n\n<p><strong>Fuga ou Rendição:</strong> uma criatura a falhar no teste de moral tentará se retirar do combate fugindo. Criaturas inteligentes as quais estejam cercadas e não consigam fugir podem negociar uma rendição.</p>\n\n<p><strong>Derrotadas:</strong> criaturas rendidas ou que fujam por conta de falhas em testes de moral são consideradas como derrotadas.</p>\n\n<p><strong>Inabalável</strong>: mortos-vivos não fazem testes de moral quando metade do seu grupo está morto ou fora de combate, mas realizam se sofrem o efeito de um <em>Afastar Mortos-Vivos</em>.</p>\n\n<p><strong>Outros Gatilhos:</strong> monstros podem possuir gatilhos personalizados para testes de moral, como Ratos Gigantes que podem fugir na presença de fogo.</p>\n\n<h3 id=\"morrendo\">Morrendo</h3>\n\n<p>Personagens que cheguem a zero ou menos <a href=\"/livros/srd/capitulos/personagem#pontos-de-vida-pv\">pontos de vida</a> nesta rodada devem tentar agonizar agora para se manterem vivos até o fim da próxima rodada.</p>\n\n<p><strong>Sucesso:</strong> não morre nesta rodada, mas começa a agonizar. Ele tem mais uma rodada de vida para ser curado pelos seus companheiros antes de morrer em definitivo.</p>\n\n<p><strong>Falha:</strong> o personagem morre imediatamente.</p>\n\n<h3 id=\"efeitos-da-surpresa\">Efeitos da Surpresa</h3>\n\n<p>Com o fim da primeira rodada, qualquer lado deixa de estar <a href=\"/livros/srd/capitulos/combate#surpresa\">surpreso</a> e pode agir normalmente na próxima rodada.</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!XnXWjFRIVJ7PhIm4.3wg8mFXJTbCloc7q"
+    },
+    {
+      "sort": 7,
+      "name": "Ajuste de Ataques",
+      "type": "text",
+      "_id": "4dk6bhYQCmItSPM2",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<p>Algumas situações do combate podem tornar os ataques mais <strong>fáceis</strong> ou mais <strong>difíceis</strong>, recebendo um ajuste.</p>\n\n<p><strong>Ajustes</strong> alteram a dificuldade do ataque, somando ou subtraindo modificadores no ataque de acordo com a <strong>situação</strong>.</p>\n\n<ul>\n  <li><strong>Fácil (F):</strong> deve ser realizado com um modificador de +2.</li>\n  <li><strong>Muito Fácil (MF):</strong> deve ser realizado com modificador de +5</li>\n  <li><strong>Difícil (D):</strong> deve ser realizado com um modificador de -2.</li>\n  <li><strong>Muito Difícil (MD):</strong> deve ser realizado com modificador de -5</li>\n</ul>\n\n<h3 id=\"aplicando-ajustes\">Aplicando Ajustes</h3>\n\n<p>Os modificadores de +2, +5, -2 e -5 devem ser adicionados ao seu teste de ataque. Um ataque à distância fácil deve ser realizado com 1d20+BAD+2. Já um ataque corpo a corpo muito difícil deve ser realizado com 1d20+BAC-5.</p>\n\n<blockquote class=\"example\">\n  <p><strong>Exemplo:</strong> <em>um Guerreiro se envolve em um combate com goblins os quais invadiram a vila durante a madrugada. Sacando sua espada, ele ataca e investe contra o grupo de goblins, facilitando o teste e tornando-o um ataque fácil. Ele realiza o ataque contra os goblins jogando 1d20 + BAC + ajuste de 2.</em></p>\n</blockquote>\n\n<h3 id=\"anulando-ajustes\">Anulando Ajustes</h3>\n\n<p>É possível os ajustes se acumularem e até se anularem entre si. Se um teste possui duas situações as quais o deixam mais fácil, juntas elas tornam o teste <strong>Muito fácil (MF)</strong>. Da mesma forma, se o teste tem uma situação o dificultando e duas o facilitando ele será um teste <strong>Fácil (F)</strong>, pois elas se anulam, e daí por diante.</p>\n\n<blockquote class=\"example\">\n  <p><strong>Exemplo:</strong> <em>ainda durante o combate, o Guerreiro é surpreendido por uma rede jogada por um dos goblins. A rede tolhe seus movimentos deixando seus ataques difíceis. No entanto, o goblin que lançou a rede ficou desarmado. Ataques contra alvos desarmados são ataques fáceis.</em></p>\n\n  <p><em>Ele realiza o ataque contra o goblin, mesmo estando enredado, jogando apenas 1d20 + BAC, pois os ajustes se anularam.</em></p>\n</blockquote>\n\n<h3 id=\"acumulando-ajustes\">Acumulando Ajustes</h3>\n\n<p>Se por alguma razão um ataque acumular situações as quais ultrapassem os modificadores de +5 ou -5, o ataque só falhará ou acertará no caso de um dos dados rolarem um resultado 1 ou 20, pois estes são sempre considerados um erro ou um acerto, respectivamente.</p>\n\n<blockquote class=\"example\">\n  <p><strong>Exemplo:</strong> <em>o Guerreiro abandona a espada e saca seu arco para atingir um goblin o qual está sobre o telhado de uma casa.</em></p>\n\n  <p><em>Como o Guerreiro está no nível do solo e o goblin em um nível mais alto, o ataque acontecerá de baixo para cima. Atacar um alvo numa altura superior torna o ataque difícil.</em></p>\n\n  <p><em>O goblin também está semicoberto pois esconde parte do seu corpo atrás da chaminé de tijolos. Atacar um alvo semicoberto, torna o ataque difícil.</em></p>\n\n  <p><em>Como nada parece fácil para o Guerreiro, o Ladrão, seu aliado, surge na última hora e se engaja em combate corpo a corpo com o goblin sobre o telhado. Atacar à distância um alvo engajado com um aliado, torna o ataque difícil.</em></p>\n\n  <p><em>Como o Guerreiro tem três ajustes de dificuldade, seu ataque é tão improvável que ele só acertará o goblin se o dado rolar um 1. O Guerreiro larga o arco e volta a concentrar seus esforços em atacar os goblins mais próximos.</em></p>\n</blockquote>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!XnXWjFRIVJ7PhIm4.4dk6bhYQCmItSPM2"
+    },
+    {
+      "sort": 8,
+      "name": "Situações e Ajustes",
+      "type": "text",
+      "_id": "37e8jg4zkAsyNL6O",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<p>A seguir, listamos algumas situações de combate que podem auxiliar os Mestres a arbitrar situações idênticas ou semelhantes nas suas aventuras. As situações que facilitam o ataque estão marcadas com um ícone de <strong>+</strong> e as que dificultam o ataque com um ícone de <strong>-</strong>.</p>\n\n<p>Obviamente, este guia é apenas para parâmetro e deve ser usado como uma ferramenta para basear suas próprias escolhas e decisões.</p>\n\n<h3 id=\"atacar-alvo-pelas-costas\">+ Atacar alvo pelas Costas</h3>\n\n<p>O atacante tenta atingir pelas costas, atacando diretamente por trás do alvo.</p>\n\n<p>Alvos de um ataque pelas costas jamais recebem dano extra, como um ataque furtivo realizado pelo Ladrão.</p>\n\n<p>O <strong>primeiro</strong> ataque realizado pelas costas do alvo é considerado um ataque fácil.</p>\n\n<h3 id=\"atacar-alvo-com-toque\">+ Atacar alvo com Toque</h3>\n\n<p>O atacante tenta atingir apenas tocando e não necessariamente vencendo a armadura do alvo para causar dano.</p>\n\n<p>Muito comum em magias e outras habilidades especiais.</p>\n\n<p>Um ataque de toque realizado contra um alvo é considerado um ataque fácil.</p>\n\n<h3 id=\"atacar-alvo-desarmado\">+ Atacar alvo Desarmado</h3>\n\n<p>O atacante armado tenta atingir um alvo o qual esteja desarmado.</p>\n\n<p><strong>Monstros</strong> possuidores de ataques naturais como garras e mordidas são considerados armados</p>\n\n<p>Um ataque armado contra um alvo desarmado é considerado um ataque fácil.</p>\n\n<h3 id=\"atacar-alvo-cego\">+ Atacar alvo Cego</h3>\n\n<p>O atacante tenta atacar um alvo cego, ofuscado ou que não consiga ver um atacante invisível.</p>\n\n<p>Um ataque contra um alvo cego, ofuscado ou desferido por um atacante invisível é considerado um ataque muito fácil.</p>\n\n<h3 id=\"atacar-alvo-caido\">+ Atacar alvo Caído</h3>\n\n<p>O atacante tenta atingir um alvo o qual esteja caído no chão, ou em um degrau mais baixo que o atacante.</p>\n\n<p>Outras situações como atacar de cima de uma construção, sobre um muro, na parte mais alta de uma escada ou sobre uma montaria treinada para o combate também são consideradas para este ajuste.</p>\n\n<p>Montarias <strong>destreinadas</strong> não usam este ajuste. De fato, atacar de uma montaria destreinada torna o ataque mais difícil.</p>\n\n<p>Um ataque contra um alvo em um local mais baixo que o atacante é considerado um ataque fácil.</p>\n\n<h3 id=\"atacar-alvo-enredado\">+ Atacar alvo Enredado</h3>\n\n<p>O atacante tenta atingir um alvo preso em uma rede, teia ou cipó.</p>\n\n<p>Também é possível usar este ajuste quando o alvo tenha seus movimentos tolhidos como quando está com as mãos amarradas ou agarrado por outros combatentes.</p>\n\n<p>Um ataque contra um alvo enredado é considerado um ataque fácil.</p>\n\n<h4 id=\"atacar-alvo-fugindo\">+ Atacar alvo Fugindo</h4>\n\n<p>O atacante tenta atingir um alvo o qual esteja fugindo, com a guarda baixa e sem evitar os ataques que recebe.</p>\n\n<p>Também é possível usar este ajuste contra alvos fugindo e/ou aterrorizados.</p>\n\n<p>Um ataque contra um alvo fugindo é considerado um ataque fácil.</p>\n\n<h3 id=\"investindo-contra-alvo\">+ Investindo contra alvo</h3>\n\n<p>O atacante aproveita para correr até o alvo e usar sua velocidade e impulsão para facilitar o ataque.</p>\n\n<p>Este ajuste ocorre quando dois combatentes realizam um engajamento e apenas no primeiro ataque.</p>\n\n<p>Alvos que preparem uma arma para uma contrainvestida causam o <strong>dobro</strong> do dano nos atacantes em investida.</p>\n\n<p>O primeiro ataque realizado em investida contra um alvo é considerado um ataque fácil.</p>\n\n<h3 id=\"atacar-alvo-semicoberto\">- Atacar alvo Semicoberto</h3>\n\n<p>O atacante tenta atingir um alvo o qual tenha parte do seu corpo protegido por uma cobertura ou outro combatente.</p>\n\n<p>Qualquer superfície rígida o suficiente para atrapalhar o ataque confere uma semicobertura. Também são considerados semicobertos alvos que tenham entre si e o atacante outros combatentes no campo de batalha.</p>\n\n<p>Este ajuste também pode ser usado em ataques com <strong>Armas de Haste</strong> quando são usadas por cima dos ombros de um combatente para atingir um alvo a até 3 metros</p>\n\n<p>Um ataque contra um alvo semicoberto é considerado um ataque difícil.</p>\n\n<h3 id=\"atacar-alvo-distante\">- Atacar alvo Distante</h3>\n\n<p>O atacante tenta atingir um alvo o qual esteja mais distante do que a permitida pela sua arma de disparo ou arremesso.</p>\n\n<p>Um ataque contra um alvo distante é considerado um ataque difícil.</p>\n\n<h3 id=\"atacar-alvo-engajado\">- Atacar alvo Engajado</h3>\n\n<p>O atacante tenta atingir, com sua arma de disparo ou arremesso, um alvo o qual esteja engajado em combate com um aliado.</p>\n\n<p>Um <em>Erro crítico</em> nesse ataque atingirá o aliado engajado com o alvo. O aliado recebe o ataque e o dano normalmente.</p>\n\n<p>Um ataque contra um alvo <a href=\"/livros/srd/capitulos/combate#engajado\">engajado</a> com um aliado em combate é considerado um ataque difícil.</p>\n\n<h3 id=\"desarmado-atacar-alvo-armado\">- Desarmado, atacar alvo Armado</h3>\n\n<p>O atacante <strong>desarmado</strong> tenta atingir um alvo armado.</p>\n\n<p><strong>Monstros</strong> possuidores de ataques naturais como garras e mordidas são considerados armados.</p>\n\n<p>Um ataque desarmado contra um alvo armado é considerado um ataque difícil.</p>\n\n<h3 id=\"atacar-alvo-estando-caido\">- Atacar alvo estando Caído</h3>\n\n<p>O atacante caído no chão tenta atingir um alvo o qual está de pé, ou em um degrau superior ao do atacante.</p>\n\n<p>Outras situações como atacar de baixo um alvo o qual esteja no telhado de uma construção, ou sobre um muro, ou na parte mais alta de uma escada, ou sobre uma montaria treinada para o combate também são consideradas para este ajuste.</p>\n\n<p>Um ataque contra um alvo o qual esteja mais alto que o atacante é considerado um ataque difícil.</p>\n\n<h3 id=\"atacar-alvo-estando-montado\">- Atacar alvo estando Montado</h3>\n\n<p>O atacante montado em uma montaria <strong>não treinada</strong> para combate tenta atingir um alvo.</p>\n\n<p>Montarias <strong>treinadas</strong> não usam este ajuste. De fato, atacar de uma montaria treinada torna o ataque mais fácil.</p>\n\n<p>Um ataque oriundo de alguém montado em uma montaria não treinada contra um alvo é considerado um ataque difícil.</p>\n\n<h3 id=\"atacar-alvo-estando-enredado\">- Atacar alvo estando Enredado</h3>\n\n<p>O atacante enredado tenta atingir um alvo.</p>\n\n<p>Também é possível usar este ajuste quando o atacante tiver seus movimentos tolhidos como quando está amarrado, ou agarrado por outros combatentes.</p>\n\n<p>Um ataque enredado contra um alvo é considerado um ataque difícil.</p>\n\n<h3 id=\"atacar-alvo-invisivel\">- Atacar alvo Invisível</h3>\n\n<p>O atacante tenta atingir um alvo o qual esteja pouco visível ou invisível.</p>\n\n<p>Também ocorre quando o atacante tenta atingir um alvo sob baixa condição de visibilidade, em um ambiente sob a luz das estrelas, sem possuir <a href=\"/livros/srd/capitulos/campanha#infravisao\">infravisão</a> ou qualquer outra situação na qual ele não consiga identificar a real localização do alvo.</p>\n\n<p>Este ajuste pode ser usado dobrado quando o alvo está completamente invisível, como em uma situação de escuridão total sem infravisão, ou quando o atacante está completamente cego.</p>\n\n<p>Um ataque contra um alvo <strong>pouco visível</strong> é considerado um ataque difícil.</p>\n\n<p>Um ataque contra um alvo <strong>invisível</strong> é considerado um ataque muito difícil.</p>\n\n<div class=\"overflow-x-auto\">\n  <table>\n    <caption>Situações &amp; Ajustes <span>tabela 7.1</span></caption>\n    <thead>\n      <tr>\n        <th>Ajuste</th>\n        <th>Descrição</th>\n        <th>Ataque corpo a corpo</th>\n        <th>Ataque à distância</th>\n        <th>Tipo de ajuste</th>\n      </tr>\n    </thead>\n    <tbody>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Atacar alvo <strong>Pelas Costas</strong></td>\n        <td class=\"text-left\">Atingir pelas costas, atacando diretamente por trás do alvo.</td>\n        <td>&#x2713;</td>\n        <td></td>\n        <td>F +2</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Atacar alvo com <strong>Toque</strong></td>\n        <td class=\"text-left\">Atingir um alvo apenas tocando nele  .</td>\n        <td>&#x2713;</td>\n        <td></td>\n        <td>F +2</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Atacar alvo <strong>Desarmado</strong></td>\n        <td class=\"text-left\">Atingir um alvo que esteja desarmado.</td>\n        <td>&#x2713;</td>\n        <td></td>\n        <td>F +2</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Atacar alvo <strong>Cego</strong></td>\n        <td class=\"text-left\">Atacar um alvo cego, ofuscado ou que não consiga te enxergar.</td>\n        <td>&#x2713;</td>\n        <td></td>\n        <td>MF +5</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Atacar alvo <strong>Caído</strong></td>\n        <td class=\"text-left\">Atingir um alvo que esteja caído no chão, ou em um degrau inferior ao seu.</td>\n        <td>&#x2713;</td>\n        <td>&#x2713;</td>\n        <td>F +2</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Atacar alvo <strong>Enredado</strong></td>\n        <td class=\"text-left\">Atingir um alvo que esteja preso em uma rede, teia ou cipó.</td>\n        <td>&#x2713;</td>\n        <td>&#x2713;</td>\n        <td>F +2</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Atacar alvo <strong>Fugindo</strong></td>\n        <td class=\"text-left\">Atingir um alvo que esteja fugindo com a guarda baixa e sem evitar os ataques recebidos.</td>\n        <td>&#x2713;</td>\n        <td>&#x2713;</td>\n        <td>F +2</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\"><strong>Investindo</strong> contra alvo</td>\n        <td class=\"text-left\">Correr até o alvo e usar sua velocidade e impulsão para facilitar o ataque.</td>\n        <td>&#x2713;</td>\n        <td></td>\n        <td>F +2</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Atacar alvo <strong>Semicoberto</strong></td>\n        <td class=\"text-left\">Atacar um alvo cuja parte do seu corpo esteja protegida por uma cobertura ou por outro combatente.</td>\n        <td></td>\n        <td>&#x2713;</td>\n        <td>D -2</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Atacar alvo <strong>Distante</strong></td>\n        <td class=\"text-left\">Atacar um alvo que esteja mais distante do que a permitida pela sua arma de disparo ou de arremesso.</td>\n        <td></td>\n        <td>&#x2713;</td>\n        <td>D -2</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Atacar alvo <strong>Engajado</strong></td>\n        <td class=\"text-left\">Atacar, com sua arma de disparo ou arremesso, um alvo que esteja engajado em combate com um aliado.</td>\n        <td></td>\n        <td>&#x2713;</td>\n        <td>D -2</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\"><strong>Desarmado</strong>, atacar Armado</td>\n        <td class=\"text-left\">Atacar desarmado um alvo armado.</td>\n        <td></td>\n        <td></td>\n        <td>D -2</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Atacar <strong>Caído</strong></td>\n        <td class=\"text-left\">Caído no chão. Atacar um alvo que esteja de pé, ou em um degrau superior ao do atacante.</td>\n        <td>&#x2713;</td>\n        <td>&#x2713;</td>\n        <td>D -2</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Atacar <strong>Montado</strong></td>\n        <td class=\"text-left\">Atacar montado em uma montaria não treinada para combate. Em caso de montaria treinada, o ataque é fácil.</td>\n        <td>&#x2713;</td>\n        <td>&#x2713;</td>\n        <td>D -2<br />F +2</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Atacar <strong>Enredado</strong></td>\n        <td class=\"text-left\">Atacar enredado um alvo não enredado.</td>\n        <td>&#x2713;</td>\n        <td>&#x2713;</td>\n        <td>D -2</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Atacar alvo <strong>Invisível</strong></td>\n        <td class=\"text-left\">Atacar um alvo que esteja pouco visível ou invisível.</td>\n        <td>&#x2713;</td>\n        <td>&#x2713;</td>\n        <td>D -2<br />MD -5</td>\n      </tr>\n    </tbody>\n  </table>\n</div>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!XnXWjFRIVJ7PhIm4.37e8jg4zkAsyNL6O"
+    },
+    {
+      "sort": 9,
+      "name": "Situações Especiais de Combate",
+      "type": "text",
+      "_id": "sYx9PH2LbJqTpY62",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<p>Durante o combate, algumas situações específicas podem resultar em modificadores para os ataques, danos e ações. Nesta seção, procuraremos apresentá-las com suas devidas regras ou oferecer sugestões para alterações às regras apresentadas no <a data-accordion-ignore=\"true\" data-turbo-frame=\"_top\" href=\"/livros/lb1\">LB1</a>.</p>\n\n<h3 id=\"acoes-especiais-vs-dano\">Ações Especiais vs. Dano</h3>\n\n<p>Uma forma diferente de lidar com ações especiais criadas pelos jogadores no meio do combate é adotar uma mecânica opcional de resultados. Em vez de usar os ajustes de testes de combate como apresentados no <a data-accordion-ignore=\"true\" data-turbo-frame=\"_top\" href=\"/livros/lb1\">LB1</a>, o alvo de uma ação especial sofre os efeitos da manobra ou recebe dano de um ataque normal.</p>\n\n<p>Desta forma, ataques diferentes do comum ou que utilizem manobras diferentes (como, por exemplo, um personagem escorregando para atingir a virilha de um gigante ou um Mago procurando atingir com sua besta as costas de um inimigo engajado em combate) possuem a chance de serem criativos e de não tornarem o combate algo maçante ou complicado de ser gerenciado.</p>\n\n<p><strong>Ataque Especial:</strong> o atacante realiza um ataque normal contra o CA + DV do alvo e, se bem-sucedido, o alvo do ataque especial escolhe entre sofrer os efeitos do ataque especial ou tomar o dano normalmente. O Mestre deve ser consultado sobre os efeitos destes ataques e a possibilidade de realizá-los naquele momento do combate.</p>\n\n<h3 id=\"acoes-especiais-vs-defesa-ativa\">Ações Especiais vs. Defesa Ativa</h3>\n\n<p>Esta é uma segunda possibilidade de usar a criatividade dos jogadores durante um combate, lidando com ações especiais criadas pelos jogadores no meio do combate e adotando uma mecânica de confronto de resultados.</p>\n\n<p><strong>Ataque Especial:</strong> o atacante realiza um ataque normal contra o CA do alvo e, se bem-sucedido, o alvo do ataque especial precisa se defender ativamente dos seus efeitos.</p>\n\n<p><strong>Defesa Ativa:</strong> o alvo do ataque especial realiza um teste de defesa passiva lançando 1d20 + sua CA - 10 (usando apenas bônus de Destreza, armadura e escudo no teste) para evitar os efeitos do ataque especial. Em caso de sucesso, nada acontecerá. Em caso de falha, o ataque especial acontece totalmente.</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!XnXWjFRIVJ7PhIm4.sYx9PH2LbJqTpY62"
+    },
+    {
+      "sort": 10,
+      "name": "Acertos e Erros Críticos",
+      "type": "text",
+      "_id": "wX0tSNdRrX13WDnz",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<p>Quando o resultado do dado (antes de aplicar qualquer ajuste ou modificador) de um ataque for um <strong>20</strong> ou um <strong>1</strong>, estaremos diante de um acerto crítico ou de um erro crítico.</p>\n\n<p>Não importando os valores do BA do atacante e do CA do alvo, um resultado 20 no dado sempre acerta e um resultado 1 sempre erra.</p>\n\n<p>Quando um acerto crítico ocorre, o dano da arma deve ser <strong>dobrado</strong>.</p>\n\n<blockquote class=\"example\">\n  <p><strong>Exemplo:</strong> <em>um dano de 1d6 cujo dado resulte em um 5, causará 10 pontos de dano crítico, já que (5 x 2 = 10).</em></p>\n</blockquote>\n\n<p>Quando um erro crítico ocorre, o Mestre deve criar um resultado extraordinário, prejudicial e indesejado.</p>\n\n<p>O personagem pode cair no chão, sua arma pode ser derrubada ou quebrada, ou um aliado pode ser atingido por engano.</p>\n\n<h3 id=\"modificadores\">Modificadores</h3>\n\n<p>Quando um dano contiver um modificador, ele deve ser somado <strong>após</strong> a multiplicação, pois o acerto crítico multiplica o dano causado pela arma e não o dano causado pelo atacante.</p>\n\n<blockquote class=\"example\">\n  <p><strong>Exemplo:</strong> <em>um dano de 1d6+2 cujo dado resulte em um 5, causará 12 pontos de dano crítico já que (5 x 2 = 10 + 2 = 12).</em></p>\n</blockquote>\n\n<p><strong>Ataques Furtivos</strong> se o ataque furtivo de um Ladrão resultar em um acerto crítico, o multiplicador do acerto crítico deve ser aplicado <strong>após</strong> a multiplicação do ataque furtivo.</p>\n\n<blockquote class=\"example\">\n  <p><strong>Exemplo:</strong> <em>um Ladrão de 6º nível que cause 1d6 x 3 e obtenha um resultado 5 no dado, causaria 15 de dano pelo ataque furtivo (5 x 3 = 15) e multiplicaria esse dano 15 por 2 devido o acerto crítico. Esse ataque do Ladrão causaria então 30 pontos de dano.</em></p>\n</blockquote>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!XnXWjFRIVJ7PhIm4.wX0tSNdRrX13WDnz"
+    },
+    {
+      "sort": 11,
+      "name": "Danos e outros Perigos",
+      "type": "text",
+      "_id": "nvsCvSyIs2ZlvrMv",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<p>Os ataques bem-sucedidos causam aos alvos dano determinado pela arma usada.</p>\n\n<p><strong>Ataques corpo a corpo</strong> aplicam modificador de Força assim como as armas arremessadas como adagas, fundas e lanças.</p>\n\n<p><strong>Armas de disparo</strong> que não são arremessadas, como arcos e bestas, não aplicam o modificador de Força.</p>\n\n<blockquote class=\"highlighted\">\n  <p>ARMAS DE ATAQUE <strong>CORPO A CORPO</strong> = MODIFICADOR DE <strong>FORÇA</strong> NO DANO</p>\n</blockquote>\n\n<blockquote class=\"highlighted\">\n  <p>ARMAS DE ATAQUE À DISTÂNCIA DE <strong>ARREMESSO</strong> = MODIFICADOR DE <strong>FORÇA</strong> NO DANO</p>\n</blockquote>\n\n<blockquote class=\"highlighted\">\n  <p>ARMAS DE ATAQUE À DISTÂNCIA DE <strong>DISPARO</strong> = <strong>SEM MODIFICADOR</strong> NO DANO</p>\n</blockquote>\n\n<p><strong>Dano Mínimo:</strong> independentemente dos modificadores aplicados, um ataque bem-sucedido sempre causará ao menos 1 ponto de dano, o qual deve ser subtraído dos pontos de vida atuais do personagem que sofreu o ataque.</p>\n\n<h3 id=\"nocaute\">Nocaute</h3>\n\n<p>Ataques desarmados, ou realizados com o intuito de não causar dano aos alvos, podem levar a um nocaute.</p>\n\n<p>Um nocaute é uma boa opção quando o objetivo é tentar desacordar ou tirar um alvo (do mesmo tamanho ou menor) de combate sem matá-lo.</p>\n\n<p><strong>Dano:</strong> um ataque visando o nocaute não causa dano, e sim <strong>chance de nocaute</strong>. Cada golpe certeiro no alvo possui uma chance de 1 em 1d6 de deixar o alvo desacordado.</p>\n\n<p><strong>Modificador de Força:</strong> atacantes com modificador de força positivo trocam a chance de nocaute básica pelo seu próprio modificador. Assim, um personagem como modificador de força +2, possui uma chance de 1-2 em 1d6 de nocautear um alvo.</p>\n\n<blockquote class=\"example\">\n  <p><strong>Exemplo:</strong> <em>um Ladrão está desarmado e encurralado em um beco por um bandido musculoso de uma guilda rival.</em></p>\n\n  <p><em>O bandido opta por guardar sua faca e golpeá-lo com as mãos nuas para tentar nocauteá-lo.</em></p>\n\n  <p><em>Quando acerta o primeiro golpe, em vez de causar dano com o soco, o bandido usa seu modificador de força +3 como chance de nocauteá-lo, mas ao jogar os dados obtém um 5.</em></p>\n\n  <p><em>O Ladrão usa sua ação para também desferir um soco no queixo do musculoso bandido e o acerta.</em></p>\n\n  <p><em>Infelizmente, o modificador de força do Ladrão é apenas +1, fazendo com que suas chances de nocautear o bandido sejam as mesmas da chance básica de 1 em 1d6.</em></p>\n\n  <p><em>Felizmente, ao jogar o dado de nocaute, o Ladrão obtém 1. O único resultado capaz de salvá-lo da guilda rival.</em></p>\n\n  <p><em>O golpe cruzado na ponta do queixo do bandido foi tão bem dado que este não teve nem chance de entender o que estava acontecendo antes de desabar desacordado no chão.</em></p>\n</blockquote>\n\n<h3 id=\"defensores-indefesos\">Defensores Indefesos</h3>\n\n<p>Personagens paralisados, amarrados, desacordados, atordoados, congelados ou rendidos, que não possam se defender de nenhuma forma, são atingidos automaticamente.</p>\n\n<p><strong>Dano:</strong> o dano é tratado com o resultado máximo do dado, ou seja, um dano de 1d6+1 causaria a um personagem indefeso 7 pontos de dano.</p>\n\n<blockquote class=\"example\">\n  <p><strong>Exemplo:</strong> <em>o Ladrão pega a faca escondida do bandido musculoso e desfere um golpe preciso entre suas costelas.</em></p>\n\n  <p><em>Como o bandido está desacordado, não há resistência nem a necessidade de uma jogada de ataque para acertá-lo.</em></p>\n\n  <p><em>O dano causado pelo golpe no defensor indefeso é o máximo dado pelo Ladrão com uma faca, ou seja, 5 pontos de dano. 4 pela faca e 1 pelo seu modificador de força.</em></p>\n</blockquote>\n\n<h3 id=\"fogo\">Fogo</h3>\n\n<p>O fogo é uma das formas mais comuns de causar dano e, também, uma das mais mortíferas.  O dano de fogo é correspondente ao tamanho da fonte.</p>\n\n<p><strong>Pequenas</strong> fontes de fogo como uma pequena brasa arremessada ou objetos incandescentes causam <strong>1d4 por rodada</strong> até o contato com a fonte de fogo ser cessado.</p>\n\n<p><strong>Médias</strong> fontes de fogo como um frascos de óleo queimando, fogueiras e fornos causam <strong>1d6 por rodada</strong> até o contato com a fonte de fogo ser cessado, ou uma rodada ser gasta para apagá-la.</p>\n\n<p><strong>Grandes</strong> fontes de fogo, como incêndios, explosões, lava e piche incandescente, causam <strong>2d6 de dano por rodada</strong> até o contato com a fonte de fogo ser cessado, ou duas rodadas serem gastas para apagá-la.</p>\n\n<p><strong>Alastrando Incêndios:</strong> médias e grandes fontes de fogo podem se alastrar.</p>\n\n<p>Se o resultado de algum dos dados de dano for um resultado <strong>4, 5 ou 6</strong>, o incêndio se alastra aumentando em 1d6 (cumulativamente) o dano de fogo a partir da próxima rodada.  O alastramento do incêndio se repete até o incêndio ser apagado.</p>\n\n<p><strong>Apagando  Incêndios:</strong> cada dado de dano do incêndio leva <strong>2 rodadas</strong> para ser apagado. Um incêndio de 4d6 necessita de 8 rodadas para ser apagado por um personagem, ou 4 rodadas de 2 personagens, ou 2 rodadas de 4 personagens, e assim sucessivamente.</p>\n\n<blockquote class=\"example\">\n  <p><strong>Exemplo:</strong> <em>um Ladrão luta contra um ogro dentro de um celeiro quando um lampião é derrubado e começa a incendiar a palha no chão. Envolvidos no combate, o Ladrão e o ogro pouco notam, e na primeira rodada recebem 1d6 de dano pelo fogo médio cujo resultado foi 3.</em></p>\n\n  <p><em>Como nenhum dos dois deixou de atacar para apagar o fogo, na segunda rodada ambos levam novamente o dano do fogo médio.</em></p>\n\n  <p><em>Jogando o dado o resultado foi um 6, alastrando o incêndio e fazendo com que os dois levem 6 pontos de dano pelo fogo.</em></p>\n\n  <p><em>Na terceira rodada, ambos levam 2d6 de dano pelo fogo (e revelam como resultado 3 e 2), causando 5 pontos de dano para cada um, mas isso não faz o incêndio se alastrar.</em></p>\n\n  <p><em>Na quarta rodada, já completamente cercados pelo fogo, decidem abandonar o combate e tentar apagar o incêndio em conjunto, ou ambos morrerão.</em></p>\n\n  <p><em>Como o incêndio está causando 2d6 de dano, eles precisam de 2 rodadas para apagá-lo ou que 2 personagens gastem uma rodada inteira para apagá-lo.</em></p>\n</blockquote>\n\n<h3 id=\"queda\">Queda</h3>\n\n<p>Uma queda sofrida de qualquer altura superior a 3 metros causa <strong>1d6 de dano</strong>.</p>\n\n<p>O dano é ampliado em mais 1d6 a cada 3 metros de queda, ou seja, uma queda de 15 metros causa 5d6 de dano. Há um limite de 20d6 de dano causado por uma queda de 60 metros.</p>\n\n<p>Qualquer queda acima de 60 metros deve ser tratada como <strong>morte instantânea</strong>.</p>\n\n<p><strong>Obstáculos:</strong> cada obstáculo freando a velocidade da queda como um toldo estendido e/ou um piso macio pode reduzir o dano da queda em 1d6 para cada obstáculo.</p>\n\n<p><strong>Ladrões</strong> sofrem 1d6 de dano para cada 5 metros de queda, mas ainda estão limitados ao máximo de 12d6 de dano para quedas de até 60 metros.</p>\n\n<blockquote class=\"example\">\n  <p><strong>Exemplo:</strong> <em>um Ladrão é perseguido por um bandido rival nos telhados da cidade e cai durante um salto de 18 metros de altura. Como um Ladrão recebe 1d6 de dano a cada 5 metros da queda, seu dano será de 3d6.</em></p>\n\n  <p><em>No entanto, como o Ladrão, por sorte, caiu sobre uma carroça de feno, seu dano é reduzido em um dado, ficando apenas 2d6 de dano pela queda.</em></p>\n</blockquote>\n\n<h3 id=\"acido\">Ácido</h3>\n\n<p>Ácido causa dano por contato e fere até ser neutralizado.</p>\n\n<p>O dano causado pelo ácido é do tipo <strong>regressivo</strong>, ou seja, a cada rodada ele passa a agir com menor intensidade.  Um frasco de 500ml de ácido causa <strong>1d4 de dano</strong> regressivo.</p>\n\n<p>Se o resultado do 1d4 de dano for, por exemplo, 3, o ácido causará na segunda rodada 2 de dano e, na terceira rodada, 1 de dano, não causando mais nada na quarta rodada, quando o ácido parará de agir.</p>\n\n<blockquote class=\"example\">\n  <p><strong>Exemplo:</strong> <em>um Ladrão arremessa um frasco de ácido em um bandido rival causando 3 pontos de dano regressivo. Na rodada seguinte, o mesmo bandido sofrerá 2 pontos de dano. Na terceira rodada, o dano causado será 1 e, a partir da quarta rodada, o ácido já terá parado de agir, não causando mais nenhum dano.</em></p>\n</blockquote>\n\n<p><strong>Água Benta</strong> causa dano ácido de 1d6 em mortos-vivos e demônios assim como <strong>Água Profana</strong> causa dano ácido em criaturas celestiais.</p>\n\n<h3 id=\"veneno\">Veneno</h3>\n\n<p>Muitas criaturas e inimigos cruéis e traiçoeiros usam veneno para eliminar inimigos ou garantir vantagens durante um combate.  Os venenos possuem efeitos variados e podem constantemente ser fatais.</p>\n\n<p>Ao ter contato com alguma forma de veneno (ingestão, contato, inoculação ou inalação), o personagem deve realizar uma JPC para confirmar ou evitar seus efeitos.</p>\n\n<p><strong>Venenos Mortais</strong> matam caso uma JPC falhar.</p>\n\n<p><strong>Dano do golpe:</strong> Venenos inoculados por meio de ataques (como uma pinça peçonhenta de um escorpião), podem ser anulados por uma JPC bem-sucedida, mas não o dano próprio do ferrão.</p>\n\n<blockquote class=\"example\">\n  <p><strong>Exemplo:</strong> <em>um Ladrão recebe uma picada do ferrão de um escorpião gigante, causando 1d4 de dano + veneno. O perigoso veneno do escorpião gigante mata em até 1d3+1 rodadas em caso de falha na JPC. Felizmente, o Ladrão passa na JPC e evita o efeito mortal do veneno, mas o dano do ferrão, de 1d4, o Ladrão não consegue se livrar.</em></p>\n</blockquote>\n\n<h3 id=\"morte-inevitavel\">Morte Inevitável</h3>\n\n<p>Em algumas circunstâncias, a sobrevivência é impossível.  Cair em um precipício com centenas de metros de altura, ser atingido por uma pedra de toneladas sobre sua cabeça ou ficar submerso em uma piscina de ácido. Situações assim provocam uma morte inevitável.</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!XnXWjFRIVJ7PhIm4.nvsCvSyIs2ZlvrMv"
+    },
+    {
+      "sort": 12,
+      "name": "Morte",
+      "type": "text",
+      "_id": "okJEjAgd7AFwl1F8",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<p>Uma vida de aventuras sob os túneis esconde perigos os quais, na maioria das vezes, são fatais.</p>\n\n<p>Se há uma certeza na vida de um aventureiro é que cedo ou tarde ele sofrerá tantos ferimentos que precisará se curar ou poderá dizer adeus a sua vida.</p>\n\n<h3 id=\"ferido\">Ferido</h3>\n\n<p>Um personagem com menos pontos de vida que o seu total e com pelo menos 1 <a href=\"/livros/srd/capitulos/personagem#pontos-de-vida-pv\">ponto de vida</a> está ferido.</p>\n\n<p><strong>Consciente:</strong> nestas condições ele está consciente e, mesmo ofegante, cansado ou ferido, ainda possui controle sobre seus atos e pode agir normalmente.</p>\n\n<p><strong>Cura:</strong> um personagem ferido pode ser curado para restabelecer seus pontos de vida até seu total de pontos de vida ser atingido novamente.</p>\n\n<h3 id=\"morrendo\">Morrendo</h3>\n\n<p>Ao chegar a zero <a href=\"/livros/srd/capitulos/personagem#pontos-de-vida-pv\">pontos de vida</a> ou menos, um personagem estará morrendo, caído e desacordado. Morrerá até o final da próxima rodada se não conseguir ser curado de seus ferimentos.</p>\n\n<p><strong>Inconsciente:</strong> um personagem morrendo não poderá realizar nenhuma ação ou atividade, apenas aguardar enquanto luta para permanecer vivo.</p>\n\n<h3 id=\"agonizando\">Agonizando</h3>\n\n<p>Usando o vigor do seu corpo ou a força de vontade para se agarrar a vida, ele tenta desesperadamente manter-se vivo por pelo menos mais alguns segundos, dando aos seus companheiros uma chance de lhe curarem antes de morrer.</p>\n\n<p>No fim desta rodada, um personagem morrendo deve realizar uma <strong>JPC</strong> ou <strong>JPS</strong>, a que for maior, para tentar agonizar por mais alguns segundos ou morrerá imediatamente.</p>\n\n<blockquote class=\"roll\">\n  <p><strong>AGONIZANDO</strong></p>\n\n  <p><span class=\"blackbox\">1D20</span></p>\n\n  <p>Sucesso (você tem <strong>uma rodada</strong> para ser curado antes de morrer) quando rolar ≤ JPC ou JPS</p>\n\n  <p>Falha (<strong>morte</strong>) quando rolar &gt; JPC ou JPS</p>\n</blockquote>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!XnXWjFRIVJ7PhIm4.okJEjAgd7AFwl1F8"
+    },
+    {
+      "sort": 13,
+      "name": "Cura",
+      "type": "text",
+      "_id": "WdGgEP2GWK6gaFjq",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<p>Para evitar a morte e ficar livre dos ferimentos, um personagem pode lançar mão de alguns tipos de cura.</p>\n\n<p><strong>PV Máximos:</strong> nenhuma cura é capaz de elevar os pontos de vida de um personagem acima do seu valor máximo de pontos de vida. Pontos de vida curados acima do limite máximo são sempre perdidos.</p>\n\n<h3 id=\"cura-natural\">Cura Natural</h3>\n\n<p>Um personagem, sem importar o que faça durante o dia, consegue curar ao menos o mínimo dos seus ferimentos.</p>\n\n<p><strong>Cura:</strong> mesmo sem repouso ou descanso, todo personagem recupera 1 ponto de vida por dia.</p>\n\n<h3 id=\"repouso\">Repouso</h3>\n\n<p>Um personagem em repouso não faz nada a não ser ficar deitado descansando e se alimentando, ampliando os efeitos da sua cura natural.</p>\n\n<p><strong>Cura:</strong> cada dia inteiro de repouso completo recupera 1d3+1 pontos de vida.</p>\n\n<p><strong>Interrupção:</strong> se o repouso for interrompido, o personagem recupera apenas 1 ponto de vida neste dia.</p>\n\n<h3 id=\"magia\">Magia</h3>\n\n<p>Um personagem pode ser curado instantaneamente com uso de magias ou poções de cura sem que seja necessário respeitar qualquer repouso ou tempo.</p>\n\n<p><strong>Cura:</strong> determinada pela magia ou poção de cura.</p>\n\n<p><a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.pt_BR\" class=\"cc-by\" target=\"_blank\" rel=\"external\"><img src=\"https://static.olddragon.com.br/digital_items_srd/CC_BY-SA_icon.png\" alt=\"CC-BY\" /></a></p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!XnXWjFRIVJ7PhIm4.WdGgEP2GWK6gaFjq"
+    }
+  ],
+  "flags": {},
+  "_stats": {
+    "systemId": "olddragon2e",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1698721200000,
+    "modifiedTime": 1702782000000,
+    "lastModifiedBy": "enzpVKIAX52oTyPe"
+  },
+  "sort": 7,
+  "ownership": {
+    "default": 0,
+    "enzpVKIAX52oTyPe": 3
+  },
+  "_key": "!journal!XnXWjFRIVJ7PhIm4"
+}

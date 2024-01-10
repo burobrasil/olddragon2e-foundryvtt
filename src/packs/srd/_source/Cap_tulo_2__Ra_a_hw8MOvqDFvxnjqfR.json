@@ -1,0 +1,232 @@
+{
+  "folder": null,
+  "name": "Capítulo 2: Raça",
+  "_id": "hw8MOvqDFvxnjqfR",
+  "pages": [
+    {
+      "sort": 0,
+      "name": "Humano",
+      "type": "text",
+      "_id": "SO5Arwa3xSeV50Uz",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<h3 id=\"habilidades-de-raca\">Habilidades de Raça</h3>\n\n<p>Todas as habilidades de raça são adquiridas no 1º nível durante a criação do personagem.</p>\n\n<p><strong><span class=\"redbox\">1</span> Aprendizado:</strong> humanos aprendem tudo o que se propõem a fazer de forma muito mais rápida que as outras raças. Com isso, um humano recebe um bônus de 10% sobre toda <a href=\"/livros/srd/capitulos/mestrando#evoluindo-personagens\">experiência (XP)</a> recebida.</p>\n\n<blockquote class=\"example\">\n  <p><strong>Exemplo:</strong> <em>cada personagem recebe 230 XP. Os humanos anotam em sua ficha, 253 XP, 23 XP a mais do que outras raças pelo seu bônus de aprendizado de 10%.</em></p>\n</blockquote>\n\n<p><strong><span class=\"redbox\">1</span> Adaptabilidade:</strong> os humanos são muito adaptáveis e diversos entre si, fazendo com que possam escolher onde alocar um bônus nas suas Jogadas de Proteção. Humanos recebem um bônus de +1 em uma única JP à sua escolha.</p>\n\n<ul>\n  <li>\n    <p><strong>Movimento</strong> base dos humanos é 9 metros.</p>\n  </li>\n  <li>\n    <p><strong>Infravisão</strong> não possui.</p>\n  </li>\n  <li>\n    <p><strong>Alinhamento</strong> qualquer um.</p>\n  </li>\n</ul>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!hw8MOvqDFvxnjqfR.SO5Arwa3xSeV50Uz"
+    },
+    {
+      "sort": 1,
+      "name": "Elfo",
+      "type": "text",
+      "_id": "yAm1sprwRw2cr2V1",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<h3 id=\"habilidades-de-raca\">Habilidades de Raça</h3>\n\n<p>Todas as habilidades de raça são adquiridas no 1º nível durante a criação do personagem.</p>\n\n<p><strong><span class=\"redbox\">1</span> Percepção Natural:</strong> a forma como as casas élficas são construídas, respeitando a forma natural das árvores e abrigos, dá aos elfos uma percepção especial no que diz respeito a portas e passagens não convencionais e até mesmo secretas.</p>\n\n<p>Ao passarem a até 6 metros de uma porta secreta, mesmo que não a estejam procurando, os elfos podem detectá-la com um resultado 1 em 1d6, ou com um resultado de 1-2 em 1d6 caso estejam efetivamente procurando pela porta secreta.</p>\n\n<p><strong><span class=\"redbox\">1</span> Graciosos:</strong> os elfos controlam com precisão seus movimentos no espaço ao redor do seu corpo, recebendo um bônus de +1 em qualquer teste de JPD.</p>\n\n<p><strong><span class=\"redbox\">1</span> Arma Racial:</strong> os elfos possuem familiaridade com o arqueirismo, o qual consideram uma arte marcial, recebendo um bônus de +1 nos danos causados em seus ataques à distância com os arcos.</p>\n\n<p><strong><span class=\"redbox\">1</span> Imunidades:</strong> os elfos são imunes a efeitos ou magias que envolvam sono e também contra a paralisia causada por um Ghoul.</p>\n\n<ul>\n  <li>\n    <p><strong>Movimento</strong> base dos elfos é 9 metros.</p>\n  </li>\n  <li>\n    <p><strong>Infravisão</strong> de 18 metros</p>\n  </li>\n  <li>\n    <p><strong>Alinhamento</strong> tendem à neutralidade.</p>\n  </li>\n</ul>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!hw8MOvqDFvxnjqfR.yAm1sprwRw2cr2V1"
+    },
+    {
+      "sort": 2,
+      "name": "Anão",
+      "type": "text",
+      "_id": "30uFcJuYx98SUwAm",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<h3 id=\"habilidades-de-raca\">Habilidades de Raça</h3>\n\n<p>Todas as habilidades de raça são adquiridas no 1º nível durante a criação do personagem.</p>\n\n<p><strong><span class=\"redbox\">1</span> Mineradores:</strong> por milênios, anões aprendem desde cedo a avaliar passagens e condições de muralhas e portais.</p>\n\n<p>Por isso são capazes de detectar, mesmo que não estejam analisando ativamente, com um resultado de 1 em 1d6, anomalias em pedras, como armadilhas em cavernas ou fossos escondidos, ou com um resultado de 1-2 em 1d6 caso estejam efetivamente procurando.</p>\n\n<p><strong><span class=\"redbox\">1</span> Vigoroso:</strong> os anões são muito resistentes aos efeitos que afetem seu corpo, recebendo um bônus de +1 em qualquer teste de JPC.</p>\n\n<p><strong><span class=\"redbox\">1</span> Armas grandes:</strong> são restritas para anões que podem usar apenas armas médias e pequenas. Armas grandes forjadas como um <a href=\"/livros/srd/capitulos/equipamento#itens-raciais\">item racial</a> anão são consideradas armas médias para um anão.</p>\n\n<p><strong><span class=\"redbox\">1</span> Inimigos:</strong> anões são inimigos naturais e disputam território com orcs, ogros e hobgoblins e, por isso, os ataques dos anões contra essas criaturas são considerados ataques fáceis.</p>\n\n<ul>\n  <li>\n    <p><strong>Movimento</strong> base dos anões é 6 metros.</p>\n  </li>\n  <li>\n    <p><strong>Infravisão</strong> de 18 metros</p>\n  </li>\n  <li>\n    <p><strong>Alinhamento</strong> tendem à ordem.</p>\n  </li>\n</ul>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!hw8MOvqDFvxnjqfR.30uFcJuYx98SUwAm"
+    },
+    {
+      "sort": 3,
+      "name": "Halfling",
+      "type": "text",
+      "_id": "Mu5DFSwD5T3kIhom",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<h3 id=\"habilidades-de-raca\">Habilidades de Raça</h3>\n\n<p>Todas as habilidades de raça são adquiridas no 1º nível durante a criação do personagem.</p>\n\n<p><strong><span class=\"redbox\">1</span> Furtivos:</strong> são especialistas em se esconder e em passar despercebidos, conseguindo se esconder com uma chance de 1-2 em 1d6. Se o halfling adotar a classe Ladrão, ele acrescenta ainda um bônus de 1 no seu talento Furtividade.</p>\n\n<p><strong><span class=\"redbox\">1</span> Destemidos:</strong> os halflings são muito resistentes a efeitos que afetem sua força de vontade, recebendo um bônus de +1 em qualquer teste de JPS.</p>\n\n<p><strong><span class=\"redbox\">1</span> Bons de Mira:</strong> pela tradição racial de jogos de arremesso, para os halflings qualquer ataque à distância com uma arma de arremesso é considerado um ataque fácil.</p>\n\n<p><strong><span class=\"redbox\">1</span> Pequenos:</strong> devido à baixa estatura e agilidade, todos os ataques provenientes de criaturas grandes ou maiores são considerados ataques difíceis para acertar um halfling.</p>\n\n<p><strong><span class=\"redbox\">1</span> Restrições:</strong> por não terem tradição na forja de armaduras, os halflings usam apenas armaduras de couro, a não ser quando confeccionada especialmente para ele.</p>\n\n<p>Um halfling não pode usar armas grandes, sendo restrito apenas a armas pequenas ou médias. Um halfling só consegue usar uma arma média como se fosse uma arma de duas mãos.</p>\n\n<ul>\n  <li>\n    <p><strong>Movimento</strong> base dos halflings é 6 metros.</p>\n  </li>\n  <li>\n    <p><strong>Infravisão</strong> não possui.</p>\n  </li>\n  <li>\n    <p><strong>Alinhamento</strong> tendem à neutralidade.</p>\n  </li>\n</ul>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!hw8MOvqDFvxnjqfR.Mu5DFSwD5T3kIhom"
+    },
+    {
+      "sort": 4,
+      "name": "Meio-Elfo",
+      "type": "text",
+      "_id": "SlkrHi2m47WsXXPs",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<h3 id=\"habilidades-de-raca\">Habilidades de Raça</h3>\n\n<p>Todas as habilidades de raça são adquiridas no 1º nível durante a criação do personagem.</p>\n\n<p><strong><span class=\"redbox\">1</span> Aprendizado:</strong> meio-elfos compartilham, mesmo parcialmente, o aprendizado acelerado dos humanos. Com isso, um meio-elfo recebe um bônus de <strong>5% sobre</strong> toda <a href=\"/livros/srd/capitulos/mestrando#evoluindo-personagens\">experiência (XP)</a> que receber.</p>\n\n<blockquote class=\"example\">\n  <p><strong>Exemplo:</strong> <em>cada personagem recebe 230 XP. Os meio-elfos anotam em sua ficha 241 XP. Ou seja, 11 XP a mais do que outras raças pelo seu bônus de aprendizado de 5%.</em></p>\n</blockquote>\n\n<p><strong><span class=\"redbox\">1</span> Graciosos e Vigorosos:</strong> os meio-elfos misturam a graciosidade do movimento dos elfos com a resistência de um corpo mestiço e de origem plural, assim, podem escolher entre receber um bônus de +1 em uma das duas jogadas de proteção, JPC ou JPD.</p>\n\n<p><strong><span class=\"redbox\">1</span> Idioma Extra:</strong> os meio-elfos recebem um idioma extra (escolhido entre o élfico e o idioma falado pela sua contraparte humana).</p>\n\n<p><strong><span class=\"redbox\">1</span> Imunidades:</strong> os meio-elfos são imunes a magias ou efeitos que envolvam sono e a paralisação causada por um Ghoul.</p>\n\n<ul>\n  <li>\n    <p><strong>Movimento</strong> base dos meio-elfos é 9 metros.</p>\n  </li>\n  <li>\n    <p><strong>Infravisão</strong> de 9 metros.</p>\n  </li>\n  <li>\n    <p><strong>Alinhamento</strong> tendem ao caos.</p>\n  </li>\n</ul>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!hw8MOvqDFvxnjqfR.SlkrHi2m47WsXXPs"
+    },
+    {
+      "sort": 5,
+      "name": "Gnomo",
+      "type": "text",
+      "_id": "LvMal7UMLU9yrSM5",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<h3 id=\"habilidades-de-raca\">Habilidades de Raça</h3>\n\n<p>Todas as habilidades de raça são adquiridas no 1º nível durante a criação do personagem.</p>\n\n<p><strong><span class=\"redbox\">1</span> Avaliadores:</strong> precisos, gnomos possuem a habilidade de conhecer o real valor de objetos de arte, gemas, joias ou outros objetos de luxo finamente trabalhados, possuindo 1-4 chances em 1d6 de acertar o valor real do item.</p>\n\n<p>Se o resultado for um 5, a avaliação se dará 25% abaixo do valor real, se for um 6, será 25% acima do valor real. Este teste deve ser realizado, em segredo, pelo Mestre.</p>\n\n<p><strong><span class=\"redbox\">1</span> Sagazes e Vigorosos:</strong> os gnomos são muito espertos e desconfiados, além de vigorosos contra efeitos negativos que afetem sua mente e corpo, assim, podem escolher entre receber um bônus de +1 em uma das duas jogadas de proteção, JPC ou JPS.</p>\n\n<p><strong><span class=\"redbox\">1</span> Restrições:</strong> por serem pequenos, mas mineradores e forjadores, gnomos não possuem restrições em relação a armaduras, mas precisam adquiri-las junto a comunidades de sua raça.</p>\n\n<p>Entretanto, um gnomo não pode usar armas grandes, sendo restrito apenas a armas pequenas ou médias. Um gnomo só consegue usar uma arma média como se fosse uma arma de duas mãos.</p>\n\n<ul>\n  <li>\n    <p><strong>Movimento</strong> base dos gnomos é 6 metros.</p>\n  </li>\n  <li>\n    <p><strong>Infravisão</strong> de 18 metros.</p>\n  </li>\n  <li>\n    <p><strong>Alinhamento</strong> tendem a neutralidade.</p>\n  </li>\n</ul>\n\n<p><a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.pt_BR\" class=\"cc-by\" target=\"_blank\" rel=\"external\"><img src=\"https://static.olddragon.com.br/digital_items_srd/CC_BY-SA_icon.png\" alt=\"CC-BY\" /></a></p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!hw8MOvqDFvxnjqfR.LvMal7UMLU9yrSM5"
+    }
+  ],
+  "flags": {},
+  "_stats": {
+    "systemId": "olddragon2e",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1698721200000,
+    "modifiedTime": 1702782000000,
+    "lastModifiedBy": "enzpVKIAX52oTyPe"
+  },
+  "sort": 2,
+  "ownership": {
+    "default": 0,
+    "enzpVKIAX52oTyPe": 3
+  },
+  "_key": "!journal!hw8MOvqDFvxnjqfR"
+}

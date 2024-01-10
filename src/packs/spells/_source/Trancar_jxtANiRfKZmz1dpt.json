@@ -1,0 +1,37 @@
+{
+  "folder": "mQgfvQ1d7tezF8KV",
+  "name": "Trancar",
+  "type": "spell",
+  "_id": "jxtANiRfKZmz1dpt",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "odo_id": "trancar",
+    "school": "arcane",
+    "circle": "1",
+    "arcane": "1",
+    "divine": "null",
+    "necromancer": "null",
+    "illusionist": "null",
+    "reverse": true,
+    "range": "18 metros",
+    "duration": "permanente",
+    "jp": "nenhuma",
+    "description": "<p>Esta magia pode ser utilizada para dar acesso a qualquer objeto fechado, trancado (mesmo à chave) ou emperrado pela duração da magia (ou até ser dissipada).</p>\n\n<p>[Trancar] é a versão reversa que permite trancar um acesso a qualquer objeto aberto.</p>\n"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "olddragon2e",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1698721200000,
+    "modifiedTime": 1702782000000,
+    "lastModifiedBy": "enzpVKIAX52oTyPe"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "enzpVKIAX52oTyPe": 3
+  },
+  "_key": "!items!jxtANiRfKZmz1dpt"
+}

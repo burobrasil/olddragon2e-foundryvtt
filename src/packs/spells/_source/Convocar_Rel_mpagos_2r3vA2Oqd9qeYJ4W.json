@@ -1,0 +1,37 @@
+{
+  "folder": "XDGnJ8GYBwSWNTSc",
+  "name": "Convocar Relâmpagos",
+  "type": "spell",
+  "_id": "2r3vA2Oqd9qeYJ4W",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "odo_id": "convocar-relampagos",
+    "school": "arcane",
+    "circle": "1",
+    "arcane": "null",
+    "divine": "3",
+    "necromancer": "null",
+    "illusionist": "null",
+    "reverse": false,
+    "range": "150 metros",
+    "duration": "1 turno + 1/nível",
+    "jp": "JPD reduz",
+    "description": "<p>Esta magia convoca relâmpagos a partir de um céu carregado com nuvens negras e prestes a chover (Chuva Leve, Chuva Pesada ou Tempestade), direcionando-os a um ponto específico.</p>\n\n<p>Para convocar um relâmpago, o conjurador deve se concentrar por um turno inteiro e, no início do próximo turno, o relâmpago cairá em qualquer ponto escolhido por ele, desde que dentro do alcance da magia. Todos dentro de um raio de 3 metros em torno do local atingido pelo relâmpago, recebem 2d8 pontos de dano +1d8 pontos de dano adicionais por nível do conjurador (máximo de 8d8). Uma JPD reduz esse dano pela metade.</p>\n\n<p>O conjurador ainda pode convocar 1 relâmpago a cada 2 turnos (1 para convocar e outro para direcionar) enquanto concentrado e sem realizar nenhuma outra ação.</p>\n"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "olddragon2e",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1698721200000,
+    "modifiedTime": 1702782000000,
+    "lastModifiedBy": "enzpVKIAX52oTyPe"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "enzpVKIAX52oTyPe": 3
+  },
+  "_key": "!items!2r3vA2Oqd9qeYJ4W"
+}

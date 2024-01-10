@@ -1,0 +1,47 @@
+{
+  "folder": "PAnTXGXA0MQpkYub",
+  "name": "Pé de Cabra",
+  "type": "misc",
+  "_id": "7dLYD1933cPyrzsZ",
+  "img": "systems/olddragon2e/assets/equipment-concepts/misc.svg",
+  "system": {
+    "odo_id": "pe-de-cabra",
+    "quantity": 1,
+    "cost": "1 PO",
+    "description": "Ferramenta para arrombamento.",
+    "weight_in_load": null,
+    "weight_in_grams": 1000,
+    "magic_item": false,
+    "bonus_ca": null,
+    "type": null,
+    "damage_type": "none",
+    "damage": null,
+    "bonus_damage": null,
+    "bonus_ba": null,
+    "shoot_range": null,
+    "throw_range": null,
+    "arrow": false,
+    "bolt": false,
+    "bolt_small": false,
+    "polearm": false,
+    "two_handed": false,
+    "versatile": false,
+    "increases_load_by": null
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "olddragon2e",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1698721200000,
+    "modifiedTime": 1702782000000,
+    "lastModifiedBy": "enzpVKIAX52oTyPe"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "enzpVKIAX52oTyPe": 3
+  },
+  "_key": "!items!7dLYD1933cPyrzsZ"
+}

@@ -1,0 +1,37 @@
+{
+  "folder": "mbCl7lZt0a0oHfZ7",
+  "name": "Ampliar Plantas",
+  "type": "spell",
+  "_id": "v1tL6R2HfjcrhbfZ",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "odo_id": "ampliar-plantas",
+    "school": "arcane",
+    "circle": "1",
+    "arcane": "4",
+    "divine": "3",
+    "necromancer": "null",
+    "illusionist": "null",
+    "reverse": false,
+    "range": "36 metros",
+    "duration": "permanente",
+    "jp": "nenhuma",
+    "description": "<p>O conjurador provoca um vertiginoso crescimento da vegetação. As plantas afetadas se entrelaçam, ficando fortes e vigorosas, espalhando-se e ocupando todo o espaço disponível.</p>\n\n<p>Criaturas pequenas e médias levam 1 turno para abrir uma picada com armas de corte e se deslocam apenas 1 metro. Criaturas grandes conseguem abrir passagem deslocando-se 2 metros por rodada.</p>\n"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "olddragon2e",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1698721200000,
+    "modifiedTime": 1702782000000,
+    "lastModifiedBy": "enzpVKIAX52oTyPe"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "enzpVKIAX52oTyPe": 3
+  },
+  "_key": "!items!v1tL6R2HfjcrhbfZ"
+}

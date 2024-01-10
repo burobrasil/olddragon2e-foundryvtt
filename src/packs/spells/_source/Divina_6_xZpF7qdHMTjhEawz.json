@@ -1,0 +1,19 @@
+{
+  "folder": "QKPsIRHziAItjk82",
+  "name": "Divina 6",
+  "type": "Item",
+  "_id": "xZpF7qdHMTjhEawz",
+  "sorting": "a",
+  "sort": 0,
+  "color": "#FACA15",
+  "flags": {},
+  "_stats": {
+    "systemId": "olddragon2e",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1698721200000,
+    "modifiedTime": 1702782000000,
+    "lastModifiedBy": "enzpVKIAX52oTyPe"
+  },
+  "_key": "!folders!xZpF7qdHMTjhEawz"
+}

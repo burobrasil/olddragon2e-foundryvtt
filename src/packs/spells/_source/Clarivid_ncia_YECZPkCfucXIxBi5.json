@@ -1,0 +1,37 @@
+{
+  "folder": "hDpu7L7XzYzJ2gUK",
+  "name": "Clarividência",
+  "type": "spell",
+  "_id": "YECZPkCfucXIxBi5",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "odo_id": "clarividencia",
+    "school": "arcane",
+    "circle": "1",
+    "arcane": "3",
+    "divine": "null",
+    "necromancer": "null",
+    "illusionist": "null",
+    "reverse": false,
+    "range": "18 metros",
+    "duration": "12 turnos",
+    "jp": "nenhuma",
+    "description": "<p>Esta magia permite ao conjurador se concentrar em um lugar específico já conhecido por ele para visualizar o local como se estivesse lá fisicamente por meio dos olhos de outra criatura viva.</p>\n\n<p>Concentrando-se por 1 minuto, o conjurador pode detectar e estabelecer uma conexão com o alvo no local escolhido em um raio máximo de 18 metros.  Após a conexão estabelecida, o conjurador consegue enxergar como se fosse o alvo por toda a duração da magia e enquanto estiver concentrado.</p>\n\n<p>O conjurador pode alterar o alvo da magia saltando para outro na mesma área de efeito, caso se concentre por mais um minuto para estabelecer a conexão e desde que ainda esteja dentro da duração inicial da magia.</p>\n\n<p>A magia não pode penetrar mais de 60 centímetros de pedra e é bloqueada até mesmo pela mais fina folha de chumbo.</p>\n"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "olddragon2e",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1698721200000,
+    "modifiedTime": 1702782000000,
+    "lastModifiedBy": "enzpVKIAX52oTyPe"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "enzpVKIAX52oTyPe": 3
+  },
+  "_key": "!items!YECZPkCfucXIxBi5"
+}

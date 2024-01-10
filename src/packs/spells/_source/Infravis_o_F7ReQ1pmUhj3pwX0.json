@@ -1,0 +1,37 @@
+{
+  "folder": "hDpu7L7XzYzJ2gUK",
+  "name": "Infravisão",
+  "type": "spell",
+  "_id": "F7ReQ1pmUhj3pwX0",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "odo_id": "infravisao",
+    "school": "arcane",
+    "circle": "1",
+    "arcane": "3",
+    "divine": "null",
+    "necromancer": "null",
+    "illusionist": "null",
+    "reverse": false,
+    "range": "toque",
+    "duration": "24 horas",
+    "jp": "nenhuma",
+    "description": "<p>O alvo desta magia adquire infravisão de 18 metros, exatamente como um elfo ou anão.</p>\n"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "olddragon2e",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1698721200000,
+    "modifiedTime": 1702782000000,
+    "lastModifiedBy": "enzpVKIAX52oTyPe"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "enzpVKIAX52oTyPe": 3
+  },
+  "_key": "!items!F7ReQ1pmUhj3pwX0"
+}

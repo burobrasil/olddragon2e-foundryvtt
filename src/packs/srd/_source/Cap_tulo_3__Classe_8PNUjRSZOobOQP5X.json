@@ -1,0 +1,757 @@
+{
+  "folder": null,
+  "name": "Capítulo 3: Classe",
+  "_id": "8PNUjRSZOobOQP5X",
+  "pages": [
+    {
+      "sort": 0,
+      "name": "Guerreiro",
+      "type": "text",
+      "_id": "UQ1PgeIUamufRUhS",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<div class=\"overflow-x-auto\">\n  <table>\n    <caption>Guerreiro <span>tabela 3.1</span></caption>\n    <thead>\n      <tr>\n        <th>Nível</th>\n        <th>XP</th>\n        <th>Pontos de Vida</th>\n        <th>Base de Ataque</th>\n        <th>Jogada de Proteção</th>\n        <th>XP Especial</th>\n      </tr>\n    </thead>\n    <tbody>\n      <tr class=\"text-center\">\n        <td>1º</td>\n        <td>0</td>\n        <td>10</td>\n        <td>1</td>\n        <td>5</td>\n        <td>0</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td>2º</td>\n        <td>2.000</td>\n        <td>+1d10</td>\n        <td>2</td>\n        <td>5</td>\n        <td>2.500</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td>3º</td>\n        <td>4.000</td>\n        <td>+1d10</td>\n        <td>3</td>\n        <td>6</td>\n        <td>5.000</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td>4º</td>\n        <td>7.000</td>\n        <td>+1d10</td>\n        <td>4</td>\n        <td>6</td>\n        <td>8.500</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td>5º</td>\n        <td>10.000</td>\n        <td>+1d10</td>\n        <td>5</td>\n        <td>8</td>\n        <td>11.500</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td>6º</td>\n        <td>20.000</td>\n        <td>+1d10</td>\n        <td>6</td>\n        <td>8</td>\n        <td>23.000</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td>7º</td>\n        <td>30.000</td>\n        <td>+1d10</td>\n        <td>7</td>\n        <td>10</td>\n        <td>33.000</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td>8º</td>\n        <td>40.000</td>\n        <td>+1d10</td>\n        <td>8</td>\n        <td>10</td>\n        <td>43.000</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td>9º</td>\n        <td>50.000</td>\n        <td>+1d10</td>\n        <td>9</td>\n        <td>11</td>\n        <td>53.000</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td>10º</td>\n        <td>100.000</td>\n        <td>+1d10</td>\n        <td>10</td>\n        <td>11</td>\n        <td>106.000</td>\n      </tr>\n    </tbody>\n  </table>\n</div>\n\n<h3 id=\"habilidades-de-classe\">Habilidades de Classe</h3>\n\n<p>O número no ícone vermelho antes de cada habilidade identifica o nível no qual o personagem recebe a habilidade.</p>\n\n<ul>\n  <li>\n    <p><strong>Armas:</strong> pode usar todas as armas.</p>\n  </li>\n  <li>\n    <p><strong>Armaduras:</strong> pode usar todas as armaduras.</p>\n  </li>\n  <li>\n    <p><strong>Itens Mágicos:</strong> não pode usar cajados, varinhas e pergaminhos mágicos com exceção dos pergaminhos de proteção.</p>\n  </li>\n</ul>\n\n<p><strong><span class=\"redbox\">1</span> Aparar</strong> um Guerreiro pode, após receber um ataque físico que o atinja e antes da jogada de dano desse ataque, escolher sacrificar seu escudo ou uma arma que esteja portando para absorver todo o dano do ataque recebido.</p>\n\n<p>Armas e Escudos usados em um aparar ficarão inutilizados e danificados. Armas e Escudos mágicos possuem uma chance de 1-2 em 1d6 de se danificarem, reduzindo seus bônus (de ataque/defesa) em 1 de modo que um escudo +3 ao ser usado em um aparar, e se danificado, passa ter como bônus de defesa +2 e assim sucessivamente.</p>\n\n<p>Um item mágico que perder todos os bônus estará permanentemente destruído. Apenas ataques provenientes de inimigos grandes ou menores poderão ser aparados.</p>\n\n<p><strong><span class=\"redbox\">1</span> Maestria em Arma</strong> o Guerreiro se torna mestre em uma arma à sua escolha, recebendo um bônus de +1 no dano daquela arma.</p>\n\n<p> <strong><span class=\"blackbox\">3</span></strong> O Guerreiro evolui sua maestria para uma segunda arma à sua escolha e melhora o bônus no dano de ambas as armas para +2.</p>\n\n<p> <strong><span class=\"blackbox\">10</span></strong> O Guerreiro evolui sua maestria para todas as armas semelhantes àquelas que ele já possui maestria, recebendo bônus em todas as armas pertencentes a estes grupos.</p>\n\n<p>Os grupos de armas disponíveis são: cortantes, perfurante, impactantes, disparos, hastes ou arremesso. Todas as armas desses grupos melhoram seus bônus de dano para +3.</p>\n\n<p><strong><span class=\"redbox\">6</span> Ataque Extra</strong> um Guerreiro no 6º nível adquire um segundo ataque, corpo a corpo ou à distância, com uma mesma arma na qual possua maestria.</p>\n\n<p>Este segundo ataque é realizado após o primeiro ataque, logo em sequência, antes da ação do próximo jogador na ordem da <a href=\"/livros/srd/capitulos/combate#iniciativa\">iniciativa</a> com a mesma BA usada no primeiro ataque.</p>\n\n<h3 id=\"especializacoes\">Especializações</h3>\n\n<p>Durante a construção do personagem, ou a qualquer momento ao longo do primeiro nível, um Guerreiro pode assumir uma especialização.</p>\n\n<p>Um Especialista mantém algumas habilidades da classe base, passa a evoluir sua experiência pela coluna <strong>XP Especial</strong> e pode ter de enfrentar algumas restrições.</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!8PNUjRSZOobOQP5X.UQ1PgeIUamufRUhS"
+    },
+    {
+      "sort": 1,
+      "name": "Bárbaro (Guerreiro)",
+      "type": "text",
+      "_id": "Ahto2qdLkBuxmrs2",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<h3 id=\"restricoes\">Restrições</h3>\n\n<p>Além de seguir a evolução de experiência de um Guerreiro especialista, o Bárbaro não pode usar nenhum <a href=\"/livros/srd/capitulos/mestrando#itens-magicos\">item mágico</a> e nenhuma armadura que não seja de couro, ou perderá acesso a todas as suas habilidades de Bárbaro.</p>\n\n<p>O Bárbaro mantém suas habilidades de Guerreiro <em>Aparar</em> e <em>Maestria em Arma</em>, mas deixa de receber qualquer evolução ao se tornar especialista.</p>\n\n<p><strong><span class=\"redbox\">1</span> Vigor Bárbaro:</strong> a cada nível, o Bárbaro recebe um Bônus de +2 nos seus pontos de vida adicionais à tabela de Guerreiro e um bônus de +2 na sua JPC.</p>\n\n<p><strong><span class=\"redbox\">3</span> Talentos Selvagens:</strong> o Bárbaro adquire alguns talentos ligados à sua vida nos ermos selvagens:</p>\n\n<ul>\n  <li>\n    <p><strong>Escalar:</strong> escalam como Ladrões qualquer superfície natural como árvores, barrancos, encostas rochosas, escorregadias ou não, com 1-3 chances em 1d6. Em caso de falha, Bárbaros caem da metade da altura total da escalada, recebendo 1d6 pontos de dano para cada 3 metros da queda.</p>\n  </li>\n  <li>\n    <p><strong>Camuflagem Natural:</strong> em ambientes naturais, como vegetação rasteira ou árvores com uma chance de 1-2 em 1d6. O mestre deve lançar os dados em segredo para que o Bárbaro não saiba se sua tentativa de camuflagem foi bem-sucedida ou não.</p>\n  </li>\n</ul>\n\n<p><strong><span class=\"redbox\">6</span> Surpresa Selvagem:</strong> o Bárbaro é capaz de <a href=\"/livros/srd/capitulos/combate#surpresa\">surpreender</a> seus inimigos em ambientes naturais com uma chance de 1-4 em 1d6, mesmo quando em tocaia com aliados não Bárbaros.</p>\n\n<p>Além disso, um Bárbaro só é surpreendido em ambientes naturais com uma chance de 1 em 1d6.</p>\n\n<p><strong><span class=\"redbox\">10</span> Força do Totem:</strong> o Bárbaro é capaz de atingir qualquer criatura que necessite de uma arma mágica +1 ou melhor para ser ferida.</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!8PNUjRSZOobOQP5X.Ahto2qdLkBuxmrs2"
+    },
+    {
+      "sort": 2,
+      "name": "Paladino (Guerreiro)",
+      "type": "text",
+      "_id": "xnOh3k3bFGPZOnkt",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<h3 id=\"restricoes\">Restrições</h3>\n\n<p>Além de seguir a evolução de experiência de um Guerreiro especialista, o Paladino deve ter alinhamento com a ordem além de possuir um código de honra restritivo, criado em conjunto com o Mestre, com ao menos 3 votos.</p>\n\n<p>A quebra deste código ou mudança de alinhamento o faz perder acesso às suas habilidades de Paladino.</p>\n\n<p>O Paladino mantém suas habilidades de Guerreiro <em>Aparar</em> e <em>Maestria em Arma</em>, mas deixa de receber qualquer evolução ao se tornar um especialista.</p>\n\n<p><strong><span class=\"redbox\">1</span> Imunidade a Doenças:</strong> o Paladino adquire imunidade a qualquer tipo de doença, seja mundana ou mágica. Danos e outros efeitos não causam nenhum efeito, como se não fosse contagiado.</p>\n\n<p><strong><span class=\"redbox\">3</span> Cura pelas Mãos:</strong> o Paladino adquire a habilidade de <a href=\"/livros/srd/capitulos/combate#cura\">curar</a> pela simples imposição das suas mãos, até uma vez por dia.</p>\n\n<p>O alvo tocado cura 1 ponto de vida por nível do Paladino. Essa habilidade não cura doenças e nem regenera membros amputados, mas pode ser usada para prestar auxílio a um alvo que esteja <a href=\"/livros/srd/capitulos/combate#agonizando\">agonizando</a>.</p>\n\n<p><strong><span class=\"redbox\">6</span> Aura de Proteção:</strong> o Paladino adquire a habilidade de criar uma barreira permanente de proteção ao seu redor, exatamente como o efeito da magia Proteção contra Alinhamento, a qual o protege contra criaturas caóticas.</p>\n\n<p><strong><span class=\"redbox\">10</span> Espada Sagrada:</strong> o Paladino, ao derrotar um inimigo caótico de grande poder, adquire uma espada mágica a qual, após ser consagrada à sua causa, se converte em uma Espada Sagrada com ímpeto e poderes contra o caos.</p>\n\n<p>Uma Espada Sagrada mantém todos os bônus normais de uma espada mágica, mas passa a ser imbuída também com um bônus especial de +5 nos danos e nos ataques contra criaturas caóticas.</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!8PNUjRSZOobOQP5X.xnOh3k3bFGPZOnkt"
+    },
+    {
+      "sort": 3,
+      "name": "Anão Aventureiro (Guerreiro)",
+      "type": "text",
+      "_id": "Rmqwpwak7Zug75NR",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<h3 id=\"restricoes\">Restrições</h3>\n\n<p>Além de seguir a evolução de experiência de um Guerreiro especialista, o Anão Aventureiro está limitado apenas a personagens anões.</p>\n\n<p>O Anão Aventureiro perde as habilidades de Guerreiro <em>Aparar</em> e <em>Maestria em Arma</em> e deixa de receber qualquer evolução nestas habilidades quando se torna um especialista.</p>\n\n<p><strong><span class=\"redbox\">1</span> Arma Racial</strong> o Anão Aventureiro mantém todas as habilidades raciais recebidas por ser um anão e, devido ao intenso treinamento, atinge um grau de especialização em machados ou martelos, recebendo um bônus de +2 no dano da arma escolhida. Esta arma passa a ser tratada como sua arma racial.</p>\n\n<p><strong><span class=\"redbox\">3</span> Duro na Queda</strong> o Anão Aventureiro, deste nível em diante, passa a jogar seus pontos de vida com 1d12 em vez de 1d10 até o 10º nível. Adicionalmente, o Anão Aventureiro pode optar por escolher o valor médio do dado de vida (6) ao invés de jogá-lo do 3º ao 10º nível.</p>\n\n<p><strong><span class=\"redbox\">6</span> Bastião Racial</strong> o Anão Aventureiro intensifica seu treinamento contra os principais inimigos da sua raça – Orcs, Ogros e Hobgoblins – e, por isso, os ataques destas criaturas contra um Anão Aventureiro são considerados ataques difíceis.</p>\n\n<p><strong><span class=\"redbox\">10</span> Ataque Extra</strong> o Anão Aventureiro adquire um segundo ataque com sua arma racial escolhida no 1º nível (machado ou martelo).</p>\n\n<p>Este segundo ataque é realizado após o primeiro ataque, logo em sequência, antes da ação do próximo jogador na ordem da iniciativa, com a mesma BA usada no primeiro ataque.</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!8PNUjRSZOobOQP5X.Rmqwpwak7Zug75NR"
+    },
+    {
+      "sort": 4,
+      "name": "Arqueiro (Guerreiro)",
+      "type": "text",
+      "_id": "HsllBZK16WszIHHY",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<h3 id=\"restricoes\">Restrições</h3>\n\n<p>Além de seguir a evolução de experiência de um Guerreiro especialista, o Arqueiro está limitado a usar apenas armas pequenas, porém pode utilizar qualquer tipo de arco. Além disso, só pode usar armaduras feitas de couro ou, caso contrário, não conseguirá usar suas habilidades de arqueiro.</p>\n\n<p>O Arqueiro mantém as habilidades de Guerreiro <em>Aparar</em> e <em>Maestria em Arma</em>, mas deixa de receber qualquer evolução quando se torna um especialista.</p>\n\n<p><strong><span class=\"redbox\">1</span> Tiros em Curva</strong> o Arqueiro domina a técnica de usar flechas desbalanceadas para realizar tiros em curva e com parábolas perfeitas. Para ele, não são considerados ataques difíceis: tiros contra alvos com cobertura, alvos além da distância permitida pelo arco e alvos engajados em combate corpo a corpo.</p>\n\n<p><strong><span class=\"redbox\">3</span> Puxada Aprimorada</strong> o Arqueiro consegue puxar seu arco acima das capacidades consideradas normais, extraindo o melhor de sua arma. O Arqueiro pode acrescentar seu modificador de Força nos danos do seu ataque com arcos.</p>\n\n<p><strong><span class=\"redbox\">6</span> Truques com Flechas</strong> o Arqueiro é capaz de realizar truques com seus disparos, podendo grampear alvos na madeira macia, desarmá-los ou para realizar outros efeitos como, por exemplo, modificar uma flecha para que ela possa apitar ao se deslocar no ar. O Arqueiro realiza um ataque normal contra a CA + DV do alvo e, se for bem-sucedido, o alvo deve decidir entre sofrer as consequências do ataque com truque ou receber o dano normalmente. O Mestre deve ser consultado sobre os efeitos dos truques e a possibilidade de realizá-los.</p>\n\n<p><strong><span class=\"redbox\">10</span> Tiro Rápido</strong> o Arqueiro recebe neste nível a habilidade de realizar um segundo disparo durante sua ação de combate.</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!8PNUjRSZOobOQP5X.HsllBZK16WszIHHY"
+    },
+    {
+      "sort": 5,
+      "name": "Clérigo",
+      "type": "text",
+      "_id": "DtLb1aau65LnixCJ",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<div class=\"overflow-x-auto\">\n  <table>\n    <caption>Clérigo <span>tabela 3.2</span></caption>\n    <thead>\n      <tr>\n        <th>Nível</th>\n        <th>XP</th>\n        <th>Pontos de Vida</th>\n        <th>Base de Ataque</th>\n        <th>Jogada de Proteção</th>\n        <th>XP Especial</th>\n        <th>1º</th>\n        <th>2º</th>\n        <th>3º</th>\n        <th>4º</th>\n        <th>5º</th>\n        <th>6º</th>\n        <th>7º</th>\n      </tr>\n    </thead>\n    <tbody>\n      <tr class=\"text-center\">\n        <td>1º</td>\n        <td>0</td>\n        <td>8</td>\n        <td>1</td>\n        <td>5</td>\n        <td>0</td>\n        <td>1</td>\n        <td>-</td>\n        <td>-</td>\n        <td>-</td>\n        <td>-</td>\n        <td>-</td>\n        <td>-</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td>2º</td>\n        <td>1.500</td>\n        <td>+1d8</td>\n        <td>1</td>\n        <td>5</td>\n        <td>2.000</td>\n        <td>1</td>\n        <td>-</td>\n        <td>-</td>\n        <td>-</td>\n        <td>-</td>\n        <td>-</td>\n        <td>-</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td>3º</td>\n        <td>3.000</td>\n        <td>+1d8</td>\n        <td>1</td>\n        <td>5</td>\n        <td>4.000</td>\n        <td>2</td>\n        <td>1</td>\n        <td>-</td>\n        <td>-</td>\n        <td>-</td>\n        <td>-</td>\n        <td>-</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td>4º</td>\n        <td>5.500</td>\n        <td>+1d8</td>\n        <td>3</td>\n        <td>7</td>\n        <td>7.000</td>\n        <td>2</td>\n        <td>2</td>\n        <td>-</td>\n        <td>-</td>\n        <td>-</td>\n        <td>-</td>\n        <td>-</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td>5º</td>\n        <td>8.500</td>\n        <td>+1d8</td>\n        <td>3</td>\n        <td>7</td>\n        <td>10.000</td>\n        <td>2</td>\n        <td>2</td>\n        <td>1</td>\n        <td>-</td>\n        <td>-</td>\n        <td>-</td>\n        <td>-</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td>6º</td>\n        <td>17.000</td>\n        <td>+1d8</td>\n        <td>3</td>\n        <td>7</td>\n        <td>20.000</td>\n        <td>3</td>\n        <td>2</td>\n        <td>1</td>\n        <td>-</td>\n        <td>-</td>\n        <td>-</td>\n        <td>-</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td>7º</td>\n        <td>27.000</td>\n        <td>+1d8</td>\n        <td>5</td>\n        <td>9</td>\n        <td>30.000</td>\n        <td>3</td>\n        <td>2</td>\n        <td>2</td>\n        <td>1</td>\n        <td>-</td>\n        <td>-</td>\n        <td>-</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td>8º</td>\n        <td>37.000</td>\n        <td>+1d8</td>\n        <td>5</td>\n        <td>9</td>\n        <td>40.000</td>\n        <td>3</td>\n        <td>3</td>\n        <td>2</td>\n        <td>1</td>\n        <td>-</td>\n        <td>-</td>\n        <td>-</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td>9º</td>\n        <td>47.000</td>\n        <td>+1d8</td>\n        <td>5</td>\n        <td>9</td>\n        <td>50.000</td>\n        <td>3</td>\n        <td>3</td>\n        <td>2</td>\n        <td>2</td>\n        <td>1</td>\n        <td>-</td>\n        <td>-</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td>10º</td>\n        <td>94.000</td>\n        <td>+1d8</td>\n        <td>7</td>\n        <td>11</td>\n        <td>100.000</td>\n        <td>4</td>\n        <td>3</td>\n        <td>3</td>\n        <td>2</td>\n        <td>1</td>\n        <td>-</td>\n        <td>-</td>\n      </tr>\n    </tbody>\n  </table>\n</div>\n\n<h3 id=\"habilidades-de-classe\">Habilidades de Classe</h3>\n\n<p>O número no ícone antes de cada habilidade identifica o nível no qual o personagem recebe a habilidade (vermelho) ou a sua evolução (preto).</p>\n\n<ul>\n  <li>\n    <p><strong>Armas:</strong> só podem usar armas impactantes. Usar armas cortantes ou perfurantes faz o Clérigo perder suas magias até realizar uma penitência para restaurar o abalo na sua fé.</p>\n  </li>\n  <li>\n    <p><strong>Armaduras:</strong> podem usar todas as armaduras.</p>\n  </li>\n  <li>\n    <p><strong>Itens Mágicos:</strong> o Clérigo é capaz de usar todos os tipos de itens mágicos desde que sejam ordeiros.</p>\n  </li>\n</ul>\n\n<p><strong><span class=\"redbox\">1</span> Magias Divinas</strong> um Clérigo é capaz de lançar <a href=\"/livros/srd/capitulos/magia#magias-divinas\">magias divinas</a> diariamente a partir do 1º nível. Para prepará-las, o Clérigo deve rezar para o Panteão e pedir que magias lhe sejam concedidas naquele dia, respeitando os seus limites de nível e de sabedoria.</p>\n\n<p>O <a href=\"/livros/srd/capitulos/magia\">Capítulo 8: Magia</a> traz mais detalhes sobre como preparar, selecionar, lançar e sobre todas as magias disponíveis a um Clérigo.</p>\n\n<p><strong><span class=\"redbox\">1</span> Afastar Mortos-Vivos</strong> uma única vez ao dia, o Clérigo é capaz de invocar o nome e o poder de sua divindade brandindo seu símbolo sagrado, fazendo os mortos-vivos a até 18 metros e que não passem em um teste de <a href=\"/livros/srd/capitulos/combate#testes-de-moral\">moral</a> no final da rodada, se contorcerem e tentarem a todo custo fugir do Clérigo.</p>\n\n<p> <strong><span class=\"blackbox\">3</span></strong> os testes de moral para resistir um Afastar Mortos-vivos do Clérigo, devem somar 1 ao resultado dos dados. Além disso, o Clérigo pode tentar Afastar Mortos-vivos duas vezes ao dia</p>\n\n<p> <strong><span class=\"blackbox\">10</span></strong> os testes de moral para resistir um Afastar Mortos-vivos do Clérigo, devem somar 2 ao resultado dos dados. Além disso, o Clérigo pode tentar Afastar Mortos-vivos três vezes ao dia.</p>\n\n<p><strong>Reduzir a Pó:</strong> se o morto-vivo não passar no <em>Teste de Moral</em> e o resultado dos dados for dois dados iguais ( dois 4 nos dados, ou dois 5, ou ainda dois 6) o morto-vivo não é apenas afastado, mas também reduzido a pó.</p>\n\n<p><strong>Alvos:</strong> todos os mortos-vivos num raio de até 18 metros do Clérigo são afetados pelo Afastar Mortos-vivos. Mortos-vivos bem-sucedidos no teste de moral no final da rodada ficam imunes a um novo Afastar Mortos-vivos proferidos por este Clérigo, até este adquirir um novo nível.</p>\n\n<p><strong><span class=\"redbox\">1</span> Cura Milagrosa</strong> Clérigos podem trocar uma magia previamente memorizada por uma magia de <a href=\"/magias/curar-ferimentos\">Curar Ferimentos</a> de 1º círculo.</p>\n\n<p> <strong><span class=\"blackbox\">6</span></strong> evolui seu poder de <a href=\"/livros/srd/capitulos/combate#cura\">Cura</a>, podendo trocar uma magia memorizada por <a href=\"/magias/curar-ferimentos\">Curar Ferimentos</a> de 3º círculo, que cura até 2d8 pontos de vida.</p>\n\n<p> <strong><span class=\"blackbox\">10</span></strong> evolui seu poder de Cura, podendo trocar uma magia <a href=\"/livros/srd/capitulos/magia#memorizando-magias\">memorizada</a> por <a href=\"/magias/curar-ferimentos\">Curar Ferimentos</a> de 5º círculo, que cura até 3d8 pontos de vida.</p>\n\n<h3 id=\"especializacoes\">Especializações</h3>\n\n<p>Durante a construção do personagem ou a qualquer momento ao longo do 1º nível, um Clérigo pode assumir uma especialização.</p>\n\n<p>Um Especialista mantém algumas habilidades da classe base, passa a evoluir sua experiência pela coluna <strong>XP Especial</strong> e pode ter de enfrentar algumas restrições.</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!8PNUjRSZOobOQP5X.DtLb1aau65LnixCJ"
+    },
+    {
+      "sort": 6,
+      "name": "Druida (Clérigo)",
+      "type": "text",
+      "_id": "InAyoCC1B7uFI0xb",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<h3 id=\"restricoes\">Restrições</h3>\n\n<p>Além de seguir a evolução de experiência de um Clérigo especialista, o Druida deve possuir alinhamento neutro e não pode usar nenhuma arma ou armadura metálica ou perderá acesso a todas as suas habilidades de Druida.</p>\n\n<p>O Druida perde o acesso as habilidades de <em>Cura Milagrosa</em> e <em>Afastar Mortos-Vivos</em> possuída por um Clérigo normal, mas mantém a capacidade de conjurar Magias normalmente tal qual um Clérigo de mesmo nível faria.</p>\n\n<p><strong><span class=\"redbox\">1</span> Herbalismo</strong> o Druida adquire a habilidade de Herbalismo sendo capaz de identificar plantas, animais e reconhecer água pura e segura para o consumo.</p>\n\n<p><strong><span class=\"redbox\">3</span> Previdência</strong> o Druida adquire a habilidade da Previdência nos acampamentos os quais monta. Acampamentos criados nos ermos por um Druida sempre serão do tipo seguro.</p>\n\n<p><strong><span class=\"redbox\">6</span> Transformação</strong> o Druida pode Assumir a Forma de um animal pequeno não-mágico de até 6 DV por até 3 vezes ao dia.</p>\n\n<p>O Druida pode adotar uma habilidade especial deste animal como, por exemplo, o abraço de um Urso, mas mantém todas as suas próprias estatísticas como bônus de ataque, Jogadas de Proteção, classe de armadura e pontos de vida.</p>\n\n<p><strong><span class=\"redbox\">10</span> Transformação Melhorada</strong> o Druida evolui sua capacidade de Assumir a Forma de animais até 3 vezes ao dia, podendo assumir a forma de um animal não-mágico de qualquer tamanho com até 10 DV.</p>\n\n<p>O Druida pode adotar todas as habilidades especiais deste animal como, por exemplo, o abraço de um Urso, mas mantém todas as suas próprias estatísticas como bônus de ataque, Jogadas de Proteção, classe de armadura e pontos de vida.</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!8PNUjRSZOobOQP5X.InAyoCC1B7uFI0xb"
+    },
+    {
+      "sort": 7,
+      "name": "Acadêmico (Clérigo)",
+      "type": "text",
+      "_id": "7UKx6vMzedFOIhEK",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<h3 id=\"restricoes\">Restrições</h3>\n\n<p>Além de seguir a evolução de experiência de um Clérigo especialista, o Acadêmico deve possuir alinhamento neutro e não pode usar nenhuma arma cortante ou perfurante ou perderá acesso a todas as suas habilidades de Acadêmico.</p>\n\n<p>O Acadêmico perde o acesso as habilidades de <em>Cura Milagrosa</em> e <em>Afastar Mortos-Vivos</em> que um Clérigo normal possui, mas mantém a capacidade de conjurar Magias normalmente tal qual um Clérigo de mesmo nível faria.</p>\n\n<p><strong><span class=\"redbox\">1</span> Conhecimento Acadêmico</strong> o Acadêmico é capaz de identificar monstros e animais além de conhecer seus ataques e defesas, habilidades e fraquezas, além dos seus hábitos mais comuns com 1-2 chances em 1d6.</p>\n\n<p><strong><span class=\"redbox\">3</span> Decifrar Linguagens</strong> com seu conhecimento acadêmico, é capaz também de decifrar linguagens, identificando idiomas, alfabetos e pictogramas, decodificar documentos e inscrições conhecendo ao menos a ideia geral do texto. A chance de conseguir usar a habilidade Conhecimento Acadêmico evolui para 1-3 chances em 1d6.</p>\n\n<p><strong><span class=\"redbox\">6</span> Lendas e Tradições</strong> com seu conhecimento acadêmico, é capaz também de identificar lendas, tradições, eventos, personalidades e vultos históricos, além de curiosidades e perigos de lugares, regiões e cidades. O Acadêmico conhece ainda um rumor adicional sobre o lugar em questão por modificador de sabedoria que possuir. A chance de conseguir usar a habilidade Conhecimento Acadêmico evolui para 1-4 chances em 1d6.</p>\n\n<p><strong><span class=\"redbox\">10</span> Identificar itens</strong> ao observar minuciosamente um <a href=\"/livros/srd/capitulos/mestrando#itens-magicos\">item mágico</a> por ao menos 1d4 turnos e com uma chance de 1-2 em 1d6, o Acadêmico identifica seus propósitos gerais (exemplo — esta é uma espada encantada para ser usada contra licantropos; ou ainda — estas botas parecem ter sido costuradas por elfos) mesmo que suas funções exatas não sejam reveladas.</p>\n\n<p>Itens mágicos caóticos se camuflam e não podem ser reconhecidos desta maneira, sempre forçando um reconhecimento errado do seu propósito geral.</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!8PNUjRSZOobOQP5X.7UKx6vMzedFOIhEK"
+    },
+    {
+      "sort": 8,
+      "name": "Xamã (Clérigo)",
+      "type": "text",
+      "_id": "UjxQciTIW4GTmptx",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<h3 id=\"restricoes\">Restrições</h3>\n\n<p>Além de seguir a evolução de experiência de um Clérigo especialista, o Xamã deve possuir alinhamento neutro e não pode usar nenhuma arma ou armadura metálica ou perderá acesso a todas as suas habilidades de Xamã.</p>\n\n<p>O Xamã perde o acesso à habilidade de <em>Cura Milagrosa</em> e <em>Afastar Mortos-Vivos</em> possuída por um Clérigo normal, mas mantém a capacidade de conjurar Magias normalmente tal qual um Clérigo de mesmo nível faria.</p>\n\n<p><strong><span class=\"redbox\">1</span> Animal Sagrado</strong> o Xamã seleciona um animal ou criatura para representar sua divindade junto a sua tribo. Sempre que este símbolo divino estiver presente, o Xamã pode fazer seus seguidores realizarem ataques fáceis durante um combate, enquanto for capaz de proferir canções sagradas e ritmadas, colocando todos em transe.</p>\n\n<p><strong><span class=\"redbox\">3</span> Cura Totêmica</strong> assim como um Clérigo, o Xamã recebe a habilidade de trocar uma das suas magias preparadas previamente por uma magia de <a href=\"/magias/curar-ferimentos\">Curar Ferimentos</a> de 1º círculo a qual cura 1d8 pontos de vida.</p>\n\n<p><strong><span class=\"redbox\">6</span> Fúria</strong> o Xamã pode iniciar uma cantoria sagrada e ritmada para estimular um dos seus seguidores a entrar em fúria. Um alvo aliado, enquanto o Xamã for capaz de manter a cantoria ritualística, sobe o dado de dano da sua arma para o dado imediatamente superior (d4 para d6, d6 para d8 etc.) e realiza todos seus ataques como ataques muito fáceis. Em contrapartida, o furioso passa a ser considerado um alvo fácil para todos os ataques que receber.</p>\n\n<p><strong><span class=\"redbox\">10</span> Fúria da Natureza</strong> o Xamã invoca o poder de sua divindade natural representada em uma força da natureza, recebendo a habilidade de trocar uma das suas magias preparadas de 5º círculo pela magia de 7º círculo <a href=\"/magias/controlar-o-clima\">Controlar o Clima</a>.</p>\n\n<p>Um Xamã é capaz de conjurar esta magia mesmo se ainda não tiver acesso às magias de 7º círculo.</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!8PNUjRSZOobOQP5X.UjxQciTIW4GTmptx"
+    },
+    {
+      "sort": 9,
+      "name": "Proscrito (Clérigo)",
+      "type": "text",
+      "_id": "WysOhYhxtJs2hoHK",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<h3 id=\"restricoes\">Restrições</h3>\n\n<p>Além de seguir a evolução de experiência de um Clérigo especialista, o Proscrito é capaz de ter qualquer alinhamento e de usar qualquer arma ou armadura sem perder o acesso a todas as suas habilidades de Proscrito.</p>\n\n<p>O Proscrito perde o acesso às habilidades de <em>Cura Milagrosa</em>, <em>Afastar Mortos-Vivos</em> e <em>Conjurar Magias</em> de um Clérigo normal e acaba desenvolvendo habilidades similares não-dependentes da bênção da sua divindade e da sua igreja.</p>\n\n<p><strong><span class=\"redbox\">1</span> Cura Natural</strong> apesar de incapaz de conjurar magias de cura, graças a sua experiência acumulada em cuidar de enfermos, um Proscrito desenvolve a habilidade de curar ferimentos como um curandeiro ou médico, aumentando para 2 a cura natural de um alvo ou para 1d4+1 para alvos que permaneçam em repouso. A <em>Cura Natural</em> do Proscrito pode ser usada para evitar a morte de personagens agonizando.</p>\n\n<p><strong><span class=\"redbox\">3</span> Treinamento em Combate</strong> abandonando as orações, estudos e meditações, o Proscrito usa seu tempo livre para melhorar seu treinamento em combate. Além da possibilidade de usar qualquer arma ou armadura, um Proscrito recebe um bônus de +1 na sua BA em relação a BA de um Clérigo padrão.</p>\n\n<p><strong><span class=\"redbox\">6</span> Afetar Mortos-Vivos</strong> mesmo sem o poder da sua fé para afastar ou destruir mortos-vivos, o Proscrito é capaz de, uma vez por dia, afetar negativamente os mortos-vivos, forçando um teste de moral aos mortos-vivos presentes. O Proscrito não faz isso para afastá-los, e sim para transformar todos os seus ataques em ataques difíceis. Mortos-vivos que passarem no teste de moral não serão afetados.</p>\n\n<p><strong><span class=\"redbox\">10</span> Misticismo</strong> sua antiga divindade, por pena ou premiando a persistência, concede ao Proscrito a habilidade de conjurar magias divinas de 1º círculo de acordo com a tabela padrão de Clérigo (3.2) correspondente ao seu nível. Esta conjuração segue todas as regras normais para conjuração de magias divinas.</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!8PNUjRSZOobOQP5X.WysOhYhxtJs2hoHK"
+    },
+    {
+      "sort": 10,
+      "name": "Ladrão",
+      "type": "text",
+      "_id": "6nmt5IqFfMykGST9",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<div class=\"overflow-x-auto\">\n  <table>\n    <caption>Ladrão <span>tabela 3.3</span></caption>\n    <thead>\n      <tr>\n        <th>Nível</th>\n        <th>XP</th>\n        <th>Pontos de Vida</th>\n        <th>Base de Ataque</th>\n        <th>Jogada de Proteção</th>\n        <th>XP Especial</th>\n      </tr>\n    </thead>\n    <tbody>\n      <tr class=\"text-center\">\n        <td>1º</td>\n        <td>0</td>\n        <td>6</td>\n        <td>1</td>\n        <td>5</td>\n        <td>0</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td>2º</td>\n        <td>1.000</td>\n        <td>+1d6</td>\n        <td>1</td>\n        <td>5</td>\n        <td>1.500</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td>3º</td>\n        <td>2.000</td>\n        <td>+1d6</td>\n        <td>2</td>\n        <td>5</td>\n        <td>3.000</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td>4º</td>\n        <td>4.000</td>\n        <td>+1d6</td>\n        <td>2</td>\n        <td>5</td>\n        <td>5.500</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td>5º</td>\n        <td>7.000</td>\n        <td>+1d6</td>\n        <td>3</td>\n        <td>8</td>\n        <td>8.500</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td>6º</td>\n        <td>14.000</td>\n        <td>+1d6</td>\n        <td>3</td>\n        <td>8</td>\n        <td>17.000</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td>7º</td>\n        <td>24.000</td>\n        <td>+1d6</td>\n        <td>4</td>\n        <td>8</td>\n        <td>27.000</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td>8º</td>\n        <td>34.000</td>\n        <td>+1d6</td>\n        <td>4</td>\n        <td>8</td>\n        <td>37.000</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td>9º</td>\n        <td>44.000</td>\n        <td>+1d6</td>\n        <td>5</td>\n        <td>11</td>\n        <td>47.000</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td>10º</td>\n        <td>88.000</td>\n        <td>+1d6</td>\n        <td>5</td>\n        <td>11</td>\n        <td>94.000</td>\n      </tr>\n    </tbody>\n  </table>\n</div>\n\n<h3 id=\"habilidades-de-classe\">Habilidades de Classe</h3>\n\n<p>O número no ícone antes de cada habilidade identifica o nível no qual o personagem recebe a habilidade (vermelho) ou a sua evolução (preto).</p>\n\n<ul>\n  <li>\n    <p><strong>Armas</strong> apenas pequenas ou médias. Armas grandes geram ataques difíceis para Ladrões.</p>\n  </li>\n  <li>\n    <p><strong>Armaduras</strong> apenas as leves. Escudos, Armaduras Média ou Pesadas, impedem o uso das suas habilidades e protegem apenas a metade da CA normal.</p>\n  </li>\n  <li>\n    <p><strong>Itens Mágicos</strong> não podem usar cajados, varinhas e pergaminhos mágicos com exceção dos pergaminhos de proteção.</p>\n  </li>\n</ul>\n\n<p><strong><span class=\"redbox\">1</span> Ataque Furtivo</strong> o Ladrão que ataca após ter se aproximado do inimigo furtivamente, é capaz de realizar um ataque muito fácil, causando dano multiplicado por 2.</p>\n\n<p> <strong><span class=\"blackbox\">6</span></strong> dano do ataque furtivo é multiplicado por 3.</p>\n\n<p> <strong><span class=\"blackbox\">10</span></strong> dano do ataque furtivo é multiplicado por 4.</p>\n\n<p><strong><span class=\"redbox\">1</span> <a href=\"/livros/srd/capitulos/campanha#ouvir-ruidos\">Ouvir Ruídos</a></strong> o Ladrão consegue ouvir ruídos como uma conversa do outro lado de uma porta ou sons de monstros se aproximando. Para isso, ele deve estar em um ambiente silencioso, como em uma masmorra e fora de um combate.</p>\n\n<p>O Ladrão possui uma chance de 1-2 em 1d6 para conseguir ouvir ruídos.</p>\n\n<p> <strong><span class=\"blackbox\">3</span></strong> a chance aumenta para 1-3 em 1d6.</p>\n\n<p> <strong><span class=\"blackbox\">6</span></strong> a chance aumenta para 1-4 em 1d6.</p>\n\n<p> <strong><span class=\"blackbox\">10</span></strong> a chance aumenta para 1-5 em 1d6.</p>\n\n<p><strong><span class=\"redbox\">1</span> Talentos de Ladrão</strong> Ladrões possuem algumas habilidades as quais representam seus principais campos de atuação, começando com 2 pontos em cada um dos cinco talentos e 2 pontos adicionais para distribuir como desejar.</p>\n\n<p> <strong><span class=\"blackbox\">3</span></strong> recebe 2 pontos para evoluir seus talentos.</p>\n\n<p> <strong><span class=\"blackbox\">6</span></strong> recebe 2 pontos para evoluir seus talentos.</p>\n\n<p> <strong><span class=\"blackbox\">10</span></strong> recebe 2 pontos para evoluir seus talentos.</p>\n\n<p><strong>Bônus de Destreza:</strong> Ladrões recebem, no 1º nível, 1 ponto extra para cada modificador de DES possuído. Um Ladrão com DES 16 recebe 2 pontos e distribui 4 pontos nos seus talentos em vez de 2 pontos como um Ladrão comum faria.</p>\n\n<p>Talentos não podem evoluir acima de 5 e jamais 2 pontos no mesmo nível.</p>\n\n<blockquote class=\"example\">\n  <p><strong>Exemplo:</strong> <em>um  Ladrão  com  Furtividade  3  e  Escalar  5  atinge  o  10º  nível  e  recebe  2  pontos  para  distribuir.</em></p>\n\n  <p><em>Ele não pode colocar os 2 pontos no talento Furtividade porque o limite de evolução em cada nível é 1.</em></p>\n\n  <p><em>Ele não pode colocar pontos em Escalar porque esse  talento já atingiu o limite de evolução, forçando-o a  evoluir outros dois talentos com 1 ponto cada.</em></p>\n</blockquote>\n\n<p><strong>Testes</strong>: um teste de talento ladino tem uma chance em 1d6 igual ao valor naquele talento.</p>\n\n<h3 id=\"descricao-dos-talentos\">Descrição dos Talentos</h3>\n\n<h4 id=\"armadilha\">Armadilha</h4>\n\n<p><strong>Armadilha</strong> detecta e desarma silenciosamente <a href=\"/livros/srd/capitulos/campanha#armadilhas\">armadilhas</a> em lugares ou objetos.</p>\n\n<p>É necessário um teste para encontrar uma armadilha e depois outro para removê-la.</p>\n\n<ul>\n  <li><strong>Falha:</strong> só pode ser tentada uma vez por armadilha e, em caso de falha, o Ladrão precisa passar para um novo nível para testar mais uma vez contra a mesma armadilha.</li>\n  <li><strong>Encontrar:</strong> se bem-sucedido em um teste de encontrar armadilhas, o Ladrão saberá onde ela está e entenderá o geral do seu funcionamento, reconhecendo o gatilho de ativação e as contramedidas necessárias para desarmá-la.</li>\n  <li><strong>Desarmar:</strong> o Ladrão que encontrou a armadilha, precisa então realizar um outro teste bem-sucedido para desarmá-la sem ativar seu gatilho.</li>\n  <li><strong>Tempo:</strong> o tempo que um Ladrão leva para desarmar uma armadilha depende da sua habilidade e do uso das suas ferramentas de Ladrão.</li>\n</ul>\n\n<p><strong><span class=\"blackbox\">2</span></strong> um Ladrão com 2 pontos em armadilha leva até <strong>1d6 turnos</strong> para conseguir desarmá-la;</p>\n\n<p><strong><span class=\"blackbox\">3</span></strong> um Ladrão com 3 pontos em armadilha leva até <strong>1d4 turnos</strong> para conseguir desarmá-la;</p>\n\n<p><strong><span class=\"blackbox\">4</span></strong> um Ladrão com 4 pontos em armadilha leva até <strong>1d3 turnos</strong> para conseguir desarmá-la;</p>\n\n<p><strong><span class=\"blackbox\">5</span></strong> um Ladrão com 5 pontos em armadilha leva apenas <strong>1 turno</strong> para conseguir desarmá-la.</p>\n\n<ul>\n  <li><strong>Ferramentas:</strong> sem suas ferramentas, o Ladrão leva o dobro de tempo para desarmar qualquer armadilha.</li>\n  <li><strong>Mestre Testa:</strong> o teste de armadilhas, tanto para encontrar ou desarmar, deve ser realizado em segredo pelo Mestre.</li>\n</ul>\n\n<p>A incerteza sobre existir ou não uma armadilha, ou sobre ter ou não desarmado a armadilha corretamente, faz parte da diversão de jogar com um Ladrão.</p>\n\n<h4 id=\"arrombar\">Arrombar</h4>\n\n<p><strong>Arrombar</strong> permite ao Ladrão destrancar e abrir fechaduras, cadeados, algemas e trancas em geral de forma silenciosa sem danificá-las.</p>\n\n<ul>\n  <li><strong>Falha:</strong> só pode ser tentada uma vez por fechadura e, em caso de falha, o Ladrão precisa passar para um novo nível para testar mais uma vez contra a mesma fechadura.</li>\n  <li><strong>Tempo:</strong> o tempo que um Ladrão leva para conseguir arrombar uma fechadura depende da sua habilidade e do uso das suas ferramentas de Ladrão.</li>\n</ul>\n\n<p><strong><span class=\"blackbox\">2</span></strong> um Ladrão com 2 pontos em arrombar leva até <strong>1d6 turnos</strong> para arrombar a fechadura;</p>\n\n<p><strong><span class=\"blackbox\">3</span></strong> um Ladrão com 3 pontos em arrombar leva até <strong>1d4 turnos</strong> para conseguir arrombar a fechadura;</p>\n\n<p><strong><span class=\"blackbox\">4</span></strong> um Ladrão com 4 pontos em arrombar leva até <strong>1d3 turnos</strong> para conseguir arrombar a fechadura;</p>\n\n<p><strong><span class=\"blackbox\">5</span></strong> um Ladrão com 5 pontos em arrombar leva apenas <strong>1 turno</strong> para conseguir arrombar a fechadura.</p>\n\n<ul>\n  <li><strong>Ferramentas:</strong> sem suas ferramentas, o Ladrão leva o dobro de tempo para arrombar qualquer fechadura.</li>\n  <li><strong>Ladrão Testa:</strong> o teste de arrombar pode ser realizado pelo jogador que interpreta o Ladrão.</li>\n</ul>\n\n<h4 id=\"escalar\">Escalar</h4>\n\n<p><strong>Escalar</strong> permite escalar usando, ou não, armaduras leves, qualquer superfície, mesmo as superfícies lisas ou escorregadias, como paredes molhadas, com musgos ou lodo, ou escalar superfícies com ângulo maior de 90º sem que a escalada se torne uma escalada forçada.</p>\n\n<p>Este talento também pode ser usado por Ladrões para andar sobre a corda bamba ou na superfície estreita de uma mureta.</p>\n\n<ul>\n  <li>\n    <p><strong>Testes:</strong> o Ladrão deve realizar uma jogada por escalada e se bem-sucedida, significa que o Ladrão escalou totalmente a superfície desejada, se deslocando seu movimento a cada <a href=\"/livros/srd/capitulos/campanha#medindo-o-tempo\">rodada</a>.</p>\n  </li>\n  <li>\n    <p><strong>Falha:</strong> o Ladrão cai da metade da altura total da escalada, recebendo 1d6 pontos de dano para cada 5 metros da <a href=\"/livros/srd/capitulos/combate#queda\">queda</a>.</p>\n  </li>\n  <li>\n    <p><strong>Ladrão Testa:</strong> o teste de escalar pode ser realizado pelo jogador que interpreta o Ladrão.</p>\n  </li>\n</ul>\n\n<h4 id=\"furtividade\">Furtividade</h4>\n\n<p><strong>Furtividade</strong> permite ao Ladrão se esconder de maneira imóvel nas sombras, não podendo ser detectado por outros alvos sem o uso de magia.</p>\n\n<p>O Ladrão furtivo pode realizar outro teste de Furtividade para andar em silêncio furtivamente com movimento normal do personagem.</p>\n\n<p>Um Ladrão furtivo pode realizar sua habilidade de ataque furtivo, mas, ao atacar ou mesmo errar o golpe, ficará visível.</p>\n\n<ul>\n  <li><strong>Mestre Testa:</strong> o teste de Furtividade, tanto para se <a href=\"/livros/srd/capitulos/campanha#esconder\">esconder</a> quanto para se locomover, deve ser realizado em segredo pelo Mestre. A incerteza sobre estar ou não sendo visto ou ouvido faz parte da diversão de jogar com um Ladrão.</li>\n</ul>\n\n<h4 id=\"punga\">Punga</h4>\n\n<p><strong>Punga</strong> permite retirar pequenos itens de bolsos, algibeiras, mochilas etc. de outras pessoas, além de realizar pequenos truques de prestidigitação com as mãos.</p>\n\n<ul>\n  <li><strong>Risco:</strong> se o resultado da jogada for superior ao dobro da dificuldade do teste, o Ladrão é desmascarado pela vítima ao tentar furtá-la.</li>\n  <li><strong>Penalidades:</strong> para cada três níveis acima do 5º nível do alvo, existe uma penalidade de 1 no teste de punga. Furtar um personagem de 8º nível possui uma penalidade de 1 no teste. Furtar um personagem de 13º nível possui uma penalidade de 3 no teste.</li>\n  <li><strong>Mestre Testa:</strong> o teste de punga deve ser realizado em segredo pelo Mestre. A incerteza sobre ter sido visto ou não enquanto furtava faz parte da diversão de jogar com um Ladrão.</li>\n</ul>\n\n<h3 id=\"especializacoes\">Especializações</h3>\n\n<p>Durante a construção do personagem, ou a qualquer momento ao longo do primeiro nível, um Ladrão pode assumir uma especialização.</p>\n\n<p>Um Especialista mantém algumas habilidades da classe base, passa a evoluir sua experiência pela coluna <strong>XP Especial</strong> e pode ter de enfrentar algumas restrições.</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!8PNUjRSZOobOQP5X.6nmt5IqFfMykGST9"
+    },
+    {
+      "sort": 11,
+      "name": "Ranger (Ladrão)",
+      "type": "text",
+      "_id": "FnwC4vL7BUzq24mN",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<h3 id=\"restricoes\">Restrições</h3>\n\n<p>Além de seguir a evolução de experiência de um Ladrão especialista, o Ranger não pode acumular mais tesouros do que é capaz de carregar. Em contrapartida, os Rangers jamais se perdem enquanto estiverem nos ermos.</p>\n\n<p>O Ranger perde as habilidades de <em>Ouvir Ruídos</em> e <em>Ataque Furtivo</em>, mas mantém e evolui seus Talentos de Ranger, possuindo uma versão modificada de alguns Talentos Ladinos adaptados aos ermos:</p>\n\n<p><em>Percepção</em> substitui o talento <em>Arrombar</em>. Uma vez a cada hora enquanto estiver nos ermos, o Ranger é capaz de sentir presenças, de perceber alterações no ambiente e de sentir que há alguma coisa errada ou se ocultando.</p>\n\n<p><em>Rastrear</em> substitui o talento <em>Punga</em>. Nos Ermos, o Ranger pode tentar seguir rastros, a trilha de um inimigo, um animal perdido ou uma erva, além de conseguir procurar comida e água para si e seu grupo.</p>\n\n<p><strong><span class=\"redbox\">1</span> Inimigo Mortal</strong> assumindo seu papel de guardião de uma região dos ermos, adota um inimigo que assola sua região para combatê-lo.</p>\n\n<p>Inimigos Mortais podem ser escolhidos dentre Orcs, Goblins, Homens Lagartos, Trolls ou Gigantes. Contra estas criaturas, todo ataque é considerado um <strong>ataque fácil</strong> e todo <strong>teste de reação</strong> possui uma penalizador de -2.</p>\n\n<p><strong><span class=\"redbox\">3</span> Combativo</strong> o Ranger passa a poder usar armas grandes e escudos sem penalidades, mas continua limitado a usar Armaduras Leves.</p>\n\n<p><strong><span class=\"redbox\">6</span> Previdência</strong> o Ranger está sempre alerta e prevenido quando estiver nos ermos. Nestas condições, um Ranger só pode ser surpreendido com um resultado de 1 em 1d6, e todo acampamento criado por um Ranger nos ermos sempre será do tipo seguro.</p>\n\n<p><strong><span class=\"redbox\">10</span> Companheiro Animal</strong> uma criatura dos ermos adota o Ranger como aliado e realiza favores, como atacar, vigiar, enviar mensagens ou algo semelhante e não ofensivo a si próprio (como, por exemplo, se matar).</p>\n\n<p>Se um companheiro animal morrer, há 1-4 chances em 1d6 de um novo companheiro surgir a cada novo nível adquirido pelo Ranger.</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!8PNUjRSZOobOQP5X.FnwC4vL7BUzq24mN"
+    },
+    {
+      "sort": 12,
+      "name": "Bardo (Ladrão)",
+      "type": "text",
+      "_id": "FHJcdaZ99uklORMg",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<h3 id=\"restricoes\">Restrições</h3>\n\n<p>Além de seguir a evolução de experiência de um Ladrão especialista, o Bardo perde a habilidade de Ladrão <em>Ataque Furtivo</em>, mas mantém e evolui <em>Ouvir Ruídos</em> e seus talentos de Ladrão, possuindo uma versão modificada de alguns talentos adaptados:</p>\n\n<p><em>Cultura</em> substitui o talento <em>Arrombar</em>. O Bardo está a todo momento em contato com novos conhecimentos, pessoas e culturas, permitindo-lhe saber de coisas como folclore, lendas, história antiga e geografia.</p>\n\n<p><em>Decifrar</em> substitui o talento <em>Armadilha</em>. O Bardo conhece diferentes alfabetos e idiomas o que permite, uma vez por objeto, tentar decifrar o significado de textos em outros idiomas, realizando dois testes: um para identificar o idioma e outro para decifrá-lo.</p>\n\n<p><strong><span class=\"redbox\">1</span> Influenciar</strong> o Bardo por meio da música, oratórias e baladas heroicas consegue influenciar as reações de monstros ou personagens do Mestre com uma chance de 1-2 em 1d6. O Bardo recebe um modificador de +1 ou -1 no Teste de Reação destas audiências para melhorar a reação dos alvos (+1) ou para torná-los mais hostis (-1).</p>\n\n<p><strong><span class=\"redbox\">3</span> Inspirar</strong> o Bardo se for capaz de passar ao menos uma rodada atuando, e enquanto continuar mantendo a atuação, consegue que seus aliados se tornem mais confiantes no sucesso. Um alvo inspirado pelo Bardo faz com que seus testes de atributos e ataques fiquem como se fossem um nível mais fácil do que realmente são, tornando, por exemplo, testes muito difíceis em apenas testes difíceis.</p>\n\n<p><strong><span class=\"redbox\">6</span> Fascinar</strong> o Bardo por meio da música, oratória e baladas heroicas consegue deixar uma audiência de monstros ou personagens do Mestre não hostis, que tenham até 2 Dados de vida a cada 3 níveis do Bardo, desde que entenda o idioma usado pelo Bardo, envolvida e concentrada no seu desempenho artístico.</p>\n\n<p><strong><span class=\"redbox\">10</span> Usar Pergaminhos</strong> o Bardo adquire a habilidade de Usar Pergaminhos como se fosse um Mago com metade dos níveis que possuir.</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!8PNUjRSZOobOQP5X.FHJcdaZ99uklORMg"
+    },
+    {
+      "sort": 13,
+      "name": "Assassino (Ladrão)",
+      "type": "text",
+      "_id": "Nobjx9niaheHPZ22",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<h3 id=\"restricoes\">Restrições</h3>\n\n<p>Além de seguir a evolução de experiência de um Ladrão especialista, o Assassino perde as habilidades <em>Ouvir Ruídos</em> e <em>Ataque Furtivo</em>, mas mantém e evolui seus Talentos de Ladrão, possuindo uma versão modificada de alguns talentos adaptados ao seu ofício:</p>\n\n<p><em>Veneno</em> substitui o talento <em>Armadilha</em>. Este talento permite ao Assassino manipular venenos para seus ataques sem se envenenar. Dois testes são realizados, um para a preparação e outro para aplicação na arma. Cada dose custa 1d6 x 10 PO para ser preparada e perde os efeitos nocivos após 24 horas.</p>\n\n<p><em>Disfarce</em> substitui o talento <em>Punga</em>. O Assassino consegue parecer um pouco mais alto, baixo, gordo, magro ou até se disfarçar em membros do outro sexo da sua raça.</p>\n\n<p><strong><span class=\"redbox\">1</span> Ataque Assassino</strong> ao atacar após ter se aproximado do inimigo furtivamente, o Assassino é capaz de realizar um ataque muito fácil, causando dano multiplicado por 2.</p>\n\n<p><strong><span class=\"redbox\">3</span> Espreitar</strong> o Assassino que passa uma rodada completa sem agir, apenas observando os movimentos do seu alvo e reconhecendo os pontos fracos deste, transforma o seu primeiro ataque contra este alvo em um ataque fácil. Se o Assassino passar 4 rodadas completas observando-o, o ataque passa a ser muito fácil.</p>\n\n<p><strong><span class=\"redbox\">6</span> Assassinato</strong> ao desferir um <em>Ataque Assassino</em>, abre mão do ataque normal para tentar um golpe fatal, matando imediatamente o alvo. A chance do golpe ser bem-sucedido é de 1-2 em 1d6. No 10º nível, a chance evolui para 1-3 em 1d6. Cada DV do alvo, igual ou acima do DV do Assassino, reduz a chance básica em 1 em 1d6. Caso o <em>Assassinato</em> falhe, o alvo não recebe dano e fica imune a um novo Assassinato até o Assassino evoluir para o próximo nível.</p>\n\n<p><strong><span class=\"redbox\">10</span> Ataque Mortal</strong> o Assassino evolui seu <em>Ataque Assassino</em>, causando dano multiplicado por 3.</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!8PNUjRSZOobOQP5X.Nobjx9niaheHPZ22"
+    },
+    {
+      "sort": 14,
+      "name": "Halfling Aventureiro (Ladrão)",
+      "type": "text",
+      "_id": "6kdRasd3AmfzNrpN",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<h3 id=\"restricoes\">Restrições</h3>\n\n<p>Além de seguir a evolução de experiência de um Ladrão especialista, o Halfling Aventureiro limita-se apenas a personagens halflings.</p>\n\n<p>O Halfling Aventureiro perde as habilidades <em>Ouvir Ruídos</em> e <em>Ataque Furtivo</em>, mas mantém e evolui seus Talentos de Ladrão, tendo uma versão modificada de alguns talentos adaptados ao seu ofício:</p>\n\n<p><em>Senso de Perigo</em> substitui o talento <em>Armadilhas</em>. O Halfling Aventureiro é capaz de perceber situações de risco e perigo, como armadilhas ou ataques iminentes, passivamente (teste realizado pelo Mestre). Ele não é capaz de entender exatamente a fonte do perigo, mas sabe que algo está por acontecer. Se detectar o perigo, o Halfling Aventureiro não será surpreendido.</p>\n\n<p><strong><span class=\"redbox\">1</span> Arma Racial</strong> o Halfling Aventureiro mantém todas as habilidades raciais recebidas por ser um halfling e, devido ao intenso treinamento, atinge um grau de especialização em uma arma de arremesso à sua escolha, recebendo um bônus de +2 no dano da arma escolhida. Esta arma passa a ser tratada como sua arma racial.</p>\n\n<p><strong><span class=\"redbox\">3</span> Valente</strong> o Halfling Aventureiro possui em suas veias o sangue dos mais destemido dos halflings, tornando-se imune a qualquer efeito de medo, terror, horror ou semelhantes. Qualquer tentativa de amedrontá-lo o tornará mais corajoso, transformando seus testes de atributo, jogada de proteção ou ataque em testes fáceis.</p>\n\n<p><strong><span class=\"redbox\">6</span> No Alvo</strong> devido ao constante treinamento, o Halfling Aventureiro evolui ainda mais a habilidade natural de mira em arremessos. Deste ponto em diante, qualquer ataque à distância realizado com sua arma racial é considerado um ataque muito fácil.</p>\n\n<p><strong><span class=\"redbox\">10</span> Arremesso Extra</strong> o Halfling Aventureiro adquire um segundo arremesso por ataque quando empunhando sua arma racial. Este segundo ataque é realizado após o primeiro ataque, logo em sequência, antes da ação do próximo jogador na ordem da iniciativa com a mesma BA usada no primeiro ataque.</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!8PNUjRSZOobOQP5X.6kdRasd3AmfzNrpN"
+    },
+    {
+      "sort": 15,
+      "name": "Mago",
+      "type": "text",
+      "_id": "LXEmGOoiBk1isG0Y",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<div class=\"overflow-x-auto\">\n  <table>\n    <caption>Mago <span>tabela 3.4</span></caption>\n    <thead>\n      <tr>\n        <th>Nível</th>\n        <th>XP</th>\n        <th>Pontos de Vida</th>\n        <th>Base de Ataque</th>\n        <th>Jogada de Proteção</th>\n        <th>XP Especial</th>\n        <th>1º</th>\n        <th>2º</th>\n        <th>3º</th>\n        <th>4º</th>\n        <th>5º</th>\n        <th>6º</th>\n        <th>7º</th>\n        <th>8º</th>\n        <th>9º</th>\n      </tr>\n    </thead>\n    <tbody>\n      <tr class=\"text-center\">\n        <td>1º</td>\n        <td>0</td>\n        <td>4</td>\n        <td>0</td>\n        <td>5</td>\n        <td>0</td>\n        <td>1</td>\n        <td>-</td>\n        <td>-</td>\n        <td>-</td>\n        <td>-</td>\n        <td>-</td>\n        <td>-</td>\n        <td>-</td>\n        <td>-</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td>2º</td>\n        <td>2.500</td>\n        <td>+1d4</td>\n        <td>1</td>\n        <td>5</td>\n        <td>3.000</td>\n        <td>2</td>\n        <td>-</td>\n        <td>-</td>\n        <td>-</td>\n        <td>-</td>\n        <td>-</td>\n        <td>-</td>\n        <td>-</td>\n        <td>-</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td>3º</td>\n        <td>5.000</td>\n        <td>+1d4</td>\n        <td>1</td>\n        <td>5</td>\n        <td>6.000</td>\n        <td>2</td>\n        <td>1</td>\n        <td>-</td>\n        <td>-</td>\n        <td>-</td>\n        <td>-</td>\n        <td>-</td>\n        <td>-</td>\n        <td>-</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td>4º</td>\n        <td>8.500</td>\n        <td>+1d4</td>\n        <td>1</td>\n        <td>5</td>\n        <td>10.000</td>\n        <td>2</td>\n        <td>2</td>\n        <td>-</td>\n        <td>-</td>\n        <td>-</td>\n        <td>-</td>\n        <td>-</td>\n        <td>-</td>\n        <td>-</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td>5º</td>\n        <td>11.500</td>\n        <td>+1d4</td>\n        <td>2</td>\n        <td>7</td>\n        <td>13.000</td>\n        <td>2</td>\n        <td>2</td>\n        <td>1</td>\n        <td>-</td>\n        <td>-</td>\n        <td>-</td>\n        <td>-</td>\n        <td>-</td>\n        <td>-</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td>6º</td>\n        <td>23.000</td>\n        <td>+1d4</td>\n        <td>2</td>\n        <td>7</td>\n        <td>26.000</td>\n        <td>3</td>\n        <td>2</td>\n        <td>2</td>\n        <td>-</td>\n        <td>-</td>\n        <td>-</td>\n        <td>-</td>\n        <td>-</td>\n        <td>-</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td>7º</td>\n        <td>33.000</td>\n        <td>+1d4</td>\n        <td>2</td>\n        <td>7</td>\n        <td>36.000</td>\n        <td>3</td>\n        <td>2</td>\n        <td>2</td>\n        <td>1</td>\n        <td>-</td>\n        <td>-</td>\n        <td>-</td>\n        <td>-</td>\n        <td>-</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td>8º</td>\n        <td>43.000</td>\n        <td>+1d4</td>\n        <td>3</td>\n        <td>7</td>\n        <td>46.000</td>\n        <td>3</td>\n        <td>3</td>\n        <td>2</td>\n        <td>2</td>\n        <td>-</td>\n        <td>-</td>\n        <td>-</td>\n        <td>-</td>\n        <td>-</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td>9º</td>\n        <td>53.000</td>\n        <td>+1d4</td>\n        <td>3</td>\n        <td>7</td>\n        <td>56.000</td>\n        <td>3</td>\n        <td>3</td>\n        <td>2</td>\n        <td>2</td>\n        <td>1</td>\n        <td>-</td>\n        <td>-</td>\n        <td>-</td>\n        <td>-</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td>10º</td>\n        <td>106.000</td>\n        <td>+1d4</td>\n        <td>3</td>\n        <td>10</td>\n        <td>112.000</td>\n        <td>3</td>\n        <td>3</td>\n        <td>3</td>\n        <td>2</td>\n        <td>2</td>\n        <td>-</td>\n        <td>-</td>\n        <td>-</td>\n        <td>-</td>\n      </tr>\n    </tbody>\n  </table>\n</div>\n\n<h3 id=\"habilidades-de-classe\">Habilidades de Classe</h3>\n\n<p>O número no ícone antes de cada habilidade identifica o nível no qual o personagem recebe a habilidade (vermelho) ou a sua evolução (preto).</p>\n\n<ul>\n  <li>\n    <p><strong>Armas</strong> apenas pequenas. Armas grandes ou médias geram ataques difíceis para Magos.</p>\n  </li>\n  <li>\n    <p><strong>Armaduras</strong> nenhuma. Usar escudos ou armaduras impede a conjuração de magias e protegem apenas metade da CA normal.</p>\n  </li>\n  <li>\n    <p><strong>Itens Mágicos</strong> podem usar todos os tipos.</p>\n  </li>\n</ul>\n\n<p><strong><span class=\"redbox\">1</span> <a href=\"/livros/srd/capitulos/magia#magias-arcanas\">Magias Arcanas</a></strong> um Mago é capaz de lançar magias arcanas diariamente. Para memorizá-las, o Mago deve estudar seu livro de magias, o grimório, e decidir quais magias serão <a href=\"/livros/srd/capitulos/magia#memorizando-magias\">memorizadas</a> naquele dia.</p>\n\n<ul>\n  <li>\n    <p><strong>Grimório:</strong> livro no qual o Mago escreve sua coleção de magias, como um grande livro de receitas arcanas. Sem ele, um Mago perde a capacidade de memorizar novas magias. Por isso, um Mago zeloso guardará seu <a href=\"/livros/srd/capitulos/magia#grimorio-arcano\">grimório</a> como se fosse a própria vida.</p>\n  </li>\n  <li>\n    <p><strong>Magias Iniciais:</strong> no 1º nível, o grimório do Mago contém três magias de 1º círculo à escolha do Mago e uma magia escolhida aleatoriamente da sua lista de magias de 1º círculo.</p>\n  </li>\n  <li>\n    <p><strong>Novas Magias:</strong> um Mago pode acrescentar livremente novas magias ao seu grimório copiando de outros grimórios ou de pergaminhos.</p>\n  </li>\n  <li>\n    <p><strong>Círculos Superiores:</strong> um Mago pode escrever no grimório magias de círculos acima de sua capacidade, mas não pode memorizá-las até atingir o nível necessário.</p>\n  </li>\n</ul>\n\n<p><strong><span class=\"redbox\">1</span> Ler Magias</strong> um Mago é capaz de uma vez ao dia por nível decifrar e ler inscrições mágicas em qualquer lugar, mesmo que não entenda a mensagem a qual elas querem passar.</p>\n\n<p>Esta habilidade não permite identificar as propriedades mágicas de um item mágico, nem é necessária para lançar magias escritas, mas permitirá identificar qual magia está escrita ali.</p>\n\n<p><strong><span class=\"redbox\">1</span> Detectar Magias</strong> um Mago é capaz de uma vez ao dia por nível perceber em lugares, pessoas ou coisas em uma área de até 9m + 3m por nível, a presença de magia, desde que esteja concentrado e procurando ativamente por isso.</p>\n\n<p>O Mago percebe uma tênue aura mágica ao redor dos lugares, pessoas ou coisas encantadas, mas não é capaz de identificar a magia, o nível de poder do conjurador ou o efeito presente no alvo.</p>\n\n<p>Um Mago precisa se concentrar 1d8 rodadas na área desejada para conseguir detectar, caso haja, alguma presença mágica. Esse tempo cai para 1d4 rodadas no 6º nível e para 1 rodada no 10º nível.</p>\n\n<h3 id=\"especializacoes\">Especializações</h3>\n\n<p>Durante a construção do personagem, ou a qualquer momento ao longo do primeiro nível, um Mago pode assumir uma especialização.</p>\n\n<p>Um Especialista mantém algumas habilidades da classe base, passa a evoluir sua experiência pela coluna <strong>XP Especial</strong> e pode ter de enfrentar algumas restrições.</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!8PNUjRSZOobOQP5X.LXEmGOoiBk1isG0Y"
+    },
+    {
+      "sort": 16,
+      "name": "Ilusionista (Mago)",
+      "type": "text",
+      "_id": "vw6p5q7JjBKS9eSB",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<h3 id=\"restricoes\">Restrições</h3>\n\n<p>Além de seguir a evolução de experiência de um Mago especialista, o Ilusionista abre mão da lista de magias de 7º ao 9º círculo a qual um Mago normalmente teria acesso, conseguindo conjurar apenas magias até o 6º círculo, mas as habilidades de Mago <em>Ler Magias</em> e <em>Detectar Magias</em> são mantidas e evoluem normalmente.</p>\n\n<p><strong><span class=\"redbox\">1</span> <a href=\"/livros/srd/capitulos/magia#listas-de-magias\">Magias Exclusivas</a>:</strong> o Ilusionista escreve em seu grimório <a href=\"/magias/ilusao\">Ilusão</a> e <a href=\"/magias/som-ilusorio\">Som Ilusório</a>, exclusivas para Ilusionistas.</p>\n\n<ul>\n  <li>\n    <p><strong>Sem Memorizar:</strong> magias exclusivas não precisam ser <a href=\"/livros/srd/capitulos/magia#memorizando-magias\">memorizadas</a> para serem conjuradas pelo Mago especialista.</p>\n  </li>\n  <li>\n    <p><strong>Usos por dia:</strong> cada magia exclusiva do especialista em seu grimório pode ser usada até uma vez ao dia, adicionalmente às <a href=\"/livros/srd/capitulos/magia#magias-diarias\">magias diárias</a> do especialista.</p>\n  </li>\n  <li>\n    <p><strong>Usos Adicionais:</strong> caso outros usos sejam realizados, a magia exclusiva consumirá o espaço ocupado na memória do Mago por outra magia já previamente memorizada.</p>\n  </li>\n  <li>\n    <p><strong>Jogada de Proteção:</strong> todas as Jogadas de Proteção contra as magias exclusivas são realizadas com um teste difícil.</p>\n  </li>\n  <li>\n    <p><strong><span class=\"bluebox\">I</span> Lista de Magias:</strong> as <a href=\"/magias?schools%5B%5D=illusionist\">Magias Exclusivas de um Ilusionista</a> estão descritas na lista de magias deste livro e identificadas com um ícone azul.</p>\n  </li>\n</ul>\n\n<p><strong><span class=\"redbox\">3</span> Ilusão Melhorada</strong> o Ilusionista escreve a magia exclusiva <a href=\"/magias/ilusao-melhorada\">Ilusão Melhorada</a> em seu grimório.</p>\n\n<p><strong><span class=\"redbox\">6</span> Miragem</strong> o Ilusionista escreve a magia exclusiva <a href=\"/magias/miragem\">Miragem</a> em seu grimório.</p>\n\n<p><strong><span class=\"redbox\">10</span> Ilusão Permanente</strong> o Ilusionista escreve a magia exclusiva <a href=\"/magias/ilusao-permanente\">Ilusão Permanente</a> em seu grimório.</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!8PNUjRSZOobOQP5X.vw6p5q7JjBKS9eSB"
+    },
+    {
+      "sort": 17,
+      "name": "Necromante (Mago)",
+      "type": "text",
+      "_id": "3aw0UPZxnsEQhJOQ",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<h3 id=\"restricoes\">Restrições</h3>\n\n<p>Além de seguir a evolução de experiência de um Mago especialista, o Necromante abre mão da lista de magias de 7º ao 9º círculo a qual um Mago normalmente teria acesso, conseguindo conjurar apenas magias até o 6º círculo, mas<br />\nas habilidades de Mago <em>Ler Magias</em> e <em>Detectar Magias</em> são mantidas e evoluem normalmente.</p>\n\n<p><strong><span class=\"redbox\">1</span> <a href=\"/livros/srd/capitulos/magia#listas-de-magias\">Magias Exclusivas</a>:</strong> o Necromante escreve em seu grimório <a href=\"/magias/toque-sombrio\">Toque Sombrio</a> e <a href=\"/magias/aterrorizar\">Aterrorizar</a>, exclusivas para Necromantes.</p>\n\n<ul>\n  <li>\n    <p><strong>Sem Memorizar:</strong> magias exclusivas não precisam ser <a href=\"/livros/srd/capitulos/magia#memorizando-magias\">memorizadas</a> para serem conjuradas pelo Mago especialista.</p>\n  </li>\n  <li>\n    <p><strong>Usos por dia:</strong> cada magia exclusiva do especialista em seu grimório pode ser usada até uma vez ao dia, adicionalmente às <a href=\"/livros/srd/capitulos/magia#magias-diarias\">magias diárias</a> do especialista.</p>\n  </li>\n  <li>\n    <p><strong>Usos Adicionais:</strong> caso outros usos sejam realizados, a magia exclusiva consumirá o espaço ocupado na memória do Mago por outra magia já previamente memorizada.</p>\n  </li>\n  <li>\n    <p><strong>Jogada de Proteção:</strong> todas as Jogadas de Proteção contra as magias exclusivas são realizadas com um teste difícil.</p>\n  </li>\n  <li>\n    <p><strong><span class=\"blackbox\">N</span> Lista de Magias:</strong> as <a href=\"/magias?schools%5B%5D=necromancer\">Magias Exclusivas de um Necromante</a> estão descritas na lista de magias deste livro e identificadas com um ícone preto.</p>\n  </li>\n</ul>\n\n<p><strong><span class=\"redbox\">3</span> Criar Mortos-Vivos</strong> o Necromante escreve a magia exclusiva <a href=\"/magias/criar-mortos-vivos\">Criar Mortos-Vivos</a> em seu grimório.</p>\n\n<p><strong><span class=\"redbox\">6</span> Drenar Vida</strong> o Necromante escreve a magia exclusiva <a href=\"/magias/drenar-vida\">Drenar Vida</a> em seu grimório.</p>\n\n<p><strong><span class=\"redbox\">10</span> Magia da Morte</strong> o Necromante escreve a magia exclusiva <a href=\"/magias/magia-da-morte\">Magia da Morte</a> em seu grimório.</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!8PNUjRSZOobOQP5X.3aw0UPZxnsEQhJOQ"
+    },
+    {
+      "sort": 18,
+      "name": "Bruxo (Mago)",
+      "type": "text",
+      "_id": "MWrzbIazPk2vZfLU",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<h3 id=\"restricoes\">Restrições</h3>\n\n<p>Além de seguir a evolução de experiência de um Mago especialista, o Bruxo abre mão da lista de magias de 7º ao 9º círculo que um mago normalmente teria acesso. O Bruxo consegue conjurar magias até o 6º círculo, mas mantém e evolui normalmente as habilidades de Mago <em>Ler Magias</em> e <em>Detectar Magias</em>.</p>\n\n<h3 id=\"rituais\">Rituais</h3>\n\n<p>O Bruxo se concentra no efeito desejado iniciando um pequeno ritual de palavras e gestos que canalizam o poder extraplanar no seu corpo, realizando o efeito da magia.</p>\n\n<p><strong>Metal:</strong> objetos de metal como armas, armaduras, escudos etc. atrapalham a canalização do ritual, impedindo a conjuração das magias. Se estiver em contato com objetos de metal, o Bruxo possui 1-2 chances em 1d6 de perder o ritual sem que qualquer efeito ocorra.</p>\n\n<p><strong>Execução:</strong> um ritual leva uma rodada para<br />\nser executado. Uma magia conjurada nesta rodada iniciará seus efeitos no início da próxima rodada, antes das outras ações.</p>\n\n<p><strong>Lista de Rituais:</strong> o Bruxo pode escolher livremente suas magias dentre todas as magias dos círculos disponíveis para seu nível, como se estivessem escritas no seu grimório.</p>\n\n<p><strong>Rituais Extras:</strong> o Bruxo não recebe magias adicionais por um alto valor de Inteligência.</p>\n\n<p><strong><span class=\"redbox\">1</span> Iniciado</strong> o Bruxo consegue conjurar magias de 1º círculo e pode usar armas médias e armaduras leves, mesmo as de metal, sem prejudicar seus rituais.</p>\n\n<p><strong><span class=\"redbox\">3</span> Médium</strong> o Bruxo consegue conjurar magias de 2º círculo e pode usar armas grandes, mesmo as de metal, sem prejudicar seus rituais.</p>\n\n<p><strong><span class=\"redbox\">6</span> Conjurador</strong> o Bruxo consegue conjurar magias de 3º círculo e pode usar armaduras médias, mesmo as de metal, sem prejudicar seus rituais.</p>\n\n<p><strong><span class=\"redbox\">10</span> Entidade</strong> o Bruxo consegue conjurar magias de 4º, 5º e 6º círculos, desde que seu nível permita acesso a estes círculos, e pode usar todas as armaduras ou armas, mesmo as de metal, sem prejudicar seus rituais.</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!8PNUjRSZOobOQP5X.MWrzbIazPk2vZfLU"
+    },
+    {
+      "sort": 19,
+      "name": "Elfo Aventureiro (Mago)",
+      "type": "text",
+      "_id": "JGSdcY1BY5S3nW83",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<h3 id=\"restricoes\">Restrições</h3>\n\n<p>Além de seguir a evolução de experiência de um Mago especialista, o Elfo Aventureiro está limitado apenas a personagens elfos.</p>\n\n<p>Além disso, inicialmente não são aptos a conjurar magias (habilidade que desenvolverão com treinamento), e perdem acesso às habilidades <em>Ler Magias</em> e <em>Detectar Magias</em>, mas podem usar todos os itens mágicos como um Mago padrão faria.</p>\n\n<p><strong><span class=\"redbox\">1</span> Treinamento Racial</strong> o Elfo Aventureiro mantém todas as habilidades raciais recebidas por ser um elfo e, devido ao intenso treinamento marcial, recebe a cada nível um bônus de +1 nos seus pontos de vida adicionais à tabela de Mago. Além disso, deixam de possuir restrições quanto ao uso de armas ou armaduras como um Mago. Seu treinamento nas suas armas raciais, cimitarras ou arcos concedem a eles um bônus de +2 no dano da arma escolhida. Esta arma passa a ser tratada como sua arma racial.</p>\n\n<p><strong><span class=\"redbox\">3</span> Brilho Mágico</strong> o Elfo Aventureiro começa a dominar as artes arcanas na prática, sendo capaz de conjurar uma única magia de 1º círculo por dia, como um Mago de 1º nível. Todas as regras de conjuração, uso de armaduras, memorização, lista de magias e grimório de um Mago são compartilhadas por um Elfo Aventureiro. Se estiver usando um escudo ou armadura, um Elfo Aventureiro possui 1-3 chances em 1d6 de perder a magia sem que qualquer efeito ocorra.</p>\n\n<p><strong><span class=\"redbox\">6</span> Esplendor Arcano</strong> o Elfo Aventureiro passa a ser capaz de lançar magias arcanas diariamente como um Mago cinco níveis abaixo do seu. Um Elfo Aventureiro de 6º nível memoriza e lança magias como um Mago de 1º nível. Se estiver usando um escudo ou armadura, um Elfo Aventureiro possui 1-2 chances em 1d6 de perder a magia sem que qualquer efeito ocorra.</p>\n\n<p><strong><span class=\"redbox\">10</span> Ataque Extra</strong> o Elfo Aventureiro adquire um segundo ataque com sua arma racial escolhida no 1º nível (cimitarra ou arco). Este segundo ataque é realizado após o primeiro ataque, logo em sequência, antes da ação do próximo jogador na ordem da iniciativa com a mesma BA usada no primeiro ataque.</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!8PNUjRSZOobOQP5X.JGSdcY1BY5S3nW83"
+    },
+    {
+      "sort": 20,
+      "name": "Especializações",
+      "type": "text",
+      "_id": "mlGncFaJYJKuhPXS",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<p>Como já apresentamos no início deste capítulo, especializações são opções. Representam conceitos mais focados típicos da fantasia, e que precisam de um pouco mais de cor do que os clichês apresentados pelas quatro classes básicas.</p>\n\n<p>No entanto, alguns pontos podem parecer descobertos quando falamos das regras de especializações. Aqui procuramos resolver estas dúvidas.</p>\n\n<h3 id=\"fazendo-a-escolha\">Fazendo a Escolha</h3>\n\n<p>Uma especialização é uma forma adotar uma classe diferente da classe básica e, por assim dizer, ainda mais especializada.</p>\n\n<p>Isso significa que seu personagem será ainda mais focado em determinado ponto do jogo quando comparado a outro personagem que tenha adotado apenas uma evolução na classe básica.</p>\n\n<p>Para escolher uma especialização, recomendamos que você priorize a história do personagem, o que acha divertido de realizar no jogo e, claro, se você acredita que continuará se divertindo ao longo dos níveis com a especialização escolhida.</p>\n\n<h3 id=\"alem-do-1-nivel\">Além do 1º Nível</h3>\n\n<p>Especializações estão preparadas para serem adquiridas no 1º nível, seja no momento da criação, ou ao longo da ou das aventuras enfrentadas ao longo do 1º nível.</p>\n\n<p>No entanto, nada impedirá que, com a aprovação do Mestre, as especializações sejam adquiridas em outros níveis com alguns poucos ajustes.</p>\n\n<p><strong>Habilidades:</strong> todas as habilidades dos níveis anteriores já devem estar disponíveis ao personagem que adotou a especialização.</p>\n\n<p>Se um Mago, ao passar para o 8º nível, adotar a especialização Necromante, imediatamente todas as restrições e habilidades do Necromante até o 8º nível passam a ser adotadas.</p>\n\n<p>Ele recebe acesso às magias exclusivas de Necromante, como Aterrorizar, Toque Sombrio, Criar Mortos-Vivos e Drenar Vida; mas perde acesso imediato à todas as magias de e 7º ao 9º círculo que ele um dia conjuraria.</p>\n\n<h3 id=\"trocando-especializacoes\">Trocando Especializações</h3>\n\n<p>Não recomendamos que especializações sejam trocadas por outras, sob risco de seu jogo virar uma bagunça. Mas, se faz sentido narrativo, adote as mesmas regras para uma aquisição realizada além do 1º nível.</p>\n\n<h3 id=\"adaptando-especializacoes\">Adaptando Especializações</h3>\n\n<p>Caso alguma especialização não se encaixe no seu ideal imaginário para a classe, faça os ajustes necessários para sua mesa. Acha que elfos Aventureiros devem ser mais fortes? Dê um dado de vida maior. Acredita que Ranger deve ser uma especialização de Guerreiro? Ajuste isso na sua mesa. Seja coerente e aplique o bom senso.</p>\n\n<h3 id=\"abandonando-especializacoes\">Abandonando Especializações</h3>\n\n<p>Se um personagem pretende abandonar uma especialização retornando para a classe básica, faça o caminho inverso da adoção da especialização. Retire as habilidades da especialização, bem como as restrições, e conceda todos os ajustes referentes à classe básica.</p>\n\n<h3 id=\"criando-especializacoes\">Criando Especializações</h3>\n\n<p>Se seu cenário precisar ou se um personagem quiser adotar especializações diferentes das existentes, basta colocar a mão na massa.</p>\n\n<p>Use as atuais como referência, aplique as restrições, crie as habilidades do 1º, 3º, 6º e 10º nível e pronto! Problema resolvido.</p>\n\n<h3 id=\"por-que-apenas-4-classes\">Por que Apenas 4 Classes?</h3>\n\n<p>Porque não há necessidade de termos mais do que 4 classes no sistema do Old Dragon 2.</p>\n\n<p>Todos os estereótipos de personagens estão cobertos pelas 4 classes básicas e todo o resto pode ser emulado com especializações.</p>\n\n<p>Além disso, especializações são muito mais simples e divertidas de serem criadas e balanceadas. Ela é como um carro novo montado sobre um chassi já pronto, com XP, BA, DV, JP e Magias definidos, bastando apenas que se crie a história e as novas habilidades.</p>\n\n<p>Em relação às classes, menos é mais. Em relação às especializações, quanto mais melhor!</p>\n\n<p><a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.pt_BR\" class=\"cc-by\" target=\"_blank\" rel=\"external\"><img src=\"https://static.olddragon.com.br/digital_items_srd/CC_BY-SA_icon.png\" alt=\"CC-BY\" /></a></p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!8PNUjRSZOobOQP5X.mlGncFaJYJKuhPXS"
+    }
+  ],
+  "flags": {},
+  "_stats": {
+    "systemId": "olddragon2e",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1698721200000,
+    "modifiedTime": 1702782000000,
+    "lastModifiedBy": "enzpVKIAX52oTyPe"
+  },
+  "sort": 3,
+  "ownership": {
+    "default": 0,
+    "enzpVKIAX52oTyPe": 3
+  },
+  "_key": "!journal!8PNUjRSZOobOQP5X"
+}

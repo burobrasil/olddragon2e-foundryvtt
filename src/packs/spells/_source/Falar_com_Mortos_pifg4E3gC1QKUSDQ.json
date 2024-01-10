@@ -1,0 +1,37 @@
+{
+  "folder": "XDGnJ8GYBwSWNTSc",
+  "name": "Falar com Mortos",
+  "type": "spell",
+  "_id": "pifg4E3gC1QKUSDQ",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "odo_id": "falar-com-mortos",
+    "school": "arcane",
+    "circle": "1",
+    "arcane": "null",
+    "divine": "3",
+    "necromancer": "null",
+    "illusionist": "null",
+    "reverse": false,
+    "range": "pessoal",
+    "duration": "1 turno",
+    "jp": "especial",
+    "description": "<p>O conjurador pode fazer perguntas a um cadáver caso este ainda possua uma boca para responder.  O morto responderá a uma pergunta a cada dois níveis do conjurador, sempre baseando-se em seu conhecimento quando vivo e sempre de forma lacônica, curta e direta. Um cadáver de alinhamento diferente do conjurador pode realizar uma JPS para se negar a responder a uma pergunta.</p>\n"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "olddragon2e",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1698721200000,
+    "modifiedTime": 1702782000000,
+    "lastModifiedBy": "enzpVKIAX52oTyPe"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "enzpVKIAX52oTyPe": 3
+  },
+  "_key": "!items!pifg4E3gC1QKUSDQ"
+}

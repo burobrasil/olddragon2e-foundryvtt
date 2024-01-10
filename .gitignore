@@ -26,6 +26,3 @@ dist
 
 # Junit results
 junit.xml
-
-# Pack sources
-/src/packs/*/_source/*.json

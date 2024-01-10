@@ -1,0 +1,1947 @@
+{
+  "folder": null,
+  "name": "Apêndice 1: Monstros (L-Z)",
+  "_id": "haFrGbWoMPQSGw7B",
+  "pages": [
+    {
+      "sort": 0,
+      "name": "Introdução",
+      "type": "text",
+      "_id": "kxasOrWzcJS3LMUN",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<p>Continuação dos monstros, você encontra das letras <strong>L</strong> até <strong>Z</strong>.</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!haFrGbWoMPQSGw7B.kxasOrWzcJS3LMUN"
+    },
+    {
+      "sort": 1,
+      "name": "Lagarto Gigante",
+      "type": "text",
+      "_id": "hNPX9Zho4xX9nxvK",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.zmPlC6cD3lS9ybJh]{Lagarto gigante}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!haFrGbWoMPQSGw7B.hNPX9Zho4xX9nxvK"
+    },
+    {
+      "sort": 2,
+      "name": "Lesma Mangual",
+      "type": "text",
+      "_id": "tvoSf5GAre4B4C6p",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.sRAbWkl9noYXjjWy]{Lesma mangual}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!haFrGbWoMPQSGw7B.tvoSf5GAre4B4C6p"
+    },
+    {
+      "sort": 3,
+      "name": "Licantropos",
+      "type": "text",
+      "_id": "XChFYrXDFV84jx82",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<p>Licantropos são humanoides portadores de uma condição causada por uma maldição ou doença e que, mediante a ativação de algum gatilho, se transformam em criaturas antropomórficas com características de animais.</p>\n\n<p>A Licantropia se instala no corpo do hospedeiro como um parasita e pode ser transmitida aos seus descendentes hereditários ou a outras pessoas por meio de ferimentos.</p>\n\n<h3 id=\"contraindo-licantropia\">Contraindo Licantropia</h3>\n\n<p>Qualquer pessoa que perder ao menos 50% dos pontos de vida para ataques físicos do licantropo adquire a licantropia. O infectado se transformará em um licantropo do mesmo tipo que o contagiou em 2d12 dias, começando a notar os sintomas após metade deste tempo.</p>\n\n<h3 id=\"licantropia-hereditaria\">Licantropia Hereditária</h3>\n\n<p>A forma hereditária da Licantropia afeta os descendentes em uma chance de 15% cumulativa. O primeiro filho possui 15% de chance de nascer com a condição; o segundo, 30% de chance; o terceiro, 45%; e assim sucessivamente até o sétimo filho que possui 100% de chance de nascer com a licantropia.</p>\n\n<p>Os efeitos da licantropia hereditária não serão notados até o portador atingir a vida adulta.</p>\n\n<h3 id=\"curando-a-licantropia\">Curando a Licantropia</h3>\n\n<p>Apenas uma magia de Curar Doenças ou a morte do licantropo causador da infecção no alvo podem curar uma licantropia.</p>\n\n<p><strong>Não humanos:</strong> Licantropia é fatal para não humanos contagiados.</p>\n\n<h3 id=\"formas-dos-licantropos\">Formas dos Licantropos</h3>\n\n<p>Um licantropo possui três formas diferentes:</p>\n\n<p><strong>Humana</strong> é indistinguível de um humano normal. São características muito tênues, como excesso de pelos, comportamento rústico ou hábitos excêntricos, que podem indicar a condição. Apenas olhares muito especializados conseguem identificar um licantropo na forma humana. Animais bons de faro como cães e cavalos podem se assustar ao sentirem o cheiro característico de um licantropo.</p>\n\n<p><strong>Monstruosa</strong> é a forma híbrida do licantropo, o meio do caminho entre homem e animal, quando características dos dois tipos de criaturas estão presentes. Esta é a forma básica de um licantropo transformado. Nesta forma, um licantropo apenas consegue se comunicar com outros licantropos e com animais associados à sua licantropia.</p>\n\n<p><strong>Animal</strong> é quando o licantropo assume a forma do animal associada à sua licantropia. Um licantropo nesta forma é sempre reconhecível por ser maior, mais feroz e mais animalesco que um animal normal.</p>\n\n<h3 id=\"transformacao\">Transformação</h3>\n\n<p>Um licantropo sempre precisa de uma rodada para se transformar da forma humana à forma monstruosa, e outra rodada para ir da forma monstruosa para a forma animal. Não é possível se transformar diretamente da forma animal para a forma humana e vice-versa.</p>\n\n<p><strong>Morto:</strong> caso seja morto, não importa a forma que isso ocorra, um licantropo sempre reverterá a transformação e retornará à forma humana.</p>\n\n<p><strong>Roupas e objetos</strong> usados no corpo durante a transformação são rasgados e inutilizados. Se um objeto impedir mecanicamente a transformação ele será destruído e causará 1d6 de dano ao licantropo. Por este motivo, licantropos evitam usar armaduras as quais impeçam suas transformações.</p>\n\n<h3 id=\"homem-gato\">Homem-Gato</h3>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.lbXCNs8XO7cOD8Sb]{Homem-gato}</p>\n\n<h3 id=\"homem-javali\">Homem-Javali</h3>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.GghNUZO7HZWBdwzp]{Homem-javali}</p>\n\n<h3 id=\"homem-lobo\">Homem-Lobo</h3>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.x0brQAvnfAGSh1wG]{Homem-lobo}</p>\n\n<h3 id=\"homem-rato\">Homem-Rato</h3>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.bIsuqpD5XL67xFkg]{Homem-rato}</p>\n\n<h3 id=\"homem-urso\">Homem-Urso</h3>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.X4cS3uAEmRaS6eU4]{Homem-urso}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!haFrGbWoMPQSGw7B.XChFYrXDFV84jx82"
+    },
+    {
+      "sort": 4,
+      "name": "Lich",
+      "type": "text",
+      "_id": "KRoMyCJafdle6qv3",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.ukWxFTzA6bvLsb2A]{Lich}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!haFrGbWoMPQSGw7B.KRoMyCJafdle6qv3"
+    },
+    {
+      "sort": 5,
+      "name": "Limo Cinzento",
+      "type": "text",
+      "_id": "wwd5psB0Xz811oA9",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.Ket2v9UQ5B0BzkvF]{Limo cinzento}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!haFrGbWoMPQSGw7B.wwd5psB0Xz811oA9"
+    },
+    {
+      "sort": 6,
+      "name": "Mantícora",
+      "type": "text",
+      "_id": "3qD1D4efMSZyFIxa",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.q0qSEu66IMMC1kXz]{Mantícora}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!haFrGbWoMPQSGw7B.3qD1D4efMSZyFIxa"
+    },
+    {
+      "sort": 7,
+      "name": "Medusa",
+      "type": "text",
+      "_id": "EkHerk4Jt5AYDELe",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.FHdWcmUAMq2zVEoR]{Medusa}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!haFrGbWoMPQSGw7B.EkHerk4Jt5AYDELe"
+    },
+    {
+      "sort": 8,
+      "name": "Mil-Galhos",
+      "type": "text",
+      "_id": "pJiUGfzsIxkN2tJc",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.XJxIlnlGbJSMbNXp]{Mil-galhos}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!haFrGbWoMPQSGw7B.pJiUGfzsIxkN2tJc"
+    },
+    {
+      "sort": 9,
+      "name": "Mímico",
+      "type": "text",
+      "_id": "SmtNjVUu1KwMQryE",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.ngzl4j45pre6sTEY]{Mímico}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!haFrGbWoMPQSGw7B.SmtNjVUu1KwMQryE"
+    },
+    {
+      "sort": 10,
+      "name": "Minotauro",
+      "type": "text",
+      "_id": "2fxGMcArlEvoRSbn",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.eKCxKvavLRFktjwk]{Minotauro}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!haFrGbWoMPQSGw7B.2fxGMcArlEvoRSbn"
+    },
+    {
+      "sort": 11,
+      "name": "Monstro Ferrugem",
+      "type": "text",
+      "_id": "6ikjgdSB6wgSIyEm",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.KQNfDIa9hdvdlHBl]{Monstro ferrugem}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!haFrGbWoMPQSGw7B.6ikjgdSB6wgSIyEm"
+    },
+    {
+      "sort": 12,
+      "name": "Múmia",
+      "type": "text",
+      "_id": "whUCaWC2DqxO6RhI",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.aipHdvALmxIeGvAE]{Múmia}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!haFrGbWoMPQSGw7B.whUCaWC2DqxO6RhI"
+    },
+    {
+      "sort": 13,
+      "name": "Naga Negra",
+      "type": "text",
+      "_id": "8KpcpgGpAlNPecGL",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.C3JYKTGlRuFOlKVl]{Naga negra}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!haFrGbWoMPQSGw7B.8KpcpgGpAlNPecGL"
+    },
+    {
+      "sort": 14,
+      "name": "Nixie",
+      "type": "text",
+      "_id": "StWcl4jA9het56VI",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.aZFDwlvfOhRSVuCW]{Nixie}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!haFrGbWoMPQSGw7B.StWcl4jA9het56VI"
+    },
+    {
+      "sort": 15,
+      "name": "Observador",
+      "type": "text",
+      "_id": "sNU4dWPfhmqahdxj",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.qmGkbCqXIU28MKyI]{Observador}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!haFrGbWoMPQSGw7B.sNU4dWPfhmqahdxj"
+    },
+    {
+      "sort": 16,
+      "name": "Ogro",
+      "type": "text",
+      "_id": "eHtctK5YVho9js8f",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.a2mQNIC8e5v0jVjd]{Ogro}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!haFrGbWoMPQSGw7B.eHtctK5YVho9js8f"
+    },
+    {
+      "sort": 17,
+      "name": "Oni Mago",
+      "type": "text",
+      "_id": "fsejUDszzXhtL4JF",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.rjwn86d5Pjvkp57V]{Oni mago}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!haFrGbWoMPQSGw7B.fsejUDszzXhtL4JF"
+    },
+    {
+      "sort": 18,
+      "name": "Orc",
+      "type": "text",
+      "_id": "SSTZvxjEMGAboASR",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.cFpNHtjalMxZNP3U]{Orc}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!haFrGbWoMPQSGw7B.SSTZvxjEMGAboASR"
+    },
+    {
+      "sort": 19,
+      "name": "Otyugh",
+      "type": "text",
+      "_id": "yZ5ZeJ56moAIgMVq",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.MFZILNeJO5XluVQ9]{Otyugh}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!haFrGbWoMPQSGw7B.yZ5ZeJ56moAIgMVq"
+    },
+    {
+      "sort": 20,
+      "name": "Pégaso",
+      "type": "text",
+      "_id": "kL8G2dNxEru6mKzU",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.CuZUSjIGKBdmYkmc]{Pégaso}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!haFrGbWoMPQSGw7B.kL8G2dNxEru6mKzU"
+    },
+    {
+      "sort": 21,
+      "name": "Pixie",
+      "type": "text",
+      "_id": "Blht9YJqtV8oR8hP",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.yiPAmPpqJINlF1p9]{Pixie}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!haFrGbWoMPQSGw7B.Blht9YJqtV8oR8hP"
+    },
+    {
+      "sort": 22,
+      "name": "Pólipo Voador",
+      "type": "text",
+      "_id": "KEIKKQln57Y5FeuP",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.di5lEQJKQxvMs2kg]{Pólipo voador}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!haFrGbWoMPQSGw7B.KEIKKQln57Y5FeuP"
+    },
+    {
+      "sort": 23,
+      "name": "Polvo Gigante",
+      "type": "text",
+      "_id": "H1sM0AbDvONDLcI7",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.QFWjqIPPfHWBcsQX]{Polvo gigante}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!haFrGbWoMPQSGw7B.H1sM0AbDvONDLcI7"
+    },
+    {
+      "sort": 24,
+      "name": "Polvo do Mar",
+      "type": "text",
+      "_id": "cRcWwCOELMBjqvUX",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.CMhVMNGLCFjZgnjr]{Povo do mar}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!haFrGbWoMPQSGw7B.cRcWwCOELMBjqvUX"
+    },
+    {
+      "sort": 25,
+      "name": "Pudim Negro",
+      "type": "text",
+      "_id": "SVvXK2sDjlJ7mdY1",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.uN7aX0KWUXccpyM4]{Pudim negro}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!haFrGbWoMPQSGw7B.SVvXK2sDjlJ7mdY1"
+    },
+    {
+      "sort": 26,
+      "name": "Quimera",
+      "type": "text",
+      "_id": "B1HQVhrizE6Xvue6",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.iRyxR4MqM9xuQe9E]{Quimera}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!haFrGbWoMPQSGw7B.B1HQVhrizE6Xvue6"
+    },
+    {
+      "sort": 27,
+      "name": "Rato Gigante",
+      "type": "text",
+      "_id": "YDc73mNlN0DnYDkS",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.mqRTtXa8bpLpaLDO]{Rato gigante}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!haFrGbWoMPQSGw7B.YDc73mNlN0DnYDkS"
+    },
+    {
+      "sort": 28,
+      "name": "Remorhaz",
+      "type": "text",
+      "_id": "fh4yrHonWIKvCBmJ",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.cWhNsqGvoZ0yXFn2]{Remorhaz}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!haFrGbWoMPQSGw7B.fh4yrHonWIKvCBmJ"
+    },
+    {
+      "sort": 29,
+      "name": "Revenant",
+      "type": "text",
+      "_id": "8Zpsc0k0MOHIlOTn",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.aEERGmmMNieYD7pX]{Revenant}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!haFrGbWoMPQSGw7B.8Zpsc0k0MOHIlOTn"
+    },
+    {
+      "sort": 30,
+      "name": "Roper",
+      "type": "text",
+      "_id": "PpPC8b7wtfVpdqOD",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.MZE1LivskkHNNXqa]{Roper}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!haFrGbWoMPQSGw7B.PpPC8b7wtfVpdqOD"
+    },
+    {
+      "sort": 31,
+      "name": "Sahuagin",
+      "type": "text",
+      "_id": "OBCCMiX6vcRX5EmF",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.XMh0jSb3WjCe1qvh]{Sahuagin}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!haFrGbWoMPQSGw7B.OBCCMiX6vcRX5EmF"
+    },
+    {
+      "sort": 32,
+      "name": "Salamandra",
+      "type": "text",
+      "_id": "3qA4iGGbPmF2xuRy",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.B4dbxl2QrU0IflUL]{Salamandra}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!haFrGbWoMPQSGw7B.3qA4iGGbPmF2xuRy"
+    },
+    {
+      "sort": 33,
+      "name": "Sapo Gigante",
+      "type": "text",
+      "_id": "1bR4haC72iXQRoqN",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.CF4B3p17RUJki22Y]{Sapo gigante}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!haFrGbWoMPQSGw7B.1bR4haC72iXQRoqN"
+    },
+    {
+      "sort": 34,
+      "name": "Sátiro",
+      "type": "text",
+      "_id": "40zQJpu7C7QqyaR8",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.zxcxFaxSij6tKR9P]{Sátiro}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!haFrGbWoMPQSGw7B.40zQJpu7C7QqyaR8"
+    },
+    {
+      "sort": 35,
+      "name": "Shoggoth",
+      "type": "text",
+      "_id": "IYV0PEpKC1mKllI6",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.Ic1WjSsl5DW4D0gV]{Shoggoth}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!haFrGbWoMPQSGw7B.IYV0PEpKC1mKllI6"
+    },
+    {
+      "sort": 36,
+      "name": "Sibilate",
+      "type": "text",
+      "_id": "6dyDgFBdLZd3ibRc",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.RuNsFDVCn3g91CyI]{Sibilante}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!haFrGbWoMPQSGw7B.6dyDgFBdLZd3ibRc"
+    },
+    {
+      "sort": 37,
+      "name": "Sombra",
+      "type": "text",
+      "_id": "8EzoVXychI5nJpLu",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.Pu9YcUetj4q259D3]{Sombra}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!haFrGbWoMPQSGw7B.8EzoVXychI5nJpLu"
+    },
+    {
+      "sort": 38,
+      "name": "Stirge",
+      "type": "text",
+      "_id": "zhWQOqaiRSdTQkYJ",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.MnDnKmU2pQh4yAq1]{Stirge}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!haFrGbWoMPQSGw7B.zhWQOqaiRSdTQkYJ"
+    },
+    {
+      "sort": 39,
+      "name": "Tarrasque",
+      "type": "text",
+      "_id": "tKADZNyeRSckrgUz",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.ejRvbAwY6ZwoTgwj]{Tarrasque}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!haFrGbWoMPQSGw7B.tKADZNyeRSckrgUz"
+    },
+    {
+      "sort": 40,
+      "name": "Tasloi",
+      "type": "text",
+      "_id": "sti6lWNar2fE1IkN",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.AiHuJoH5T47lmy5t]{Tasloi}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!haFrGbWoMPQSGw7B.sti6lWNar2fE1IkN"
+    },
+    {
+      "sort": 41,
+      "name": "Thoul",
+      "type": "text",
+      "_id": "gPVBRSNDuTx5jOLD",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.Auy2M9WeNrCxQqzv]{Thoul}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!haFrGbWoMPQSGw7B.gPVBRSNDuTx5jOLD"
+    },
+    {
+      "sort": 42,
+      "name": "Tragg",
+      "type": "text",
+      "_id": "MQSwnHptIld9CZPt",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.ELTOMOdQtrDzMsPw]{Traag}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!haFrGbWoMPQSGw7B.MQSwnHptIld9CZPt"
+    },
+    {
+      "sort": 43,
+      "name": "Treant",
+      "type": "text",
+      "_id": "NDLUKcHYmvJuygX6",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.AeVMwcG1MZakac8X]{Treant}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!haFrGbWoMPQSGw7B.NDLUKcHYmvJuygX6"
+    },
+    {
+      "sort": 44,
+      "name": "Trogolita",
+      "type": "text",
+      "_id": "gEMnyagGbW9zlzgQ",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.8a08reKu2BafE5hC]{Troglodita}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!haFrGbWoMPQSGw7B.gEMnyagGbW9zlzgQ"
+    },
+    {
+      "sort": 45,
+      "name": "Troll",
+      "type": "text",
+      "_id": "WTuUD7sJqhDXTGoO",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.q9tQvMPxoYnimQmu]{Troll}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!haFrGbWoMPQSGw7B.WTuUD7sJqhDXTGoO"
+    },
+    {
+      "sort": 46,
+      "name": "Urso Coruja",
+      "type": "text",
+      "_id": "VUrLWHdZlHUrpseC",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.sclJwihHrROAJUuY]{Urso-coruja}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!haFrGbWoMPQSGw7B.VUrLWHdZlHUrpseC"
+    },
+    {
+      "sort": 47,
+      "name": "Vampiro",
+      "type": "text",
+      "_id": "vc8cATr4OliK4uCh",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.azl1KnUOcsuTGksI]{Vampiro}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!haFrGbWoMPQSGw7B.vc8cATr4OliK4uCh"
+    },
+    {
+      "sort": 48,
+      "name": "Verme da Carcaça",
+      "type": "text",
+      "_id": "ufpYSHR95Tjfn92R",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.CvoLVeEN90A8LkY0]{Verme da carcaça}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!haFrGbWoMPQSGw7B.ufpYSHR95Tjfn92R"
+    },
+    {
+      "sort": 49,
+      "name": "Verme Escalate",
+      "type": "text",
+      "_id": "kqtpMGFbdoVWPpih",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.kJdGK13SAFUoyDzC]{Verme escarlate}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!haFrGbWoMPQSGw7B.kqtpMGFbdoVWPpih"
+    },
+    {
+      "sort": 50,
+      "name": "Víbora Gigante",
+      "type": "text",
+      "_id": "oFecYhe6vmGFuHC8",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.Y2r5nAkqv08q2LLR]{Víbora gigante}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!haFrGbWoMPQSGw7B.oFecYhe6vmGFuHC8"
+    },
+    {
+      "sort": 51,
+      "name": "Vinha Mortal",
+      "type": "text",
+      "_id": "ajZ13ChcDe9CsPuN",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.lWV1ukE9PAYi33Zi]{Vinha mortal}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!haFrGbWoMPQSGw7B.ajZ13ChcDe9CsPuN"
+    },
+    {
+      "sort": 52,
+      "name": "Worg",
+      "type": "text",
+      "_id": "tNzzXhQDZZaNOiqH",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.5cZI4m9ZQRzNftIH]{Worg}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!haFrGbWoMPQSGw7B.tNzzXhQDZZaNOiqH"
+    },
+    {
+      "sort": 53,
+      "name": "Wyvern",
+      "type": "text",
+      "_id": "326cEbkTcbS3B9hJ",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.lJwJ8QyyujFsIWs0]{Wyvern}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!haFrGbWoMPQSGw7B.326cEbkTcbS3B9hJ"
+    },
+    {
+      "sort": 54,
+      "name": "Zumbi",
+      "type": "text",
+      "_id": "6QVVLeaJLpiAJlf5",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.M9CfAJccLoYLheIp]{Zumbi}</p>\n\n<p><a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.pt_BR\" class=\"cc-by\" target=\"_blank\" rel=\"external\"><img src=\"https://static.olddragon.com.br/digital_items_srd/CC_BY-SA_icon.png\" alt=\"CC-BY\" /></a></p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!haFrGbWoMPQSGw7B.6QVVLeaJLpiAJlf5"
+    }
+  ],
+  "flags": {},
+  "_stats": {
+    "systemId": "olddragon2e",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1698721200000,
+    "modifiedTime": 1702782000000,
+    "lastModifiedBy": "enzpVKIAX52oTyPe"
+  },
+  "sort": 12,
+  "ownership": {
+    "default": 0,
+    "enzpVKIAX52oTyPe": 3
+  },
+  "_key": "!journal!haFrGbWoMPQSGw7B"
+}
