@@ -11,7 +11,7 @@ export class JPRoll extends BaseRoll {
   }
 
   get jpValue() {
-    return this.actor.system[this.jpName].value;
+    return this.actor.system[`${this.jpName}_total`];
   }
 
   formulaAdjustment(adjustment) {
