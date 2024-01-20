@@ -11,7 +11,7 @@
     "alignment": "caotico",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Área Maldita</strong>: uma criatura que se aproxima a pelo menos 50m de uma Árvore Maldita deve ser bem-sucedida em uma JPS ou se perde automaticamente. Se o alvo falhar em 3 testes, começará a ter alucinações (vendo rostos nas sombras, garras nos galhos, ouvindo sons fantasiosos e imaginando perseguições que não estão ocorrendo de verdade).</p>\n  </li>\n  <li>\n    <p><strong>Fogo</strong>: uma Árvore Maldita é especialmente suscetível ao fogo. Todo dano causado pelo fogo deve ser ampliado em 50%.</p>\n  </li>\n  <li>\n    <p><strong>Elo Telepático</strong>: uma Árvore Maldita possui elo telepático com seu senhor (normalmente uma Bruxa). Tudo o que a árvore enxergar e ouvir também será visto e ouvido pela Bruxa.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>nenhum</li>\n</ul>\n",
+    "described_attacks": null,
     "encounters": "0",
     "encounters_lair": "1",
     "xp": "460",

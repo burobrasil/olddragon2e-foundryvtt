@@ -11,7 +11,7 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Surpresa</strong>: surpreende seus inimigos com um resultado de 1 a 5 em 1d6, a não ser que o alvo consiga detectar invisibilidade.</p>\n  </li>\n  <li>\n    <p><strong>Invisibilidade</strong>: o Caçador Invisível consegue manter-se invisível até mesmo durante um combate.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × encontrão + 8 (4d4 )</li>\n  <li>1 × pancada + 8 (2d4)</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × encontrão +8 (4d4)</li>\n  <li>1 × pancada +8 (2d4)</li>\n</ul>\n",
     "encounters": "1",
     "encounters_lair": "1",
     "xp": "695",

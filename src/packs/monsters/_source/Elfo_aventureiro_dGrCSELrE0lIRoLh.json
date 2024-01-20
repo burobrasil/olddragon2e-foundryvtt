@@ -11,7 +11,7 @@
     "alignment": "neutro",
     "variant": true,
     "description": "<ul>\n  <li>\n    <p><strong>Variações</strong>: a cada 15 elfos, um deles será um Elfo Líder.</p>\n  </li>\n  <li>\n    <p><strong>Imunidades</strong>: sono e paralisação do Ghoul.</p>\n  </li>\n  <li>\n    <p><strong>Infravisão</strong>: 18 metros.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × cimitarra + 4 (1d6+4)</li>\n  <li>1 × arco longo + 4 (1d8+2)</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × arco longo +4 (1d8+2)</li>\n  <li>1 × cimitarra +4 (1d6+4)</li>\n</ul>\n",
     "encounters": "-",
     "encounters_lair": "-",
     "xp": "155",

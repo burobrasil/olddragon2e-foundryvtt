@@ -11,7 +11,7 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li><strong>Medroso</strong>: precisa ser bem-sucedido em um teste de moral toda vez que é atacado.</li>\n  <li><strong>Carga</strong>: carrega ou puxa até 4.500 moedas.</li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × coice + 2 (1d4)</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × coice +2 (1d4)</li>\n</ul>\n",
     "encounters": "0",
     "encounters_lair": "0",
     "xp": "35",

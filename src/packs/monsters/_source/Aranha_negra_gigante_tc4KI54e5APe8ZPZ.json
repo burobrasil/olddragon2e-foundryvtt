@@ -11,7 +11,7 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li><strong>Veneno</strong>: causa morte em 1d4+1 turnos em caso de falha em uma JPC.</li>\n  <li><strong>Teia</strong>: criaturas presas na teia são considerados alvos enredados e incapazes de se mover até serem bem-sucedidos em um teste de Força Difícil.</li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × picada + 4(2d6 + veneno)</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × picada +4 (2d6 + veneno)</li>\n</ul>\n",
     "encounters": "1d4",
     "encounters_lair": "1d4",
     "xp": "95",

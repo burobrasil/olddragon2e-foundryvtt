@@ -11,7 +11,7 @@
     "alignment": "ordeiro",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Imunidades</strong>: quando transformados, um Licantropo é imune ao dano de qualquer arma não mágica. Armas mágicas, magia e prata causam dano normal a um Licantropo.</p>\n  </li>\n  <li><strong>Convocar animais</strong>: um Homem-Rato pode convocar 1d3 ratos gigantes. Os animais convocados chegam em 1d4 rodadas.</li>\n  <li><strong>Transformado</strong>: Homens-Rato podem falar mesmo na forma monstruosa e podem usar armas de ataque. Um Homem-Rato em forma animal se transforma em um Rato Gigante.</li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × mordida + 4 (1d4)</li>\n  <li>1 × espada curta + 4 (1d6)</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × espada curta +4 (1d6)</li>\n  <li>1 × mordida +4 (1d4)</li>\n</ul>\n",
     "encounters": "1d8",
     "encounters_lair": "2d8",
     "xp": "95",

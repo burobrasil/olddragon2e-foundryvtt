@@ -11,7 +11,7 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li><strong>Correr</strong>: pode correr com movimento 18 durante 1 turno ou 15 durante 2 turnos</li>\n  <li><strong>Carga</strong>: carrega até 3.000 moedas ou 1.500 moedas e um montador.</li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × coice + 2 (1d4)</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × coice +2 (1d4)</li>\n</ul>\n",
     "encounters": "0",
     "encounters_lair": "0",
     "xp": "35",

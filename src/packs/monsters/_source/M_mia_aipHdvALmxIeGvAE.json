@@ -11,7 +11,7 @@
     "alignment": "caotico",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Silencioso</strong>: não produz som algum ao movimentar- se e se mantém silencioso até atacar.</p>\n  </li>\n  <li>\n    <p><strong>Morto-vivo</strong>: imune a frio, magias mentais de manipulação, controle ou ilusão, ou demais formas mágicas de interferir na mente de seres vivos. Sofre 1d6 de dano ácido por frasco de água benta.</p>\n  </li>\n  <li>\n    <p><strong>Imunidades</strong>: além das imunidades comuns aos mortos-vivos, Múmias são feridas apenas por fogo, magia ou armas mágicas e, mesmo assim, todo dano recebido é reduzido à metade.</p>\n  </li>\n  <li>\n    <p><strong>Aura Aterrorizante</strong>: qualquer criatura a até 30 metros da Múmia, capaz de ver ou percebê-la, é afetada pela sua Aura Aterrorizante. Enquanto a Múmia não atacar ou não se afastar, todos afetados pela Aura Aterrorizante ficarão paralisados de medo.  Uma JPS nega o efeito da Aura Aterrorizante.</p>\n  </li>\n  <li>\n    <p><strong>Doença</strong>: qualquer alvo que receber dano de um ataque físico de uma Múmia será infectado pela Podridão da Múmia. A Podridão impede toda cura mágica e retarda toda forma de cura não mágica a uma taxa de apenas 10% da cura normal, além de causar o apodrecimento da vítima. Apenas um Curar Doenças remove uma Podridão da Múmia.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × toque + 6 (1d12 + doença)</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × toque +6 (1d12 + doença)</li>\n</ul>\n",
     "encounters": "1d4",
     "encounters_lair": "1d12",
     "xp": "340",

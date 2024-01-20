@@ -11,7 +11,7 @@
     "alignment": "caotico",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Magias</strong>: pode lançar magias como um Mago de 10º nível, preferindo magia de Ilusão.</p>\n  </li>\n  <li>\n    <p><strong>Amaldiçoar</strong>: podem lançar uma maldição no alvo. Esta só pode ser desfeita por magias que lidam com maldições ou pela vontade da Bruxa que a lançou.</p>\n  </li>\n  <li>\n    <p><strong>Transformar</strong>: pode se transformar a vontade em qualquer criatura humanoide desejada, pelo tempo que quiser. Sua sombra, contudo, permanece a mesma.</p>\n  </li>\n  <li>\n    <p><strong>Resistência à magia</strong>: qualquer magia lançada contra uma Bruxa possui 1-2 chances em 1d6 de ser completamente ignorada.</p>\n  </li>\n  <li>\n    <p><strong>Água cristalina</strong>: água vinda de uma fonte pura e sagrada pode lhe causar dano como se fosse ácido, mas infringindo 1d10 pontos regressivos.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × garra + 8 (2d6 +5)</li>\n  <li>1 × mordida + 8 (1d10+7)</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × garra +8 (2d6+5)</li>\n  <li>1 × mordida +8 (1d10+7)</li>\n</ul>\n",
     "encounters": "0",
     "encounters_lair": "1",
     "xp": "740",

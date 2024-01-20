@@ -11,7 +11,7 @@
     "alignment": "ordeiro",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Imunidades</strong>: um Efreeti é imune ao dano de qualquer arma não mágica.</p>\n  </li>\n  <li>\n    <p><strong>Magia</strong>: um Efreeti pode lançar magias como se fosse um Mago de 3º nível.</p>\n  </li>\n  <li>\n    <p><strong>Explosão de Fogo</strong>: o Efreeti pode, uma vez ao dia, causar uma explosão de fogo ao seu redor semelhante à magia Bola de Fogo.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × pancada + 11 (2d8 )</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × pancada +11 (2d8)</li>\n</ul>\n",
     "encounters": "1",
     "encounters_lair": "1",
     "xp": "1400",

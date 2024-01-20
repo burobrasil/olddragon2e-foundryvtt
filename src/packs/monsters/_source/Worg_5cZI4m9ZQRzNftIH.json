@@ -11,7 +11,7 @@
     "alignment": "caotico",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Classe de armadura</strong>: Worgs possuem CA 12 ou 17 quando usam armadura de placas.</p>\n  </li>\n  <li>\n    <p><strong>Montaria</strong>: pode ser usado como montaria apta para combater, sendo capaz de realizar ataques de investida se ainda não engajado em combate, usar armaduras e atacar na mesma rodada que seu condutor.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × garra + 5 (2d4)</li>\n  <li>1 × mordida + 5 (1d6)</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × garra +5 (2d4)</li>\n  <li>1 × mordida +5 (1d6)</li>\n</ul>\n",
     "encounters": "1d4",
     "encounters_lair": "2d4",
     "xp": "75",

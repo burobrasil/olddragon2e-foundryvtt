@@ -11,7 +11,7 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li><strong>Abraço</strong>: se o Urso acertar os dois ataques com suas garras, conseguirá agarrar seu alvo, causando 2d8 de dano enquanto estiver agarrando o alvo.</li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>2 × garras + 6 (1d4)</li>\n  <li>1 × mordida + 6 (1d8)</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × mordida +6 (1d8)</li>\n  <li>2 × garras +6 (1d4)</li>\n</ul>\n",
     "encounters": "1",
     "encounters_lair": "1d4",
     "xp": "175",

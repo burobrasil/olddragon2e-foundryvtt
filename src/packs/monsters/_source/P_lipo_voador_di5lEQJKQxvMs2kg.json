@@ -11,7 +11,7 @@
     "alignment": "caotico",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Imunidades</strong>: um Pólipo Voador é imune ao dano de qualquer arma não mágica e ao dano proveniente de eletricidade.</p>\n  </li>\n  <li>\n    <p><strong>Ataque Elétrico</strong>: ao invés de atacar, um Pólipo Voador pode desferir ataques elétricos numa linha de até 12 metros. O dano de um ataque elétrico é de 3d8 em todos que estiverem na linha reta atravessada pelo raio. Um teste de JPD pode reduzir o dano pela metade.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>2 × tentáculos + 6 (2d4 + 2)</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>2 × tentáculos +6 (2d4+2)</li>\n</ul>\n",
     "encounters": "1",
     "encounters_lair": "0",
     "xp": "305",

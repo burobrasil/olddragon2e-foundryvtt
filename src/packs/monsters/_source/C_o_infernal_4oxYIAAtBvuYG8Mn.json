@@ -11,7 +11,7 @@
     "alignment": "caotico",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Sopro de fogo</strong>: podem usar a vontade.  Causa 1d10 de dano. Quando mordem o alvo e tiram um 20 no dado, causam automaticamente 1d10 de dano extra pelo sopro.</p>\n  </li>\n  <li>\n    <p><strong>Imunidade</strong>: são imunes a qualquer fogo normal, recebendo metade do dano caso a origem do fogo seja mágica.</p>\n  </li>\n  <li>\n    <p><strong>Visão extradimensional</strong>: possuem 50% de chance de ver alvos invisíveis ou em viagem planar.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>2 × mordidas + 5 (1d6+2 )</li>\n  <li>1 × baforada + 3 (1d10)</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × baforada +3 (1d10)</li>\n  <li>2 × mordidas +5 (1d6+2)</li>\n</ul>\n",
     "encounters": "2d4",
     "encounters_lair": "2d4",
     "xp": "175",

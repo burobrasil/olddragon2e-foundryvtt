@@ -11,7 +11,7 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li><strong>Confusão</strong>: quando 10 ou mais morcegos sobrevoam um alvo, causam nele um ataque de confusão. O alvo recebe -2 para realizar qualquer ação que não seja se debater e tentar afastar os morcegos.</li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × enxame + 0 (confusão)</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × enxame (confusão)</li>\n</ul>\n",
     "encounters": "1d100",
     "encounters_lair": "1d100",
     "xp": "5",

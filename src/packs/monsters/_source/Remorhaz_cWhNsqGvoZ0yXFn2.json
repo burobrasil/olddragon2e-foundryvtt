@@ -11,7 +11,7 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Derrete Metais</strong>: ao entrar em combate, o Remorhaz secreta um óleo incrivelmente quente no seu dorso, capaz até mesmo de derreter metais ou causar dano por cauterização.  Qualquer um que tocar suas costas sofrerá 10d10 pontos de dano. Armas que toquem suas costas durante um ataque são imediatamente derretidas. Este efeito não atinge armas mágicas.</p>\n  </li>\n  <li>\n    <p><strong>Engolir</strong>: se um Remorhaz obtiver um 20 natural em seu teste de ataque, engolirá seu oponente matando-o imediatamente, sem direito a nenhuma jogada de proteção.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × mordida + 12 (5d6)</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × mordida +12 (5d6)</li>\n</ul>\n",
     "encounters": "1",
     "encounters_lair": "1d3",
     "xp": "2025",

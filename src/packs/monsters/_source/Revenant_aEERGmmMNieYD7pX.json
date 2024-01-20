@@ -11,7 +11,7 @@
     "alignment": "caotico",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Silencioso</strong>: não produz som algum ao movimentar-se e se mantém silencioso até atacar.</p>\n  </li>\n  <li>\n    <p><strong>Morto-Vivo</strong>: imune a frio, magias mentais de manipulação, controle ou ilusão, ou demais formas mágicas de interferir na mente de seres vivos. Sofre 1d6 de dano ácido por frasco de água benta.</p>\n  </li>\n  <li>\n    <p><strong>Imunidades</strong>: além das imunidades comuns aos mortos-vivos, Revenants são feridos apenas por magia e armas mágicas ou de prata.  Armas de prata causam apenas metade do dano. Revenants também são imunes ao poder de Afastar Mortos-Vivos de um Clérigo.</p>\n  </li>\n  <li>\n    <p><strong>Esganar</strong>: se o Revenant acertar os dois ataques com suas garras, conseguirá agarrar o pescoço de sua vítima, causando 2d8 por sufocamento enquanto estiver esganando o alvo.</p>\n  </li>\n  <li>\n    <p><strong>Reconstituição</strong>: um Revenant retornará a vida, e continuará sua busca por justiça, 1d4 horas após ser morto. As únicas formas de evitar o retorno de um Revenant são: destruir seu cadáver com ácido ou fogo, ou a morte de seu assassino.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>2 × garras + 8 (1d8)</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>2 × garras +8 (1d8)</li>\n</ul>\n",
     "encounters": "1",
     "encounters_lair": "0",
     "xp": "740",

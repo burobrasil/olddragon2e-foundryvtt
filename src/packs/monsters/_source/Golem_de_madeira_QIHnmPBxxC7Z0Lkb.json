@@ -11,7 +11,7 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Imunidades</strong>: um Golem de Madeira é imune ao dano de qualquer arma não mágica. Além disso, não são atingidos por ataques que necessitem de um alvo vivo (como gases, venenos ou magias mentais como ilusões ou demais formas mágicas de interferir na mente de seres vivos).</p>\n  </li>\n  <li>\n    <p><strong>Vulnerabilidade</strong>: um Golem de Madeira resiste a qualquer ataque de fogo com um penalizador de -2 e recebe um dano adicional de 1 em todo dano causado por fogo.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × pancada + 2 (1d8)</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × pancada +2 (1d8)</li>\n</ul>\n",
     "encounters": "1",
     "encounters_lair": "1",
     "xp": "65",

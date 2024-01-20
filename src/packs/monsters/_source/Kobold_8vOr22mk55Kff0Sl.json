@@ -11,7 +11,7 @@
     "alignment": "caotico",
     "variant": false,
     "description": "<ul>\n  <li><strong>Infravisão</strong>: 18 metros.</li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>2 × mordidas + 1 (1d4)</li>\n  <li>1 × arma + 0 (arma)</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × arma (arma)</li>\n  <li>2 × mordidas +1 (1d4)</li>\n</ul>\n",
     "encounters": "4d4",
     "encounters_lair": "6d10",
     "xp": "5",

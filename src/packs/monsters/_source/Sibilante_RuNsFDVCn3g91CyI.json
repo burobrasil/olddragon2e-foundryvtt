@@ -11,7 +11,7 @@
     "alignment": "caotico",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Classe de armadura</strong>: possuem CA 13 ou 16 quando usam armadura de couro batido.</p>\n  </li>\n  <li>\n    <p><strong>Veneno</strong>: qualquer criatura mordida por um Sibilante deve ser bem-sucedida em uma JPC para evitar os efeitos paralisantes de seu veneno por 1d3 turnos. O veneno começa a fazer efeito 1d6+2 rodadas após a mordida.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × espada curta + 3 (1d6 + 1)</li>\n  <li>1 × mordida + 3 (1d4 + veneno)</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × espada curta +3 (1d6+1)</li>\n  <li>1 × mordida +3 (1d4 + veneno)</li>\n</ul>\n",
     "encounters": "1d4",
     "encounters_lair": "2d10",
     "xp": "35",

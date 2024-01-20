@@ -11,7 +11,7 @@
     "alignment": "caotico",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Roubar Forma</strong>: pode assumir a forma de qualquer criatura humanoide (P ou M). Um Doppelganger voltará a sua forma normal caso seja morto.</p>\n  </li>\n  <li>\n    <p><strong>Surpresa</strong>: uma vez que esteja escondido na forma roubada de uma vítima, atacará seu alvo surpreendendo em 1-5 em 1d6.</p>\n  </li>\n  <li>\n    <p><strong>Imunidade</strong>: efeitos de encantamentos ou de uma magia Sono.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × mordida + 4 (2d6 )</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × mordida +4 (2d6)</li>\n</ul>\n",
     "encounters": "1d6",
     "encounters_lair": "1d6",
     "xp": "175",

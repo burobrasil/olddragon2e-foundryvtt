@@ -11,7 +11,7 @@
     "alignment": "caotico",
     "variant": false,
     "description": "<ul>\n  <li><strong>Lutar até morrer</strong>: quando encurralados, recebem +1 no ataque e dano até o fim do combate.</li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × garra + 2 (1d4)</li>\n  <li>1 × arma + 2 (arma)</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × arma +2 (arma)</li>\n  <li>1 × garra +2 (1d4)</li>\n</ul>\n",
     "encounters": "2d4",
     "encounters_lair": "6d6",
     "xp": "35",

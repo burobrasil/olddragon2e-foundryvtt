@@ -11,7 +11,7 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Enferrujar</strong>: todo metal que toca um Monstro Ferrugem ou que é tocado por ele, enferruja e se desmancha em pó imediatamente.  Itens mágicos de metal, como armas e armaduras, possuem 10% de chance por bônus (uma adaga +3 possui 30% de chance) de não serem afetados ao tocarem ou serem tocados por um Monstro Ferrugem. Se um item mágico for afetado, perderá um dos seus bônus mágicos (se afetada, a adaga +3 se torna uma adaga +2).</p>\n  </li>\n  <li>\n    <p><strong>Imunidades</strong>: um Monstro Ferrugem é imune ao dano de qualquer arma não mágica.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × tentáculo + 5 (enferrujar)</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × tentáculo +5 (enferrujar)</li>\n</ul>\n",
     "encounters": "1d4",
     "encounters_lair": "1d4",
     "xp": "205",

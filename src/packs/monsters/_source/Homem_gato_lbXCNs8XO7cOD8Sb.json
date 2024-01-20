@@ -11,7 +11,7 @@
     "alignment": "caotico",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Imunidades</strong>: quando transformados, um Licantropo é imune ao dano de qualquer arma não mágica. Armas mágicas, magia e prata causam dano normal a um Licantropo.</p>\n  </li>\n  <li><strong>Convocar animais</strong>: um Homem-Gato pode convocar 1d3 felinos de qualquer tipo. Os animais convocados chegam em 1d4 rodadas.</li>\n  <li><strong>Surpresa</strong>: surpreendem seus inimigos com 1-4 chances em 1d6.</li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>2 × garras + 5 (1d6)</li>\n  <li>1 × mordida + 5 (2d6)</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × mordida +5 (2d6)</li>\n  <li>2 × garras +5 (1d6)</li>\n</ul>\n",
     "encounters": "1d4",
     "encounters_lair": "2d4",
     "xp": "205",

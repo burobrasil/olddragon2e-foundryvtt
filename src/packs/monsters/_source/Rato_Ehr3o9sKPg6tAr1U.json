@@ -11,7 +11,7 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li><strong>Doença</strong>: um rato possui 1 chance em 1d6 de transmitir Febre do Esgoto a um alvo mordido. Um alvo mordido que falhar em uma JPC, ficará doente e com valor de Constituição igual a 1 por 1d6 dias.</li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × mordida + 0 (1d4 + doença)</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × mordida (1d4 + doença)</li>\n</ul>\n",
     "encounters": "5d10",
     "encounters_lair": "2d10",
     "xp": "10",

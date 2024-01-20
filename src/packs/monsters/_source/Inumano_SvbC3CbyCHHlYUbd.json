@@ -11,7 +11,7 @@
     "alignment": "caotico",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Silencioso</strong>: não produz som algum ao movimentar- se e se mantêm silencioso até atacar.</p>\n  </li>\n  <li>\n    <p><strong>Morto-vivo</strong>: imune a frio, magias mentais de manipulação, controle ou ilusão ou demais formas mágicas de interferir na mente de seres vivos. Sofre 1d6 de dano ácido por frasco de água benta.</p>\n  </li>\n  <li>\n    <p><strong>Imunidades</strong>: além das imunidades comuns aos mortos-vivos, Inumanos são feridos apenas por magia e armas mágicas ou de prata.</p>\n  </li>\n  <li>\n    <p><strong>Dreno</strong>: o ataque de um Inumano, além do dano normal, drena 1 nível do alvo caso este não passe em uma JPC. Um alvo que tenha todos os seus níveis drenados assim retorna como um Inumano sob controle do Inumano que o criou.</p>\n  </li>\n  <li>\n    <p><strong>Inabalável</strong>: mortos-vivos não fazem testes de moral, a não ser quando sofrem o efeito de um Afastar Mortos-Vivos.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × garra + 4 (1d4 + 1 + dreno)</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × garra +4 (1d4+1 + dreno)</li>\n</ul>\n",
     "encounters": "1d6",
     "encounters_lair": "1d8",
     "xp": "150",

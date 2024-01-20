@@ -11,7 +11,7 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Detectar invisibilidade</strong>: pode enxergar normalmente qualquer alvo invisível, seja por magia ou habilidade.</p>\n  </li>\n  <li>\n    <p><strong>Petrificação</strong>: o alvo que tiver contato com seus olhos deve ser bem-sucedido em uma JPC ou virará pedra, voltando ao normal apenas por meios mágicos. O efeito do olhar alcança 15 metros e, caso o basilisco veja o próprio olhar, também pode ficar petrificado.</p>\n  </li>\n  <li>\n    <p><strong>Camuflagem</strong>: quando imóvel, surpreende o grupo em 1-4 em 1d6.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × mordida + 6 (1d10+2 )</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × mordida +6 (1d10+2)</li>\n</ul>\n",
     "encounters": "1d6",
     "encounters_lair": "1d6",
     "xp": "340",

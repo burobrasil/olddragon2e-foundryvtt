@@ -11,7 +11,7 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Veneno</strong>: um alvo atingido por um dos tentáculos do Roper deve ser bem-sucedido em uma JPC ou perderá metade de sua Força nos próximos 1d3 turnos. O efeito do veneno se mantém por até 2d4+1 turnos.</p>\n  </li>\n  <li>\n    <p><strong>Agarrar</strong>: um alvo que for atingido por um dos tentáculos e que não falhe numa JPC, será agarrado pelo Roper e arrastado por 3 metros até sua monstruosa boca.</p>\n  </li>\n  <li>\n    <p><strong>Imunidades</strong>: Ropers são imunes a ataques baseados em luz e eletricidade, sofrem apenas metade do dano proveniente do frio, mas possuem uma penalidade de 4 para resistir a efeitos do fogo.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × tentáculo + 11 (1d4 + veneno)</li>\n  <li>1 × mordida + 11 (5d4)</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × mordida +11 (5d4)</li>\n  <li>1 × tentáculo +11 (1d4 + veneno)</li>\n</ul>\n",
     "encounters": "1d3",
     "encounters_lair": "0",
     "xp": "1325",

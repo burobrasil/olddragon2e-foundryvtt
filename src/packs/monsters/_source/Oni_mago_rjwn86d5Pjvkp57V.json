@@ -11,7 +11,7 @@
     "alignment": "ordeiro",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Classe de armadura</strong>: Oni Magos possuem CA 13 ou 16 quando usam armadura de couro batido.</p>\n  </li>\n  <li>\n    <p><strong>Magias</strong>: como um Mago de 5º nível.</p>\n  </li>\n  <li>\n    <p><strong>Salto</strong>: o Oni Mago pode saltar até 10 metros, os quais podem ser divididos entre altura e distância. Assim, é possível a ele saltar 10 metros para cima ou 5 metros para frente e, ao mesmo tempo, 5 metros para cima.</p>\n  </li>\n  <li>\n    <p><strong>Transformar</strong>: pode se transformar em um ser humanoide 1 vez ao dia, por no máximo 12 horas.</p>\n  </li>\n  <li>\n    <p><strong>Pavor de sua imagem</strong>: caso seja refletido em um espelho, seus poderes deixarão de funcionar e ele tentará fugir a todo custo.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × arma + 5 (arma + 4)</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × arma +5 (arma +4)</li>\n</ul>\n",
     "encounters": "1d6",
     "encounters_lair": "0",
     "xp": "205",

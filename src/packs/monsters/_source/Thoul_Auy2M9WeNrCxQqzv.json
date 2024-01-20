@@ -11,7 +11,7 @@
     "alignment": "caotico",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Classe de armadura</strong>: Thouls possuem CA 13 ou 15 quando usam armadura de couro.</p>\n  </li>\n  <li>\n    <p><strong>Paralisia</strong>: um alvo atingido por um Thoul deve ser bem-sucedido em uma JPC ou ficará paralisado por até 2d4 turnos. Elfos são imunes a habilidade de Paralisia de um Thoul.</p>\n  </li>\n  <li>\n    <p><strong>Regeneração</strong>: um Thoul é capaz de regenerar 1 ponto de vida a cada rodada.  Esta regeneração não é capaz de reconstituir membros amputados. Um Thoul não é capaz de regenerar nenhum dano causado por fogo ou ácido.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>2 × garras + 3 (1d3 + paralisia)</li>\n  <li>1× arma + 3 (arma)</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × arma +3 (arma)</li>\n  <li>2 × garras +3 (1d3 + paralisia)</li>\n</ul>\n",
     "encounters": "1d6",
     "encounters_lair": "1d10",
     "xp": "75",

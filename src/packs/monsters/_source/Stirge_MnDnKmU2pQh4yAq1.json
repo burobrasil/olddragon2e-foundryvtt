@@ -11,7 +11,7 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li><strong>Dreno de Sangue</strong>: ao acertar o ataque, um Stirge consegue drenar sangue de sua vítima causando automaticamente 1d3 por rodada.  O Stirge apenas soltará a vítima se esta tentar arrancá-lo ou se a vítima morrer.</li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × mordida + 2 (1d3 + dreno)</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × mordida +2 (1d3 + dreno)</li>\n</ul>\n",
     "encounters": "1d10",
     "encounters_lair": "3d12",
     "xp": "25",

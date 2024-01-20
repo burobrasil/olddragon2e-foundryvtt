@@ -11,7 +11,7 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li><strong>Críticos Vorpais</strong>: se obtiver um acerto crítico em seu ataque, amputa um membro do alvo atacado. Uma JPD anula a amputação</li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>2 × garras + 9 (1d8)</li>\n  <li>1 × mordida + 9 (2d8)</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × mordida +9 (2d8)</li>\n  <li>2 × garras +9 (1d8)</li>\n</ul>\n",
     "encounters": "1",
     "encounters_lair": "1d3",
     "xp": "695",

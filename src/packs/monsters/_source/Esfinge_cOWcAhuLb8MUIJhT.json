@@ -11,7 +11,7 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Rugido</strong>: duas vezes por dia, a Esfinge pode rugir e qualquer vítima até 36 metros dela deve ser bem-sucedida em uma JPS com uma penalidade de 4 ou fugirá com medo por 1d6 turnos.</p>\n  </li>\n  <li>\n    <p><strong>Magia</strong>: uma esfigie pode conjurar magias como se fosse um Mago de 6º nível.</p>\n  </li>\n  <li>\n    <p><strong>Imunidade à magia</strong>: não é afetada por nenhuma magia de 1º, 2º e 3º círculos.</p>\n  </li>\n  <li>\n    <p><strong>Resistência</strong>: só pode ser atingida por armas de prata, armas mágicas +1 ou superiores.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>2 × garras + 11 (3d6 )</li>\n  <li>1 × mordida + 8 (2d8)</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × mordida +8 (2d8)</li>\n  <li>2 × garras +11 (3d6)</li>\n</ul>\n",
     "encounters": "1d2",
     "encounters_lair": "1d4",
     "xp": "1325",

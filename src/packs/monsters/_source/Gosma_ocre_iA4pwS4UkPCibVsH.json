@@ -11,7 +11,7 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Ácido</strong>: a Gosma Ocre causa dano ácido aos inimigos tocados em combate. Seu ácido é capaz de destruir papel, tecido, couro e madeira, mas não pedra e metal.</p>\n  </li>\n  <li>\n    <p><strong>Divisão</strong>: se atacadas por eletricidade ou armas cortantes, uma Gosma Ocre pode ser dividida ao meio. As Gosmas Ocres resultantes da divisão devem ser tratadas como dois inimigos diferentes com a metade dos pontos de vida restantes da Gosma Ocre original.</p>\n  </li>\n  <li>\n    <p><strong>Imunidades</strong>: imune aos efeitos do frio e da eletricidade. Uma Gosma Ocre atacada com eletricidade ainda pode se dividir ao meio.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × toque + 5 (1d6 + ácido)</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × toque +5 (1d6 + ácido)</li>\n</ul>\n",
     "encounters": "1",
     "encounters_lair": "0",
     "xp": "235",

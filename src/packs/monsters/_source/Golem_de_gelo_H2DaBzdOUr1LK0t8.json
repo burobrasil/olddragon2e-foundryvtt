@@ -11,7 +11,7 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Imunidades</strong>: um Golem de Gelo é imune ao dano de qualquer arma não mágica. Além disso, não são atingidos por ataques que necessitem de um alvo vivo (como gases, venenos ou magias mentais como ilusões ou demais formas mágicas de interferir na mente de seres vivos). Um Golem de Gelo também é inume a qualquer ataque de gelo ou frio.</p>\n  </li>\n  <li>\n    <p><strong>Estilhaços de Gelo</strong>: quando reduzido a zero pontos de vida, um Golem de Gelo explode em estilhaços de gelo afiados. Todas as criaturas a até 3 metros de distância do Golem de Gelo recebem 3d6 pontos de dano da explosão. Uma JPD pode reduzir o dano à metade.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>2 × pancadas + 9 (2d8 )</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>2 × pancadas +9 (2d8)</li>\n</ul>\n",
     "encounters": "1",
     "encounters_lair": "1",
     "xp": "740",

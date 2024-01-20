@@ -11,7 +11,7 @@
     "alignment": "caotico",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Classe de armadura</strong>: possuem CA 11 ou 14 quando usam armadura de couro e escudo.</p>\n  </li>\n  <li>\n    <p><strong>Infravisão</strong>: 18 metros.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × arma + 3 (arma + 0)</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × arma +3 (arma +0)</li>\n</ul>\n",
     "encounters": "2d4",
     "encounters_lair": "1d6x10",
     "xp": "15",

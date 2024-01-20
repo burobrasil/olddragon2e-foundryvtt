@@ -11,7 +11,7 @@
     "alignment": "caotico",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Classe de armadura</strong>: possuem CA 13 ou 15 quando usam armadura de couro.</p>\n  </li>\n  <li>\n    <p><strong>Emboscar</strong>: podem prender a respiração por até 10 minutos sob a água, atacando de surpresa e ganhando a iniciativa.</p>\n  </li>\n  <li>\n    <p><strong>Saliva paralisante</strong>: 1 vez por combate podem lançar um cuspe à 5 metros de distância capaz de paralisar a vítima por 1d4-2 rodadas, a menos que esta passe em uma JPD.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × tridente + 2 (1d6+2 )</li>\n  <li>1 × chicote + 3 (1d4+2)</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × chicote +3 (1d4+2)</li>\n  <li>1 × tridente +2 (1d6+2)</li>\n</ul>\n",
     "encounters": "2d4",
     "encounters_lair": "4d6",
     "xp": "25",

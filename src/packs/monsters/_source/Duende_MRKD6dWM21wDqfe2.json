@@ -11,7 +11,7 @@
     "alignment": "ordeiro",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Faro de ouro</strong>: podem farejar ouro a 1km de distância.</p>\n  </li>\n  <li>\n    <p><strong>Persuadir</strong>: podem convencer alguém a tomar seu lado em uma briga, defendendo-o.  O alvo deve ser bem-sucedido em uma JPS para não ser influenciado. Esta habilidade funciona como Enfeitiçar Pessoas lançada por um Mago de 10º nível.</p>\n  </li>\n  <li>\n    <p><strong>Imunidades</strong>: a magias mentais de manipulação, controle ou ilusão, ou demais formas mágicas de interferir na mente de seres vivos.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × arma + 1 (arma + 0 )</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × arma +1 (arma +0)</li>\n</ul>\n",
     "encounters": "1",
     "encounters_lair": "1d20",
     "xp": "35",

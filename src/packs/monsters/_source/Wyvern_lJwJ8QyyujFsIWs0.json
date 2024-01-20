@@ -11,7 +11,7 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li><strong>Veneno</strong>: seu ferrão inocula veneno mortal, capaz de matar em até 1d6+2 rodadas todos os que não passarem em um teste de JPC.</li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × mordida + 7 (2d8)</li>\n  <li>1 × ferrão + 7 (1d6 + veneno)</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × ferrão +7 (1d6 + veneno)</li>\n  <li>1 × mordida +7 (2d8)</li>\n</ul>\n",
     "encounters": "1d2",
     "encounters_lair": "1d6",
     "xp": "460",

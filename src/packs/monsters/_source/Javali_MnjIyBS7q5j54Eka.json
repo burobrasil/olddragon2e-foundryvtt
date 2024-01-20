@@ -11,7 +11,7 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li><strong>Investida</strong>: se ainda não engajado em combate, pode usar a manobra de investida para causar o dobro de dano com suas presas.</li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × presa + 4 (2d4)</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × presa +4 (2d4)</li>\n</ul>\n",
     "encounters": "1d6",
     "encounters_lair": "1d6",
     "xp": "75",

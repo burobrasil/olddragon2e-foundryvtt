@@ -11,7 +11,7 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li><strong>Rasante</strong>: podem realizar um ataque rasante com +2 para acertar o ataque, +2 no dano causado e -2 na CA. Causam dano dobrado em vítimas surpresas.</li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × garra + 1 (1d2)</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × garra +1 (1d2)</li>\n</ul>\n",
     "encounters": "0",
     "encounters_lair": "1d6",
     "xp": "10",

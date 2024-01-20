@@ -11,7 +11,7 @@
     "alignment": "caotico",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Silencioso</strong>: não produz som algum ao movimentar-se e se mantém silencioso até atacar.</p>\n  </li>\n  <li>\n    <p><strong>Morto-vivo</strong>: imune a frio, magias mentais de manipulação, controle ou ilusão, ou demais formas mágicas de interferir na mente de seres vivos. Sofre 1d6 de dano ácido por frasco de água benta.</p>\n  </li>\n  <li>\n    <p><strong>Paralisia</strong>: alvo atingido por um Ghoul deve ser bem-sucedido em uma JPC ou ficará paralisado por até 1d6 turnos. Elfos são imunes à habilidade de Paralisia de um Ghoul.</p>\n  </li>\n  <li>\n    <p><strong>Inabalável</strong>: mortos-vivos não fazem testes de moral, a não ser quando sofrem o efeito de um Afastar Mortos-Vivos.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>2 × garras + 3 (1d4 + paralisia)</li>\n  <li>1 × mordida + 3 (1d3 + paralisia)</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × mordida +3 (1d3 + paralisia)</li>\n  <li>2 × garras +3 (1d4 + paralisia)</li>\n</ul>\n",
     "encounters": "1d6",
     "encounters_lair": "2d8",
     "xp": "95",

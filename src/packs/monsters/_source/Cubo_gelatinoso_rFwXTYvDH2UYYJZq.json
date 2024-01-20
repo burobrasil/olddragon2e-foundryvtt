@@ -11,7 +11,7 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Surpresa</strong>: surpreende seus inimigos com um resultado de 1-4 em 1d6.</p>\n  </li>\n  <li>\n    <p><strong>Paralisia</strong>: o alvo deve ser bem-sucedido em uma JPC ou ficará paralisado por 2d4 turnos.</p>\n  </li>\n  <li>\n    <p><strong>Imunidades</strong>: imune aos efeitos do frio e da eletricidade.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × toque + 4 (2d4 + paralisia )</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × toque +4 (2d4 + paralisia)</li>\n</ul>\n",
     "encounters": "1",
     "encounters_lair": "0",
     "xp": "150",

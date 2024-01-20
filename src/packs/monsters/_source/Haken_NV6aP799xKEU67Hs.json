@@ -11,7 +11,7 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Infravisão</strong>: 18 metros.</p>\n  </li>\n  <li>\n    <p><strong>Camuflagem</strong>: sua cor escura garante um bônus de +1 em testes de surpresa.</p>\n  </li>\n  <li>\n    <p><strong>Desarmar</strong>: caso obtenham um resultado 20 no dado de ataque, arrancam das mãos do inimigo seu escudo ou arma (nesta ordem, caso os tenham).</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>2 × garras + 2 (1d8+1)</li>\n  <li>1 × chifre + 2 (2d6+1)</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × chifre +2 (2d6+1)</li>\n  <li>2 × garras +2 (1d8+1)</li>\n</ul>\n",
     "encounters": "1d4",
     "encounters_lair": "2d6",
     "xp": "175",

@@ -11,7 +11,7 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Imunidades</strong>: um Golem de Ossos é imune ao dano de qualquer arma não mágica. Além disso, não são atingidos por ataques que necessitem de um alvo vivo (como gases, venenos ou magias mentais como ilusões ou demais formas mágicas de interferir na mente de seres vivos).</p>\n  </li>\n  <li>\n    <p><strong>Quatro Braços</strong>: um Golem de Ossos possui 4 braços os quais podem ser usados para atacar até 2 oponentes diferentes. Um Golem de Ossos pode ainda usar duas armas de duas mãos e desferir dois ataques em um único oponente.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × arma + 9 (arma + 0)</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × arma +9 (arma +0)</li>\n</ul>\n",
     "encounters": "1",
     "encounters_lair": "1",
     "xp": "740",

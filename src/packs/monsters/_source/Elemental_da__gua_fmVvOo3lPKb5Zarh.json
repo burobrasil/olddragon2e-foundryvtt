@@ -11,7 +11,7 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Dependência</strong>: um Elemental da Água precisa estar, no máximo, a 20 metros de distância de uma fonte de água.</p>\n  </li>\n  <li>\n    <p><strong>Potencializado</strong>: um ataque realizado a um alvo dentro de um corpo de água, submerso ou parcialmente submerso causa 1d8 de dano adicional.</p>\n  </li>\n  <li>\n    <p><strong>Imunidades</strong>: um Elemental da Água é imune ao dano de qualquer arma não mágica e a qualquer dano proveniente da água, ainda que mágico.</p>\n  </li>\n  <li>\n    <p><strong>Vulnerabilidade</strong>: um Elemental da Água leva dano dobrado de qualquer ataque proveniente de uma fonte de ar.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>2 × pancadas + 9 (2d8+5 )</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>2 × pancadas +9 (2d8+5)</li>\n</ul>\n",
     "encounters": "1",
     "encounters_lair": "1",
     "xp": "460",

@@ -11,7 +11,7 @@
     "alignment": "neutro",
     "variant": false,
     "description": null,
-    "described_attacks": "<ul>\n  <li>1 × chute + 12 (3d6)</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × chute +12 (3d6)</li>\n</ul>\n",
     "encounters": "0",
     "encounters_lair": "1d4",
     "xp": "8250",

@@ -11,7 +11,7 @@
     "alignment": "caotico",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Silencioso</strong>: não produz som algum ao movimentar- se e se mantém silencioso até atacar.</p>\n  </li>\n  <li>\n    <p><strong>Morto-vivo</strong>: imune a magias mentais de manipulação, controle ou ilusão, ou demais formas mágicas de interferir na mente de seres vivos. Sofre 1d6 de dano ácido por frasco de água benta.</p>\n  </li>\n  <li>\n    <p><strong>Lento</strong>: sempre perde a Iniciativa num combate. Um Zumbi sempre ataca por último.</p>\n  </li>\n  <li>\n    <p><strong>Infecção</strong>: personagens mordidos devem passar em uma JPC ou se tornarão Zumbis em 1d4 dias, a não ser que uma magia de Curar Doenças ou Curar Ferimentos seja usada no alvo infectado.</p>\n  </li>\n  <li>\n    <p><strong>Inabalável</strong>: mortos-vivos não fazem testes de moral a não ser quando sofrem o efeito de um Afastar Mortos-Vivos.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × mordida + 2 (1d4 + 1 + infecção)</li>\n  <li>1 × garra + 2 (1d6 + 2)</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × garra +2 (1d6+2)</li>\n  <li>1 × mordida +2 (1d4+1 + infecção)</li>\n</ul>\n",
     "encounters": "2d4",
     "encounters_lair": "4d6",
     "xp": "35",

@@ -11,7 +11,7 @@
     "alignment": "neutro",
     "variant": true,
     "description": "<ul>\n  <li><strong>Custo</strong>: 2PO por mês.</li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × besta + 1 (1d6)</li>\n  <li>1 × espada curta + 1 (1d6)</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × besta +1 (1d6)</li>\n  <li>1 × espada curta +1 (1d6)</li>\n</ul>\n",
     "encounters": "-",
     "encounters_lair": "-",
     "xp": "15",

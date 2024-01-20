@@ -11,7 +11,7 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li><strong>Correr</strong>: pode correr com movimento 12 durante 1 turno.</li>\n  <li><strong>Preparado</strong>: pode ser usado em combate e são treinados no uso de armaduras</li>\n  <li><strong>Investida</strong>: se ainda não engajado em combate, pode usar a manobra de investida para aumentar o dano do ataque do cavaleiro.</li>\n  <li><strong>Combatente</strong>: é capaz de atacar no mesmo turno que seu combatente.</li>\n  <li><strong>Carga</strong>: carrega até 1.500 moedas ou 750 moedas e um montador.</li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × coice + 2 (1d3)</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × coice +2 (1d3)</li>\n</ul>\n",
     "encounters": "0",
     "encounters_lair": "0",
     "xp": "15",

@@ -11,7 +11,7 @@
     "alignment": "caotico",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Classe de armadura</strong>: possuem CA 16 ou 18 quando usam armadura de couro.</p>\n  </li>\n  <li>\n    <p><strong>Camuflagem</strong>: quando enterrados sob a neve, surpreendem seus inimigos com 1-4 chances em 1d6.</p>\n  </li>\n  <li>\n    <p><strong>Resistência ao frio</strong>: imunidade total ao frio oriundo de fontes naturais ou mágicas.  Frio mágico pode causar outros efeitos que não seja de dano.</p>\n  </li>\n  <li>\n    <p><strong>Golpe Potente</strong>: se conseguir causar, com uma pancada, pedrada ou arma, uma quantidade de dano maior que a força do alvo, este é arremessado 1d6 metros para trás.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>2 × pancadas + 12 (1d8 +6)</li>\n  <li>1 × arma + 9 (arma+8)</li>\n  <li>1 × pedrada + 7 (2d10)</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × arma +9 (arma +8)</li>\n  <li>1 × pedrada +7 (2d10)</li>\n  <li>2 × pancadas +12 (1d8+6)</li>\n</ul>\n",
     "encounters": "1d2",
     "encounters_lair": "1d4",
     "xp": "2025",

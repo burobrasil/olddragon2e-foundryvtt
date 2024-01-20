@@ -11,7 +11,7 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Imunidades</strong>: um Golem de Carne é imune ao dano de qualquer arma não mágica. Além disso, não são atingidos por ataques que necessitem de um alvo vivo (como gases, venenos ou magias mentais como ilusões ou demais formas mágicas de interferir na mente de seres vivos).</p>\n  </li>\n  <li>\n    <p><strong>Cura Elétrica</strong>: o Golem de Carne cura 1 ponto de vida para cada dado de dano causado por um ataque de fogo.</p>\n  </li>\n  <li>\n    <p><strong>Fogo e Frio</strong>: ataques de fogo e frio, mesmo os mágicos, deixam os golens lerdos por 2d6 rodadas. Um golem lerdo tem seu movimento reduzido à metade, e recebe uma penalidade de 2 em todas as jogadas e na CA.</p>\n  </li>\n  <li>\n    <p><strong>Fúria</strong>: a cada rodada que estiver em combate, um Golem de Carne tem uma chance cumulativa de 1% de se libertar do controle do seu mestre e entrar em fúria, atacando tudo e a todos que estiverem ao seu alcance.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>2 × pancadas + 9 (2d8 )</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>2 × pancadas +9 (2d8)</li>\n</ul>\n",
     "encounters": "1",
     "encounters_lair": "1",
     "xp": "1025",

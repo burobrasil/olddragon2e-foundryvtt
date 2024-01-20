@@ -11,7 +11,7 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Encantar</strong>: podem, uma vez ao dia, usar a magia Enfeitiçar Pessoas como um Mago de 12º nível. Apenas um Dissipar Magia ou um sucesso em uma JPS nega o efeito.</p>\n  </li>\n  <li>\n    <p><strong>Comandar Peixes</strong>: podem comandar até 1d10x10 peixes para fazerem suas vontades, até mesmo para atacar. Os peixes só deixarão de combater caso sejam ameaçados com fogo ou algum tipo de explosão.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × arma + 1 (arma + 0)</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × arma +1 (arma +0)</li>\n</ul>\n",
     "encounters": "0",
     "encounters_lair": "2d20",
     "xp": "65",

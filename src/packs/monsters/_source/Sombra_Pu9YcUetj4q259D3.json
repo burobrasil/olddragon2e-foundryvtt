@@ -11,7 +11,7 @@
     "alignment": "caotico",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Surpresa</strong>: surpreende o grupo em 1-5 em 1d6, caso não esteja num ambiente totalmente iluminado e sem nenhuma sombra.</p>\n  </li>\n  <li>\n    <p><strong>Dreno</strong>: seu ataque drena 1 ponto de Força temporariamente. Um personagem reduzido a zero ou menos pontos de Força morre imediatamente. Um ponto de Força drenado é recuperado após 8 turnos.</p>\n  </li>\n  <li>\n    <p><strong>Imunidades</strong>: são imunes aos efeitos de encantamentos ou de uma magia Sono, e a todo dano causado por armas não mágicas.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × toque + 3 (1d4 + dreno)</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × toque +3 (1d4 + dreno)</li>\n</ul>\n",
     "encounters": "1d8",
     "encounters_lair": "1d12",
     "xp": "50",

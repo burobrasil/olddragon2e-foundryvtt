@@ -11,7 +11,7 @@
     "alignment": "caotico",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Petrificação</strong>: quando acerta com seu bico, o alvo deve passar em uma JPC ou ficará petrificado até alguma magia pertinente desfazer o efeito.</p>\n  </li>\n  <li>\n    <p><strong>Imunidade</strong>: a Cocatriz é imune a qualquer tipo de petrificação, seja esta mágica ou não.</p>\n  </li>\n  <li>\n    <p><strong>Confusão</strong>: quando acerta com suas garras, o alvo deve passar em uma JPD ou perderá a sua ação. Caso o alvo fique confuso, o próximo ataque do Cocatriz é realizado como um ataque muito fácil.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × bicada + 5 (1d4 + petrificação )</li>\n  <li>1 × garra + 3 (1d4 + 1 + confusão)</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × bicada +5 (1d4 + petrificação)</li>\n  <li>1 × garra +3 (1d4+1 + confusão)</li>\n</ul>\n",
     "encounters": "1d4",
     "encounters_lair": "1d8",
     "xp": "235",

@@ -11,7 +11,7 @@
     "alignment": "caotico",
     "variant": false,
     "description": "<ul>\n  <li><strong>Baforada de Dragão</strong>: há 1-3 chances em 1d6 de uma cabeça de dragão trocar os ataques de mordida por uma baforada de dragão de 3d6 de dano.</li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>3 × mordidas + 9 (2d4)</li>\n  <li>2 × garras + 7 (1d6)</li>\n  <li>1 × chifre + 7 (1d4)</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × chifre +7 (1d4)</li>\n  <li>2 × garras +7 (1d6)</li>\n  <li>3 × mordidas +9 (2d4)</li>\n</ul>\n",
     "encounters": "1d2",
     "encounters_lair": "1d4",
     "xp": "975",
