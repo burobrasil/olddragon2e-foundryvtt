@@ -11,7 +11,7 @@
     "alignment": "neutro",
     "variant": false,
     "description": null,
-    "described_attacks": "<ul>\n  <li>1 × mordida + 2 (2d6 )</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × mordida +2 (2d6)</li>\n</ul>\n",
     "encounters": "2d4",
     "encounters_lair": "4d6",
     "xp": "125",

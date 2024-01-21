@@ -11,7 +11,7 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Esporo</strong>: qualquer alvo que receber dano de uma Vinha Mortal tem uma chance de 1 em 1d6, cumulativa por ataque recebido (dois ataques, 1-2 chances; três ataques, 1-3 chances; etc.) de ser infectado por um esporo. Cada vítima infectada deve ser bem-sucedida em uma JPC ou estes esporos se desenvolverão dentro do hospedeiro, levando-o a morte em 1d6 horas. Uma magia de cura é capaz de interromper o processo de desenvolvimento do esporo.</p>\n  </li>\n  <li>\n    <p><strong>Regeneração</strong>: uma Vinha Mortal é capaz de regenerar 1 ponto de vida a cada rodada.  Apenas dano causado por fogo ou ácido não pode ser regenerado.</p>\n  </li>\n  <li>\n    <p><strong>Ventriloquismo</strong>: usando suas flores, a Vinha consegue reproduzir qualquer som que tenha ouvido anteriormente, como gritos, chamados de socorro, conversas, sons de animais ou de objetos para atrair vítimas.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>2 × tentáculos + 6 (2d4 + esporo)</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>2 × tentáculos +6 (2d4 + esporo)</li>\n</ul>\n",
     "encounters": "0",
     "encounters_lair": "1",
     "xp": "305",

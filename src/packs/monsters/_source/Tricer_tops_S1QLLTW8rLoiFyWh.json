@@ -11,7 +11,7 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li><strong>Carga</strong>: um Tricerátops pode atacar em carga.  Um ataque de carga possui +2 no ataque, +2 no dano, mas causa uma redução de 2 na CA.</li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>3 × chifres + 14 (2d8)</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>3 × chifres +14 (2d8)</li>\n</ul>\n",
     "encounters": "0",
     "encounters_lair": "1d4",
     "xp": "3350",

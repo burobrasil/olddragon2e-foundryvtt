@@ -11,7 +11,7 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Constrição</strong>: quando um ataque com tentáculos é bem-sucedido, o Polvo Gigante agarra a vítima causando 2d4 de dano por rodada.  Um teste de Força bem-sucedido faz com que o alvo se livre do tentáculo e da constrição.</p>\n  </li>\n  <li>\n    <p><strong>Tentáculos</strong>: se o Polvo Gigante receber 10 ou mais de dano, seus tentáculos são amputados.  Para os efeitos de testes de MO, trate os tentáculos como um membro de um bando, ou seja, teste quando metade dos tentáculos for amputada.</p>\n  </li>\n  <li>\n    <p><strong>Nuvem de Tinta</strong>: um Polvo Gigante pode lançar na água uma nuvem de tinta preta com 20 metros de diâmetro para confundir seus perseguidores em uma fuga.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>8 × tentáculos + 12 (2d4 + constrição)</li>\n  <li>1 × mordida + 12 (2d6)</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × mordida +12 (2d6)</li>\n  <li>8 × tentáculos +12 (2d4 + constrição)</li>\n</ul>\n",
     "encounters": "1",
     "encounters_lair": "1d2",
     "xp": "1950",

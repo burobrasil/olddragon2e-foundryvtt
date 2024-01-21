@@ -11,7 +11,7 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li><strong>Cola</strong>: qualquer coisa que toque o corpo de um Mímico ficará presa em uma poderosa cola. Um teste de Força pode soltar o objeto do corpo do Mímico. A cola perderá sua adesão por volta de 1 minuto após a morte do Mímico.</li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × pancada + 8 (3d4 + cola)</li>\n  <li>1 × mordida + 5(2d6)</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × mordida +5 (2d6)</li>\n  <li>1 × pancada +8 (3d4 + cola)</li>\n</ul>\n",
     "encounters": "1",
     "encounters_lair": "0",
     "xp": "460",

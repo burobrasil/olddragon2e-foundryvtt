@@ -11,7 +11,7 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Vigilância</strong>: está sempre vigilante com seus tentáculos e não pode ser surpreendido.</p>\n  </li>\n  <li>\n    <p><strong>Doença</strong>: qualquer alvo que receber dano de uma mordida de um Otyugh, terá uma chance de 1 em 1d6, cumulativa por mordida (duas mordidas, 2 chances; três mordidas, 3 chances; etc.) de ser infectado pela Cólera do Lixo. A doença causa diarreia e a perda de 2d4 pontos de Constituição por até 1d4+2 dias.  Uma JPC bem-sucedida evita os efeitos de uma Cólera do Lixo.</p>\n  </li>\n  <li>\n    <p><strong>Agarrar</strong>: se acertar os dois ataques com seus tentáculos, conseguirá agarrar a vítima.  A cada rodada, o Otyugh baterá com a vítima no chão, causando 2d8 de dano.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>3 × tentáculos + 7 (1d8)</li>\n  <li>1 × mordida + 7 (1d4+1)</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × mordida +7 (1d4+1)</li>\n  <li>3 × tentáculos +7 (1d8)</li>\n</ul>\n",
     "encounters": "1",
     "encounters_lair": "1d2",
     "xp": "420",

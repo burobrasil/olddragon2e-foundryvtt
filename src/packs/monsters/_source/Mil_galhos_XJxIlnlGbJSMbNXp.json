@@ -11,7 +11,7 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Imóvel e Silencioso</strong>: não se locomove e, por isso, não produz som algum até atacar, surpreendendo seus alvos com um resultado de 1-4 em 1d6.</p>\n  </li>\n  <li>\n    <p><strong>Fogo</strong>: um Mil-Galhos é especialmente suscetível ao fogo. Todo dano causado pelo fogo deve ser ampliado em 50%.</p>\n  </li>\n  <li>\n    <p><strong>Morto-vivo</strong>: imune a frio, magias mentais de manipulação, controle ou ilusão, ou demais formas mágicas de interferir na mente de seres vivos. Sofre 1d6 de dano ácido por frasco de água benta.</p>\n  </li>\n  <li>\n    <p><strong>Paralisia</strong>: alvo atingido por um Mil-Galhos deve ser bem-sucedido em uma JPC ou ficará paralisado por até 1d6 turnos. Elfos são imunes a habilidade de Paralisia de um Mil-Galhos assim como a dos Ghouls.</p>\n  </li>\n  <li>\n    <p><strong>Imunidades</strong>: além das imunidades comuns aos mortos-vivos, são imunes ao poder de Afastar Mortos-Vivos de um Clérigo.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × pancada + 5 (1d6 + paralisia)</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × pancada +5 (1d6 + paralisia)</li>\n</ul>\n",
     "encounters": "1",
     "encounters_lair": "",
     "xp": "200",

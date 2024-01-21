@@ -11,7 +11,7 @@
     "alignment": "caotico",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Classe de armadura</strong>: Guerreiros do Caos possuem CA 13 ou 20 quando usam armadura completa.</p>\n  </li>\n  <li>\n    <p><strong>Lutar além da morte</strong>: mantêm-se ativos em combate por até 1d6+2 rodadas após atingirem zero pontos de vida. Ao fim deste tempo, caem imediatamente mortos ao chão.</p>\n  </li>\n  <li>\n    <p><strong>Marca do caos</strong>: ao desejarem, deixam o caos tomar conta de seus corpos. Recebem +2 no BA e +4 no dano, além de 4 pontos de dano em si mesmos ao fim de cada rodada em que esta habilidade estiver acionada.</p>\n  </li>\n  <li>\n    <p><strong>Resistência à dano</strong>: ignoram 1 ponto de dano de cada ataque físico.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × machado + 4 (2d6 + 4)</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × machado +4 (2d6+4)</li>\n</ul>\n",
     "encounters": "1",
     "encounters_lair": "1",
     "xp": "540",

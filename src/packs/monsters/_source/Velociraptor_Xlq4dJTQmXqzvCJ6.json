@@ -11,7 +11,7 @@
     "alignment": "neutro",
     "variant": false,
     "description": null,
-    "described_attacks": "<ul>\n  <li>2 × garras + 4 (1d4)</li>\n  <li>1 × mordida + 4 (1d6)</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × mordida +4 (1d6)</li>\n  <li>2 × garras +4 (1d4)</li>\n</ul>\n",
     "encounters": "0",
     "encounters_lair": "2d4",
     "xp": "75",

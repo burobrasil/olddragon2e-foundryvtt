@@ -11,7 +11,7 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li><strong>Múltiplas cabeças</strong>: Hidras são encontradas com 1d8+4 cabeças, cada uma com 1 Dado de Vida e 1 ataque. Uma Hidra perde 1 cabeça a cada 8 pontos de dano recebidos. Uma cabeça perdida se regenera dando origem a duas outras cabeças em 1d4 turnos (recuperando 2 DV e 2 ataques). Contudo, a cabeça cortada não irá se regenerar caso seja atacada com fogo ou ácido. Nesses casos, o pescoço fica inerte, não regenerando novas cabeças.  Uma Hidra pode possuir no máximo 12 cabeças simultaneamente.</li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × mordida + 8 (1d10 )</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × mordida +8 (1d10)</li>\n</ul>\n",
     "encounters": "1",
     "encounters_lair": "1",
     "xp": "Especial",

@@ -11,7 +11,7 @@
     "alignment": "caotico",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Imunidades</strong>: um Gênio é imune ao dano de qualquer arma não mágica.</p>\n  </li>\n  <li>\n    <p><strong>Redemoinho</strong>: um Gênio pode se transformar em um enorme redemoinho quantas vezes desejar. Nesta forma, é capaz de causar 2d6 de dano a todos que estejam até 3 metros.</p>\n  </li>\n  <li>\n    <p><strong>Magia</strong>: um Gênio pode lançar as seguintes magias como se fosse um Mago de 3º nível: Invisibilidade, Ilusão e Criar Alimentos.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × pancada + 8 (2d8)</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × pancada +8 (2d8)</li>\n</ul>\n",
     "encounters": "1",
     "encounters_lair": "1",
     "xp": "460",

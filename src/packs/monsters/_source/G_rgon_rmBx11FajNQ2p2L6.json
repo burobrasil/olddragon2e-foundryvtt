@@ -11,7 +11,7 @@
     "alignment": "caotico",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Atropelar</strong>: um Górgon ainda não engajado em combate pode usar a manobra de investida para causar o dobro de dano com seus chifres.</p>\n  </li>\n  <li>\n    <p><strong>Baforada Petrificante</strong>: um Górgon é capaz de lançar uma nuvem de gás petrificante a todos a até 10 metros de distância do Górgon. Uma JPC evita a petrificação.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × chifre + 9 (2d6 )</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × chifre +9 (2d6)</li>\n</ul>\n",
     "encounters": "1d2",
     "encounters_lair": "1d4",
     "xp": "740",

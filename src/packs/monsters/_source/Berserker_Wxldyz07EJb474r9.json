@@ -11,7 +11,7 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Variações</strong>: a cada 20 Berserkers, um deles será um Berserker Líder.</p>\n  </li>\n  <li>\n    <p><strong>Fúria</strong>: entram em fúria quando perdem metade de seus pontos de vida, realizando todos seus ataques como fáceis e recebendo um bônus de +2 nos danos.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × machado + 1 (1d8+1)</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × machado +1 (1d8+1)</li>\n</ul>\n",
     "encounters": "-",
     "encounters_lair": "-",
     "xp": "25",

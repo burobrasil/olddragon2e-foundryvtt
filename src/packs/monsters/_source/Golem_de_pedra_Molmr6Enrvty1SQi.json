@@ -11,7 +11,7 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Imunidades</strong>: um Golem de Pedra é imune ao dano de qualquer arma não mágica. Além disso, não são atingidos por ataques que necessitem de um alvo vivo (como gases, venenos ou magias mentais como ilusões ou demais formas mágicas de interferir na mente de seres vivos).</p>\n  </li>\n  <li>\n    <p><strong>Lentidão</strong>: Golens de Pedra são capazes de criar uma área de lentidão a todos ao seu redor. Todos dentro de uma área de 6 x 6 metros que não passarem em uma JPC ficarão lentos. Suas movimentações ficam reduzidas pela metade, e recebem uma penalidade de 2 em todas as jogadas e na CA.  O efeito tem duração de 2d6 turnos.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × pancada + 13 (3d8)</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × pancada +13 (3d8)</li>\n</ul>\n",
     "encounters": "1",
     "encounters_lair": "1",
     "xp": "2800",

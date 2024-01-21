@@ -11,7 +11,7 @@
     "alignment": "neutro",
     "variant": true,
     "description": "<ul>\n  <li><strong>Variações</strong>: a cada 10 Piratas, um deles será um Pirata Campeão. Além disso, toda embarcação pirata é comandada por um Capitão.</li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × espada longa + 3 (1d8+1)</li>\n  <li>1 × adaga + 3 (1d4+1)</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × adaga +3 (1d4+1)</li>\n  <li>1 × espada longa +3 (1d8+1)</li>\n</ul>\n",
     "encounters": "-",
     "encounters_lair": "",
     "xp": "75",

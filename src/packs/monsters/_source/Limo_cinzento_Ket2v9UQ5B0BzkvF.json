@@ -11,7 +11,7 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Camuflagem</strong>: pelo seu aspecto acinzentado e molhado, são confundidos com pedras molhadas. Nestas circunstâncias, surpreendem seus inimigos com um resultado de 1 a 4 em 1d6.</p>\n  </li>\n  <li>\n    <p><strong>Ácido</strong>: após um ataque bem-sucedido, o limo gruda na vítima e passa a liberar um potente ácido, mas que corrói apenas metais. Este ácido é capaz de atingir armas e armaduras, causando uma penalidade no dano (no caso de armas) ou na proteção (no caso de armaduras) de 1 a cada rodada que o limo passa aderido ao alvo.  Se uma arma recebe uma quantidade de dano igual ao seu dado de dano (4 para 1d4 ou 6 para 1d6, por exemplo), a arma ficará permanentemente destruída. Se uma armadura recebe uma quantidade de dano igual ao seu bônus no CA (+4 para uma cota de malha, por exemplo), a armadura ficará permanentemente destruída.</p>\n  </li>\n  <li>\n    <p><strong>Imunidades</strong>: imune aos efeitos do frio e da eletricidade.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × toque + 3 (2d8)</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × toque +3 (2d8)</li>\n</ul>\n",
     "encounters": "1",
     "encounters_lair": "1",
     "xp": "95",

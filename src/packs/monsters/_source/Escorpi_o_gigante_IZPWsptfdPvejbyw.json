@@ -11,7 +11,7 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li><strong>Veneno</strong>: causa morte em 1d3+1 turnos em caso de falha em uma JPC.</li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>2 × pinças + 4 (1d10)</li>\n  <li>1 × ferrão + 4 (1d4 + veneno)</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × ferrão +4 (1d4 + veneno)</li>\n  <li>2 × pinças +4 (1d10)</li>\n</ul>\n",
     "encounters": "1d6",
     "encounters_lair": "1d6",
     "xp": "150",

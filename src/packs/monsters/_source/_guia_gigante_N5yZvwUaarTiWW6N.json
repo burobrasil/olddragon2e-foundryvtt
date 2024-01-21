@@ -11,7 +11,7 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Ataque rasante</strong>: a Águia pode fazer um ataque rasante no seu primeiro ataque e tentar pegar seus inimigos de surpresa com uma chance de 1-4 em 1d6. Nestas circunstâncias, a Águia Gigante recebe +2 para acertar o ataque e +2 no dano causado. Porém, recebe -2 no CA. Se o inimigo estiver surpreso, troca-se o bônus de +2 no dano para causar o dobro de dano no alvo surpreendido.</p>\n  </li>\n  <li>\n    <p><strong>Agarrar</strong>: se preferir, a Águia Gigante pode agarrar seus alvos com suas garras em vez de causar dano. A vítima pode realizar uma JPD para evitar ser agarrada pela águia.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × mordida + 4 (1d6)</li>\n  <li>2 × garras + 4 (1d4)</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × mordida +4 (1d6)</li>\n  <li>2 × garras +4 (1d4)</li>\n</ul>\n",
     "encounters": "0",
     "encounters_lair": "1d3",
     "xp": "75",

@@ -11,7 +11,7 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Classe de armadura</strong>: Ciclopes possuem CA 16 ou 17 quando usam armadura acolchoada.</p>\n  </li>\n  <li>\n    <p><strong>Golpe potente</strong>: se causar, com uma clava ou pedrada, uma quantidade de dano maior do que a força do alvo, este é arremessado 1d4 metros para trás.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × clava + 11 (2d6 +4)</li>\n  <li>1 × pedrada + 8 (3d6)</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × clava +11 (2d6+4)</li>\n  <li>1 × pedrada +8 (3d6)</li>\n</ul>\n",
     "encounters": "1",
     "encounters_lair": "1d4",
     "xp": "1250",

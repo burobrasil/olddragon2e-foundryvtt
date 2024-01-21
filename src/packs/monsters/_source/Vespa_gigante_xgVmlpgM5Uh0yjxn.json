@@ -11,7 +11,7 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li><strong>Veneno</strong>: causa a perda de 1d4+2 pontos de Constituição em caso de falha em uma JPC.</li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × ferrão + 4 (2d4 + veneno)</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × ferrão +4 (2d4 + veneno)</li>\n</ul>\n",
     "encounters": "1d4",
     "encounters_lair": "2d4",
     "xp": "175",

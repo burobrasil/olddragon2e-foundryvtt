@@ -11,7 +11,7 @@
     "alignment": "caotico",
     "variant": false,
     "description": "<ul>\n  <li><strong>Aquática</strong>: respiram embaixo d’água salgada e vivem a maior parte do tempo submersos na mesma. Usam estas vantagens para atacar e surpreender seus inimigos.</li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × lança + 6 (1d6 +2)</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × lança +6 (1d6+2)</li>\n</ul>\n",
     "encounters": "2d4",
     "encounters_lair": "2d10 x 10",
     "xp": "270",

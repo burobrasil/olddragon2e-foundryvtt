@@ -11,7 +11,7 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Correr</strong>: pode correr com movimento 15 durante 1 turno.</p>\n  </li>\n  <li>\n    <p><strong>Investida</strong>: se ainda não engajado em combate, pode usar a manobra de investida para aumentar o dano do seu ataque com armas corpo-a-corpo.</p>\n  </li>\n  <li>\n    <p><strong>Carga</strong>: carrega até 4.000 moedas ou 2.000 moedas e um montador.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>2 × cascos + 4 (1d6 )</li>\n  <li>1 × arma + 4 (arma)</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × arma +4 (arma)</li>\n  <li>2 × cascos +4 (1d6)</li>\n</ul>\n",
     "encounters": "0",
     "encounters_lair": "2d10",
     "xp": "125",

@@ -11,7 +11,7 @@
     "alignment": "ordeiro",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Soco Destruidor</strong>: caso o ataque de qualquer um dos socos resulte em um 20 natural, o alvo é desintegrado.</p>\n  </li>\n  <li>\n    <p><strong>Raio Ocular</strong>: seus olhos podem disparar 3 vezes ao dia raios que causam 3d10 pontos de dano.</p>\n  </li>\n  <li>\n    <p><strong>Baforada</strong>: 1 vez ao dia, o Destruidor pode expelir uma poderosa baforada de 10d10 x2 pontos de dano.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>2 × socos + 10 (2d10+5)</li>\n  <li>1 × cauda + 10 (3d8+10)</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × cauda +10 (3d8+10)</li>\n  <li>2 × socos +10 (2d10+5)</li>\n</ul>\n",
     "encounters": "1",
     "encounters_lair": "",
     "xp": "22475",

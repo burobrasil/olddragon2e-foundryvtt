@@ -11,7 +11,7 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Pó Mágico</strong>: produzem um pó de seus cílios capaz de fazer o alvo dormir (como a magia Sono lançada por um Mago de 10º nível), ou de fazer com que o alvo levite vagarosamente até 60 metros de altura. Ambos os efeitos podem ser evitados com uma JPC.</p>\n  </li>\n  <li>\n    <p><strong>Invisibilidade</strong>: são naturalmente invisíveis, mas qualquer ser invisível pode vê-las normalmente. Sua CA é 11 quando não estiver invisível.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × arma + 2 (arma + 0)</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × arma +2 (arma +0)</li>\n</ul>\n",
     "encounters": "2d4",
     "encounters_lair": "1d4 x 10",
     "xp": "35",

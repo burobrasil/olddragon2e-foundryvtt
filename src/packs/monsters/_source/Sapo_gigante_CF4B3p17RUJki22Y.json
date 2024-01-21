@@ -11,7 +11,7 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Engolir</strong>: se um Sapo Gigante obtiver um 20 natural em seu teste de ataque, engolirá seu oponente. Um oponente engolido sofre 1d6 de dano por rodada até conseguir sair. Atacar dentro do sistema digestivo é possível com penalidade de 4 no ataque.</p>\n  </li>\n  <li>\n    <p><strong>Surpresa</strong>: surpreende seus inimigos com um resultado de 1 a 3 em 1d6.</p>\n  </li>\n  <li>\n    <p><strong>Língua Elástica</strong>: um Sapo Gigante pode agarrar seus imigos com sua língua a até 3 metros de distância, trazendo-os para sua boca para desferir uma mordida.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × mordida + 3 (1d4 + 1)</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × mordida +3 (1d4+1)</li>\n</ul>\n",
     "encounters": "1d4",
     "encounters_lair": "1d6",
     "xp": "35",

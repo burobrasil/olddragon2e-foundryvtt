@@ -11,7 +11,7 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Doença</strong>: um rato possui 1 chance em 1d6 de transmitir Febre do Esgoto a um alvo mordido. Um alvo mordido que falhar em uma JPC, ficará doente e com valor de Constituição igual a 1 por 1d6 dias.</p>\n  </li>\n  <li>\n    <p><strong>Medo de Fogo</strong>: na presença de fogo, um teste de MO deve ser feito para determinar se Ratos Gigantes fogem ou não do combate.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × mordida + 1 (1d3 + doença)</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × mordida +1 (1d3 + doença)</li>\n</ul>\n",
     "encounters": "3d6",
     "encounters_lair": "3d10",
     "xp": "10",

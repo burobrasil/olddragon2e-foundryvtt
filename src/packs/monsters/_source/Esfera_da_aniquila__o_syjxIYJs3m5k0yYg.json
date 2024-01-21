@@ -11,7 +11,7 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Desintegrar</strong>: tudo o que for tocado pela esfera será desintegrado, sem direito a uma Jogada de Proteção.</p>\n  </li>\n  <li>\n    <p><strong>Imunidade à magia</strong>: não é afetada por nenhuma magia, exceto Portal e Desejo.</p>\n  </li>\n  <li>\n    <p><strong>Especial</strong>: não possui nenhuma estatística de combate, não possui dados de vida, nem pontos de vida. Não realiza testes de ataque nem Jogadas de Proteção.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × toque + 0 (especial)</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × toque (especial)</li>\n</ul>\n",
     "encounters": "1",
     "encounters_lair": "1",
     "xp": "Especial",

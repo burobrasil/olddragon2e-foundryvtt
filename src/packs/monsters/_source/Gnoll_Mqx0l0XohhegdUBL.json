@@ -11,7 +11,7 @@
     "alignment": "caotico",
     "variant": false,
     "description": "<ul>\n  <li><strong>Classe de armadura</strong>: Gnolls possuem CA 12 ou 15 quando usam armadura de couro batido.</li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × arma + 2 (arma )</li>\n  <li>1 × mordida + 2 (1d4+1)</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × arma +2 (arma)</li>\n  <li>1 × mordida +2 (1d4+1)</li>\n</ul>\n",
     "encounters": "1d6",
     "encounters_lair": "3d6",
     "xp": "35",

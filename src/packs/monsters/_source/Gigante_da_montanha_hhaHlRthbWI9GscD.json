@@ -11,7 +11,7 @@
     "alignment": "caotico",
     "variant": false,
     "description": "<ul>\n  <li><strong>Golpe Potente</strong>: se conseguir causar, com uma pancada, pedrada ou arma, uma quantidade de dano maior que a força do alvo, este é arremessado 1d4 metros para trás.</li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>2 × pancadas + 13 (1d8 + 2 )</li>\n  <li>1 × arma + 8 (arma + 10)</li>\n  <li>1 × pedrada + 9 (2d10)</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × arma +8 (arma +10)</li>\n  <li>1 × pedrada +9 (2d10)</li>\n  <li>2 × pancadas +13 (1d8+2)</li>\n</ul>\n",
     "encounters": "1d2",
     "encounters_lair": "1d3",
     "xp": "2650",

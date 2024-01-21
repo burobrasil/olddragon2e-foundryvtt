@@ -11,7 +11,7 @@
     "alignment": "ordeiro",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Classe de armadura</strong>: Drakolds possuem CA 12 ou 14 quando usam armadura de couro.</p>\n  </li>\n  <li>\n    <p><strong>Baforada</strong>: Drakolds podem usar uma forma primitiva de baforada, semelhante à de alguns dragões. Este uso não tem limitações, e se apresenta como uma pequena explosão de fogo ou eletricidade.</p>\n  </li>\n  <li>\n    <p><strong>Sacrifício</strong>: se conseguirem ficar 1 minuto se concentrando, conseguem explodir o próprio corpo ao invocarem a baforada.  Causam 2d6+1 em um raio de 3 metros.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × arma + 1 (arma+0 )</li>\n  <li>1 × baforada + 2 (1d4+1)</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × arma +1 (arma +0)</li>\n  <li>1 × baforada +2 (1d4+1)</li>\n</ul>\n",
     "encounters": "4d4",
     "encounters_lair": "3d10",
     "xp": "10",

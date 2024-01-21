@@ -11,7 +11,7 @@
     "alignment": "caotico",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Imunidade</strong>: aos efeitos de encantamentos, de magias de Sono e de outros efeitos mentais.  Também são imunes a venenos ou ácidos.</p>\n  </li>\n  <li>\n    <p><strong>Descarga elétrica</strong>: o Fogo Fátuo pode acumular energia elétrica em seu interior. Esta criatura ataca procurando tocar suas vítimas enquanto descarrega a energia acumulada em forma de um grande choque.</p>\n  </li>\n  <li>\n    <p><strong>Invisibilidade</strong>: o Fogo Fátuo pode apagar sua luz conscientemente e, assim, ficar invisível a todos por até 2d4 rodadas. Enquanto apagados, um Fogo Fátuo não é capaz de atacar seus inimigos.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × toque + 10 (2d8 )</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × toque +10 (2d8)</li>\n</ul>\n",
     "encounters": "1",
     "encounters_lair": "1d3",
     "xp": "1025",

@@ -11,7 +11,7 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Vigia</strong>: um Cérbero está sempre vigilante e não pode ser surpreendido.</p>\n  </li>\n  <li>\n    <p><strong>Desmorte</strong>: uma criatura morta pelo Cérbero retorna como um Ghoul sob seu controle em 1d3 turnos.</p>\n  </li>\n  <li>\n    <p><strong>Veneno</strong>: a cauda perfurante do Cérbero inocula Veneno Paralisante. Uma JPC evita qualquer efeito deste veneno. Uma falha no teste causa a perda de 1d6 pontos de Destreza por turno até o alvo perder todos os pontos de Destreza e morrer.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>2 × mordidas + 16 (2d6+8 )</li>\n  <li>1× cauda + 10 (2d4 + veneno)</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × cauda +10 (2d4 + veneno)</li>\n  <li>2 × mordidas +16 (2d6+8)</li>\n</ul>\n",
     "encounters": "1",
     "encounters_lair": "1",
     "xp": "2100",

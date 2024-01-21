@@ -11,7 +11,7 @@
     "alignment": "caotico",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Deflexão</strong>: toda magia lançada diretamente sobre o Shoggoth (excetuando-se as magias em área) possui 1-2 chances em 1d6 de não surtir efeitos.</p>\n  </li>\n  <li>\n    <p><strong>Imunidades</strong>: imune aos efeitos do frio, da eletricidade, venenos, paralisação e encantamentos.</p>\n  </li>\n  <li>\n    <p><strong>Alterar Forma</strong>: pode assumir a forma de qualquer criatura humanoide (M ou G). Um Shoggoth voltará a sua forma normal caso seja morto.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>2 × tentáculos + 13 (2d6)</li>\n  <li>1 × mordida + 13 (3d10)</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × mordida +13 (3d10)</li>\n  <li>2 × tentáculos +13 (2d6)</li>\n</ul>\n",
     "encounters": "1",
     "encounters_lair": "1",
     "xp": "3150",

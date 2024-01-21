@@ -11,7 +11,7 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Imunidades</strong>: imune aos efeitos do frio e da eletricidade.</p>\n  </li>\n  <li>\n    <p><strong>Ácido</strong>: após um ataque bem-sucedido, a saliva do Pudim Negro começa a corroer qualquer material orgânico que tiver contato. Este ácido é capaz de atingir armas e armaduras causando uma penalidade no dano (no caso de armas) ou na proteção (no caso de armaduras) de 1 a cada ataque bem-sucedido. Se um equipamento receber uma quantidade de dano igual ao seu dano de dano (4 para 1d4 de dano) ou igual ao bônus na CA (4 para uma cota de malha) o equipamento estará permanentemente destruído.</p>\n  </li>\n  <li>\n    <p><strong>Divisão</strong>: todo ataque de arma de corte que cause 8 ou mais pontos de dano ao Pudim Negro pode causar sua divisão em duas criaturas diferentes, ambas com metade dos pontos de vida da criatura atual. Estas duas novas criaturas são tratadas como criaturas diferentes, com ações, ataques e pontos de vida diferentes, porém, caso sejam derrotadas, concedem os pontos de experiência apenas uma única vez. Todas as estatísticas do Pudim Negro se mantêm inalteradas.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × mordida + 11 (3d8)</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × mordida +11 (3d8)</li>\n</ul>\n",
     "encounters": "1",
     "encounters_lair": "0",
     "xp": "1325",

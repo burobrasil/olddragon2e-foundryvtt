@@ -11,7 +11,7 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Veneno</strong>: qualquer criatura mordida pelo Homúnculo deve ser bem-sucedida em uma JPC para evitar os efeitos soníferos de seu veneno por 1d3 turnos. O veneno começa a fazer efeito 1d6+5 rodadas após a mordida.</p>\n  </li>\n  <li>\n    <p><strong>Vínculo</strong>: o processo de criação do Homúnculo cria um elo telepático permanente com seu criador o qual consegue ver, ouvir, sentir e entender tudo o que o Homúnculo está vendo, ouvindo, sentindo e entendendo.</p>\n  </li>\n  <li>\n    <p><strong>Imunidades</strong>: um Homúnculo não é atingido por ataques que necessitem de um alvo vivo (como gases, venenos ou magias mentais como ilusões, ou demais formas mágicas de interferir na mente de seres vivos).</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × mordida + 2 (1d3 + veneno )</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × mordida +2 (1d3 + veneno)</li>\n</ul>\n",
     "encounters": "1",
     "encounters_lair": "1",
     "xp": "50",

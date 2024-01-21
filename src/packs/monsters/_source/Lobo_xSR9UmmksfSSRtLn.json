@@ -11,7 +11,7 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li><strong>Alcateia</strong>: O moral de um Lobo é 8 se estiver em grupos de 4 ou mais.</li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × mordida + 2 (1d6)</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × mordida +2 (1d6)</li>\n</ul>\n",
     "encounters": "2d6",
     "encounters_lair": "3d6",
     "xp": "175",

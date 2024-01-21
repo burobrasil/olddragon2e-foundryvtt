@@ -11,7 +11,7 @@
     "alignment": "caotico",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Baforada</strong>: o Dragão Verde pode, 3 vezes ao dia, abdicar dos seus ataques físicos para liberar uma baforada de gás venenoso em forma de nuvem com 12 metros de largura, 15 metros de distância e 6 metros de altura. O dano de uma baforada é igual ao número de seus dados de vida em d6. Ou seja, um Dragão Verde causa 8d6 de dano em todos na área de efeito da baforada. Um teste de JPD pode reduzir o dano pela metade.  u Imunidade: um Dragão Verde é imune a qualquer efeito de venenos.</p>\n  </li>\n  <li>\n    <p><strong>Magias</strong>: um Dragão Verde pode conjurar magias como se fosse um Mago 6º nível.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>2 × garras + 8 (1d6+4)</li>\n  <li>1 × mordida +7 (3d8 )</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × mordida +7 (3d8)</li>\n  <li>2 × garras +8 (1d6+4)</li>\n</ul>\n",
     "encounters": "1d4",
     "encounters_lair": "1d4",
     "xp": "785",

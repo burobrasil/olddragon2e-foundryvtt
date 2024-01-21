@@ -11,7 +11,7 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Mordida</strong>: se acertar 4 ataques contra o mesmo personagem, causará mais 3d4 de dano por mordida. O alvo só conseguirá se soltar se receber ajuda externa ou se passar em 4 testes de Força consecutivos.</p>\n  </li>\n  <li>\n    <p><strong>Inflamáveis</strong>: fogo causa dano dobrado nestas criaturas.</p>\n  </li>\n  <li>\n    <p><strong>Proliferar</strong>: ao acertar dois ataques de Mordida no mesmo alvo, o Fungo Violeta liberará esporos que entrarão no corpo da vítima que, por sua vez, morrerá em dois dias após dar vida a um Fungo Pigmeu.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>4 × tentáculos + 4 (1d4 + 4)</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>4 × tentáculos +4 (1d4+4)</li>\n</ul>\n",
     "encounters": "1d8",
     "encounters_lair": "1d4",
     "xp": "50",

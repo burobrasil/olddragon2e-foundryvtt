@@ -11,7 +11,7 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Imunidades</strong>: não recebe dano de armas não mágicas e nem é afetado por nenhuma magia, exceto Portal e Desejo.</p>\n  </li>\n  <li>\n    <p><strong>Salto Planar</strong>: até 1d4+2 vezes ao dia, um Homem Esguio pode percorrer até 30 metros em pequenos saltos planares. Uma criatura tocada pelo Homem Esguio o acompanha neste salto.</p>\n  </li>\n  <li>\n    <p><strong>Drenar Energia</strong>: seu ataque drena 1 nível do personagem, caso este não passe em uma JPC. Uma criatura com todos seus níveis drenados por um Homem Esguio tem sua alma devorada por ele e não pode ser ressuscitada.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × garra + 5 (1d8 + dreno )</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × garra +5 (1d8 + dreno)</li>\n</ul>\n",
     "encounters": "1",
     "encounters_lair": "0",
     "xp": "235",

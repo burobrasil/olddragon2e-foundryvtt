@@ -11,7 +11,7 @@
     "alignment": "ordeiro",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Imunidades</strong>: quando transformados, um Licantropo é imune ao dano de qualquer arma não mágica. Armas mágicas, magia e prata causam dano normal a um Licantropo.</p>\n  </li>\n  <li>\n    <p><strong>Convocar animais</strong>: um Homem-Javali pode convocar 1d3 javalis. Os animais convocados chegam em 1d4 rodadas.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × mordida + 5 (2d6 )</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × mordida +5 (2d6)</li>\n</ul>\n",
     "encounters": "1d4",
     "encounters_lair": "2d4",
     "xp": "150",

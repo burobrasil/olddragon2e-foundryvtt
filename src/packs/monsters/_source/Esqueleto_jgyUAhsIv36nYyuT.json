@@ -11,7 +11,7 @@
     "alignment": "caotico",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Silencioso</strong>: não produz som algum ao movimentar-se e se mantém silencioso até atacar.</p>\n  </li>\n  <li>\n    <p><strong>Morto-vivo</strong>: imune a frio, magias mentais de manipulação, controle ou ilusão, ou demais formas mágicas de interferir na mente de seres vivos. Sofre 1d6 de dano ácido por frasco de água benta.</p>\n  </li>\n  <li>\n    <p><strong>Corpo de Osso</strong>: armas impactantes causam o dobro de dano nos Esqueletos, mas, em contrapartida, armas perfurantes causam metade do ano.</p>\n  </li>\n  <li>\n    <p><strong>Inabalável</strong>: mortos-vivos não fazem testes de moral, a não ser quando sofrem o efeito de um Afastar Mortos-Vivos.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × arma + 2 (arma + 0 )</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × arma +2 (arma +0)</li>\n</ul>\n",
     "encounters": "3d4",
     "encounters_lair": "3d10",
     "xp": "15",

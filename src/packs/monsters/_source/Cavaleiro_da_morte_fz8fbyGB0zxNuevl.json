@@ -11,7 +11,7 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Classe de armadura</strong>: Cavaleiros da Morte possuem CA 14 ou 21 quando usam armadura completa.</p>\n  </li>\n  <li>\n    <p><strong>Medo</strong>: sua aura de morte amedronta todos dentro de um raio de 10 metros e que tenham falhado em uma JPS. Os alvos devem fugir por 1d3 turnos e têm 50% de chance de soltarem qualquer objeto que estejam segurando.</p>\n  </li>\n  <li>\n    <p><strong>Neblina das tumbas</strong>: o Cavaleiro da Morte dificulta o efeito de um Afastar Mortos-Vivos de um Clérigo. Todo morto-vivo a até 20 metros deve ser tratado como se tivesse um dado de vida a mais para ser afetado.</p>\n  </li>\n  <li>\n    <p><strong>Morto-vivo</strong>: imune a magias mentais de manipulação, controle ou ilusão, ou demais formas mágicas de interferir na mente de seres vivos.</p>\n  </li>\n  <li>\n    <p><strong>Fogo Profano</strong>: a espada longa do Cavaleiro da Morte arde em chamas causando 1d6 de dano adicional pelo fogo.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>2 × espadas longas + 9 (1d8+6+fogo)</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>2 × espadas longas +9 (1d8+6 + fogo)</li>\n</ul>\n",
     "encounters": "1",
     "encounters_lair": "1",
     "xp": "740",

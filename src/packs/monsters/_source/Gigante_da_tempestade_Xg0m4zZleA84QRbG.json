@@ -11,7 +11,7 @@
     "alignment": "caotico",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Magias</strong>: 3 vezes ao dia podem lançar uma das seguintes magias: Levitação, Relâmpago e Convocar Relâmpagos como se fossem Magos de 15º nível.</p>\n  </li>\n  <li>\n    <p><strong>Imunidade</strong>: imunes a toda forma de eletricidade.</p>\n  </li>\n  <li>\n    <p><strong>Respirar embaixo d’água</strong>: normalmente, sem restrições.</p>\n  </li>\n  <li>\n    <p><strong>Golpe Potente</strong>: se conseguir causar, com uma pancada ou arma, uma quantidade de dano maior que a força do alvo, este é arremessado 1d8 metros para trás.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × arma + 14 (arma + 12)</li>\n  <li>2 × pancadas + 12 (2d6 + 2)</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × arma +14 (arma +12)</li>\n  <li>2 × pancadas +12 (2d6+2)</li>\n</ul>\n",
     "encounters": "1",
     "encounters_lair": "1d3",
     "xp": "3850",

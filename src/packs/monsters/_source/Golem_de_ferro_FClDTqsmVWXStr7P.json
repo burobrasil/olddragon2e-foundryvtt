@@ -11,7 +11,7 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Imunidades</strong>: um Golem de Ferro é imune ao dano de qualquer arma não mágica. Além disso, não são atingidos por ataques que necessitem de um alvo vivo (como gases, venenos ou magias mentais como ilusões ou demais formas mágicas de interferir na mente de seres vivos).</p>\n  </li>\n  <li>\n    <p><strong>Baforada de gás</strong>: uma vez a cada 7 ataques desferidos, o Golem de Ferro é capaz de lançar uma nuvem de gás venenoso causando 3d6 de dano a todos a até 6 metros de distância dele.  Uma JPD pode reduzir o dano à metade.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × espada curta + 15 (4d10 )</li>\n  <li>1 × pancada + 12(4d8)</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × espada curta +15 (4d10)</li>\n  <li>1 × pancada +12 (4d8)</li>\n</ul>\n",
     "encounters": "1",
     "encounters_lair": "1",
     "xp": "4200",

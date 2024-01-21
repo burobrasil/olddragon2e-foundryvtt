@@ -11,7 +11,7 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li><strong>Cegueira</strong>: causa cegueira por 1d6 rodadas nos alvos atingidos que falharem em um teste de JPD.</li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × cuspe + 2 (cegueira)</li>\n  <li>1 × mordida + 2 (1d2)</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × cuspe +2 (cegueira)</li>\n  <li>1 × mordida +2 (1d2)</li>\n</ul>\n",
     "encounters": "1d4",
     "encounters_lair": "1d4",
     "xp": "25",

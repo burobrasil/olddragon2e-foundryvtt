@@ -11,7 +11,7 @@
     "alignment": "caotico",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Regeneração</strong>: um Troll é capaz de regenerar 1 ponto de vida a cada rodada.  Esta regeneração é capaz de reconstituir até mesmo membros amputados em até 1d6 dias. Um Troll não é capaz de regenerar dano causado por fogo ou ácido.</p>\n  </li>\n  <li>\n    <p><strong>Falsa Morte</strong>: Trolls reduzidos a 0 pontos de vida retornam a vida em 2d6 rodadas, a não ser que seus restos sejam queimados por fogo ou destruídos com ácido.</p>\n  </li>\n  <li>\n    <p><strong>Medo de fogo e ácido</strong>: na presença de fogo ou ácido, o valor do Moral de um Troll é 8.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>2 × garras + 6 (1d4 + 4)</li>\n  <li>1 × mordida + 6 (2d6 + 4)</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × mordida +6 (2d6+4)</li>\n  <li>2 × garras +6 (1d4+4)</li>\n</ul>\n",
     "encounters": "1d8",
     "encounters_lair": "1d8",
     "xp": "305",

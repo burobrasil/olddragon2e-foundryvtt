@@ -11,7 +11,7 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li><strong>Doença</strong>: Um Morcego Vampiro possui 1-2 chances em 1d6 de transmitir uma doença a um alvo mordido. Um alvo mordido que falhe em uma JPC, fica doente e com valor de força igual a 1 por 1d6 dias.</li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × mordida + 0 (1d2 + doença)</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × mordida (1d2 + doença)</li>\n</ul>\n",
     "encounters": "1d10",
     "encounters_lair": "1d10",
     "xp": "5",

@@ -11,7 +11,7 @@
     "alignment": "ordeiro",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Baforada</strong>: o Dragão Dourado pode, 3 vezes ao dia, abdicar dos seus ataques físicos para liberar uma baforada de fogo com a forma de cone com 9 metros de largura e 27 metros de distância. O dano de uma baforada é igual ao número de seus dados de vida em d10. Ou seja, um Dragão Dourado causa 11d10 de dano em todos na área de efeito da baforada. Um teste de JPD pode reduzir o dano pela metade.</p>\n  </li>\n  <li>\n    <p><strong>Imunidade</strong>: um Dragão Dourado é imune a qualquer efeito de fogo.</p>\n  </li>\n  <li>\n    <p><strong>Magias</strong>: um Dragão Dourado pode conjurar magias como um Mago de 7º nível.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>2 × garras + 11 (1d8+6)</li>\n  <li>1 × mordida +8 (4d8 )</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × mordida +8 (4d8)</li>\n  <li>2 × garras +11 (1d8+6)</li>\n</ul>\n",
     "encounters": "1d4",
     "encounters_lair": "1d4",
     "xp": "1825",

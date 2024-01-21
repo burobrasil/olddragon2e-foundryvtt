@@ -11,7 +11,7 @@
     "alignment": "caotico",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Odor Fétido</strong>: o Troglodita expele um óleo fétido em sua própria pele. Qualquer um que se engajar em combate com um Troglodita deverá ser bem-sucedido em uma JPC ou sofrerá um modificador de -2 em todos os seus ataques.</p>\n  </li>\n  <li>\n    <p><strong>Surpresa</strong>: os Trogloditas conseguem alterar levemente o tom da sua pele, permitindo que consigam surpreender seus inimigos com um resultado de 1 a 4 em 1d6.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × garra + 2 (1d4)</li>\n  <li>1 × mordida + 2 (1d4)</li>\n  <li>1 × arma + 2 (arma)</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × arma +2 (arma)</li>\n  <li>1 × garra +2 (1d4)</li>\n  <li>1 × mordida +2 (1d4)</li>\n</ul>\n",
     "encounters": "1d8",
     "encounters_lair": "5d8",
     "xp": "35",

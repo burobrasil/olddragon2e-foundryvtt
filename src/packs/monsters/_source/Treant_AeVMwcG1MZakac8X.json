@@ -11,7 +11,7 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Animar Plantas</strong>: um Treant pode animar até duas árvores a até 20 metros de distância.  Estas árvores lutam como se fossem um Treant, com as mesmas estatísticas de combate e com movimento 3.</p>\n  </li>\n  <li>\n    <p><strong>Surpresa</strong>: em florestas, surpreendem seus inimigos com um resultado de 1 a 3 em 1d6.</p>\n  </li>\n  <li>\n    <p><strong>Dano Estrutural</strong>: um Treant é capaz de causar dano estrutural a uma construção como se fosse um aríete.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>2 × pancadas + 8 (2d6)</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>2 × pancadas +8 (2d6)</li>\n</ul>\n",
     "encounters": "0",
     "encounters_lair": "1d8",
     "xp": "695",

@@ -11,7 +11,7 @@
     "alignment": "ordeiro",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Classe de armadura</strong>: Hobglobins possuem CA 11 ou 16 quando usam cota de malha e escudo.</p>\n  </li>\n  <li>\n    <p><strong>Infravisão</strong>: 18 metros.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × arma + 3 (1d8 + 1)</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × arma +3 (1d8+1)</li>\n</ul>\n",
     "encounters": "1d6",
     "encounters_lair": "4d6",
     "xp": "15",

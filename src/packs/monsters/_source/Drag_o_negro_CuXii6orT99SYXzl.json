@@ -11,7 +11,7 @@
     "alignment": "caotico",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Baforada</strong>: o Dragão Negro pode, 3 vezes ao dia, abdicar dos seus ataques físicos para liberar uma baforada de jato ácido com a forma de cone com 2 metros de largura e 20 metros de distância. O dano de uma baforada é igual ao número de seus dados de vida em d4. Ou seja, um Dragão Negro causa 7d4 de dano em todos na área de efeito da baforada. Um teste de JPD pode reduzir o dano pela metade. Ao contrário do ácido concentrado, a baforada de ácido do Dragão Negro não causa o dano regressivo típico dos ácidos.</p>\n  </li>\n  <li>\n    <p><strong>Imunidade</strong>: um Dragão Negro é imune a qualquer efeito de ácido.</p>\n  </li>\n  <li>\n    <p><strong>Magias</strong>: um Dragão Negro pode conjurar magias como se fosse um Mago de 6º nível.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>2 × garras + 7 (1d4+4)</li>\n  <li>1 × mordida +6 (2d10 )</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × mordida +6 (2d10)</li>\n  <li>2 × garras +7 (1d4+4)</li>\n</ul>\n",
     "encounters": "1d4",
     "encounters_lair": "1d4",
     "xp": "540",

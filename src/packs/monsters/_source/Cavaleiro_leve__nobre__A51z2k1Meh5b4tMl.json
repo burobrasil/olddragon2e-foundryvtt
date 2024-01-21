@@ -11,7 +11,7 @@
     "alignment": "neutro",
     "variant": true,
     "description": "<ul>\n  <li><strong>Montado</strong>: cavalo de guerra.</li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × lança longa + 1 (1d8+1)</li>\n  <li>1 × espada longa + 1 (1d8+1)</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × espada longa +1 (1d8+1)</li>\n  <li>1 × lança longa +1 (1d8+1)</li>\n</ul>\n",
     "encounters": "-",
     "encounters_lair": "",
     "xp": "25",

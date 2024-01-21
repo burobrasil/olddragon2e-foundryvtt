@@ -11,7 +11,7 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li><strong>Engolir</strong>: se um Tiranossauro obtiver um 20 natural em seu teste de ataque, engolirá seu oponente. Um alvo engolido pelo Tiranossauro morre imediatamente. Uma JPD impede que o Tiranossauro engula o alvo atacado.</li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × mordida + 16 (6d6)</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>1 × mordida +16 (6d6)</li>\n</ul>\n",
     "encounters": "0",
     "encounters_lair": "1",
     "xp": "4825",

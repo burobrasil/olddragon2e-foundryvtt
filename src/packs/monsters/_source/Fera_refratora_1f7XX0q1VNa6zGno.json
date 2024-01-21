@@ -11,7 +11,7 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li><strong>Refração</strong>: a fera possui uma habilidade sobrenatural de esconder sua real posição, como se estivesse refratando sua imagem.  Na prática, uma Fera Refratora está sempre a ao menos um metro da posição onde sua imagem demonstra estar. Isso causa uma penalidade de 2 nos ataques de todos os seus oponentes.</li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>2 × tentáculos + 6 (2d4)</li>\n</ul>\n",
+    "described_attacks": "<ul>\n  <li>2 × tentáculos +6 (2d4)</li>\n</ul>\n",
     "encounters": "1d4",
     "encounters_lair": "1d4",
     "xp": "305",
