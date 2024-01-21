@@ -64,6 +64,22 @@ async function copyFiles() {
       await fs.copy(`${sourceDirectory}/${file}`, `${distDirectory}/${file}`);
     }
   }
+
+  removePackSourceFolders();
+}
+
+/**
+ * Remove folders matching "dist/packs/ ** /_source"
+ */
+async function removePackSourceFolders() {
+  const packFolders = await fs.readdir(`${distDirectory}/packs`);
+  for (const packFolder of packFolders) {
+    const packSourceFolder = `${distDirectory}/packs/${packFolder}/_source`;
+    if (fs.existsSync(packSourceFolder)) {
+      console.log(`Removing ${packSourceFolder}`);
+      await fs.remove(packSourceFolder);
+    }
+  }
 }
 
 /**
