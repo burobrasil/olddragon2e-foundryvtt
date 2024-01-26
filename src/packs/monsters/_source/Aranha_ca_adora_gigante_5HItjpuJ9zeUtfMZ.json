@@ -1,5 +1,5 @@
 {
-  "name": "Aranha caçadora gigante",
+  "name": "Aranha Caçadora Gigante",
   "type": "monster",
   "_id": "5HItjpuJ9zeUtfMZ",
   "img": "systems/olddragon2e/assets/monsters-concepts/inseto-grande.webp",
@@ -37,7 +37,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Aranha caçadora gigante",
+    "name": "Aranha Caçadora Gigante",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,

@@ -1,5 +1,5 @@
 {
-  "name": "Urso-coruja",
+  "name": "Urso-Coruja",
   "type": "monster",
   "_id": "sclJwihHrROAJUuY",
   "img": "systems/olddragon2e/assets/monsters-concepts/besta-grande.webp",
@@ -37,7 +37,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Urso-coruja",
+    "name": "Urso-Coruja",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,

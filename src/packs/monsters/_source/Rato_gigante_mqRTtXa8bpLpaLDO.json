@@ -1,5 +1,5 @@
 {
-  "name": "Rato gigante",
+  "name": "Rato Gigante",
   "type": "monster",
   "_id": "mqRTtXa8bpLpaLDO",
   "img": "systems/olddragon2e/assets/monsters-concepts/animal-pequeno.webp",
@@ -37,7 +37,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Rato gigante",
+    "name": "Rato Gigante",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,

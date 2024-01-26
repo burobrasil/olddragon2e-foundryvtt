@@ -1,5 +1,5 @@
 {
-  "name": "Lagarto gigante",
+  "name": "Lagarto Gigante",
   "type": "monster",
   "_id": "zmPlC6cD3lS9ybJh",
   "img": "systems/olddragon2e/assets/monsters-concepts/animal-imenso.webp",
@@ -37,7 +37,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Lagarto gigante",
+    "name": "Lagarto Gigante",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,

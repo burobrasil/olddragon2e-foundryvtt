@@ -1,5 +1,5 @@
 {
-  "name": "Homem-gato",
+  "name": "Homem-Gato",
   "type": "monster",
   "_id": "lbXCNs8XO7cOD8Sb",
   "img": "systems/olddragon2e/assets/monsters-concepts/humanoide-pequeno.webp",
@@ -37,7 +37,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Homem-gato",
+    "name": "Homem-Gato",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,

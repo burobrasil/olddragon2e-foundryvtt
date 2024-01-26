@@ -1,5 +1,5 @@
 {
-  "name": "Oni mago",
+  "name": "Oni Mago",
   "type": "monster",
   "_id": "rjwn86d5Pjvkp57V",
   "img": "systems/olddragon2e/assets/monsters-concepts/gigante-grande.webp",
@@ -37,7 +37,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Oni mago",
+    "name": "Oni Mago",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,

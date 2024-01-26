@@ -1,5 +1,5 @@
 {
-  "name": "Elemental da água",
+  "name": "Elemental da Água",
   "type": "monster",
   "_id": "fmVvOo3lPKb5Zarh",
   "img": "systems/olddragon2e/assets/monsters-concepts/besta-grande.webp",
@@ -37,7 +37,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Elemental da água",
+    "name": "Elemental da Água",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,

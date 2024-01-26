@@ -1,5 +1,5 @@
 {
-  "name": "Berserker líder",
+  "name": "Berserker Líder",
   "type": "monster",
   "_id": "nPvZo95lbchPiVsA",
   "img": "systems/olddragon2e/assets/monsters-concepts/humanoide-medio.webp",
@@ -37,7 +37,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Berserker líder",
+    "name": "Berserker Líder",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,

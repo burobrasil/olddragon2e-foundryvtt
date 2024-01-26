@@ -1,5 +1,5 @@
 {
-  "name": "Fera do pântano",
+  "name": "Fera do Pântano",
   "type": "monster",
   "_id": "ge9F4rZLBUcw0LqC",
   "img": "systems/olddragon2e/assets/monsters-concepts/humanoide-medio.webp",
@@ -37,7 +37,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Fera do pântano",
+    "name": "Fera do Pântano",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,

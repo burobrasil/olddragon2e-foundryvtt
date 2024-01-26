@@ -1,5 +1,5 @@
 {
-  "name": "Cobra cuspidora",
+  "name": "Cobra Cuspidora",
   "type": "monster",
   "_id": "LY4Ud2EcQECNxdqz",
   "img": "systems/olddragon2e/assets/monsters-concepts/animal-miudo.webp",
@@ -37,7 +37,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Cobra cuspidora",
+    "name": "Cobra Cuspidora",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,

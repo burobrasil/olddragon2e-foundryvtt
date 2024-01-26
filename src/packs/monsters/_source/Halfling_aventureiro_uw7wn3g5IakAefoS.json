@@ -1,5 +1,5 @@
 {
-  "name": "Halfling aventureiro",
+  "name": "Halfling Aventureiro",
   "type": "monster",
   "_id": "uw7wn3g5IakAefoS",
   "img": "systems/olddragon2e/assets/monsters-concepts/humanoide-medio.webp",
@@ -37,7 +37,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Halfling aventureiro",
+    "name": "Halfling Aventureiro",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,

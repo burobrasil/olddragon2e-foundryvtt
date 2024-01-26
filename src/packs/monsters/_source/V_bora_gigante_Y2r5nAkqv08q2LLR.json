@@ -1,5 +1,5 @@
 {
-  "name": "Víbora gigante",
+  "name": "Víbora Gigante",
   "type": "monster",
   "_id": "Y2r5nAkqv08q2LLR",
   "img": "systems/olddragon2e/assets/monsters-concepts/animal-imenso.webp",
@@ -37,7 +37,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Víbora gigante",
+    "name": "Víbora Gigante",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,

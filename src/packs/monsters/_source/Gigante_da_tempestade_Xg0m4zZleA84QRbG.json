@@ -1,5 +1,5 @@
 {
-  "name": "Gigante da tempestade",
+  "name": "Gigante da Tempestade",
   "type": "monster",
   "_id": "Xg0m4zZleA84QRbG",
   "img": "systems/olddragon2e/assets/monsters-concepts/gigante-colossal.webp",
@@ -37,7 +37,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Gigante da tempestade",
+    "name": "Gigante da Tempestade",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,

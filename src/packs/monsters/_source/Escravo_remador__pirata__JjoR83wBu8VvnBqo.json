@@ -1,5 +1,5 @@
 {
-  "name": "Escravo remador (pirata)",
+  "name": "Escravo Remador (Pirata)",
   "type": "monster",
   "_id": "JjoR83wBu8VvnBqo",
   "img": "systems/olddragon2e/assets/monsters-concepts/humanoide-medio.webp",
@@ -37,7 +37,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Escravo remador (pirata)",
+    "name": "Escravo Remador (Pirata)",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,

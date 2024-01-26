@@ -1,5 +1,5 @@
 {
-  "name": "Homem das cavernas",
+  "name": "Homem das Cavernas",
   "type": "monster",
   "_id": "CwMIOpOZpg2IEhL7",
   "img": "systems/olddragon2e/assets/monsters-concepts/humanoide-medio.webp",
@@ -37,7 +37,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Homem das cavernas",
+    "name": "Homem das Cavernas",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,

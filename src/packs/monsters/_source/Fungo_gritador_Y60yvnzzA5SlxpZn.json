@@ -1,5 +1,5 @@
 {
-  "name": "Fungo gritador",
+  "name": "Fungo Gritador",
   "type": "monster",
   "_id": "Y60yvnzzA5SlxpZn",
   "img": "systems/olddragon2e/assets/monsters-concepts/planta-medio.webp",
@@ -37,7 +37,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Fungo gritador",
+    "name": "Fungo Gritador",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,

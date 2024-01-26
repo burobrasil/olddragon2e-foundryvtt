@@ -1,5 +1,5 @@
 {
-  "name": "Gigante da montanha",
+  "name": "Gigante da Montanha",
   "type": "monster",
   "_id": "hhaHlRthbWI9GscD",
   "img": "systems/olddragon2e/assets/monsters-concepts/gigante-imenso.webp",
@@ -37,7 +37,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Gigante da montanha",
+    "name": "Gigante da Montanha",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,

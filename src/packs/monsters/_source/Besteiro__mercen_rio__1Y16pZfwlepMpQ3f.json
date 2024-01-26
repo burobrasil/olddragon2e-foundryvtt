@@ -1,5 +1,5 @@
 {
-  "name": "Besteiro (mercenário)",
+  "name": "Besteiro (Mercenário)",
   "type": "monster",
   "_id": "1Y16pZfwlepMpQ3f",
   "img": "systems/olddragon2e/assets/monsters-concepts/humanoide-medio.webp",
@@ -37,7 +37,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Besteiro (mercenário)",
+    "name": "Besteiro (Mercenário)",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,

@@ -1,5 +1,5 @@
 {
-  "name": "Cobra venenosa",
+  "name": "Cobra Venenosa",
   "type": "monster",
   "_id": "8JuD2R2DVW65q2uw",
   "img": "systems/olddragon2e/assets/monsters-concepts/animal-miudo.webp",
@@ -37,7 +37,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Cobra venenosa",
+    "name": "Cobra Venenosa",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,

@@ -1,5 +1,5 @@
 {
-  "name": "Jumento/mula",
+  "name": "Jumento/Mula",
   "type": "monster",
   "_id": "CvQAUiWDWJnM6d2q",
   "img": "systems/olddragon2e/assets/monsters-concepts/animal-medio.webp",
@@ -37,7 +37,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Jumento/mula",
+    "name": "Jumento/Mula",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,

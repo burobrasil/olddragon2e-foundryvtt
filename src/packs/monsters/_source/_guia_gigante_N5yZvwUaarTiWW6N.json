@@ -1,5 +1,5 @@
 {
-  "name": "Águia gigante",
+  "name": "Águia Gigante",
   "type": "monster",
   "_id": "N5yZvwUaarTiWW6N",
   "img": "systems/olddragon2e/assets/monsters-concepts/animal-grande.webp",
@@ -37,7 +37,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Águia gigante",
+    "name": "Águia Gigante",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,

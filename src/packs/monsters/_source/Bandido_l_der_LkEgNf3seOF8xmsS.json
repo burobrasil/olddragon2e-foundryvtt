@@ -1,5 +1,5 @@
 {
-  "name": "Bandido líder",
+  "name": "Bandido Líder",
   "type": "monster",
   "_id": "LkEgNf3seOF8xmsS",
   "img": "systems/olddragon2e/assets/monsters-concepts/humanoide-medio.webp",
@@ -37,7 +37,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Bandido líder",
+    "name": "Bandido Líder",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,

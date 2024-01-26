@@ -1,5 +1,5 @@
 {
-  "name": "Pólipo voador",
+  "name": "Pólipo Voador",
   "type": "monster",
   "_id": "di5lEQJKQxvMs2kg",
   "img": "systems/olddragon2e/assets/monsters-concepts/besta-imenso.webp",
@@ -37,7 +37,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Pólipo voador",
+    "name": "Pólipo Voador",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,

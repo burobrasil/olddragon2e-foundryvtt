@@ -1,5 +1,5 @@
 {
-  "name": "Dragão branco",
+  "name": "Dragão Branco",
   "type": "monster",
   "_id": "EY2lw6PsuHzWg3h0",
   "img": "systems/olddragon2e/assets/monsters-concepts/dragao-grande.webp",
@@ -37,7 +37,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Dragão branco",
+    "name": "Dragão Branco",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,

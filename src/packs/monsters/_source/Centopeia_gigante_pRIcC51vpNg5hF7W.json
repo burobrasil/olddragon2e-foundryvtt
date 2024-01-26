@@ -1,5 +1,5 @@
 {
-  "name": "Centopeia gigante",
+  "name": "Centopeia Gigante",
   "type": "monster",
   "_id": "pRIcC51vpNg5hF7W",
   "img": "systems/olddragon2e/assets/monsters-concepts/inseto-grande.webp",
@@ -37,7 +37,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Centopeia gigante",
+    "name": "Centopeia Gigante",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,

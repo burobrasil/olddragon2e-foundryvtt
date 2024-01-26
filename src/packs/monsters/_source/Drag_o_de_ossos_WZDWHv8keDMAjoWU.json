@@ -1,5 +1,5 @@
 {
-  "name": "Dragão de ossos",
+  "name": "Dragão de Ossos",
   "type": "monster",
   "_id": "WZDWHv8keDMAjoWU",
   "img": "systems/olddragon2e/assets/monsters-concepts/dragao-grande.webp",
@@ -37,7 +37,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Dragão de ossos",
+    "name": "Dragão de Ossos",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,

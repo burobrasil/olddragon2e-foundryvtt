@@ -1,5 +1,5 @@
 {
-  "name": "Árvore maldita",
+  "name": "Árvore Maldita",
   "type": "monster",
   "_id": "IoYBhb5su7uaiblI",
   "img": "systems/olddragon2e/assets/monsters-concepts/besta-imenso.webp",
@@ -37,7 +37,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Árvore maldita",
+    "name": "Árvore Maldita",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,

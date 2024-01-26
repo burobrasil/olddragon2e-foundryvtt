@@ -1,5 +1,5 @@
 {
-  "name": "Limo cinzento",
+  "name": "Limo Cinzento",
   "type": "monster",
   "_id": "Ket2v9UQ5B0BzkvF",
   "img": "systems/olddragon2e/assets/monsters-concepts/gosma-medio.webp",
@@ -37,7 +37,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Limo cinzento",
+    "name": "Limo Cinzento",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,

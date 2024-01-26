@@ -1,5 +1,5 @@
 {
-  "name": "Polvo gigante",
+  "name": "Polvo Gigante",
   "type": "monster",
   "_id": "QFWjqIPPfHWBcsQX",
   "img": "systems/olddragon2e/assets/monsters-concepts/animal-colossal.webp",
@@ -37,7 +37,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Polvo gigante",
+    "name": "Polvo Gigante",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,

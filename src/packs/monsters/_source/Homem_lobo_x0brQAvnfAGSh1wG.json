@@ -1,5 +1,5 @@
 {
-  "name": "Homem-lobo",
+  "name": "Homem-Lobo",
   "type": "monster",
   "_id": "x0brQAvnfAGSh1wG",
   "img": "systems/olddragon2e/assets/monsters-concepts/humanoide_monstruoso-medio.webp",
@@ -37,7 +37,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Homem-lobo",
+    "name": "Homem-Lobo",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,

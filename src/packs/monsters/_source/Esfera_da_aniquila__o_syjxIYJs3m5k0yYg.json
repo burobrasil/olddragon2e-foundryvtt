@@ -1,5 +1,5 @@
 {
-  "name": "Esfera da aniquilação",
+  "name": "Esfera da Aniquilação",
   "type": "monster",
   "_id": "syjxIYJs3m5k0yYg",
   "img": "systems/olddragon2e/assets/monsters-concepts/besta-pequeno.webp",
@@ -37,7 +37,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Esfera da aniquilação",
+    "name": "Esfera da Aniquilação",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,

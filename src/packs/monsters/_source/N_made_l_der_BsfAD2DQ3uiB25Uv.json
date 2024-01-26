@@ -1,5 +1,5 @@
 {
-  "name": "Nômade líder",
+  "name": "Nômade Líder",
   "type": "monster",
   "_id": "BsfAD2DQ3uiB25Uv",
   "img": "systems/olddragon2e/assets/monsters-concepts/humanoide-medio.webp",
@@ -37,7 +37,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Nômade líder",
+    "name": "Nômade Líder",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,

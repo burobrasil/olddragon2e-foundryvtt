@@ -1,5 +1,5 @@
 {
-  "name": "Cavalo de tração",
+  "name": "Cavalo de Tração",
   "type": "monster",
   "_id": "vXxtBHETXAG94bLq",
   "img": "systems/olddragon2e/assets/monsters-concepts/animal-grande.webp",
@@ -37,7 +37,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Cavalo de tração",
+    "name": "Cavalo de Tração",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,

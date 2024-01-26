@@ -1,5 +1,5 @@
 {
-  "name": "Homem das cavernas, criança",
+  "name": "Homem das Cavernas, Criança",
   "type": "monster",
   "_id": "8B3MureoHVC1o2PM",
   "img": "systems/olddragon2e/assets/monsters-concepts/humanoide-medio.webp",
@@ -37,7 +37,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Homem das cavernas, criança",
+    "name": "Homem das Cavernas, Criança",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,

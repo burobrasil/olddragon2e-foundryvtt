@@ -1,5 +1,5 @@
 {
-  "name": "Elemental do fogo",
+  "name": "Elemental do Fogo",
   "type": "monster",
   "_id": "811B5okY4RHGMH5h",
   "img": "systems/olddragon2e/assets/monsters-concepts/besta-grande.webp",
@@ -37,7 +37,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Elemental do fogo",
+    "name": "Elemental do Fogo",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,

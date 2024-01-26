@@ -1,5 +1,5 @@
 {
-  "name": "Morcego vampiro",
+  "name": "Morcego Vampiro",
   "type": "monster",
   "_id": "ai9Cp10q1XuyY1aE",
   "img": "systems/olddragon2e/assets/monsters-concepts/animal-miudo.webp",
@@ -37,7 +37,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Morcego vampiro",
+    "name": "Morcego Vampiro",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,

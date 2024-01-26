@@ -1,5 +1,5 @@
 {
-  "name": "Golem de ossos",
+  "name": "Golem de Ossos",
   "type": "monster",
   "_id": "VgJmRRrztoAxOVEH",
   "img": "systems/olddragon2e/assets/monsters-concepts/constructo-medio.webp",
@@ -37,7 +37,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Golem de ossos",
+    "name": "Golem de Ossos",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,

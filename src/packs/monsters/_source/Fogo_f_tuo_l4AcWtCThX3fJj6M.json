@@ -1,5 +1,5 @@
 {
-  "name": "Fogo fátuo",
+  "name": "Fogo Fátuo",
   "type": "monster",
   "_id": "l4AcWtCThX3fJj6M",
   "img": "systems/olddragon2e/assets/monsters-concepts/besta-miudo.webp",
@@ -37,7 +37,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Fogo fátuo",
+    "name": "Fogo Fátuo",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,

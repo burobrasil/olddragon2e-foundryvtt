@@ -1,5 +1,5 @@
 {
-  "name": "Dragão verde",
+  "name": "Dragão Verde",
   "type": "monster",
   "_id": "RcU9HVHKvXTd5QBi",
   "img": "systems/olddragon2e/assets/monsters-concepts/dragao-grande.webp",
@@ -37,7 +37,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Dragão verde",
+    "name": "Dragão Verde",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,

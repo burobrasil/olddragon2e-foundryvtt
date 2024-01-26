@@ -1,5 +1,5 @@
 {
-  "name": "Homem-rato",
+  "name": "Homem-Rato",
   "type": "monster",
   "_id": "bIsuqpD5XL67xFkg",
   "img": "systems/olddragon2e/assets/monsters-concepts/humanoide_monstruoso-medio.webp",
@@ -37,7 +37,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Homem-rato",
+    "name": "Homem-Rato",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,

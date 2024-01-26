@@ -1,5 +1,5 @@
 {
-  "name": "Cavalo de guerra",
+  "name": "Cavalo de Guerra",
   "type": "monster",
   "_id": "GC1EItpiBP5O8U9y",
   "img": "systems/olddragon2e/assets/monsters-concepts/animal-grande.webp",
@@ -37,7 +37,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Cavalo de guerra",
+    "name": "Cavalo de Guerra",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,

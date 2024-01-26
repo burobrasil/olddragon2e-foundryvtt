@@ -1,5 +1,5 @@
 {
-  "name": "Caçador invisível",
+  "name": "Caçador Invisível",
   "type": "monster",
   "_id": "RVMYwrIwkZ8PFVNs",
   "img": "systems/olddragon2e/assets/monsters-concepts/humanoide_monstruoso-medio.webp",
@@ -37,7 +37,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Caçador invisível",
+    "name": "Caçador Invisível",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,

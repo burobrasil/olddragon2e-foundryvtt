@@ -1,5 +1,5 @@
 {
-  "name": "Fungo violeta",
+  "name": "Fungo Violeta",
   "type": "monster",
   "_id": "zOOlZ0m75Rj3KrSq",
   "img": "systems/olddragon2e/assets/monsters-concepts/planta-medio.webp",
@@ -37,7 +37,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Fungo violeta",
+    "name": "Fungo Violeta",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,

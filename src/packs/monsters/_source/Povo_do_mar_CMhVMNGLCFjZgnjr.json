@@ -1,5 +1,5 @@
 {
-  "name": "Povo do mar",
+  "name": "Povo do Mar",
   "type": "monster",
   "_id": "CMhVMNGLCFjZgnjr",
   "img": "systems/olddragon2e/assets/monsters-concepts/besta-medio.webp",
@@ -37,7 +37,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Povo do mar",
+    "name": "Povo do Mar",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,

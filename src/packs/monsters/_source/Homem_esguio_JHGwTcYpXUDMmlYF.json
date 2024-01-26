@@ -1,5 +1,5 @@
 {
-  "name": "Homem esguio",
+  "name": "Homem Esguio",
   "type": "monster",
   "_id": "JHGwTcYpXUDMmlYF",
   "img": "systems/olddragon2e/assets/monsters-concepts/humanoide_monstruoso-grande.webp",
@@ -37,7 +37,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Homem esguio",
+    "name": "Homem Esguio",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,

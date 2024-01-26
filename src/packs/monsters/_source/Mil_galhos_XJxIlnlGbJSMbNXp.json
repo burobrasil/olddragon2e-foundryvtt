@@ -1,5 +1,5 @@
 {
-  "name": "Mil-galhos",
+  "name": "Mil-Galhos",
   "type": "monster",
   "_id": "XJxIlnlGbJSMbNXp",
   "img": "systems/olddragon2e/assets/monsters-concepts/morto_vivo-grande.webp",
@@ -37,7 +37,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Mil-galhos",
+    "name": "Mil-Galhos",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
