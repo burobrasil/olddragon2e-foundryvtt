@@ -1,5 +1,5 @@
 {
-  "name": "Arqueiro (mercenário)",
+  "name": "Arqueiro (Mercenário)",
   "type": "monster",
   "_id": "Gc62Pqit8oC5KIsh",
   "img": "systems/olddragon2e/assets/monsters-concepts/humanoide-medio.webp",
@@ -37,7 +37,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Arqueiro (mercenário)",
+    "name": "Arqueiro (Mercenário)",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,

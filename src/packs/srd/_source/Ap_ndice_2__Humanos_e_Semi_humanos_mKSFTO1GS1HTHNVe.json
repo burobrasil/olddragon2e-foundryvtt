@@ -1,0 +1,652 @@
+{
+  "folder": null,
+  "name": "Apêndice 2: Humanos e Semi-humanos",
+  "_id": "mKSFTO1GS1HTHNVe",
+  "pages": [
+    {
+      "sort": 0,
+      "name": "Introdução",
+      "type": "text",
+      "_id": "XOyaNB49l2rD3WLH",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<p>Em toda a primeira parte deste livro tratamos dos monstros, se não a forma mais comum de ameaça a aventureiros, ao menos a forma mais conhecida deles. No entanto, existem outras ameaças igualmente perigosas e, às vezes, até mesmo mais comuns: humanos e semi-humanos.</p>\n\n<p>Nem sempre inimigos, estes grupos podem se tornar adversários por cruzarem o caminho dos aventureiros ou simplesmente por terem objetivos conflitantes com os deles.</p>\n\n<p>Este apêndice ajudará a usar estes grupos em suas campanhas, apresentando estatísticas de combate e outras informações mais que vitais.</p>\n\n<p><strong>Humanos:</strong> as fichas resumidas deste capítulo foram criadas tendo humanos como base. Se você precisar de uma variação, como, por exemplo, Bandidos Gnomos, faça os ajustes pertinentes à raça sobre a ficha já pronta dos Bandidos Humanos.</p>\n\n<p><strong>Não Humanos:</strong> as fichas com nomes de outras raças obviamente retratam um indivíduo dessa mesma raça.</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!mKSFTO1GS1HTHNVe.XOyaNB49l2rD3WLH"
+    },
+    {
+      "sort": 1,
+      "name": "Aventureiros",
+      "type": "text",
+      "_id": "KVXwIsXXtkjlw4ak",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<p>Introduzir grupos de aventureiros na sua campanha pode ser uma ótima forma de criar rivais ou mesmo outros grupos para agirem como aliados em determinadas circunstâncias da sua campanha.</p>\n\n<p>Um dos problemas de tentar inserir grupos de aventureiros é que este é um processo trabalhoso. Imagine gerar 4, 5 ou 6 fichas padrão de aventureiros para a sua campanha. Pensando em resolver este problema, indicamos a seguir um método de criação de grupos de aventureiros.</p>\n\n<p>Antes de lançar o dado, determine se você precisa de um grupo de aventureiros iniciantes (1º a 3º nível) ou experientes (4º ao 10º nível) e jogue 1d6 nas linhas apropriadas.</p>\n\n<div class=\"overflow-x-auto\">\n  <table>\n    <caption>Aventureiros <span>tabela A6.1</span></caption>\n    <thead>\n      <tr>\n        <th colspan=\"6\">Aventureiros Iniciantes</th>\n      </tr>\n      <tr>\n        <th>1d6</th>\n        <th>Quantidade de Membros</th>\n        <th>Nível de Cada Membro</th>\n        <th>Classe de Cada Membro</th>\n        <th>Raça de Cada Membro</th>\n        <th>Alinhamento de Cada Membro</th>\n      </tr>\n    </thead>\n    <tbody>\n      <tr class=\"text-center\">\n        <td>1</td>\n        <td>2 membros</td>\n        <td>1º Nível</td>\n        <td>Guerreiro</td>\n        <td>Humano</td>\n        <td>Ordeiro</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td>2</td>\n        <td>3 membros</td>\n        <td>1º Nível</td>\n        <td>Clérigo</td>\n        <td>Humano</td>\n        <td>Ordeiro</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td>3</td>\n        <td>3 membros</td>\n        <td>2º Nível</td>\n        <td>Ladrão</td>\n        <td>Humano</td>\n        <td>Neutro</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td>4</td>\n        <td>4 membros</td>\n        <td>2º Nível</td>\n        <td>Mago</td>\n        <td>Anão</td>\n        <td>Neutro</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td>5</td>\n        <td>4 membros</td>\n        <td>3º Nível</td>\n        <td>Guerreiro</td>\n        <td>Elfo ou Meio Elfo</td>\n        <td>Caótico</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td>6</td>\n        <td>5 membros</td>\n        <td>3º Nível</td>\n        <td>Especialização*</td>\n        <td>Halfling ou Gnomo</td>\n        <td>Caótico</td>\n      </tr>\n    </tbody>\n    <thead>\n      <tr class=\"text-center font-bold\">\n        <th colspan=\"6\">Aventureiros Experientes</th>\n      </tr>\n      <tr class=\"text-center font-bold\">\n        <th>1d6</th>\n        <th>Quantidade de Membros</th>\n        <th>Nível de Cada Membro</th>\n        <th>Classe de Cada Membro</th>\n        <th>Raça de Cada Membro</th>\n        <th>Alinhamento de Cada Membro</th>\n      </tr>\n    </thead>\n    <tbody>\n      <tr class=\"text-center\">\n        <td>1</td>\n        <td>3 membros</td>\n        <td>4º Nível</td>\n        <td>Guerreiro</td>\n        <td>Humano</td>\n        <td>Ordeiro</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td>2</td>\n        <td>4 membros</td>\n        <td>5º Nível</td>\n        <td>Clérigo</td>\n        <td>Humano</td>\n        <td>Ordeiro</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td>3</td>\n        <td>4 membros</td>\n        <td>6º Nível</td>\n        <td>Ladrão</td>\n        <td>Humano</td>\n        <td>Neutro</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td>4</td>\n        <td>5 membros</td>\n        <td>1d6+4 Níveis</td>\n        <td>Mago</td>\n        <td>Anão</td>\n        <td>Neutro</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td>5</td>\n        <td>5 membros</td>\n        <td>1d6+4 Níveis</td>\n        <td>Guerreiro</td>\n        <td>Elfo ou Meio Elfo</td>\n        <td>Caótico</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td>6</td>\n        <td>6 membros</td>\n        <td>1d6+4 Níveis</td>\n        <td>Especialização*</td>\n        <td>Halfling ou Gnomo</td>\n        <td>Caótico</td>\n      </tr>\n      <tr>\n        <td colspan=\"6\" class=\"italic\">\n          OBS.: jogue 1d6 na linha apropriada (Aventureiros Iniciantes ou Aventureiros Experientes) na coluna Quantidade de Membros para identificar quantos membros formam o grupo de aventureiros. Depois, jogue para cada membro nas demais colunas para determinar seus níveis, classes, raças e alinhamentos.\n          <br />\n          * Se um resultado Especialização sair no sorteio da classe, jogue 1d4 na coluna de Classe para determinar de qual classe é a especialização. Escolha uma para o personagem dentro das disponíveis para a classe sorteada.\n        </td>\n      </tr>\n    </tbody>\n  </table>\n</div>\n\n<h3 id=\"aventureiros-iniciantes\">Aventureiros Iniciantes</h3>\n\n<p>São formados por 2 a 5 membros de personagens de 1º a 3º nível.</p>\n\n<p><strong>Magias:</strong> se houverem conjuradores nos grupos, o Mestre deve determinar quais magias estão memorizadas.</p>\n\n<p><strong>Equipamento:</strong> condizentes com o poder, raça e classe de cada personagem. Normalmente, envolvem:</p>\n\n<ul>\n  <li>\n    <p>1 ou 2 armas e munições (se necessário) de acordo com as restrições de classe;</p>\n  </li>\n  <li>\n    <p>1 armadura leve ou média de acordo com as restrições de classe;</p>\n  </li>\n  <li>\n    <p>demais itens de acordo com o tesouro (ver a seguir).</p>\n  </li>\n</ul>\n\n<p><strong>Tesouros:</strong> do tipo U compartilhado entre todos os membros do grupo. Um tesouro do tipo U normalmente possui:</p>\n\n<ul>\n  <li>\n    <p>1 chance em 1d6 de possuir 1d10 PO</p>\n  </li>\n  <li>\n    <p>1 chance em 1d6 de possuir 1d10 PP</p>\n  </li>\n  <li>\n    <p>1 chance em 1d6 de possuir 1d10 PC</p>\n  </li>\n  <li>\n    <p>1 chance em 1d6 de possuir 1d4 Equipamentos</p>\n  </li>\n  <li>\n    <p>1 chance em 1d6 de possuir 1 Objeto de Valor</p>\n  </li>\n  <li>\n    <p>1 chance em 1d6 de possuir 1 item mágico qualquer</p>\n  </li>\n</ul>\n\n<p><strong>Montaria:</strong> se encontrados nos ermos ou em cidades, há uma chance de 1 em 1d6 do grupo possuir montarias ou bestas de carga para carregar itens e tesouros. Se encontrados em masmorras, o grupo não possuirá nenhuma montaria.</p>\n\n<h3 id=\"aventureiros-experientes\">Aventureiros Experientes</h3>\n\n<p>São formados por 3 a 6 membros de personagens de 4º a 10º nível.</p>\n\n<p><strong>Magias:</strong> se houverem conjuradores nos grupos, o Mestre deve determinar quais magias estão memorizadas.</p>\n\n<p><strong>Equipamento:</strong> condizentes com o poder, raça e classe de cada personagem. Normalmente, envolvem:</p>\n\n<ul>\n  <li>\n    <p>1 ou 2 armas e munições (se necessário) de acordo com as restrições de classe;</p>\n  </li>\n  <li>\n    <p>1 armadura leve ou média de acordo com as restrições de classe;</p>\n  </li>\n  <li>\n    <p>demais itens de acordo com o tesouro (ver a seguir).</p>\n  </li>\n</ul>\n\n<p><strong>Tesouros:</strong> do tipo V compartilhado entre todos os membros do grupo. Um tesouro do tipo V normalmente possui:</p>\n\n<ul>\n  <li>\n    <p>1-2 chances em 1d6 de possuir 1d10 PO</p>\n  </li>\n  <li>\n    <p>1-2 chances em 1d6 de possuir 1d10 PP</p>\n  </li>\n  <li>\n    <p>1 chance em 1d6 de possuir 1d6 Equipamentos</p>\n  </li>\n  <li>\n    <p>1 chance em 1d6 de possuir 1d4 Objetos de Valor</p>\n  </li>\n  <li>\n    <p>1 chance em 1d6 de possuir 1 item mágico qualquer</p>\n  </li>\n</ul>\n\n<p><strong>Montaria:</strong> se encontrados nos ermos ou em cidades, há uma chance de 1-4 chances em 1d6 do grupo possuir montarias ou bestas de carga para carregar itens e tesouros. Se encontrados em masmorras, o grupo não possuirá nenhuma montaria.</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!mKSFTO1GS1HTHNVe.KVXwIsXXtkjlw4ak"
+    },
+    {
+      "sort": 2,
+      "name": "Anões",
+      "type": "text",
+      "_id": "rAYPK46ZgEBwfqT1",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<p>Normalmente são encontrados como um grupo de patrulha próximos às suas terras, em um destacamento militar, em um pequeno clã em deslocamento ou ainda como um grupo de mineradores.</p>\n\n<p><strong>Encontrados</strong> em grupos pequenos de 1d6 indivíduos ou em grupos maiores como um acampamento com 5d8 indivíduos.</p>\n\n<p><strong>Variações:</strong> a cada 20 anões, um deles será o <strong>Anão Líder</strong>.</p>\n\n<p><strong>Tesouros:</strong> Q (G)</p>\n\n<p><strong>Liderança:</strong> há 1-2 chances em 1d6 de um <strong>Anão Aventureiro</strong> de 3º Nível estar liderando o grupo em vez de um Anão Líder.</p>\n\n<h3 id=\"anao\">Anão</h3>\n\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.Jq6rspGU9HLBCEdS]{Anão}</p>\n\n<h3 id=\"anao-aventureiro\">Anão Aventureiro</h3>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.8xYhAGJ3x5el442C]{Anão Aventureiro}</p>\n\n<h3 id=\"anao-lider\">Anão Líder</h3>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.Q5go8iCmSCMlcHmM]{Anão Líder}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!mKSFTO1GS1HTHNVe.rAYPK46ZgEBwfqT1"
+    },
+    {
+      "sort": 3,
+      "name": "Bandidos",
+      "type": "text",
+      "_id": "1aMry7d2sogIRPrX",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<p>São fora-da-lei que se uniram em bando para atacar viajantes, comerciantes ou fazendeiros nas áreas remotas ou ermas nas quais a lei possui mais dificuldade em atuar. Além de bandidos das estradas, você pode usar as fichas de bandidos para representar salteadores, escravagistas, capangas ou qualquer outro tipo de fora-da-lei.</p>\n\n<p><strong>Encontrados</strong> em bandos de 2d4 indivíduos, que formam comunidades maiores com 2d10+10 indivíduos.</p>\n\n<p><strong>Variações:</strong> um <strong>Bandido Campeão</strong> a cada 5 indivíduos e um <strong>Bandido Líder</strong> por comunidade.</p>\n\n<p><strong>Tesouros:</strong> P (C)</p>\n\n<p><strong>Prisioneiros:</strong> há uma chance de 1-2 em 1d6 de um acampamento de Bandidos ter até 1d3 prisioneiros. Estes prisioneiros podem ser libertados ou entregues à sua família.</p>\n\n<h3 id=\"bandido\">Bandido</h3>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.ULcq2UXXXTshL4dt]{Bandido}</p>\n\n<h3 id=\"bandido-campeao\">Bandido Campeão</h3>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.pqxvjJIv3qsTWwvg]{Bandido Campeão}</p>\n\n<h3 id=\"bandido-lider\">Bandido Líder</h3>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.LkEgNf3seOF8xmsS]{Bandido Líder}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!mKSFTO1GS1HTHNVe.1aMry7d2sogIRPrX"
+    },
+    {
+      "sort": 4,
+      "name": "Berserkers",
+      "type": "text",
+      "_id": "KVBR9oaGnR42muWo",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<p>Berserkers são pequenos grupos de guerreiros de culturas nômades dos ermos, incapazes de viverem em comunidade e que ficam loucos em batalha. Perambulam por regiões planas e geladas em busca de saques e sobrevivência. Jamais fazem prisioneiros.</p>\n\n<p><strong>Encontrados</strong> em grupos pequenos de 3d6 indivíduos.</p>\n\n<p><strong>Variações:</strong> a cada 20 Berserkers, um deles será um <strong>Berserker Líder</strong>.</p>\n\n<p><strong>Tesouros:</strong> (U)</p>\n\n<h3 id=\"berserker\">Berserker</h3>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.Wxldyz07EJb474r9]{Berserker}</p>\n\n<h3 id=\"berserker-lider\">Berserker Líder</h3>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.nPvZo95lbchPiVsA]{Berserker Líder}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!mKSFTO1GS1HTHNVe.KVBR9oaGnR42muWo"
+    },
+    {
+      "sort": 5,
+      "name": "Mercadores",
+      "type": "text",
+      "_id": "6X2Y1cpcTmfdHkJe",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<p>Organizados em caravanas percorrendo as estradas, levam seus produtos em grandes carroças, vendendo e comprando mercadorias para as mais diferentes e distantes localizações.</p>\n\n<p><strong>Encontrados</strong> em caravanas de 4d6 + 10 indivíduos.</p>\n\n<p><strong>Variações:</strong> a cada 4 <strong>Mercadores</strong>, um deles será um <strong>Guarda-Costas</strong>. Além disso, há sempre um <strong>Chefe da Guarda</strong> por caravana.</p>\n\n<p><strong>Tesouros:</strong> A</p>\n\n<p><strong>Caravana:</strong> há duas carroças repletas de mercadorias para cada mercador, descontados os guarda-costas e Chefe da Guarda. Cada carroça é puxada por uma parelha de dois cavalos de tração.</p>\n\n<p><strong>Mercadorias:</strong> jogue 1d6 para determinar o que a caravana transporta. O resultado do dado significa que a caravana transporta aquele tipo de item e os de valor menor: <span class=\"italic\">1. Alimentos, 2. Utilidades Domésticas, 3. Especiarias, 4. Equipamentos Gerais, 5. Armas e Armaduras e 6. Objetos de Valor.</span></p>\n\n<h3 id=\"mercador\">Mercador</h3>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.Q9k9VmSxUZfQ5RI2]{Mercador}</p>\n\n<h3 id=\"guarda-costas\">Guarda-Costas</h3>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.FJrwIzlmSict3Gkr]{Guarda-Costas (Mercadores)}</p>\n\n<h3 id=\"chefe-da-guarda\">Chefe da Guarda</h3>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.9V2nAyBC5gtWDziX]{Chefe da Guarda (Mercadores)}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!mKSFTO1GS1HTHNVe.6X2Y1cpcTmfdHkJe"
+    },
+    {
+      "sort": 6,
+      "name": "Cultistas",
+      "type": "text",
+      "_id": "g0G1S6Cip0Q2usht",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<p>Cultistas são sacerdotes os quais abraçaram deuses específicos e ocultos, frequentemente ligados à morte ou a conhecimentos obscuros de forças ocultas que todos deveríamos ignorar. São inimigos sagazes e devem ser respeitados pela sua tenacidade e fanatismo.</p>\n\n<p><strong>Encontrados</strong> em grupos de 2d4 cultistas.</p>\n\n<p><strong>Variações:</strong> 1 a cada 4 cultistas são <strong>Cultistas Adeptos</strong>. Além disso, há sempre um <strong>Cultista Sacerdote</strong> por grupo.</p>\n\n<p><strong>Tesouros:</strong> P (C)</p>\n\n<p><strong>Divindade:</strong> jogue 1d6 para determinar a divindade seguida pelos cultistas: <span class=\"italic\">1-3. Orcus, 4-5. Arak-Takna, 6. Demogorgon.</span></p>\n\n<h3 id=\"cultista\">Cultista</h3>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.SRP4I6fWteqiI3Vt]{Cultista}</p>\n\n<h3 id=\"cultista-adepto\">Cultista Adepto</h3>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.ysKN7MKfTNlzaG3x]{Cultista Adepto}</p>\n\n<h3 id=\"cultista-sacerdote\">Cultista Sacerdote</h3>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.bMIj4zh0savt5n5z]{Cultista Sacerdote}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!mKSFTO1GS1HTHNVe.g0G1S6Cip0Q2usht"
+    },
+    {
+      "sort": 7,
+      "name": "Elfos",
+      "type": "text",
+      "_id": "Rqya2wL7alxxmkkL",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<p>Elfos podem ser encontrados em grupos de batedores que fazem a proteção de suas comunidades, sobretudo dentro de florestas. Fora deste habitat, podem ser grupos de escolta de nobres e diplomatas.</p>\n\n<p><strong>Encontrados</strong> em grupos pequenos de 2d4 indivíduos ou em grupos maiores como um acampamento com 2d12 indivíduos.</p>\n\n<p><strong>Variações:</strong> a cada 15 elfos, um deles será um <strong>Elfo Líder</strong>.</p>\n\n<p><strong>Tesouros:</strong> Q (G)</p>\n\n<p><strong>Liderança:</strong> há 1-2 chances em 1d6 de um <strong>Elfo Aventureiro</strong> de 3º Nível estar liderando o grupo em vez de um Elfo Líder.</p>\n\n<h3 id=\"elfo\">Elfo</h3>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.yEeU1BffAVjztimb]{Elfo}</p>\n\n<h3 id=\"elfo-lider\">Elfo Líder</h3>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.1mg5M4yrpWvyfoeN]{Elfo Líder}</p>\n\n<h3 id=\"elfo-aventureiro\">Elfo Aventureiro</h3>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.dGrCSELrE0lIRoLh]{Elfo Aventureiro}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!mKSFTO1GS1HTHNVe.Rqya2wL7alxxmkkL"
+    },
+    {
+      "sort": 8,
+      "name": "Fanáticos",
+      "type": "text",
+      "_id": "GzpAVMJFKF7EXmP0",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<p>Fanáticos são seguidores nômades de filosofias religiosas nem sempre compreensíveis. Possuem uma fé cega em seus líderes e doutrinas, percorrendo os ermos isolados de toda a civilização para cultuar seus etos enquanto desenvolvem uma intolerância por outras visões religiosas.</p>\n\n<p>Vivem em um estado de guerra santa autodeclarada contra os hereges, ou seja, pessoas que não possuem a mesma ideologia religiosa. Ao capturarem alguém, forçam seus prisioneiros a uma conversão a qual, caso negada, pode resultar em escravização ou, quase sempre, na morte do prisioneiro.</p>\n\n<p><strong>Encontrados</strong> em comunidades de 1d6+1 x 10 fanáticos, quase sempre erguidas em torno de pequenos templos ou altares sagrados.</p>\n\n<p><strong>Variações:</strong> um acampamento fanático é sempre liderado por um <strong>Fanático Líder</strong>.</p>\n\n<p><strong>Tesouros:</strong> P(E)</p>\n\n<h3 id=\"fanatico\">Fanático</h3>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.5Bvh69bxLvrevV7G]{Fanático}</p>\n\n<h3 id=\"fanatico-lider\">Fanático Líder</h3>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.ANqgbBiFvbsCKdPe]{Fanático Líder}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!mKSFTO1GS1HTHNVe.GzpAVMJFKF7EXmP0"
+    },
+    {
+      "sort": 9,
+      "name": "Gnomos",
+      "type": "text",
+      "_id": "p3dqRmj1qL6uCjUP",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<p>Normalmente são encontrados como um grupo de mineradores ou comerciantes que estejam próximos às suas terras ou em viagem, em alguma missão.</p>\n\n<p><strong>Encontrados</strong> em grupos pequenos de 1d6 indivíduos ou em grupos maiores como um acampamento com 5d8 indivíduos.</p>\n\n<p><strong>Variações:</strong> a cada 20 gnomos, um deles será um <strong>Gnomo Líder</strong>.</p>\n\n<p><strong>Tesouros:</strong> Q (G)</p>\n\n<h3 id=\"gnomo\">Gnomo</h3>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.R9O3MNdN8uMuMokD]{Gnomo}</p>\n\n<h3 id=\"gnomo-lider\">Gnomo Líder</h3>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.7MrtJeJL9SKj0t8z]{Gnomo Líder}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!mKSFTO1GS1HTHNVe.p3dqRmj1qL6uCjUP"
+    },
+    {
+      "sort": 10,
+      "name": "Halflings",
+      "type": "text",
+      "_id": "ln8vCVpshWykbYSg",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<p>Halflings são encontrados em grupos de patrulha ou pequenos grupos de fazendeiros.</p>\n\n<p><strong>Encontrados</strong> em grupos pequenos de 2d4 indivíduos ou em grupos maiores como um acampamento com 2d12 indivíduos.</p>\n\n<p><strong>Variações:</strong> a cada 15 halflings, um deles será um <strong>Halfling Líder</strong>, e há 1-2 chances em 1d6 do líder ser um <strong>Halfling Aventureiro</strong>.</p>\n\n<p><strong>Tesouros:</strong> Q (G)</p>\n\n<p><strong>Liderança:</strong>.</p>\n\n<h3 id=\"halfling\">Halfling</h3>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.uFuKxAyLwG4MOz3N]{Halfling}</p>\n\n<h3 id=\"halfling-lider\">Halfling Líder</h3>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.Av0RvqomizMAFFlp]{Halfling Líder}</p>\n\n<h3 id=\"halfling-aventureiro\">Halfling Aventureiro</h3>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.uw7wn3g5IakAefoS]{Halfling Aventureiro}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!mKSFTO1GS1HTHNVe.ln8vCVpshWykbYSg"
+    },
+    {
+      "sort": 11,
+      "name": "Homens Comuns",
+      "type": "text",
+      "_id": "g14mYhq3odx62Rg9",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<p>Homens comuns são as pessoas normais que habitam o mundo, não possuindo aspirações aventurescas, poderes ou habilidades mínimas de combate. Estes são os pedreiros, cavalariços, nobres, ferreiros, artistas, agricultores… Enfim, as pessoas comuns do seu cenário de campanha.</p>\n\n<p><strong>Encontrados</strong> em grupos pequenos de 2d4 indivíduos ou em grupos maiores, de acordo com o tamanho do assentamento onde vivem.</p>\n\n<p><strong>Variações:</strong> a cada 15 homens, um deles será uma <strong>Criança</strong>. E a cada 25 homens, um deles será um <strong>Idoso</strong>.</p>\n\n<p><strong>Tesouros:</strong> Q</p>\n\n<h3 id=\"adultos\">Adultos</h3>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.1WnQtm8QfsIjSN8C]{Homem Comum}</p>\n\n<h3 id=\"idosos\">Idosos</h3>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.co1aFuyf0Axvj1yW]{Homem Comum, Idoso}</p>\n\n<h3 id=\"criancas\">Crianças</h3>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.OuitqeVL7TWU123G]{Homem Comum, Criança}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!mKSFTO1GS1HTHNVe.g14mYhq3odx62Rg9"
+    },
+    {
+      "sort": 12,
+      "name": "Homens das Cavernas",
+      "type": "text",
+      "_id": "942nPwQyN1eS3ipw",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<p>Homens primitivos, considerados extintos pela maioria dos sábios, porém resistem em locais extremamente isolados e desabitados. Culturalmente, vivem a idade da pedra lascada, usando ferramentas simplórias de madeira, ossos e pedras. Não falam, comunicando-se apenas com grunhidos, e são exímios caçadores e guerreiros.</p>\n\n<p><strong>Encontrados</strong> em grupos de caçadores de 2d4 indivíduos ou em tribos com 3d10 x 10 indivíduos.</p>\n\n<p><strong>Variações:</strong> em grupos de caçadores, os homens das cavernas são liderados por um Homem das <strong>Cavernas Campeão</strong>. Em acampamentos, a cada 10 indivíduos, um deles será uma <strong>Criança</strong>; a cada 50 indivíduos, um será um <strong>Idoso</strong>; e haverá 1d4 <strong>Homens das Cavernas Campeão</strong>.</p>\n\n<p><strong>Tesouros:</strong> nenhum</p>\n\n<h3 id=\"homem-das-cavernas\">Homem das Cavernas</h3>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.CwMIOpOZpg2IEhL7]{Homem das Cavernas}</p>\n\n<h3 id=\"homem-das-cavernas-campeao\">Homem das Cavernas Campeão</h3>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.Cgm3WZm3EPeujCRu]{Homem das Cavernas Campeão}</p>\n\n<h3 id=\"homem-das-cavernas-idoso\">Homem das Cavernas Idoso</h3>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.srUV5NQ6HbDa3Wn3]{Homem das Cavernas, Idoso}</p>\n\n<h3 id=\"homem-das-cavernas-crianca\">Homem das Cavernas Criança</h3>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.8B3MureoHVC1o2PM]{Homem das Cavernas, Criança}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!mKSFTO1GS1HTHNVe.942nPwQyN1eS3ipw"
+    },
+    {
+      "sort": 13,
+      "name": "Mercenários",
+      "type": "text",
+      "_id": "OK0k5JDUN3ajxJyR",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<p>Estes soldados estão a serviço de algum senhor local ou procurando algum trabalho remunerado para suas armas. Fortemente armados e protegidos, são um grupo coeso em combate e desafiador para enfrentar.</p>\n\n<p><strong>Encontrados</strong> em grupos formados por: 2d6 soldados, onde 1 a cada 5 é um <strong>Soldado Pesado</strong> atuando como um <strong>Sargento</strong>; 2d6 <strong>Arqueiros</strong>; 1d6 <strong>Besteiros</strong>; 1d6 <strong>Piqueiros</strong> e 1d6 <strong>Cavaleiros Leves</strong>. A cada 20 homens, haverá adicionalmente um <strong>Cavaleiro de Guerra</strong> onde um destes é o Líder do Grupo.</p>\n\n<p><strong>Tesouros:</strong> Q (G)</p>\n\n<p><strong>Contratando:</strong> existe uma chance de 1-2 em 1d6 dos Mercenários estarem disponíveis para contratação.</p>\n\n<h3 id=\"soldados-pesados-sargentos\">Soldados Pesados - Sargentos</h3>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.Gc6QWFyyyDwP2eLX]{Soldado Pesado, Sargento (Mercenário)}</p>\n\n<h3 id=\"soldados-leves\">Soldados Leves</h3>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.RlkSU5tbnR3MwKEv]{Soldado Leve (Mercenário)}</p>\n\n<h3 id=\"arqueiros\">Arqueiros</h3>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.Gc62Pqit8oC5KIsh]{Arqueiro (Mercenário)}</p>\n\n<h3 id=\"besteiros\">Besteiros</h3>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.1Y16pZfwlepMpQ3f]{Besteiro (Mercenário)}</p>\n\n<h3 id=\"piqueiros\">Piqueiros</h3>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.D5kUIzs4W1kQYEKU]{Piqueiro (Mercenário)}</p>\n\n<h3 id=\"cavaleiros-leves\">Cavaleiros Leves</h3>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.OE6DlNFKkPMbRf5i]{Cavaleiro Leve (Mercenário)}</p>\n\n<h3 id=\"cavaleiros-de-guerra\">Cavaleiros de Guerra</h3>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.4MBqlTeEjZMYi5q8]{Cavaleiro de Guerra (Mercenário)}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!mKSFTO1GS1HTHNVe.OK0k5JDUN3ajxJyR"
+    },
+    {
+      "sort": 14,
+      "name": "Nobres",
+      "type": "text",
+      "_id": "8EelUl8rp5neNSKV",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<p>Homens poderosos (como Barões e Duques) ou mesmo membros da Corte (como Conselheiros, Magistrados, Diplomatas e outros funcionários do Lorde local). São encontrados também residindo em seus castelos e fortalezas, ou em viagem durante alguma missão especial.</p>\n\n<p><strong>Encontrados:</strong> quando fora de seus castelos, 1d3 nobres são encontrados, escoltados por 2d4 <strong>Soldados Leves</strong> e 1d4 <strong>Cavaleiros Leves</strong>. Toda a escolta é liderada por um <strong>Cavaleiro de Guerra</strong> que faz o papel de Comandante de Guerra.</p>\n\n<p><strong>Tesouros:</strong> Vx3</p>\n\n<h3 id=\"nobre\">Nobre</h3>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.FbXeZEkzdB8Z1Mr8]{Nobre}</p>\n\n<h3 id=\"soldados-leves\">Soldados Leves</h3>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.deGgXKU1axnt4fkh]{Soldado Leve (Nobre)}</p>\n\n<h3 id=\"cavaleiros-leves\">Cavaleiros Leves</h3>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.A51z2k1Meh5b4tMl]{Cavaleiro Leve (Nobre)}</p>\n\n<h3 id=\"cavaleiros-de-guerra\">Cavaleiros de Guerra</h3>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.eCWDkBXLTUsqvArX]{Cavaleiro de Guerra (Nobre)}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!mKSFTO1GS1HTHNVe.8EelUl8rp5neNSKV"
+    },
+    {
+      "sort": 15,
+      "name": "Nômades",
+      "type": "text",
+      "_id": "SsMJSxcmZxWzFQvV",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<p>São habitantes dos ermos isolados de culturas tratadas como primitivas ou rudimentares, chamadas muitas vezes de Bárbaros. Vivem em grupos nômades cuidando de pequenas criações de animais, cultivando a terra nas estações mais quentes e migrando para outras regiões durante os meses mais frios. Podem se transformar em inimigos formidáveis em combate caso se sintam ameaçados.</p>\n\n<p><strong>Encontrados</strong> em grupos de 2d4 <strong>Nômades Caçadores</strong> ou em tribos nômades com 3d10 x 10 indivíduos, onde haverá uma <strong>Criança</strong> a cada 10 nômades e um <strong>Idoso</strong> a cada 60 nômades.</p>\n\n<p><strong>Variações:</strong> nos acampamentos, para cada 25 nômades, um deles será um <strong>Nômade Campeão</strong>; a cada 50 nômades, um deles será um <strong>Nômade Xamã</strong>; e em todo acampamento haverá um <strong>Nômade Líder</strong>.</p>\n\n<p><strong>Tesouros:</strong> P (B)</p>\n\n<h3 id=\"nomade-adulto\">Nômade Adulto</h3>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.UfxGrxNN0EQSMJhH]{Nômade}</p>\n\n<h3 id=\"nomade-cacador\">Nômade Caçador</h3>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.okDCny1WUjxPfSs8]{Nômade Caçador}</p>\n\n<h3 id=\"nomade-xama\">Nômade Xamã</h3>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.FmFrdCJOJhmaeI8w]{Nômade Xamã}</p>\n\n<h3 id=\"nomade-lider\">Nômade Líder</h3>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.BsfAD2DQ3uiB25Uv]{Nômade Líder}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!mKSFTO1GS1HTHNVe.SsMJSxcmZxWzFQvV"
+    },
+    {
+      "sort": 16,
+      "name": "Patrulhas/Milícia",
+      "type": "text",
+      "_id": "DHEDDaTnxWNZATRS",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<p>Estes homens formam o corpo da guarda ou do exército de um nobre local e fazem parte de um destacamento de patrulha urbana ou dos ermos. Vivem para vigiar e resguardar a lei e a ordem em nome do nobre local.</p>\n\n<p><strong>Pedidos de Socorro:</strong> Patrulhas/Milícias possuem uma chance básica de 1-2 em 1d6 de ouvir um pedido de socorro em agrupamentos urbanos iguais a uma cidade ou metrópole.</p>\n\n<p><strong>Encontrados:</strong> as patrulhas são formadas por 2d6 Guardas.</p>\n\n<p><strong>Variações:</strong> toda patrulha possui um <strong>Chefe da Guarda</strong>. Há ainda uma chance de 1-2 em 1d6 do <strong>Capitão da Guarda</strong> estar presente.</p>\n\n<p><strong>Tesouros:</strong> Q</p>\n\n<h3 id=\"reforcos\">Reforços</h3>\n\n<p>Sempre que uma ocorrência ocorre e uma patrulha se encontra com um grupo que impõe resistência a prisão, há <strong>1-2 chances em 1d6</strong> de um dos guardas deixar o local do encontro para buscar reforços.</p>\n\n<p><strong>Ermos:</strong> se o encontro for realizado em um ermo, o guarda procurará a base da guarda para avisar do encontro e trazer reforços para o local. Use a contagem de tempo e viagem até o local apropriado ou se em necessidade, um reforço demorará 1d4+2 turnos para chegar. O reforço usa as mesmas regras para sua formação que uma patrulha normal, mas existirá apenas um único Capitão da Guarda.</p>\n\n<p><strong>Urbanos:</strong> reforços urbanos são mais rápidos de se obter. Mesmo que nenhum guarda abandone o local para chamá-los há 1-3 chances de um reforço surgir no local do encontro após 2d6 rodadas, simplesmente pela confusão, gritos e barulho de batalha. Depois que este primeiro grupo de reforço chegar ao local, um novo grupo de reforço chegará ao local em ondas de patrulhas a cada 1d6+2 rodadas.</p>\n\n<h3 id=\"pedindo-socorro\">Pedindo Socorro</h3>\n\n<p>Se a intenção é gritar por ajuda da guarda, as chances de se obter ajuda são pequenas e dependem exclusivamente do local onde se está.</p>\n\n<p><strong>Ermos:</strong> a não ser que haja um forte, castelo, agrupamento urbano no hexágono em questão nenhuma patrulha ouvirá um pedido de socorro. Caso haja, há apenas <strong>1 chance em 1d6</strong> de uma patrulha estar passando subhex no momento do pedido de socorro e apenas <strong>1 chance em 1d6</strong> deste ser ouvido.</p>\n\n<p><strong>Urbanos:</strong> nas cidades, vilas e povoados a chance está ligada ao tamanho da cidade e do tipo de distrito onde o pedido de socorro é proferido. Em aldeias ou Bairros Pobres, a chance é de 1 em 1d6. Em Vilas ou Bairros Ricos e Comerciais, a chance é de 1-3 em 1d6.</p>\n\n<h3 id=\"corrupcao\">Corrupção</h3>\n\n<p>Se durante o encontro com uma patrulha, houver negociação e necessidade de argumentar uma passagem livre, os personagens podem sentir necessidade de negociar alguma vantagem para serem deixados em paz.</p>\n\n<p>Se houver uma tentativa de corromper os guardas, com o oferecimento de uma vantagem ilícita, há 1-2 chances em 1d6 do efeito ser o contrário e isso enfurecer ainda mais a patrulha. Neste caso, um teste de reação deve ser realizado para saber qual a reação da patrulha à tentativa de corrupção.</p>\n\n<h4 id=\"guarda\">Guarda</h4>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.wxaFJ4mb3EcRQLxl]{Guarda (Patrulha/Milícia)}</p>\n\n<h4 id=\"chefe-da-guarda\">Chefe da Guarda</h4>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.7lU0D0zBn86RLsdH]{Chefe da Guarda (Patrulha/Milícia)}</p>\n\n<h4 id=\"capitao-da-guarda\">Capitão da Guarda</h4>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.mpiJhFWDQ4mpGYtG]{Capitão da Guarda (Patrulha/Milícia)}</p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!mKSFTO1GS1HTHNVe.DHEDDaTnxWNZATRS"
+    },
+    {
+      "sort": 17,
+      "name": "Piratas",
+      "type": "text",
+      "_id": "oMupPzSxgA0RWiti",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"odo-markdown\">\n<p>Piratas são bandidos dos mares que vivem de saques a cidades costeiras e a outras embarcações. Podem viver de crimes e do submundo, realizando contrabando, tráfico ou escravizações. São famosos pela crueldade e pela forma intensa com a qual vivem e gastam o butim de seu trabalho.</p>\n\n<p><strong>Encontrados:</strong> piratas são encontrados em uma quantidade de acordo com o tipo de embarcação utilizado. Jogue 1d6 para determinar qual a embarcação encontrada: <em>1-3. Galeão com 40 Piratas; 4-5. Trirreme com 20 Piratas; 6. Navio à Vela com 20 Piratas.</em></p>\n\n<p><strong>Variações:</strong> a cada 10 Piratas, um deles será um <strong>Pirata Campeão</strong>. Além disso, toda embarcação pirata é comandada por um <strong>Capitão</strong>.</p>\n\n<p><strong>Escravos Remadores:</strong> uma embarcação do tipo Trirreme possui 150 <strong>Escravos Remadores</strong> os quais lutarão contra os piratas se forem resgatados</p>\n\n<p><strong>Tesouros:</strong> Q (A)</p>\n\n<p><strong>Mapa do Tesouro:</strong> há uma chance de 1-3 em 1d6 do tesouro da embarcação (A) não estar a bordo, e sim enterrado em um esconderijo. Neste caso, será encontrado na embarcação, um mapa com a localização do tesouro.</p>\n\n<h4 id=\"pirata\">Pirata</h4>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.3uLQQmwF9Viuf20M]{Pirata}</p>\n\n<h4 id=\"pirata-campeao\">Pirata Campeão</h4>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.2hYnCC3gEympK3A8]{Pirata Campeão}</p>\n\n<h4 id=\"capitao\">Capitão</h4>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.1oGsPxOIBOdHuaED]{Capitão Pirata}</p>\n\n<h4 id=\"escravos-remadores\">Escravos Remadores</h4>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.JjoR83wBu8VvnBqo]{Escravo Remador (Pirata)}</p>\n\n<h3 id=\"embarcacoes\">Embarcações</h3>\n\n<p>A seguir as estatísticas das três principais embarcações usadas por grupos de piratas.</p>\n\n<h4 id=\"galeao-pirata\">Galeão Pirata</h4>\n\n<ul>\n  <li>\n    <p><strong>CA:</strong> 12  <strong>PV:</strong> 180  <strong>MV:</strong>  45  <strong>PR:</strong> Velas (3)</p>\n  </li>\n  <li>\n    <p>2 x Balestra (Dano: 2d8+5)</p>\n  </li>\n  <li>\n    <p>3 x Catapulta (2d6 + 10)</p>\n  </li>\n  <li>\n    <p><strong>Tripulação:</strong></p>\n    <ul>\n      <li>1 × Capitão</li>\n      <li>3 × Piratas Campeões</li>\n      <li>37 × Piratas</li>\n    </ul>\n  </li>\n</ul>\n\n<h4 id=\"trirreme\">Trirreme</h4>\n\n<ul>\n  <li>\n    <p><strong>CA:</strong> 12  <strong>PV:</strong> 220  <strong>MV:</strong>  27/54  <strong>PR:</strong> Vela (1)/Remos</p>\n  </li>\n  <li>\n    <p>1 x Aríete (Dano: 8d6 + 27/54)</p>\n  </li>\n  <li>\n    <p>1 x Balestra (Dano: 2d8+5)</p>\n  </li>\n  <li>\n    <p>1 x Catapulta (Dano: 2d6 + 10)</p>\n  </li>\n  <li>\n    <p><strong>Tripulação:</strong></p>\n    <ul>\n      <li>1 × Capitão</li>\n      <li>1 × Pirata Campeão</li>\n      <li>19 × Piratas</li>\n      <li>150 × Remadores</li>\n    </ul>\n  </li>\n</ul>\n\n<h4 id=\"navio-a-vela\">Navio à Vela</h4>\n\n<ul>\n  <li>\n    <p><strong>CA:</strong> 10 <strong>PV:</strong> 150  <strong>MV:</strong> 36  <strong>PR:</strong> Velas (2)</p>\n  </li>\n  <li>\n    <p>1 x Balestra (Dano: 2d8+5)</p>\n  </li>\n  <li>\n    <p>1 x Catapulta (Dano: 2d6 + 10)</p>\n  </li>\n  <li>\n    <p><strong>Tripulação:</strong></p>\n    <ul>\n      <li>1 × Capitão</li>\n      <li>1 × Pirata Campeão</li>\n      <li>19 × Piratas</li>\n    </ul>\n  </li>\n</ul>\n\n<p><a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.pt_BR\" class=\"cc-by\" target=\"_blank\" rel=\"external\"><img src=\"https://static.olddragon.com.br/digital_items_srd/CC_BY-SA_icon.png\" alt=\"CC-BY\" /></a></p>\n</div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "This is auto replaced",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "sHlguNLILDsjMUbV"
+      },
+      "_key": "!journal.pages!mKSFTO1GS1HTHNVe.oMupPzSxgA0RWiti"
+    }
+  ],
+  "flags": {},
+  "_stats": {
+    "systemId": "olddragon2e",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1698721200000,
+    "modifiedTime": 1702782000000,
+    "lastModifiedBy": "enzpVKIAX52oTyPe"
+  },
+  "sort": 13,
+  "ownership": {
+    "default": 0,
+    "enzpVKIAX52oTyPe": 3
+  },
+  "_key": "!journal!mKSFTO1GS1HTHNVe"
+}

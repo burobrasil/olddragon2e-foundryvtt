@@ -1,5 +1,5 @@
 {
-  "name": "Golem de pedra",
+  "name": "Golem de Pedra",
   "type": "monster",
   "_id": "Molmr6Enrvty1SQi",
   "img": "systems/olddragon2e/assets/monsters-concepts/constructo-grande.webp",
@@ -37,7 +37,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Golem de pedra",
+    "name": "Golem de Pedra",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,

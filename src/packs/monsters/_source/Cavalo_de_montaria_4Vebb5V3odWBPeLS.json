@@ -1,5 +1,5 @@
 {
-  "name": "Cavalo de montaria",
+  "name": "Cavalo de Montaria",
   "type": "monster",
   "_id": "4Vebb5V3odWBPeLS",
   "img": "systems/olddragon2e/assets/monsters-concepts/animal-grande.webp",
@@ -37,7 +37,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Cavalo de montaria",
+    "name": "Cavalo de Montaria",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,

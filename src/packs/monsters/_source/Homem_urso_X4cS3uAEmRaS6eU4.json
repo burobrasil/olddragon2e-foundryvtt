@@ -1,5 +1,5 @@
 {
-  "name": "Homem-urso",
+  "name": "Homem-Urso",
   "type": "monster",
   "_id": "X4cS3uAEmRaS6eU4",
   "img": "systems/olddragon2e/assets/monsters-concepts/humanoide_monstruoso-medio.webp",
@@ -37,7 +37,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Homem-urso",
+    "name": "Homem-Urso",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,

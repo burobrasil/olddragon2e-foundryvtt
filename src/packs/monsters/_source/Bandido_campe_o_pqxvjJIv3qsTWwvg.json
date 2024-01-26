@@ -1,5 +1,5 @@
 {
-  "name": "Bandido campeão",
+  "name": "Bandido Campeão",
   "type": "monster",
   "_id": "pqxvjJIv3qsTWwvg",
   "img": "systems/olddragon2e/assets/monsters-concepts/humanoide-medio.webp",
@@ -37,7 +37,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Bandido campeão",
+    "name": "Bandido Campeão",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,

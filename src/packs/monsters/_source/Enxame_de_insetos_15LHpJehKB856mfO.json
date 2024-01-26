@@ -1,5 +1,5 @@
 {
-  "name": "Enxame de insetos",
+  "name": "Enxame de Insetos",
   "type": "monster",
   "_id": "15LHpJehKB856mfO",
   "img": "systems/olddragon2e/assets/monsters-concepts/inseto-colossal.webp",
@@ -37,7 +37,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Enxame de insetos",
+    "name": "Enxame de Insetos",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,

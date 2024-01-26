@@ -1,5 +1,5 @@
 {
-  "name": "Baleia assassina",
+  "name": "Baleia Assassina",
   "type": "monster",
   "_id": "Lv7pTkbtc8fincBp",
   "img": "systems/olddragon2e/assets/monsters-concepts/animal-imenso.webp",
@@ -37,7 +37,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Baleia assassina",
+    "name": "Baleia Assassina",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,

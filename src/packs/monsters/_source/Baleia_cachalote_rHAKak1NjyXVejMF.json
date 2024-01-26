@@ -1,5 +1,5 @@
 {
-  "name": "Baleia cachalote",
+  "name": "Baleia Cachalote",
   "type": "monster",
   "_id": "rHAKak1NjyXVejMF",
   "img": "systems/olddragon2e/assets/monsters-concepts/animal-colossal.webp",
@@ -37,7 +37,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Baleia cachalote",
+    "name": "Baleia Cachalote",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,

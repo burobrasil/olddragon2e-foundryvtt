@@ -1,5 +1,5 @@
 {
-  "name": "Golem de gelo",
+  "name": "Golem de Gelo",
   "type": "monster",
   "_id": "H2DaBzdOUr1LK0t8",
   "img": "systems/olddragon2e/assets/monsters-concepts/constructo-grande.webp",
@@ -37,7 +37,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Golem de gelo",
+    "name": "Golem de Gelo",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,

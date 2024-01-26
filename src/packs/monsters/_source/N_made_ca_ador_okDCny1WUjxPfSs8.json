@@ -1,5 +1,5 @@
 {
-  "name": "Nômade caçador",
+  "name": "Nômade Caçador",
   "type": "monster",
   "_id": "okDCny1WUjxPfSs8",
   "img": "systems/olddragon2e/assets/monsters-concepts/humanoide-medio.webp",
@@ -37,7 +37,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Nômade caçador",
+    "name": "Nômade Caçador",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,

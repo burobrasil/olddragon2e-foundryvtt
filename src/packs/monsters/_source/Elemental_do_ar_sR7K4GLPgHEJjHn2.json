@@ -1,5 +1,5 @@
 {
-  "name": "Elemental do ar",
+  "name": "Elemental do Ar",
   "type": "monster",
   "_id": "sR7K4GLPgHEJjHn2",
   "img": "systems/olddragon2e/assets/monsters-concepts/besta-grande.webp",
@@ -37,7 +37,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Elemental do ar",
+    "name": "Elemental do Ar",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,

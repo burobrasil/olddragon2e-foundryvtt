@@ -1,5 +1,5 @@
 {
-  "name": "Cavaleiro da morte",
+  "name": "Cavaleiro da Morte",
   "type": "monster",
   "_id": "fz8fbyGB0zxNuevl",
   "img": "systems/olddragon2e/assets/monsters-concepts/morto_vivo-medio.webp",
@@ -37,7 +37,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Cavaleiro da morte",
+    "name": "Cavaleiro da Morte",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,

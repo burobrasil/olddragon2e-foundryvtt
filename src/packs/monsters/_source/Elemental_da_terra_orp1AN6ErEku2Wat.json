@@ -1,5 +1,5 @@
 {
-  "name": "Elemental da terra",
+  "name": "Elemental da Terra",
   "type": "monster",
   "_id": "orp1AN6ErEku2Wat",
   "img": "systems/olddragon2e/assets/monsters-concepts/besta-grande.webp",
@@ -37,7 +37,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Elemental da terra",
+    "name": "Elemental da Terra",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,

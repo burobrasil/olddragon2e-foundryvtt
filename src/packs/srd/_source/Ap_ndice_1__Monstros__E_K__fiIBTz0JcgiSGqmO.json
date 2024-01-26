@@ -1,13 +1,13 @@
 {
   "folder": null,
   "name": "Apêndice 1: Monstros (E-K)",
-  "_id": "DnOfH23Kpu9L7gi1",
+  "_id": "fiIBTz0JcgiSGqmO",
   "pages": [
     {
       "sort": 0,
       "name": "Introdução",
       "type": "text",
-      "_id": "I2yOPQpz1g1TYoXR",
+      "_id": "ekLAKh3nUmdVFajK",
       "title": {
         "show": true,
         "level": 1
@@ -36,13 +36,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.I2yOPQpz1g1TYoXR"
+      "_key": "!journal.pages!fiIBTz0JcgiSGqmO.ekLAKh3nUmdVFajK"
     },
     {
       "sort": 1,
       "name": "Efreeti",
       "type": "text",
-      "_id": "n6fZi9TThrtWmTMd",
+      "_id": "ptnrWdWAmPFuvRsk",
       "title": {
         "show": true,
         "level": 1
@@ -71,13 +71,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.n6fZi9TThrtWmTMd"
+      "_key": "!journal.pages!fiIBTz0JcgiSGqmO.ptnrWdWAmPFuvRsk"
     },
     {
       "sort": 2,
       "name": "Elemental da Água",
       "type": "text",
-      "_id": "FZdsPh7CP6qF6thd",
+      "_id": "BigVBa4aDlXDzrdx",
       "title": {
         "show": true,
         "level": 1
@@ -85,7 +85,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.fmVvOo3lPKb5Zarh]{Elemental da água}</p>\n</div>"
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.fmVvOo3lPKb5Zarh]{Elemental da Água}</p>\n</div>"
       },
       "video": {
         "controls": true,
@@ -106,13 +106,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.FZdsPh7CP6qF6thd"
+      "_key": "!journal.pages!fiIBTz0JcgiSGqmO.BigVBa4aDlXDzrdx"
     },
     {
       "sort": 3,
       "name": "Elemental da Terra",
       "type": "text",
-      "_id": "24AWwthhAtM13pIS",
+      "_id": "dPlmZxKnt5AWogGo",
       "title": {
         "show": true,
         "level": 1
@@ -120,7 +120,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.orp1AN6ErEku2Wat]{Elemental da terra}</p>\n</div>"
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.orp1AN6ErEku2Wat]{Elemental da Terra}</p>\n</div>"
       },
       "video": {
         "controls": true,
@@ -141,13 +141,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.24AWwthhAtM13pIS"
+      "_key": "!journal.pages!fiIBTz0JcgiSGqmO.dPlmZxKnt5AWogGo"
     },
     {
       "sort": 4,
       "name": "Elemental do Ar",
       "type": "text",
-      "_id": "LWYPzAGwKk2MLVLo",
+      "_id": "uLOiZJoWhj7jT58C",
       "title": {
         "show": true,
         "level": 1
@@ -155,7 +155,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.sR7K4GLPgHEJjHn2]{Elemental do ar}</p>\n</div>"
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.sR7K4GLPgHEJjHn2]{Elemental do Ar}</p>\n</div>"
       },
       "video": {
         "controls": true,
@@ -176,13 +176,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.LWYPzAGwKk2MLVLo"
+      "_key": "!journal.pages!fiIBTz0JcgiSGqmO.uLOiZJoWhj7jT58C"
     },
     {
       "sort": 5,
       "name": "Elemental do Fogo",
       "type": "text",
-      "_id": "GAVipfYtQ5tmctqG",
+      "_id": "Y5ljEdwvdy05RkWq",
       "title": {
         "show": true,
         "level": 1
@@ -190,7 +190,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.811B5okY4RHGMH5h]{Elemental do fogo}</p>\n</div>"
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.811B5okY4RHGMH5h]{Elemental do Fogo}</p>\n</div>"
       },
       "video": {
         "controls": true,
@@ -211,13 +211,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.GAVipfYtQ5tmctqG"
+      "_key": "!journal.pages!fiIBTz0JcgiSGqmO.Y5ljEdwvdy05RkWq"
     },
     {
       "sort": 6,
       "name": "Elfo Drow",
       "type": "text",
-      "_id": "tSiGuhp8UX5hQ8rt",
+      "_id": "eGrpgltj1Ulmu0bY",
       "title": {
         "show": true,
         "level": 1
@@ -225,7 +225,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.6mpuCdyzTG13OO7r]{Elfo drow}</p>\n</div>"
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.6mpuCdyzTG13OO7r]{Elfo Drow}</p>\n</div>"
       },
       "video": {
         "controls": true,
@@ -246,13 +246,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.tSiGuhp8UX5hQ8rt"
+      "_key": "!journal.pages!fiIBTz0JcgiSGqmO.eGrpgltj1Ulmu0bY"
     },
     {
       "sort": 7,
       "name": "Enxame de Insetos",
       "type": "text",
-      "_id": "cxF2ovqplitXluoz",
+      "_id": "8VdOgVpiKB515ujo",
       "title": {
         "show": true,
         "level": 1
@@ -260,7 +260,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.15LHpJehKB856mfO]{Enxame de insetos}</p>\n</div>"
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.15LHpJehKB856mfO]{Enxame de Insetos}</p>\n</div>"
       },
       "video": {
         "controls": true,
@@ -281,13 +281,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.cxF2ovqplitXluoz"
+      "_key": "!journal.pages!fiIBTz0JcgiSGqmO.8VdOgVpiKB515ujo"
     },
     {
       "sort": 8,
       "name": "Esfera de Aniquilação",
       "type": "text",
-      "_id": "cZFCr0SUEfUrnonR",
+      "_id": "9c8rUOBv6WuMYiZY",
       "title": {
         "show": true,
         "level": 1
@@ -295,7 +295,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.syjxIYJs3m5k0yYg]{Esfera da aniquilação}</p>\n</div>"
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.syjxIYJs3m5k0yYg]{Esfera da Aniquilação}</p>\n</div>"
       },
       "video": {
         "controls": true,
@@ -316,13 +316,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.cZFCr0SUEfUrnonR"
+      "_key": "!journal.pages!fiIBTz0JcgiSGqmO.9c8rUOBv6WuMYiZY"
     },
     {
       "sort": 9,
       "name": "Esfinge",
       "type": "text",
-      "_id": "dSxcXfLjhKJEVXDT",
+      "_id": "yvbv7x5FDk4tK1TI",
       "title": {
         "show": true,
         "level": 1
@@ -351,13 +351,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.dSxcXfLjhKJEVXDT"
+      "_key": "!journal.pages!fiIBTz0JcgiSGqmO.yvbv7x5FDk4tK1TI"
     },
     {
       "sort": 10,
       "name": "Espectro",
       "type": "text",
-      "_id": "8dvjlGyjSD9uBMMZ",
+      "_id": "JoEj12unTOAtqDEr",
       "title": {
         "show": true,
         "level": 1
@@ -386,13 +386,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.8dvjlGyjSD9uBMMZ"
+      "_key": "!journal.pages!fiIBTz0JcgiSGqmO.JoEj12unTOAtqDEr"
     },
     {
       "sort": 11,
       "name": "Esperos de Gás",
       "type": "text",
-      "_id": "jTxEIgY2y8mtRzs1",
+      "_id": "8Ok06zNZQDUGUYnb",
       "title": {
         "show": true,
         "level": 1
@@ -400,7 +400,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.hAl8bCB79KAGptrg]{Esporo de gás}</p>\n</div>"
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.hAl8bCB79KAGptrg]{Esporo de Gás}</p>\n</div>"
       },
       "video": {
         "controls": true,
@@ -421,13 +421,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.jTxEIgY2y8mtRzs1"
+      "_key": "!journal.pages!fiIBTz0JcgiSGqmO.8Ok06zNZQDUGUYnb"
     },
     {
       "sort": 12,
       "name": "Esqueleto",
       "type": "text",
-      "_id": "TD9CirlsVMf5L3cq",
+      "_id": "JKGhqUjHScJL4rXu",
       "title": {
         "show": true,
         "level": 1
@@ -456,13 +456,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.TD9CirlsVMf5L3cq"
+      "_key": "!journal.pages!fiIBTz0JcgiSGqmO.JKGhqUjHScJL4rXu"
     },
     {
       "sort": 13,
       "name": "Ettin",
       "type": "text",
-      "_id": "WXsLbVqtdZZrXE0v",
+      "_id": "qXixKDJVHhodhDNs",
       "title": {
         "show": true,
         "level": 1
@@ -491,13 +491,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.WXsLbVqtdZZrXE0v"
+      "_key": "!journal.pages!fiIBTz0JcgiSGqmO.qXixKDJVHhodhDNs"
     },
     {
       "sort": 14,
       "name": "Fantasma",
       "type": "text",
-      "_id": "bDMivh7IdVhu9JR6",
+      "_id": "mayje2MWXixRREdu",
       "title": {
         "show": true,
         "level": 1
@@ -526,13 +526,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.bDMivh7IdVhu9JR6"
+      "_key": "!journal.pages!fiIBTz0JcgiSGqmO.mayje2MWXixRREdu"
     },
     {
       "sort": 15,
       "name": "Fera do Pântano",
       "type": "text",
-      "_id": "hDWxuLQSpM0exZJn",
+      "_id": "w5tVxPIbcoqCsCoB",
       "title": {
         "show": true,
         "level": 1
@@ -540,7 +540,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.ge9F4rZLBUcw0LqC]{Fera do pântano}</p>\n</div>"
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.ge9F4rZLBUcw0LqC]{Fera do Pântano}</p>\n</div>"
       },
       "video": {
         "controls": true,
@@ -561,13 +561,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.hDWxuLQSpM0exZJn"
+      "_key": "!journal.pages!fiIBTz0JcgiSGqmO.w5tVxPIbcoqCsCoB"
     },
     {
       "sort": 16,
       "name": "Fera Refratora",
       "type": "text",
-      "_id": "5HEIWhemT96mwzGh",
+      "_id": "w9iIkzlMOzDXGBmf",
       "title": {
         "show": true,
         "level": 1
@@ -575,7 +575,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.1f7XX0q1VNa6zGno]{Fera refratora}</p>\n</div>"
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.1f7XX0q1VNa6zGno]{Fera Refratora}</p>\n</div>"
       },
       "video": {
         "controls": true,
@@ -596,13 +596,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.5HEIWhemT96mwzGh"
+      "_key": "!journal.pages!fiIBTz0JcgiSGqmO.w9iIkzlMOzDXGBmf"
     },
     {
       "sort": 17,
       "name": "Flagelo da Podridão",
       "type": "text",
-      "_id": "1s1Ua1MbeJ15Jhg2",
+      "_id": "baXv7jgc8iqKBtiV",
       "title": {
         "show": true,
         "level": 1
@@ -610,7 +610,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.OkKDRY1HKenvyVVZ]{Flagelo da podridão}</p>\n</div>"
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.OkKDRY1HKenvyVVZ]{Flagelo da Podridão}</p>\n</div>"
       },
       "video": {
         "controls": true,
@@ -631,13 +631,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.1s1Ua1MbeJ15Jhg2"
+      "_key": "!journal.pages!fiIBTz0JcgiSGqmO.baXv7jgc8iqKBtiV"
     },
     {
       "sort": 18,
       "name": "Fogo Fátuo",
       "type": "text",
-      "_id": "aVmM0XDUtg2CJi4j",
+      "_id": "Qi3Dv9x6n4Pb4rkx",
       "title": {
         "show": true,
         "level": 1
@@ -645,7 +645,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.l4AcWtCThX3fJj6M]{Fogo fátuo}</p>\n</div>"
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.l4AcWtCThX3fJj6M]{Fogo Fátuo}</p>\n</div>"
       },
       "video": {
         "controls": true,
@@ -666,13 +666,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.aVmM0XDUtg2CJi4j"
+      "_key": "!journal.pages!fiIBTz0JcgiSGqmO.Qi3Dv9x6n4Pb4rkx"
     },
     {
       "sort": 19,
       "name": "Fungo Gritador",
       "type": "text",
-      "_id": "tmWM7mcJvtqveVA3",
+      "_id": "ayUDjAi8LSx2b7YK",
       "title": {
         "show": true,
         "level": 1
@@ -680,7 +680,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.Y60yvnzzA5SlxpZn]{Fungo gritador}</p>\n</div>"
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.Y60yvnzzA5SlxpZn]{Fungo Gritador}</p>\n</div>"
       },
       "video": {
         "controls": true,
@@ -701,13 +701,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.tmWM7mcJvtqveVA3"
+      "_key": "!journal.pages!fiIBTz0JcgiSGqmO.ayUDjAi8LSx2b7YK"
     },
     {
       "sort": 20,
       "name": "Fungo Pigmeu",
       "type": "text",
-      "_id": "e6WXe07D5oixrcKl",
+      "_id": "fDgqRgHgyxSZAEqR",
       "title": {
         "show": true,
         "level": 1
@@ -715,7 +715,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.o0lM6UFqFOXoYSVH]{Fungo pigmeu}</p>\n</div>"
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.o0lM6UFqFOXoYSVH]{Fungo Pigmeu}</p>\n</div>"
       },
       "video": {
         "controls": true,
@@ -736,13 +736,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.e6WXe07D5oixrcKl"
+      "_key": "!journal.pages!fiIBTz0JcgiSGqmO.fDgqRgHgyxSZAEqR"
     },
     {
       "sort": 21,
       "name": "Fungo Violeta",
       "type": "text",
-      "_id": "24gQqyb5TuxDLZR6",
+      "_id": "naZLUelYiyBkpte1",
       "title": {
         "show": true,
         "level": 1
@@ -750,7 +750,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.zOOlZ0m75Rj3KrSq]{Fungo violeta}</p>\n</div>"
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.zOOlZ0m75Rj3KrSq]{Fungo Violeta}</p>\n</div>"
       },
       "video": {
         "controls": true,
@@ -771,13 +771,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.24gQqyb5TuxDLZR6"
+      "_key": "!journal.pages!fiIBTz0JcgiSGqmO.naZLUelYiyBkpte1"
     },
     {
       "sort": 22,
       "name": "Gárgula",
       "type": "text",
-      "_id": "kG00gBjIpuHuysWm",
+      "_id": "QLqVbUMvoMaycKpt",
       "title": {
         "show": true,
         "level": 1
@@ -806,13 +806,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.kG00gBjIpuHuysWm"
+      "_key": "!journal.pages!fiIBTz0JcgiSGqmO.QLqVbUMvoMaycKpt"
     },
     {
       "sort": 23,
       "name": "Gênio",
       "type": "text",
-      "_id": "jV7yaklM6CmU9Xzx",
+      "_id": "GcHD8odsQgp0wmKY",
       "title": {
         "show": true,
         "level": 1
@@ -841,13 +841,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.jV7yaklM6CmU9Xzx"
+      "_key": "!journal.pages!fiIBTz0JcgiSGqmO.GcHD8odsQgp0wmKY"
     },
     {
       "sort": 24,
       "name": "Ghoul",
       "type": "text",
-      "_id": "eYqCtbyfO67hgKH2",
+      "_id": "xJnpcnhkARl2G36C",
       "title": {
         "show": true,
         "level": 1
@@ -876,13 +876,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.eYqCtbyfO67hgKH2"
+      "_key": "!journal.pages!fiIBTz0JcgiSGqmO.xJnpcnhkARl2G36C"
     },
     {
       "sort": 25,
       "name": "Gigante da Colina",
       "type": "text",
-      "_id": "hsWFA7nIHbfkU3a9",
+      "_id": "CN4f1DZqkBABeRWf",
       "title": {
         "show": true,
         "level": 1
@@ -890,7 +890,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.86NNeIYT7gAab5r5]{Gigante da colina}</p>\n</div>"
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.86NNeIYT7gAab5r5]{Gigante da Colina}</p>\n</div>"
       },
       "video": {
         "controls": true,
@@ -911,13 +911,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.hsWFA7nIHbfkU3a9"
+      "_key": "!journal.pages!fiIBTz0JcgiSGqmO.CN4f1DZqkBABeRWf"
     },
     {
       "sort": 26,
       "name": "Gigante da Montanha",
       "type": "text",
-      "_id": "k7wYtmZfYUF6VlfR",
+      "_id": "YhugA97KYwRgPHEP",
       "title": {
         "show": true,
         "level": 1
@@ -925,7 +925,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.hhaHlRthbWI9GscD]{Gigante da montanha}</p>\n</div>"
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.hhaHlRthbWI9GscD]{Gigante da Montanha}</p>\n</div>"
       },
       "video": {
         "controls": true,
@@ -946,13 +946,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.k7wYtmZfYUF6VlfR"
+      "_key": "!journal.pages!fiIBTz0JcgiSGqmO.YhugA97KYwRgPHEP"
     },
     {
       "sort": 27,
       "name": "Giganate da Tempestade",
       "type": "text",
-      "_id": "h9QpD4shMffk6VTF",
+      "_id": "V0EytbYW8R1uACzV",
       "title": {
         "show": true,
         "level": 1
@@ -960,7 +960,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.Xg0m4zZleA84QRbG]{Gigante da tempestade}</p>\n</div>"
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.Xg0m4zZleA84QRbG]{Gigante da Tempestade}</p>\n</div>"
       },
       "video": {
         "controls": true,
@@ -981,13 +981,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.h9QpD4shMffk6VTF"
+      "_key": "!journal.pages!fiIBTz0JcgiSGqmO.V0EytbYW8R1uACzV"
     },
     {
       "sort": 28,
       "name": "Gigante do Fogo",
       "type": "text",
-      "_id": "PNmrce058p8Mug9T",
+      "_id": "C3578m06t7Tk4hDj",
       "title": {
         "show": true,
         "level": 1
@@ -995,7 +995,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.QwSwd2T47PrpmKvE]{Gigante do fogo}</p>\n</div>"
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.QwSwd2T47PrpmKvE]{Gigante do Fogo}</p>\n</div>"
       },
       "video": {
         "controls": true,
@@ -1016,13 +1016,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.PNmrce058p8Mug9T"
+      "_key": "!journal.pages!fiIBTz0JcgiSGqmO.C3578m06t7Tk4hDj"
     },
     {
       "sort": 29,
       "name": "Gigante do Gelo",
       "type": "text",
-      "_id": "1mWlhIyBwSIeKllR",
+      "_id": "o28xCRSNgqQTUAUo",
       "title": {
         "show": true,
         "level": 1
@@ -1030,7 +1030,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.J0AY9Asu5UaQVmTx]{Gigante do gelo}</p>\n</div>"
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.J0AY9Asu5UaQVmTx]{Gigante do Gelo}</p>\n</div>"
       },
       "video": {
         "controls": true,
@@ -1051,13 +1051,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.1mWlhIyBwSIeKllR"
+      "_key": "!journal.pages!fiIBTz0JcgiSGqmO.o28xCRSNgqQTUAUo"
     },
     {
       "sort": 30,
       "name": "Gnoll",
       "type": "text",
-      "_id": "GLVHuqenjXkPNW3S",
+      "_id": "oEihfV0DhrljcHEp",
       "title": {
         "show": true,
         "level": 1
@@ -1086,13 +1086,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.GLVHuqenjXkPNW3S"
+      "_key": "!journal.pages!fiIBTz0JcgiSGqmO.oEihfV0DhrljcHEp"
     },
     {
       "sort": 31,
       "name": "Goblin",
       "type": "text",
-      "_id": "k5eCDpcxJSBHY3Ze",
+      "_id": "Yiwo0R1ILYYlmmnH",
       "title": {
         "show": true,
         "level": 1
@@ -1121,13 +1121,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.k5eCDpcxJSBHY3Ze"
+      "_key": "!journal.pages!fiIBTz0JcgiSGqmO.Yiwo0R1ILYYlmmnH"
     },
     {
       "sort": 32,
       "name": "Golem de Carne",
       "type": "text",
-      "_id": "Peev29pSldO25fLs",
+      "_id": "qASL8P1eerDdsKRG",
       "title": {
         "show": true,
         "level": 1
@@ -1135,7 +1135,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.GDZiUKXyyoMf5dEh]{Golem de carne}</p>\n</div>"
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.GDZiUKXyyoMf5dEh]{Golem de Carne}</p>\n</div>"
       },
       "video": {
         "controls": true,
@@ -1156,13 +1156,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.Peev29pSldO25fLs"
+      "_key": "!journal.pages!fiIBTz0JcgiSGqmO.qASL8P1eerDdsKRG"
     },
     {
       "sort": 33,
       "name": "Golem de Ferro",
       "type": "text",
-      "_id": "OInCMAi0Nv58sIzC",
+      "_id": "jNAEoWe5Z1WwvSvr",
       "title": {
         "show": true,
         "level": 1
@@ -1170,7 +1170,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.FClDTqsmVWXStr7P]{Golem de ferro}</p>\n</div>"
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.FClDTqsmVWXStr7P]{Golem de Ferro}</p>\n</div>"
       },
       "video": {
         "controls": true,
@@ -1191,13 +1191,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.OInCMAi0Nv58sIzC"
+      "_key": "!journal.pages!fiIBTz0JcgiSGqmO.jNAEoWe5Z1WwvSvr"
     },
     {
       "sort": 34,
       "name": "Golem de Gelo",
       "type": "text",
-      "_id": "NIitQqR916HchpWb",
+      "_id": "7i4YX4ILk22Fyxmu",
       "title": {
         "show": true,
         "level": 1
@@ -1205,7 +1205,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.H2DaBzdOUr1LK0t8]{Golem de gelo}</p>\n</div>"
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.H2DaBzdOUr1LK0t8]{Golem de Gelo}</p>\n</div>"
       },
       "video": {
         "controls": true,
@@ -1226,13 +1226,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.NIitQqR916HchpWb"
+      "_key": "!journal.pages!fiIBTz0JcgiSGqmO.7i4YX4ILk22Fyxmu"
     },
     {
       "sort": 35,
       "name": "Golem de Madeira",
       "type": "text",
-      "_id": "6heOdxiXkdTLOWEU",
+      "_id": "HqSyrWBGVTWxmEVV",
       "title": {
         "show": true,
         "level": 1
@@ -1240,7 +1240,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.QIHnmPBxxC7Z0Lkb]{Golem de madeira}</p>\n</div>"
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.QIHnmPBxxC7Z0Lkb]{Golem de Madeira}</p>\n</div>"
       },
       "video": {
         "controls": true,
@@ -1261,13 +1261,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.6heOdxiXkdTLOWEU"
+      "_key": "!journal.pages!fiIBTz0JcgiSGqmO.HqSyrWBGVTWxmEVV"
     },
     {
       "sort": 36,
       "name": "Golem de Ossos",
       "type": "text",
-      "_id": "qhv1kNmIxuu75aC3",
+      "_id": "cZkPHmdHbnx7ydm4",
       "title": {
         "show": true,
         "level": 1
@@ -1275,7 +1275,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.VgJmRRrztoAxOVEH]{Golem de ossos}</p>\n</div>"
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.VgJmRRrztoAxOVEH]{Golem de Ossos}</p>\n</div>"
       },
       "video": {
         "controls": true,
@@ -1296,13 +1296,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.qhv1kNmIxuu75aC3"
+      "_key": "!journal.pages!fiIBTz0JcgiSGqmO.cZkPHmdHbnx7ydm4"
     },
     {
       "sort": 37,
       "name": "Golem de Pedra",
       "type": "text",
-      "_id": "lfM6MqEytCgJNTH7",
+      "_id": "cJapg0OtjJeJQREm",
       "title": {
         "show": true,
         "level": 1
@@ -1310,7 +1310,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.Molmr6Enrvty1SQi]{Golem de pedra}</p>\n</div>"
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.Molmr6Enrvty1SQi]{Golem de Pedra}</p>\n</div>"
       },
       "video": {
         "controls": true,
@@ -1331,13 +1331,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.lfM6MqEytCgJNTH7"
+      "_key": "!journal.pages!fiIBTz0JcgiSGqmO.cJapg0OtjJeJQREm"
     },
     {
       "sort": 38,
       "name": "Górgon",
       "type": "text",
-      "_id": "vUTGnrNB4IuWpssz",
+      "_id": "BAIKxBGner8HfuAs",
       "title": {
         "show": true,
         "level": 1
@@ -1366,13 +1366,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.vUTGnrNB4IuWpssz"
+      "_key": "!journal.pages!fiIBTz0JcgiSGqmO.BAIKxBGner8HfuAs"
     },
     {
       "sort": 39,
       "name": "Gosma Ocre",
       "type": "text",
-      "_id": "Hvka1BMmAxx64p6n",
+      "_id": "yOCGdzSGquXPypoI",
       "title": {
         "show": true,
         "level": 1
@@ -1380,7 +1380,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.iA4pwS4UkPCibVsH]{Gosma ocre}</p>\n</div>"
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.iA4pwS4UkPCibVsH]{Gosma Ocre}</p>\n</div>"
       },
       "video": {
         "controls": true,
@@ -1401,13 +1401,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.Hvka1BMmAxx64p6n"
+      "_key": "!journal.pages!fiIBTz0JcgiSGqmO.yOCGdzSGquXPypoI"
     },
     {
       "sort": 40,
       "name": "Grifo",
       "type": "text",
-      "_id": "Ksj0QPdXeEiNaQHK",
+      "_id": "pTrtMNtP7vmoGP9m",
       "title": {
         "show": true,
         "level": 1
@@ -1436,13 +1436,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.Ksj0QPdXeEiNaQHK"
+      "_key": "!journal.pages!fiIBTz0JcgiSGqmO.pTrtMNtP7vmoGP9m"
     },
     {
       "sort": 41,
       "name": "Guerreiro do Caos",
       "type": "text",
-      "_id": "2Zo1ZxCs4vzcBCUz",
+      "_id": "91JFgJxjFtq0P2G1",
       "title": {
         "show": true,
         "level": 1
@@ -1450,7 +1450,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.JedQWEWorDRcsShc]{Guerreiro do caos}</p>\n</div>"
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.JedQWEWorDRcsShc]{Guerreiro do Caos}</p>\n</div>"
       },
       "video": {
         "controls": true,
@@ -1471,13 +1471,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.2Zo1ZxCs4vzcBCUz"
+      "_key": "!journal.pages!fiIBTz0JcgiSGqmO.91JFgJxjFtq0P2G1"
     },
     {
       "sort": 42,
       "name": "Haken",
       "type": "text",
-      "_id": "1mMVtAtXiIead5T7",
+      "_id": "7Wyh9Zo06hA9gRs9",
       "title": {
         "show": true,
         "level": 1
@@ -1506,13 +1506,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.1mMVtAtXiIead5T7"
+      "_key": "!journal.pages!fiIBTz0JcgiSGqmO.7Wyh9Zo06hA9gRs9"
     },
     {
       "sort": 43,
       "name": "Harpia",
       "type": "text",
-      "_id": "RWOX8kxr4naPfZEh",
+      "_id": "F7PxKunTxOWluYQf",
       "title": {
         "show": true,
         "level": 1
@@ -1541,13 +1541,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.RWOX8kxr4naPfZEh"
+      "_key": "!journal.pages!fiIBTz0JcgiSGqmO.F7PxKunTxOWluYQf"
     },
     {
       "sort": 44,
       "name": "Hidra",
       "type": "text",
-      "_id": "uhfrYkMwWMgojSxk",
+      "_id": "D0SntpQDQkfUGEhy",
       "title": {
         "show": true,
         "level": 1
@@ -1576,13 +1576,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.uhfrYkMwWMgojSxk"
+      "_key": "!journal.pages!fiIBTz0JcgiSGqmO.D0SntpQDQkfUGEhy"
     },
     {
       "sort": 45,
       "name": "Hobgoblin",
       "type": "text",
-      "_id": "k0qwHlaCFo3GhHpV",
+      "_id": "ucdpbabA5SSnH9q8",
       "title": {
         "show": true,
         "level": 1
@@ -1611,13 +1611,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.k0qwHlaCFo3GhHpV"
+      "_key": "!journal.pages!fiIBTz0JcgiSGqmO.ucdpbabA5SSnH9q8"
     },
     {
       "sort": 46,
       "name": "Homem Esguio",
       "type": "text",
-      "_id": "U0TyzQOuW4Eu8jeJ",
+      "_id": "qKgCTx8B7NBsG15P",
       "title": {
         "show": true,
         "level": 1
@@ -1625,7 +1625,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.JHGwTcYpXUDMmlYF]{Homem esguio}</p>\n</div>"
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.JHGwTcYpXUDMmlYF]{Homem Esguio}</p>\n</div>"
       },
       "video": {
         "controls": true,
@@ -1646,13 +1646,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.U0TyzQOuW4Eu8jeJ"
+      "_key": "!journal.pages!fiIBTz0JcgiSGqmO.qKgCTx8B7NBsG15P"
     },
     {
       "sort": 47,
       "name": "Homem Lagarto",
       "type": "text",
-      "_id": "SyvaWrxvVWmRfzzc",
+      "_id": "kZ08c2BuD3n2WdRa",
       "title": {
         "show": true,
         "level": 1
@@ -1660,7 +1660,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.3X9zxF8MKcs90BY4]{Homem lagarto}</p>\n</div>"
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.3X9zxF8MKcs90BY4]{Homem Lagarto}</p>\n</div>"
       },
       "video": {
         "controls": true,
@@ -1681,13 +1681,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.SyvaWrxvVWmRfzzc"
+      "_key": "!journal.pages!fiIBTz0JcgiSGqmO.kZ08c2BuD3n2WdRa"
     },
     {
       "sort": 48,
       "name": "Homúnculo",
       "type": "text",
-      "_id": "SGl9QdrDCF1GhFJ0",
+      "_id": "65f2VYghtSpV1NRz",
       "title": {
         "show": true,
         "level": 1
@@ -1716,13 +1716,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.SGl9QdrDCF1GhFJ0"
+      "_key": "!journal.pages!fiIBTz0JcgiSGqmO.65f2VYghtSpV1NRz"
     },
     {
       "sort": 49,
       "name": "Insetos Gigantes",
       "type": "text",
-      "_id": "rsSian1TXxJDbAPe",
+      "_id": "RoMvLAyfStjgW3ke",
       "title": {
         "show": true,
         "level": 1
@@ -1730,7 +1730,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<div class=\"odo-markdown\">\n<p>Insetos gigantes são criaturas gigantes das suas versões comuns, como as encontradas aqui no nosso mundo. Todas estas criaturas estão listadas aqui por serem versões não mágicas e naturais do ambiente, e que podem ser encontradas (ou já terem sido encontradas) no nosso mundo ou no nosso planeta em outras eras.</p>\n\n<p>Estamos falando dos insetos comuns conhecidos por nós: aranhas, moscas, besouros, formigas, etc., mas em suas versões gigantes e monstruosas. Ou seja, muito mais desafiadores.</p>\n\n<h3 id=\"aranha-camufladora-gigante\">Aranha Camufladora Gigante</h3>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.GZPloEigW2XRuCPP]{Aranha camufladora gigante}</p>\n\n<h3 id=\"aranha-negra-gigante\">Aranha Negra Gigante</h3>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.tc4KI54e5APe8ZPZ]{Aranha negra gigante}</p>\n\n<h3 id=\"aranha-cacadora-gigante\">Aranha Caçadora Gigante</h3>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.5HItjpuJ9zeUtfMZ]{Aranha caçadora gigante}</p>\n\n<h3 id=\"besouro-de-fogo-gigante\">Besouro de Fogo Gigante</h3>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.hQXbZielvscxsiM0]{Besouro de fogo gigante}</p>\n\n<h3 id=\"besouro-bombardeiro-gigante\">Besouro Bombardeiro Gigante</h3>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.mglcQMsur4d7Rsw8]{Besouro bombardeiro gigante}</p>\n\n<h3 id=\"centopeia-gigante\">Centopéia Gigante</h3>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.pRIcC51vpNg5hF7W]{Centopeia gigante}</p>\n\n<h3 id=\"escorpiao-gigante\">Escorpião Gigante</h3>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.IZPWsptfdPvejbyw]{Escorpião gigante}</p>\n\n<h3 id=\"formiga-gigante\">Formiga Gigante</h3>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.D59mYqnYIgRAGVsU]{Formiga gigante}</p>\n\n<h3 id=\"vespa-gigante\">Vespa Gigante</h3>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.xgVmlpgM5Uh0yjxn]{Vespa gigante}</p>\n</div>"
+        "content": "<div class=\"odo-markdown\">\n<p>Insetos gigantes são criaturas gigantes das suas versões comuns, como as encontradas aqui no nosso mundo. Todas estas criaturas estão listadas aqui por serem versões não mágicas e naturais do ambiente, e que podem ser encontradas (ou já terem sido encontradas) no nosso mundo ou no nosso planeta em outras eras.</p>\n\n<p>Estamos falando dos insetos comuns conhecidos por nós: aranhas, moscas, besouros, formigas, etc., mas em suas versões gigantes e monstruosas. Ou seja, muito mais desafiadores.</p>\n\n<h3 id=\"aranha-camufladora-gigante\">Aranha Camufladora Gigante</h3>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.GZPloEigW2XRuCPP]{Aranha Camufladora Gigante}</p>\n\n<h3 id=\"aranha-negra-gigante\">Aranha Negra Gigante</h3>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.tc4KI54e5APe8ZPZ]{Aranha Negra Gigante}</p>\n\n<h3 id=\"aranha-cacadora-gigante\">Aranha Caçadora Gigante</h3>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.5HItjpuJ9zeUtfMZ]{Aranha Caçadora Gigante}</p>\n\n<h3 id=\"besouro-de-fogo-gigante\">Besouro de Fogo Gigante</h3>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.hQXbZielvscxsiM0]{Besouro de Fogo Gigante}</p>\n\n<h3 id=\"besouro-bombardeiro-gigante\">Besouro Bombardeiro Gigante</h3>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.mglcQMsur4d7Rsw8]{Besouro Bombardeiro Gigante}</p>\n\n<h3 id=\"centopeia-gigante\">Centopéia Gigante</h3>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.pRIcC51vpNg5hF7W]{Centopeia Gigante}</p>\n\n<h3 id=\"escorpiao-gigante\">Escorpião Gigante</h3>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.IZPWsptfdPvejbyw]{Escorpião Gigante}</p>\n\n<h3 id=\"formiga-gigante\">Formiga Gigante</h3>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.D59mYqnYIgRAGVsU]{Formiga Gigante}</p>\n\n<h3 id=\"vespa-gigante\">Vespa Gigante</h3>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.xgVmlpgM5Uh0yjxn]{Vespa Gigante}</p>\n</div>"
       },
       "video": {
         "controls": true,
@@ -1751,13 +1751,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.rsSian1TXxJDbAPe"
+      "_key": "!journal.pages!fiIBTz0JcgiSGqmO.RoMvLAyfStjgW3ke"
     },
     {
       "sort": 50,
       "name": "Inumano",
       "type": "text",
-      "_id": "xSOy2FiiIQGCtOxz",
+      "_id": "jU4qQm1k6J0a8ILx",
       "title": {
         "show": true,
         "level": 1
@@ -1786,13 +1786,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.xSOy2FiiIQGCtOxz"
+      "_key": "!journal.pages!fiIBTz0JcgiSGqmO.jU4qQm1k6J0a8ILx"
     },
     {
       "sort": 51,
       "name": "Kawamung",
       "type": "text",
-      "_id": "T1g3XJ0kNStdwg5T",
+      "_id": "TPa91Bloz80nwY3j",
       "title": {
         "show": true,
         "level": 1
@@ -1821,13 +1821,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.T1g3XJ0kNStdwg5T"
+      "_key": "!journal.pages!fiIBTz0JcgiSGqmO.TPa91Bloz80nwY3j"
     },
     {
       "sort": 52,
       "name": "Kobold",
       "type": "text",
-      "_id": "IW9Jg1ppNLkanbzm",
+      "_id": "Fdg9mKSVu0myb1io",
       "title": {
         "show": true,
         "level": 1
@@ -1835,7 +1835,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.8vOr22mk55Kff0Sl]{Kobold}</p>\n\n<p><a href=\"/livros/srd/capitulos/monstros-l-z\">Continue para com letras <strong>L</strong> em diante</a>.</p>\n\n<p><a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.pt_BR\" class=\"cc-by\" target=\"_blank\" rel=\"external\"><img src=\"https://static.olddragon.com.br/digital_items_srd/CC_BY-SA_icon.png\" alt=\"CC-BY\" /></a></p>\n</div>"
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.8vOr22mk55Kff0Sl]{Kobold}</p>\n\n<p>@UUID[Compendium.olddragon2e.srd.JournalEntry.APtGP8a13gYM6yiu]{Continue para com letras <strong>L</strong> em diante}.</p>\n\n<p><a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.pt_BR\" class=\"cc-by\" target=\"_blank\" rel=\"external\"><img src=\"https://static.olddragon.com.br/digital_items_srd/CC_BY-SA_icon.png\" alt=\"CC-BY\" /></a></p>\n</div>"
       },
       "video": {
         "controls": true,
@@ -1856,7 +1856,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!DnOfH23Kpu9L7gi1.IW9Jg1ppNLkanbzm"
+      "_key": "!journal.pages!fiIBTz0JcgiSGqmO.Fdg9mKSVu0myb1io"
     }
   ],
   "flags": {},
@@ -1873,5 +1873,5 @@
     "default": 0,
     "enzpVKIAX52oTyPe": 3
   },
-  "_key": "!journal!DnOfH23Kpu9L7gi1"
+  "_key": "!journal!fiIBTz0JcgiSGqmO"
 }

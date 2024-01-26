@@ -1,13 +1,13 @@
 {
   "folder": null,
   "name": "Capítulo 2: Raça",
-  "_id": "hw8MOvqDFvxnjqfR",
+  "_id": "KmvOj1D3EIGnCxXw",
   "pages": [
     {
       "sort": 0,
       "name": "Humano",
       "type": "text",
-      "_id": "SO5Arwa3xSeV50Uz",
+      "_id": "a3HpPIfJ2FIdOuIV",
       "title": {
         "show": true,
         "level": 1
@@ -15,7 +15,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<div class=\"odo-markdown\">\n<h3 id=\"habilidades-de-raca\">Habilidades de Raça</h3>\n\n<p>Todas as habilidades de raça são adquiridas no 1º nível durante a criação do personagem.</p>\n\n<p><strong><span class=\"redbox\">1</span> Aprendizado:</strong> humanos aprendem tudo o que se propõem a fazer de forma muito mais rápida que as outras raças. Com isso, um humano recebe um bônus de 10% sobre toda <a href=\"/livros/srd/capitulos/mestrando#evoluindo-personagens\">experiência (XP)</a> recebida.</p>\n\n<blockquote class=\"example\">\n  <p><strong>Exemplo:</strong> <em>cada personagem recebe 230 XP. Os humanos anotam em sua ficha, 253 XP, 23 XP a mais do que outras raças pelo seu bônus de aprendizado de 10%.</em></p>\n</blockquote>\n\n<p><strong><span class=\"redbox\">1</span> Adaptabilidade:</strong> os humanos são muito adaptáveis e diversos entre si, fazendo com que possam escolher onde alocar um bônus nas suas Jogadas de Proteção. Humanos recebem um bônus de +1 em uma única JP à sua escolha.</p>\n\n<ul>\n  <li>\n    <p><strong>Movimento</strong> base dos humanos é 9 metros.</p>\n  </li>\n  <li>\n    <p><strong>Infravisão</strong> não possui.</p>\n  </li>\n  <li>\n    <p><strong>Alinhamento</strong> qualquer um.</p>\n  </li>\n</ul>\n</div>"
+        "content": "<div class=\"odo-markdown\">\n<h3 id=\"habilidades-de-raca\">Habilidades de Raça</h3>\n\n<p>Todas as habilidades de raça são adquiridas no 1º nível durante a criação do personagem.</p>\n\n<p><strong><span class=\"redbox\">1</span> Aprendizado:</strong> humanos aprendem tudo o que se propõem a fazer de forma muito mais rápida que as outras raças. Com isso, um humano recebe um bônus de 10% sobre toda @UUID[Compendium.olddragon2e.srd.JournalEntry.zJ2PypO0I2xkd6bm.JournalEntryPage.bXznCDf6TtZSmbsp]{experiência (XP)} recebida.</p>\n\n<blockquote class=\"example\">\n  <p><strong>Exemplo:</strong> <em>cada personagem recebe 230 XP. Os humanos anotam em sua ficha, 253 XP, 23 XP a mais do que outras raças pelo seu bônus de aprendizado de 10%.</em></p>\n</blockquote>\n\n<p><strong><span class=\"redbox\">1</span> Adaptabilidade:</strong> os humanos são muito adaptáveis e diversos entre si, fazendo com que possam escolher onde alocar um bônus nas suas Jogadas de Proteção. Humanos recebem um bônus de +1 em uma única JP à sua escolha.</p>\n\n<ul>\n  <li>\n    <p><strong>Movimento</strong> base dos humanos é 9 metros.</p>\n  </li>\n  <li>\n    <p><strong>Infravisão</strong> não possui.</p>\n  </li>\n  <li>\n    <p><strong>Alinhamento</strong> qualquer um.</p>\n  </li>\n</ul>\n</div>"
       },
       "video": {
         "controls": true,
@@ -36,13 +36,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!hw8MOvqDFvxnjqfR.SO5Arwa3xSeV50Uz"
+      "_key": "!journal.pages!KmvOj1D3EIGnCxXw.a3HpPIfJ2FIdOuIV"
     },
     {
       "sort": 1,
       "name": "Elfo",
       "type": "text",
-      "_id": "yAm1sprwRw2cr2V1",
+      "_id": "kICEwpr2dwSPqQjL",
       "title": {
         "show": true,
         "level": 1
@@ -71,13 +71,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!hw8MOvqDFvxnjqfR.yAm1sprwRw2cr2V1"
+      "_key": "!journal.pages!KmvOj1D3EIGnCxXw.kICEwpr2dwSPqQjL"
     },
     {
       "sort": 2,
       "name": "Anão",
       "type": "text",
-      "_id": "30uFcJuYx98SUwAm",
+      "_id": "7nKkuMAmlUlrrA7D",
       "title": {
         "show": true,
         "level": 1
@@ -85,7 +85,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<div class=\"odo-markdown\">\n<h3 id=\"habilidades-de-raca\">Habilidades de Raça</h3>\n\n<p>Todas as habilidades de raça são adquiridas no 1º nível durante a criação do personagem.</p>\n\n<p><strong><span class=\"redbox\">1</span> Mineradores:</strong> por milênios, anões aprendem desde cedo a avaliar passagens e condições de muralhas e portais.</p>\n\n<p>Por isso são capazes de detectar, mesmo que não estejam analisando ativamente, com um resultado de 1 em 1d6, anomalias em pedras, como armadilhas em cavernas ou fossos escondidos, ou com um resultado de 1-2 em 1d6 caso estejam efetivamente procurando.</p>\n\n<p><strong><span class=\"redbox\">1</span> Vigoroso:</strong> os anões são muito resistentes aos efeitos que afetem seu corpo, recebendo um bônus de +1 em qualquer teste de JPC.</p>\n\n<p><strong><span class=\"redbox\">1</span> Armas grandes:</strong> são restritas para anões que podem usar apenas armas médias e pequenas. Armas grandes forjadas como um <a href=\"/livros/srd/capitulos/equipamento#itens-raciais\">item racial</a> anão são consideradas armas médias para um anão.</p>\n\n<p><strong><span class=\"redbox\">1</span> Inimigos:</strong> anões são inimigos naturais e disputam território com orcs, ogros e hobgoblins e, por isso, os ataques dos anões contra essas criaturas são considerados ataques fáceis.</p>\n\n<ul>\n  <li>\n    <p><strong>Movimento</strong> base dos anões é 6 metros.</p>\n  </li>\n  <li>\n    <p><strong>Infravisão</strong> de 18 metros</p>\n  </li>\n  <li>\n    <p><strong>Alinhamento</strong> tendem à ordem.</p>\n  </li>\n</ul>\n</div>"
+        "content": "<div class=\"odo-markdown\">\n<h3 id=\"habilidades-de-raca\">Habilidades de Raça</h3>\n\n<p>Todas as habilidades de raça são adquiridas no 1º nível durante a criação do personagem.</p>\n\n<p><strong><span class=\"redbox\">1</span> Mineradores:</strong> por milênios, anões aprendem desde cedo a avaliar passagens e condições de muralhas e portais.</p>\n\n<p>Por isso são capazes de detectar, mesmo que não estejam analisando ativamente, com um resultado de 1 em 1d6, anomalias em pedras, como armadilhas em cavernas ou fossos escondidos, ou com um resultado de 1-2 em 1d6 caso estejam efetivamente procurando.</p>\n\n<p><strong><span class=\"redbox\">1</span> Vigoroso:</strong> os anões são muito resistentes aos efeitos que afetem seu corpo, recebendo um bônus de +1 em qualquer teste de JPC.</p>\n\n<p><strong><span class=\"redbox\">1</span> Armas grandes:</strong> são restritas para anões que podem usar apenas armas médias e pequenas. Armas grandes forjadas como um @UUID[Compendium.olddragon2e.srd.JournalEntry.d3ZD8zqtCTFI3yxi.JournalEntryPage.J9mQEcfZ7wLE45OI]{item racial} anão são consideradas armas médias para um anão.</p>\n\n<p><strong><span class=\"redbox\">1</span> Inimigos:</strong> anões são inimigos naturais e disputam território com orcs, ogros e hobgoblins e, por isso, os ataques dos anões contra essas criaturas são considerados ataques fáceis.</p>\n\n<ul>\n  <li>\n    <p><strong>Movimento</strong> base dos anões é 6 metros.</p>\n  </li>\n  <li>\n    <p><strong>Infravisão</strong> de 18 metros</p>\n  </li>\n  <li>\n    <p><strong>Alinhamento</strong> tendem à ordem.</p>\n  </li>\n</ul>\n</div>"
       },
       "video": {
         "controls": true,
@@ -106,13 +106,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!hw8MOvqDFvxnjqfR.30uFcJuYx98SUwAm"
+      "_key": "!journal.pages!KmvOj1D3EIGnCxXw.7nKkuMAmlUlrrA7D"
     },
     {
       "sort": 3,
       "name": "Halfling",
       "type": "text",
-      "_id": "Mu5DFSwD5T3kIhom",
+      "_id": "e1Iyv7DDFUSUQcaK",
       "title": {
         "show": true,
         "level": 1
@@ -141,13 +141,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!hw8MOvqDFvxnjqfR.Mu5DFSwD5T3kIhom"
+      "_key": "!journal.pages!KmvOj1D3EIGnCxXw.e1Iyv7DDFUSUQcaK"
     },
     {
       "sort": 4,
       "name": "Meio-Elfo",
       "type": "text",
-      "_id": "SlkrHi2m47WsXXPs",
+      "_id": "y18MRGn7SJqErGBx",
       "title": {
         "show": true,
         "level": 1
@@ -155,7 +155,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<div class=\"odo-markdown\">\n<h3 id=\"habilidades-de-raca\">Habilidades de Raça</h3>\n\n<p>Todas as habilidades de raça são adquiridas no 1º nível durante a criação do personagem.</p>\n\n<p><strong><span class=\"redbox\">1</span> Aprendizado:</strong> meio-elfos compartilham, mesmo parcialmente, o aprendizado acelerado dos humanos. Com isso, um meio-elfo recebe um bônus de <strong>5% sobre</strong> toda <a href=\"/livros/srd/capitulos/mestrando#evoluindo-personagens\">experiência (XP)</a> que receber.</p>\n\n<blockquote class=\"example\">\n  <p><strong>Exemplo:</strong> <em>cada personagem recebe 230 XP. Os meio-elfos anotam em sua ficha 241 XP. Ou seja, 11 XP a mais do que outras raças pelo seu bônus de aprendizado de 5%.</em></p>\n</blockquote>\n\n<p><strong><span class=\"redbox\">1</span> Graciosos e Vigorosos:</strong> os meio-elfos misturam a graciosidade do movimento dos elfos com a resistência de um corpo mestiço e de origem plural, assim, podem escolher entre receber um bônus de +1 em uma das duas jogadas de proteção, JPC ou JPD.</p>\n\n<p><strong><span class=\"redbox\">1</span> Idioma Extra:</strong> os meio-elfos recebem um idioma extra (escolhido entre o élfico e o idioma falado pela sua contraparte humana).</p>\n\n<p><strong><span class=\"redbox\">1</span> Imunidades:</strong> os meio-elfos são imunes a magias ou efeitos que envolvam sono e a paralisação causada por um Ghoul.</p>\n\n<ul>\n  <li>\n    <p><strong>Movimento</strong> base dos meio-elfos é 9 metros.</p>\n  </li>\n  <li>\n    <p><strong>Infravisão</strong> de 9 metros.</p>\n  </li>\n  <li>\n    <p><strong>Alinhamento</strong> tendem ao caos.</p>\n  </li>\n</ul>\n</div>"
+        "content": "<div class=\"odo-markdown\">\n<h3 id=\"habilidades-de-raca\">Habilidades de Raça</h3>\n\n<p>Todas as habilidades de raça são adquiridas no 1º nível durante a criação do personagem.</p>\n\n<p><strong><span class=\"redbox\">1</span> Aprendizado:</strong> meio-elfos compartilham, mesmo parcialmente, o aprendizado acelerado dos humanos. Com isso, um meio-elfo recebe um bônus de <strong>5% sobre</strong> toda @UUID[Compendium.olddragon2e.srd.JournalEntry.zJ2PypO0I2xkd6bm.JournalEntryPage.bXznCDf6TtZSmbsp]{experiência (XP)} que receber.</p>\n\n<blockquote class=\"example\">\n  <p><strong>Exemplo:</strong> <em>cada personagem recebe 230 XP. Os meio-elfos anotam em sua ficha 241 XP. Ou seja, 11 XP a mais do que outras raças pelo seu bônus de aprendizado de 5%.</em></p>\n</blockquote>\n\n<p><strong><span class=\"redbox\">1</span> Graciosos e Vigorosos:</strong> os meio-elfos misturam a graciosidade do movimento dos elfos com a resistência de um corpo mestiço e de origem plural, assim, podem escolher entre receber um bônus de +1 em uma das duas jogadas de proteção, JPC ou JPD.</p>\n\n<p><strong><span class=\"redbox\">1</span> Idioma Extra:</strong> os meio-elfos recebem um idioma extra (escolhido entre o élfico e o idioma falado pela sua contraparte humana).</p>\n\n<p><strong><span class=\"redbox\">1</span> Imunidades:</strong> os meio-elfos são imunes a magias ou efeitos que envolvam sono e a paralisação causada por um Ghoul.</p>\n\n<ul>\n  <li>\n    <p><strong>Movimento</strong> base dos meio-elfos é 9 metros.</p>\n  </li>\n  <li>\n    <p><strong>Infravisão</strong> de 9 metros.</p>\n  </li>\n  <li>\n    <p><strong>Alinhamento</strong> tendem ao caos.</p>\n  </li>\n</ul>\n</div>"
       },
       "video": {
         "controls": true,
@@ -176,13 +176,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!hw8MOvqDFvxnjqfR.SlkrHi2m47WsXXPs"
+      "_key": "!journal.pages!KmvOj1D3EIGnCxXw.y18MRGn7SJqErGBx"
     },
     {
       "sort": 5,
       "name": "Gnomo",
       "type": "text",
-      "_id": "LvMal7UMLU9yrSM5",
+      "_id": "CwRr6yRpXE7a5z1j",
       "title": {
         "show": true,
         "level": 1
@@ -211,7 +211,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!hw8MOvqDFvxnjqfR.LvMal7UMLU9yrSM5"
+      "_key": "!journal.pages!KmvOj1D3EIGnCxXw.CwRr6yRpXE7a5z1j"
     }
   ],
   "flags": {},
@@ -228,5 +228,5 @@
     "default": 0,
     "enzpVKIAX52oTyPe": 3
   },
-  "_key": "!journal!hw8MOvqDFvxnjqfR"
+  "_key": "!journal!KmvOj1D3EIGnCxXw"
 }

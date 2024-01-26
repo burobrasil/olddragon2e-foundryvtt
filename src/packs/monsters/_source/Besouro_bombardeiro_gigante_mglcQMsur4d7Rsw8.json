@@ -1,5 +1,5 @@
 {
-  "name": "Besouro bombardeiro gigante",
+  "name": "Besouro Bombardeiro Gigante",
   "type": "monster",
   "_id": "mglcQMsur4d7Rsw8",
   "img": "systems/olddragon2e/assets/monsters-concepts/inseto-grande.webp",
@@ -37,7 +37,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Besouro bombardeiro gigante",
+    "name": "Besouro Bombardeiro Gigante",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,

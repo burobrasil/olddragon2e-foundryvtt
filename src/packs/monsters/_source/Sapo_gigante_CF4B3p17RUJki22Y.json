@@ -1,5 +1,5 @@
 {
-  "name": "Sapo gigante",
+  "name": "Sapo Gigante",
   "type": "monster",
   "_id": "CF4B3p17RUJki22Y",
   "img": "systems/olddragon2e/assets/monsters-concepts/animal-medio.webp",
@@ -37,7 +37,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Sapo gigante",
+    "name": "Sapo Gigante",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,

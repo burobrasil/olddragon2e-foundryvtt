@@ -1,5 +1,5 @@
 {
-  "name": "Tigre dente-de-sabre",
+  "name": "Tigre Dente-de-Sabre",
   "type": "monster",
   "_id": "Is027UcuHJHvhKg8",
   "img": "systems/olddragon2e/assets/monsters-concepts/animal-medio.webp",
@@ -37,7 +37,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Tigre dente-de-sabre",
+    "name": "Tigre Dente-de-Sabre",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,

@@ -1,5 +1,5 @@
 {
-  "name": "Elfo líder",
+  "name": "Elfo Líder",
   "type": "monster",
   "_id": "1mg5M4yrpWvyfoeN",
   "img": "systems/olddragon2e/assets/monsters-concepts/humanoide-medio.webp",
@@ -37,7 +37,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Elfo líder",
+    "name": "Elfo Líder",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,

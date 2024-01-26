@@ -1,5 +1,5 @@
 {
-  "name": "Fungo pigmeu",
+  "name": "Fungo Pigmeu",
   "type": "monster",
   "_id": "o0lM6UFqFOXoYSVH",
   "img": "systems/olddragon2e/assets/monsters-concepts/planta-pequeno.webp",
@@ -37,7 +37,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Fungo pigmeu",
+    "name": "Fungo Pigmeu",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,

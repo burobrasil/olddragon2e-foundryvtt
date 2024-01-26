@@ -1,5 +1,5 @@
 {
-  "name": "Formiga gigante",
+  "name": "Formiga Gigante",
   "type": "monster",
   "_id": "D59mYqnYIgRAGVsU",
   "img": "systems/olddragon2e/assets/monsters-concepts/inseto-medio.webp",
@@ -37,7 +37,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Formiga gigante",
+    "name": "Formiga Gigante",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,

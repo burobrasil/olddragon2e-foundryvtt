@@ -1,5 +1,5 @@
 {
-  "name": "Halfling líder",
+  "name": "Halfling Líder",
   "type": "monster",
   "_id": "Av0RvqomizMAFFlp",
   "img": "systems/olddragon2e/assets/monsters-concepts/humanoide-medio.webp",
@@ -37,7 +37,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Halfling líder",
+    "name": "Halfling Líder",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,

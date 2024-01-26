@@ -1,5 +1,5 @@
 {
-  "name": "Urso negro",
+  "name": "Urso Negro",
   "type": "monster",
   "_id": "jo8btHwWKfoCeZxh",
   "img": "systems/olddragon2e/assets/monsters-concepts/animal-grande.webp",
@@ -37,7 +37,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Urso negro",
+    "name": "Urso Negro",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,

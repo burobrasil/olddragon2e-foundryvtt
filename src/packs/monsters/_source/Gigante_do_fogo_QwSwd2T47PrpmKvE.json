@@ -1,5 +1,5 @@
 {
-  "name": "Gigante do fogo",
+  "name": "Gigante do Fogo",
   "type": "monster",
   "_id": "QwSwd2T47PrpmKvE",
   "img": "systems/olddragon2e/assets/monsters-concepts/gigante-imenso.webp",
@@ -37,7 +37,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Gigante do fogo",
+    "name": "Gigante do Fogo",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,

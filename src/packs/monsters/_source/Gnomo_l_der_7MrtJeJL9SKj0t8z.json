@@ -1,5 +1,5 @@
 {
-  "name": "Gnomo líder",
+  "name": "Gnomo Líder",
   "type": "monster",
   "_id": "7MrtJeJL9SKj0t8z",
   "img": "systems/olddragon2e/assets/monsters-concepts/humanoide-medio.webp",
@@ -37,7 +37,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Gnomo líder",
+    "name": "Gnomo Líder",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,

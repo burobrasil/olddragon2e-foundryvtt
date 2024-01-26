@@ -1,5 +1,5 @@
 {
-  "name": "Flagelo da podridão",
+  "name": "Flagelo da Podridão",
   "type": "monster",
   "_id": "OkKDRY1HKenvyVVZ",
   "img": "systems/olddragon2e/assets/monsters-concepts/besta-miudo.webp",
@@ -37,7 +37,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Flagelo da podridão",
+    "name": "Flagelo da Podridão",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,

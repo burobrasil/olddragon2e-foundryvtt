@@ -1,5 +1,5 @@
 {
-  "name": "Homem comum, idoso",
+  "name": "Homem Comum, Idoso",
   "type": "monster",
   "_id": "co1aFuyf0Axvj1yW",
   "img": "systems/olddragon2e/assets/monsters-concepts/humanoide-medio.webp",
@@ -37,7 +37,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Homem comum, idoso",
+    "name": "Homem Comum, Idoso",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,

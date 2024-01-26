@@ -1,5 +1,5 @@
 {
-  "name": "Homem lagarto",
+  "name": "Homem Lagarto",
   "type": "monster",
   "_id": "3X9zxF8MKcs90BY4",
   "img": "systems/olddragon2e/assets/monsters-concepts/humanoide-medio.webp",
@@ -37,7 +37,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Homem lagarto",
+    "name": "Homem Lagarto",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,

@@ -1,5 +1,5 @@
 {
-  "name": "Golem de ferro",
+  "name": "Golem de Ferro",
   "type": "monster",
   "_id": "FClDTqsmVWXStr7P",
   "img": "systems/olddragon2e/assets/monsters-concepts/constructo-grande.webp",
@@ -37,7 +37,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Golem de ferro",
+    "name": "Golem de Ferro",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,

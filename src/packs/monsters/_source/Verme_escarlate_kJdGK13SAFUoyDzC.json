@@ -1,5 +1,5 @@
 {
-  "name": "Verme escarlate",
+  "name": "Verme Escarlate",
   "type": "monster",
   "_id": "kJdGK13SAFUoyDzC",
   "img": "systems/olddragon2e/assets/monsters-concepts/besta-grande.webp",
@@ -37,7 +37,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Verme escarlate",
+    "name": "Verme Escarlate",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,

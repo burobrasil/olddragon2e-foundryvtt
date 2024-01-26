@@ -1,5 +1,5 @@
 {
-  "name": "Gosma ocre",
+  "name": "Gosma Ocre",
   "type": "monster",
   "_id": "iA4pwS4UkPCibVsH",
   "img": "systems/olddragon2e/assets/monsters-concepts/gosma-grande.webp",
@@ -37,7 +37,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Gosma ocre",
+    "name": "Gosma Ocre",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,

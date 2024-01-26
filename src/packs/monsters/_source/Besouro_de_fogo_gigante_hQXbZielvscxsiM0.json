@@ -1,5 +1,5 @@
 {
-  "name": "Besouro de fogo gigante",
+  "name": "Besouro de Fogo Gigante",
   "type": "monster",
   "_id": "hQXbZielvscxsiM0",
   "img": "systems/olddragon2e/assets/monsters-concepts/inseto-grande.webp",
@@ -37,7 +37,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Besouro de fogo gigante",
+    "name": "Besouro de Fogo Gigante",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,

@@ -1,5 +1,5 @@
 {
-  "name": "Vespa gigante",
+  "name": "Vespa Gigante",
   "type": "monster",
   "_id": "xgVmlpgM5Uh0yjxn",
   "img": "systems/olddragon2e/assets/monsters-concepts/inseto-medio.webp",
@@ -37,7 +37,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Vespa gigante",
+    "name": "Vespa Gigante",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,

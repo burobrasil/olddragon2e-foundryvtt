@@ -1,5 +1,5 @@
 {
-  "name": "Cubo gelatinoso",
+  "name": "Cubo Gelatinoso",
   "type": "monster",
   "_id": "rFwXTYvDH2UYYJZq",
   "img": "systems/olddragon2e/assets/monsters-concepts/gosma-grande.webp",
@@ -37,7 +37,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Cubo gelatinoso",
+    "name": "Cubo Gelatinoso",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,

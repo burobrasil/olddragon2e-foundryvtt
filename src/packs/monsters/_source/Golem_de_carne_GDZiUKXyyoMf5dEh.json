@@ -1,5 +1,5 @@
 {
-  "name": "Golem de carne",
+  "name": "Golem de Carne",
   "type": "monster",
   "_id": "GDZiUKXyyoMf5dEh",
   "img": "systems/olddragon2e/assets/monsters-concepts/constructo-grande.webp",
@@ -37,7 +37,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Golem de carne",
+    "name": "Golem de Carne",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,

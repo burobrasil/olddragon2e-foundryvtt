@@ -1,13 +1,13 @@
 {
   "folder": null,
   "name": "Capítulo 1: Atributos",
-  "_id": "3OOJyr7lvbYBywdI",
+  "_id": "13SRViFh4dpakVtm",
   "pages": [
     {
       "sort": 0,
       "name": "Introdução",
       "type": "text",
-      "_id": "vu2I8bdWPmvgLjRc",
+      "_id": "UU7GmKtsYlm9EvQ6",
       "title": {
         "show": true,
         "level": 1
@@ -36,13 +36,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!3OOJyr7lvbYBywdI.vu2I8bdWPmvgLjRc"
+      "_key": "!journal.pages!13SRViFh4dpakVtm.UU7GmKtsYlm9EvQ6"
     },
     {
       "sort": 1,
       "name": "Força",
       "type": "text",
-      "_id": "5rWn2W9MbvmUIVLp",
+      "_id": "BLjheRf19eucYgVv",
       "title": {
         "show": true,
         "level": 1
@@ -71,13 +71,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!3OOJyr7lvbYBywdI.5rWn2W9MbvmUIVLp"
+      "_key": "!journal.pages!13SRViFh4dpakVtm.BLjheRf19eucYgVv"
     },
     {
       "sort": 2,
       "name": "Destreza",
       "type": "text",
-      "_id": "TDGpPIsOKgbhjZWa",
+      "_id": "PEqv0OmqqRhpVtcZ",
       "title": {
         "show": true,
         "level": 1
@@ -106,13 +106,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!3OOJyr7lvbYBywdI.TDGpPIsOKgbhjZWa"
+      "_key": "!journal.pages!13SRViFh4dpakVtm.PEqv0OmqqRhpVtcZ"
     },
     {
       "sort": 3,
       "name": "Constituição",
       "type": "text",
-      "_id": "4zJfXjQAHklR7xBA",
+      "_id": "DEotb9a0ldt8tDYK",
       "title": {
         "show": true,
         "level": 1
@@ -141,13 +141,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!3OOJyr7lvbYBywdI.4zJfXjQAHklR7xBA"
+      "_key": "!journal.pages!13SRViFh4dpakVtm.DEotb9a0ldt8tDYK"
     },
     {
       "sort": 4,
       "name": "Inteligência",
       "type": "text",
-      "_id": "kT9QFLu6hs1XyZ2K",
+      "_id": "mkZ8swbnu6kj8t2B",
       "title": {
         "show": true,
         "level": 1
@@ -176,13 +176,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!3OOJyr7lvbYBywdI.kT9QFLu6hs1XyZ2K"
+      "_key": "!journal.pages!13SRViFh4dpakVtm.mkZ8swbnu6kj8t2B"
     },
     {
       "sort": 5,
       "name": "Sabedoria",
       "type": "text",
-      "_id": "c2FR56dsnoFblIxW",
+      "_id": "9DCeQkS5y5ZbxoiV",
       "title": {
         "show": true,
         "level": 1
@@ -211,13 +211,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!3OOJyr7lvbYBywdI.c2FR56dsnoFblIxW"
+      "_key": "!journal.pages!13SRViFh4dpakVtm.9DCeQkS5y5ZbxoiV"
     },
     {
       "sort": 6,
       "name": "Carisma",
       "type": "text",
-      "_id": "nmz4BezHUNNrXAR3",
+      "_id": "srBTr2ElwaaW30AI",
       "title": {
         "show": true,
         "level": 1
@@ -246,13 +246,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!3OOJyr7lvbYBywdI.nmz4BezHUNNrXAR3"
+      "_key": "!journal.pages!13SRViFh4dpakVtm.srBTr2ElwaaW30AI"
     },
     {
       "sort": 7,
       "name": "Rolando Atributos",
       "type": "text",
-      "_id": "iNrZOpekUtiAn0Bo",
+      "_id": "qIc6f7UfVEKqcLxQ",
       "title": {
         "show": true,
         "level": 1
@@ -260,7 +260,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<div class=\"odo-markdown\">\n<p>Os valores médios para um humano comum ficam entre 9 e 12. Felizmente, aventureiros são pessoas que não se enquadram no padrão e facilmente atingem valores acima de 12.</p>\n\n<p>Para determinar o atributo de um personagem, é preciso questionar ao Mestre qual tipo de aventura vocês como grupo pretendem jogar. O estilo de aventura escolhido refletirá no método para sortear os atributos. É sensato que todos os personagens sejam gerados pelo mesmo método, evitando assim desequilíbrio entre os personagens.</p>\n\n<h3 id=\"estilo-classico\">Estilo Clássico</h3>\n\n<p>Role <strong>3d6 seis vezes</strong> e distribua entre os atributos, seguindo a ordem: Força, Destreza, Constituição, Inteligência, Sabedoria e Carisma.</p>\n\n<p>Esse estilo é o mais clássico dentro da história do RPG Old School e produz personagens desafiadoramente medianos, já que suas rolagens farão com que quase 50% dos atributos fiquem dentro do padrão (9 a 12), quase 70% dos atributos entre 8 e 13, e 90% entre 6 e 15. A chance de um 17 e 18 é de 2%.</p>\n\n<p>Este estilo também é conhecido por fazer a escolha aleatória das classes, já que você praticamente escolhe com qual classe vai jogar após determinar os atributos do seu personagem.</p>\n\n<h3 id=\"estilo-aventureiro\">Estilo Aventureiro</h3>\n\n<p>Role <strong>3d6 seis vezes</strong> e distribua como desejar os resultados nos seis atributos dos personagens.</p>\n\n<p>Esse estilo de rolagem é idêntico ao estilo clássico, mas um pouco mais maleável porque você distribui dentre os atributos desejados. Ele fará com que 50% dos atributos fiquem dentro do padrão (9 a 12), quase 70% dos atributos entre 8 e 13, e 90% entre 6 e 15. A chance de um 17 e 18 é de 2%.</p>\n\n<h3 id=\"estilo-heroico\">Estilo Heroico</h3>\n\n<p>Role <strong>4d6 eliminando o d6 mais baixo</strong> da soma. Faça isso seis vezes e distribua como desejar os resultados nos seis atributos dos personagens.</p>\n\n<p>Esse estilo fará com que os atributos estejam em 40% das vezes entre 9 e 12, e 70% das vezes entre 8 e 13. A chance de um 17 e 18 é de 6%.</p>\n\n<p>O estilo heroico gerará personagens levemente superiores aos do estilo aventureiro. Use-o se seu Mestre e grupo pretendem ter um jogo cujos personagens realmente se destaquem em relação às pessoas comuns.</p>\n\n<h3 id=\"estilo-3d6-duplo\">Estilo 3d6 Duplo</h3>\n\n<p>Role <strong>3d6 duas vezes</strong> para cada atributo, ficando com a soma maior de cada dupla de 3d6 para cada atributo.</p>\n\n<p>Os atributos determinados assim costumam variar entre 9 e 12 em 50% das vezes, e entre 8 e 13 em 85% das vezes.</p>\n\n<p>Ele confere um controle um pouco maior sobre os valores, mas tem a desvantagem de ser demorado por depender de uma quantidade muito grande de dados a serem jogados.</p>\n\n<h3 id=\"estilo-campones\">Estilo Camponês</h3>\n\n<p>Role <strong>1d6 para cada atributo</strong> e some 7 ao resultado para formar o valor de cada um dos atributos. Depois, distribua como desejar entre os atributos.</p>\n\n<p>Este estilo é indicado para sorteio rápido de atributos para membros comuns do seu jogo, como camponeses, taverneiros, fazendeiros, burocratas, artistas, comerciantes etc.</p>\n\n<p>Os atributos determinados assim têm como resultado um 8 em 16,7% das vezes, um valor mediano de 9 a 12 em 66,6% das vezes e um 13 (valor acima da média entre os meros mortais) em 16,7% das vezes.</p>\n\n<h3 id=\"estilo-da-distribuicao\">Estilo da Distribuição</h3>\n\n<p>Role <strong>7d6 anotando o resultado</strong> de cada dado separadamente. Depois, distribua estes resultados a cada um dos atributos, começando pelo valor base 8.</p>\n\n<p>O jogador pode distribuir quantos resultados de dados quiser a qualquer um dos atributos, podendo inclusive não distribuir nenhum dado a determinado atributo.</p>\n\n<p>Seus únicos limites são que nenhum atributo pode ser maior que 18 e o resultado de um dado não pode ser dividido entre dois atributos.</p>\n\n<p>Esse estilo gera em 63% das vezes resultados entre 9 e 12, e 75% das vezes entre 8 e 13. Obviamente é o método para caso você queira controle, uma vez que é maleável para ajudar onde influenciar um atributo, mas não o suficiente para atrapalhar o equilíbrio do jogo.</p>\n\n<h3 id=\"estilo-racial\">Estilo Racial</h3>\n\n<p>Como você deve ter percebido no <a data-accordion-ignore=\"true\" data-turbo-frame=\"_top\" href=\"/livros/lb1\">LB1</a>, o OD2 rompe com a tradição de se modificar atributos de acordo com a escolha da raça. Então, o estilo racial é uma forma de trazer essa característica novamente ao jogo se o seu grupo se ressente da falta dela.</p>\n\n<p>Role <strong>2d6 e some 6</strong> para determinar o atributo Forte da raça do seu personagem.</p>\n\n<p>Role <strong>2d6 e some 3</strong> para determinar o atributo Fraco da raça do seu personagem.</p>\n\n<p>Role <strong>3d6 por 4 vezes</strong> para determinar os demais atributos do seu personagem.</p>\n\n<p><strong>Elfo:</strong> 2d6+6 em Destreza e 2d6+3 em Constituição.</p>\n\n<p><strong>Anão:</strong> 2d6+6 em Constituição e 2d6+3 em Carisma.</p>\n\n<p><strong>Halfling:</strong> 2d6+6 em Destreza e 2d6+3 em Força.</p>\n\n<p><strong>Gnomos:</strong> 2d6+6 em Inteligência e 2d6+3 em Sabedoria.</p>\n\n<p><strong>Humanos e Meio-Elfos:</strong> escolhem, antes de lançar, onde lançarão 2d6+6 e onde lançarão 2d6+3.</p>\n\n<h3 id=\"atributos-e-valores\">Atributos e Valores</h3>\n\n<p>A tabela 1.1 apresenta os valores de atributos e seus desdobramentos. Após determinar o valor de cada um dos seus atributos, compare na tabela se o seu valor possui algum modificador ou concede alguma magia extra caso seu personagem seja um conjurador.</p>\n\n<p><strong>Modificador de Atributo</strong> apresenta modificadores bônus ou penalidades associadas a várias ações do jogo e relacionadas com o atributo em questão. Ao longo deste livro, sempre que estivermos nos referindo a um modificador de atributo, é desse modificador que estamos falando.</p>\n\n<p><a href=\"/livros/srd/capitulos/magia#magias-extras\">Magias Extras</a> por dia representa o número de magias arcanas (Inteligência) ou divinas (Sabedoria) adicionais que um Mago e Clérigo podem <a href=\"/livros/srd/capitulos/magia#memorizando-magias\">memorizar</a> e conjurar diariamente, desde que suas classes já tenham acesso àquele círculo de magia.</p>\n\n<div class=\"overflow-x-auto\">\n  <table>\n    <caption>Atributos <span>tabela 1.1</span></caption>\n    <thead>\n      <tr>\n        <th rowspan=\"2\">Atributo</th>\n        <th rowspan=\"2\">Modificador de Atributo</th>\n        <th colspan=\"3\">Magias Extras por dia (INT) (SAB)</th>\n      </tr>\n      <tr>\n        <th>1º círculo</th>\n        <th>2º círculo</th>\n        <th>3º círculo</th>\n      </tr>\n    </thead>\n    <tbody>\n      <tr class=\"text-center\">\n        <td>2-3</td>\n        <td>-3</td>\n        <td>-</td>\n        <td>-</td>\n        <td>-</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td>4-5</td>\n        <td>-2</td>\n        <td>-</td>\n        <td>-</td>\n        <td>-</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td>6-8</td>\n        <td>-1</td>\n        <td>-</td>\n        <td>-</td>\n        <td>-</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td>9-12</td>\n        <td>-</td>\n        <td>-</td>\n        <td>-</td>\n        <td>-</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td>13-14</td>\n        <td>+1</td>\n        <td>1</td>\n        <td>-</td>\n        <td>-</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td>15-16</td>\n        <td>+2</td>\n        <td>1</td>\n        <td>1</td>\n        <td>-</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td>17-18</td>\n        <td>+3</td>\n        <td>2</td>\n        <td>1</td>\n        <td>1</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td>19-20</td>\n        <td>+4</td>\n        <td>2</td>\n        <td>2</td>\n        <td>1</td>\n      </tr>\n    </tbody>\n  </table>\n</div>\n</div>"
+        "content": "<div class=\"odo-markdown\">\n<p>Os valores médios para um humano comum ficam entre 9 e 12. Felizmente, aventureiros são pessoas que não se enquadram no padrão e facilmente atingem valores acima de 12.</p>\n\n<p>Para determinar o atributo de um personagem, é preciso questionar ao Mestre qual tipo de aventura vocês como grupo pretendem jogar. O estilo de aventura escolhido refletirá no método para sortear os atributos. É sensato que todos os personagens sejam gerados pelo mesmo método, evitando assim desequilíbrio entre os personagens.</p>\n\n<h3 id=\"estilo-classico\">Estilo Clássico</h3>\n\n<p>Role <strong>3d6 seis vezes</strong> e distribua entre os atributos, seguindo a ordem: Força, Destreza, Constituição, Inteligência, Sabedoria e Carisma.</p>\n\n<p>Esse estilo é o mais clássico dentro da história do RPG Old School e produz personagens desafiadoramente medianos, já que suas rolagens farão com que quase 50% dos atributos fiquem dentro do padrão (9 a 12), quase 70% dos atributos entre 8 e 13, e 90% entre 6 e 15. A chance de um 17 e 18 é de 2%.</p>\n\n<p>Este estilo também é conhecido por fazer a escolha aleatória das classes, já que você praticamente escolhe com qual classe vai jogar após determinar os atributos do seu personagem.</p>\n\n<h3 id=\"estilo-aventureiro\">Estilo Aventureiro</h3>\n\n<p>Role <strong>3d6 seis vezes</strong> e distribua como desejar os resultados nos seis atributos dos personagens.</p>\n\n<p>Esse estilo de rolagem é idêntico ao estilo clássico, mas um pouco mais maleável porque você distribui dentre os atributos desejados. Ele fará com que 50% dos atributos fiquem dentro do padrão (9 a 12), quase 70% dos atributos entre 8 e 13, e 90% entre 6 e 15. A chance de um 17 e 18 é de 2%.</p>\n\n<h3 id=\"estilo-heroico\">Estilo Heroico</h3>\n\n<p>Role <strong>4d6 eliminando o d6 mais baixo</strong> da soma. Faça isso seis vezes e distribua como desejar os resultados nos seis atributos dos personagens.</p>\n\n<p>Esse estilo fará com que os atributos estejam em 40% das vezes entre 9 e 12, e 70% das vezes entre 8 e 13. A chance de um 17 e 18 é de 6%.</p>\n\n<p>O estilo heroico gerará personagens levemente superiores aos do estilo aventureiro. Use-o se seu Mestre e grupo pretendem ter um jogo cujos personagens realmente se destaquem em relação às pessoas comuns.</p>\n\n<h3 id=\"estilo-3d6-duplo\">Estilo 3d6 Duplo</h3>\n\n<p>Role <strong>3d6 duas vezes</strong> para cada atributo, ficando com a soma maior de cada dupla de 3d6 para cada atributo.</p>\n\n<p>Os atributos determinados assim costumam variar entre 9 e 12 em 50% das vezes, e entre 8 e 13 em 85% das vezes.</p>\n\n<p>Ele confere um controle um pouco maior sobre os valores, mas tem a desvantagem de ser demorado por depender de uma quantidade muito grande de dados a serem jogados.</p>\n\n<h3 id=\"estilo-campones\">Estilo Camponês</h3>\n\n<p>Role <strong>1d6 para cada atributo</strong> e some 7 ao resultado para formar o valor de cada um dos atributos. Depois, distribua como desejar entre os atributos.</p>\n\n<p>Este estilo é indicado para sorteio rápido de atributos para membros comuns do seu jogo, como camponeses, taverneiros, fazendeiros, burocratas, artistas, comerciantes etc.</p>\n\n<p>Os atributos determinados assim têm como resultado um 8 em 16,7% das vezes, um valor mediano de 9 a 12 em 66,6% das vezes e um 13 (valor acima da média entre os meros mortais) em 16,7% das vezes.</p>\n\n<h3 id=\"estilo-da-distribuicao\">Estilo da Distribuição</h3>\n\n<p>Role <strong>7d6 anotando o resultado</strong> de cada dado separadamente. Depois, distribua estes resultados a cada um dos atributos, começando pelo valor base 8.</p>\n\n<p>O jogador pode distribuir quantos resultados de dados quiser a qualquer um dos atributos, podendo inclusive não distribuir nenhum dado a determinado atributo.</p>\n\n<p>Seus únicos limites são que nenhum atributo pode ser maior que 18 e o resultado de um dado não pode ser dividido entre dois atributos.</p>\n\n<p>Esse estilo gera em 63% das vezes resultados entre 9 e 12, e 75% das vezes entre 8 e 13. Obviamente é o método para caso você queira controle, uma vez que é maleável para ajudar onde influenciar um atributo, mas não o suficiente para atrapalhar o equilíbrio do jogo.</p>\n\n<h3 id=\"estilo-racial\">Estilo Racial</h3>\n\n<p>Como você deve ter percebido no <a data-accordion-ignore=\"true\" data-turbo-frame=\"_top\" href=\"/livros/lb1\">LB1</a>, o OD2 rompe com a tradição de se modificar atributos de acordo com a escolha da raça. Então, o estilo racial é uma forma de trazer essa característica novamente ao jogo se o seu grupo se ressente da falta dela.</p>\n\n<p>Role <strong>2d6 e some 6</strong> para determinar o atributo Forte da raça do seu personagem.</p>\n\n<p>Role <strong>2d6 e some 3</strong> para determinar o atributo Fraco da raça do seu personagem.</p>\n\n<p>Role <strong>3d6 por 4 vezes</strong> para determinar os demais atributos do seu personagem.</p>\n\n<p><strong>Elfo:</strong> 2d6+6 em Destreza e 2d6+3 em Constituição.</p>\n\n<p><strong>Anão:</strong> 2d6+6 em Constituição e 2d6+3 em Carisma.</p>\n\n<p><strong>Halfling:</strong> 2d6+6 em Destreza e 2d6+3 em Força.</p>\n\n<p><strong>Gnomos:</strong> 2d6+6 em Inteligência e 2d6+3 em Sabedoria.</p>\n\n<p><strong>Humanos e Meio-Elfos:</strong> escolhem, antes de lançar, onde lançarão 2d6+6 e onde lançarão 2d6+3.</p>\n\n<h3 id=\"atributos-e-valores\">Atributos e Valores</h3>\n\n<p>A tabela 1.1 apresenta os valores de atributos e seus desdobramentos. Após determinar o valor de cada um dos seus atributos, compare na tabela se o seu valor possui algum modificador ou concede alguma magia extra caso seu personagem seja um conjurador.</p>\n\n<p><strong>Modificador de Atributo</strong> apresenta modificadores bônus ou penalidades associadas a várias ações do jogo e relacionadas com o atributo em questão. Ao longo deste livro, sempre que estivermos nos referindo a um modificador de atributo, é desse modificador que estamos falando.</p>\n\n<p>@UUID[Compendium.olddragon2e.srd.JournalEntry.6BOGTcifINjc2oH0.JournalEntryPage.wVUyvnlDzojCtOI7]{Magias Extras} por dia representa o número de magias arcanas (Inteligência) ou divinas (Sabedoria) adicionais que um Mago e Clérigo podem @UUID[Compendium.olddragon2e.srd.JournalEntry.6BOGTcifINjc2oH0.JournalEntryPage.sslESXod6fF3gtS7]{memorizar} e conjurar diariamente, desde que suas classes já tenham acesso àquele círculo de magia.</p>\n\n<div class=\"overflow-x-auto\">\n  <table>\n    <caption>Atributos <span>tabela 1.1</span></caption>\n    <thead>\n      <tr>\n        <th rowspan=\"2\">Atributo</th>\n        <th rowspan=\"2\">Modificador de Atributo</th>\n        <th colspan=\"3\">Magias Extras por dia (INT) (SAB)</th>\n      </tr>\n      <tr>\n        <th>1º círculo</th>\n        <th>2º círculo</th>\n        <th>3º círculo</th>\n      </tr>\n    </thead>\n    <tbody>\n      <tr class=\"text-center\">\n        <td>2-3</td>\n        <td>-3</td>\n        <td>-</td>\n        <td>-</td>\n        <td>-</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td>4-5</td>\n        <td>-2</td>\n        <td>-</td>\n        <td>-</td>\n        <td>-</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td>6-8</td>\n        <td>-1</td>\n        <td>-</td>\n        <td>-</td>\n        <td>-</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td>9-12</td>\n        <td>-</td>\n        <td>-</td>\n        <td>-</td>\n        <td>-</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td>13-14</td>\n        <td>+1</td>\n        <td>1</td>\n        <td>-</td>\n        <td>-</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td>15-16</td>\n        <td>+2</td>\n        <td>1</td>\n        <td>1</td>\n        <td>-</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td>17-18</td>\n        <td>+3</td>\n        <td>2</td>\n        <td>1</td>\n        <td>1</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td>19-20</td>\n        <td>+4</td>\n        <td>2</td>\n        <td>2</td>\n        <td>1</td>\n      </tr>\n    </tbody>\n  </table>\n</div>\n</div>"
       },
       "video": {
         "controls": true,
@@ -281,13 +281,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!3OOJyr7lvbYBywdI.iNrZOpekUtiAn0Bo"
+      "_key": "!journal.pages!13SRViFh4dpakVtm.qIc6f7UfVEKqcLxQ"
     },
     {
       "sort": 8,
       "name": "Teste de Atributos",
       "type": "text",
-      "_id": "58XSid5pwjM8RayO",
+      "_id": "ySkjD6qOvZDWaiLz",
       "title": {
         "show": true,
         "level": 1
@@ -316,7 +316,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!3OOJyr7lvbYBywdI.58XSid5pwjM8RayO"
+      "_key": "!journal.pages!13SRViFh4dpakVtm.ySkjD6qOvZDWaiLz"
     }
   ],
   "flags": {},
@@ -333,5 +333,5 @@
     "default": 0,
     "enzpVKIAX52oTyPe": 3
   },
-  "_key": "!journal!3OOJyr7lvbYBywdI"
+  "_key": "!journal!13SRViFh4dpakVtm"
 }

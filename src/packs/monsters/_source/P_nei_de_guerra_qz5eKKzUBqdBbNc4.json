@@ -1,5 +1,5 @@
 {
-  "name": "Pônei de guerra",
+  "name": "Pônei de Guerra",
   "type": "monster",
   "_id": "qz5eKKzUBqdBbNc4",
   "img": "systems/olddragon2e/assets/monsters-concepts/animal-medio.webp",
@@ -37,7 +37,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Pônei de guerra",
+    "name": "Pônei de Guerra",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,

@@ -1,5 +1,5 @@
 {
-  "name": "Pudim negro",
+  "name": "Pudim Negro",
   "type": "monster",
   "_id": "uN7aX0KWUXccpyM4",
   "img": "systems/olddragon2e/assets/monsters-concepts/gosma-grande.webp",
@@ -37,7 +37,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Pudim negro",
+    "name": "Pudim Negro",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,

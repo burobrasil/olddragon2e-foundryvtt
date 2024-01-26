@@ -1,14 +1,14 @@
-2023/12/19-09:41:39.554816 16f9b3000 Recovering log #181
-2023/12/19-09:41:39.555885 16f9b3000 Delete type=3 #179
-2023/12/19-09:41:39.556032 16f9b3000 Delete type=0 #181
-2023/12/19-09:41:39.560058 17024b000 Level-0 table #187: started
-2023/12/19-09:41:39.562062 17024b000 Level-0 table #187: 296576 bytes OK
-2023/12/19-09:41:39.562168 17024b000 Delete type=0 #185
-2023/12/19-09:41:39.562289 17024b000 Manual compaction at level-0 from '!actors!15LHpJehKB856mfO' @ 72057594037927935 : 1 .. '!folders!tVf2EkWEOvHAHyw9' @ 0 : 0; will stop at '!folders!tVf2EkWEOvHAHyw9' @ 9836 : 1
-2023/12/19-09:41:39.562297 17024b000 Compacting 1@0 + 1@1 files
-2023/12/19-09:41:39.565032 17024b000 Generated table #188@0: 266 keys, 296576 bytes
-2023/12/19-09:41:39.565042 17024b000 Compacted 1@0 + 1@1 files => 296576 bytes
-2023/12/19-09:41:39.565102 17024b000 compacted to: files[ 0 1 0 0 0 0 0 ]
-2023/12/19-09:41:39.565138 17024b000 Delete type=2 #183
-2023/12/19-09:41:39.565378 17024b000 Delete type=2 #187
-2023/12/19-09:41:39.565539 17024b000 Manual compaction at level-0 from '!folders!tVf2EkWEOvHAHyw9' @ 9836 : 1 .. '!folders!tVf2EkWEOvHAHyw9' @ 0 : 0; will stop at (end)
+2024/01/24-16:57:31.360312 16fa3b000 Recovering log #231
+2024/01/24-16:57:31.362104 16fa3b000 Delete type=3 #229
+2024/01/24-16:57:31.362292 16fa3b000 Delete type=0 #231
+2024/01/24-16:57:31.367418 1702cf000 Level-0 table #237: started
+2024/01/24-16:57:31.369576 1702cf000 Level-0 table #237: 295914 bytes OK
+2024/01/24-16:57:31.369688 1702cf000 Delete type=0 #235
+2024/01/24-16:57:31.369833 1702cf000 Manual compaction at level-0 from '!actors!15LHpJehKB856mfO' @ 72057594037927935 : 1 .. '!folders!tVf2EkWEOvHAHyw9' @ 0 : 0; will stop at '!folders!tVf2EkWEOvHAHyw9' @ 12496 : 1
+2024/01/24-16:57:31.369842 1702cf000 Compacting 1@0 + 1@1 files
+2024/01/24-16:57:31.372684 1702cf000 Generated table #238@0: 266 keys, 295914 bytes
+2024/01/24-16:57:31.372700 1702cf000 Compacted 1@0 + 1@1 files => 295914 bytes
+2024/01/24-16:57:31.372768 1702cf000 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/01/24-16:57:31.372820 1702cf000 Delete type=2 #237
+2024/01/24-16:57:31.372951 1702cf000 Delete type=2 #233
+2024/01/24-16:57:31.373098 1702cf000 Manual compaction at level-0 from '!folders!tVf2EkWEOvHAHyw9' @ 12496 : 1 .. '!folders!tVf2EkWEOvHAHyw9' @ 0 : 0; will stop at (end)

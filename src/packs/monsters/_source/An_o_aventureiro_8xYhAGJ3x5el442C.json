@@ -1,5 +1,5 @@
 {
-  "name": "Anão aventureiro",
+  "name": "Anão Aventureiro",
   "type": "monster",
   "_id": "8xYhAGJ3x5el442C",
   "img": "systems/olddragon2e/assets/monsters-concepts/humanoide-medio.webp",
@@ -37,7 +37,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Anão aventureiro",
+    "name": "Anão Aventureiro",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,

@@ -1,5 +1,5 @@
 {
-  "name": "Golem de madeira",
+  "name": "Golem de Madeira",
   "type": "monster",
   "_id": "QIHnmPBxxC7Z0Lkb",
   "img": "systems/olddragon2e/assets/monsters-concepts/constructo-pequeno.webp",
@@ -37,7 +37,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Golem de madeira",
+    "name": "Golem de Madeira",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,

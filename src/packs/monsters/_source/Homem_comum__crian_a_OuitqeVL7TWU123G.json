@@ -1,5 +1,5 @@
 {
-  "name": "Homem comum, criança",
+  "name": "Homem Comum, Criança",
   "type": "monster",
   "_id": "OuitqeVL7TWU123G",
   "img": "systems/olddragon2e/assets/monsters-concepts/humanoide-medio.webp",
@@ -37,7 +37,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Homem comum, criança",
+    "name": "Homem Comum, Criança",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,

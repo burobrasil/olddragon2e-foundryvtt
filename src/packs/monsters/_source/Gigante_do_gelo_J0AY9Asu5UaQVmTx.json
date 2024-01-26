@@ -1,5 +1,5 @@
 {
-  "name": "Gigante do gelo",
+  "name": "Gigante do Gelo",
   "type": "monster",
   "_id": "J0AY9Asu5UaQVmTx",
   "img": "systems/olddragon2e/assets/monsters-concepts/gigante-imenso.webp",
@@ -37,7 +37,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Gigante do gelo",
+    "name": "Gigante do Gelo",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,

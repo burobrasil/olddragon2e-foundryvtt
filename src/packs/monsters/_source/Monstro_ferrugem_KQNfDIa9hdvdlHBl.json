@@ -1,5 +1,5 @@
 {
-  "name": "Monstro ferrugem",
+  "name": "Monstro Ferrugem",
   "type": "monster",
   "_id": "KQNfDIa9hdvdlHBl",
   "img": "systems/olddragon2e/assets/monsters-concepts/besta-medio.webp",
@@ -37,7 +37,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Monstro ferrugem",
+    "name": "Monstro Ferrugem",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,

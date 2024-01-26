@@ -1,5 +1,5 @@
 {
-  "name": "Esporo de gás",
+  "name": "Esporo de Gás",
   "type": "monster",
   "_id": "hAl8bCB79KAGptrg",
   "img": "systems/olddragon2e/assets/monsters-concepts/planta-medio.webp",
@@ -37,7 +37,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Esporo de gás",
+    "name": "Esporo de Gás",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,

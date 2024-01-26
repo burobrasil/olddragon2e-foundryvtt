@@ -1,5 +1,5 @@
 {
-  "name": "Homem-javali",
+  "name": "Homem-Javali",
   "type": "monster",
   "_id": "GghNUZO7HZWBdwzp",
   "img": "systems/olddragon2e/assets/monsters-concepts/humanoide_monstruoso-medio.webp",
@@ -37,7 +37,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Homem-javali",
+    "name": "Homem-Javali",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,

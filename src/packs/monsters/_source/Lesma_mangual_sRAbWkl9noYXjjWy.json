@@ -1,5 +1,5 @@
 {
-  "name": "Lesma mangual",
+  "name": "Lesma Mangual",
   "type": "monster",
   "_id": "sRAbWkl9noYXjjWy",
   "img": "systems/olddragon2e/assets/monsters-concepts/besta-grande.webp",
@@ -37,7 +37,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Lesma mangual",
+    "name": "Lesma Mangual",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,

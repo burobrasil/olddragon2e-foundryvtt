@@ -1,5 +1,5 @@
 {
-  "name": "Fanático líder",
+  "name": "Fanático Líder",
   "type": "monster",
   "_id": "ANqgbBiFvbsCKdPe",
   "img": "systems/olddragon2e/assets/monsters-concepts/humanoide-medio.webp",
@@ -37,7 +37,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Fanático líder",
+    "name": "Fanático Líder",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,

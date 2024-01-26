@@ -1,5 +1,5 @@
 {
-  "name": "Cobra constritora",
+  "name": "Cobra Constritora",
   "type": "monster",
   "_id": "xl2ZNIorVsx9ikcy",
   "img": "systems/olddragon2e/assets/monsters-concepts/animal-pequeno.webp",
@@ -37,7 +37,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Cobra constritora",
+    "name": "Cobra Constritora",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,

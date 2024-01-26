@@ -1,13 +1,13 @@
 {
   "folder": null,
   "name": "Capítulo 4: Personagem",
-  "_id": "I4r8RyRcxgXxxUNm",
+  "_id": "dVwPXHDt7Y9zvZ7N",
   "pages": [
     {
       "sort": 0,
       "name": "Introdução",
       "type": "text",
-      "_id": "kIfdMxrH06mj9q4l",
+      "_id": "RZ2WqzGiZRE20y3N",
       "title": {
         "show": true,
         "level": 1
@@ -36,13 +36,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!I4r8RyRcxgXxxUNm.kIfdMxrH06mj9q4l"
+      "_key": "!journal.pages!dVwPXHDt7Y9zvZ7N.RZ2WqzGiZRE20y3N"
     },
     {
       "sort": 1,
       "name": "Pontos de Vida (PV)",
       "type": "text",
-      "_id": "smbofqurLfAwGgFo",
+      "_id": "Bb1HTBviuEVNFXU9",
       "title": {
         "show": true,
         "level": 1
@@ -50,7 +50,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<div class=\"odo-markdown\">\n<p>Os pontos de vida (<strong>PV</strong>) representam o quão saudável e longe da <a href=\"/livros/srd/capitulos/combate#morte\">morte</a> uma criatura está.</p>\n\n<p>Alguns personagens mais vigorosos suportam mais <a href=\"/livros/srd/capitulos/combate#danos-e-outros-perigos\">dano</a> aos seus pontos de vida enquanto personagens mais franzinos suportam menos.</p>\n\n<p>Isso é determinado também pelo modificador do atributo Constituição e pela classe escolhida, uma vez que diferentes classes determinam um dado de vida diferente a ser lançado a cada nível.</p>\n\n<p>No 1º nível, cada personagem recebe um valor <strong>fixo</strong> de pontos de vida de acordo com a sua classe e com o valor da Constituição.</p>\n\n<p>Ao subir para o 2º nível, o personagem não recebe um valor <strong>fixo</strong>, e sim um dado que deve ser lançado. O resultado desse dado, mais o modificado pela Constituição e a soma dos seus dados de vida anteriores, resultam nos seus dados de vida totais.</p>\n\n<blockquote class=\"highlighted\">\n  <p><strong>PV</strong> = <span class=\"blackbox\">1D</span> PELA <strong>CLASSE</strong> + MOD. <strong>CON</strong></p>\n</blockquote>\n\n<blockquote class=\"example\">\n  <p><strong>Exemplo:</strong> <em>um Mago de 1º nível e Constituição 14 (modificador 1) começa sua carreira com 5 pontos de vida porque recebe 4 pontos de vida no 1º nível da classe Mago e um ponto de vida adicional pelo modificador de Constituição +1 referente a uma Constituição 14.</em></p>\n\n  <p><em>Ao evoluir para o 2º nível, este mesmo Mago recebe 1d4 pontos de vida pela classe Mago e mais 1 ponto de vida adicional pelo modificador de Constituição +1.</em></p>\n\n  <p><em>O jogador lança o 1d4 resultando em um 2. O Mago possui agora 8 pontos de vida. Recebeu 5 no 1º nível e 3 no 2º nível, sendo 2 pelo lançamento do 1d4 e 1 adicional pelo modificador de Constituição.</em></p>\n</blockquote>\n\n<p><strong>Bônus de CON:</strong> o bônus de Constituição é somado ou subtraído (mínimo de 1 PV por nível) aos pontos de vida de um personagem até este atingir o 10º nível.</p>\n\n<p>Deste ponto em diante, cada classe receberá pontos de vida bônus e não mais os bônus por um valor alto de Constituição.</p>\n</div>"
+        "content": "<div class=\"odo-markdown\">\n<p>Os pontos de vida (<strong>PV</strong>) representam o quão saudável e longe da @UUID[Compendium.olddragon2e.srd.JournalEntry.FhzyOayNwbBoh28S.JournalEntryPage.JvS7f5uGXGtrOvaL]{morte} uma criatura está.</p>\n\n<p>Alguns personagens mais vigorosos suportam mais @UUID[Compendium.olddragon2e.srd.JournalEntry.FhzyOayNwbBoh28S.JournalEntryPage.CGew2ztQn9jDn7fU]{dano} aos seus pontos de vida enquanto personagens mais franzinos suportam menos.</p>\n\n<p>Isso é determinado também pelo modificador do atributo Constituição e pela classe escolhida, uma vez que diferentes classes determinam um dado de vida diferente a ser lançado a cada nível.</p>\n\n<p>No 1º nível, cada personagem recebe um valor <strong>fixo</strong> de pontos de vida de acordo com a sua classe e com o valor da Constituição.</p>\n\n<p>Ao subir para o 2º nível, o personagem não recebe um valor <strong>fixo</strong>, e sim um dado que deve ser lançado. O resultado desse dado, mais o modificado pela Constituição e a soma dos seus dados de vida anteriores, resultam nos seus dados de vida totais.</p>\n\n<blockquote class=\"highlighted\">\n  <p><strong>PV</strong> = <span class=\"blackbox\">1D</span> PELA <strong>CLASSE</strong> + MOD. <strong>CON</strong></p>\n</blockquote>\n\n<blockquote class=\"example\">\n  <p><strong>Exemplo:</strong> <em>um Mago de 1º nível e Constituição 14 (modificador 1) começa sua carreira com 5 pontos de vida porque recebe 4 pontos de vida no 1º nível da classe Mago e um ponto de vida adicional pelo modificador de Constituição +1 referente a uma Constituição 14.</em></p>\n\n  <p><em>Ao evoluir para o 2º nível, este mesmo Mago recebe 1d4 pontos de vida pela classe Mago e mais 1 ponto de vida adicional pelo modificador de Constituição +1.</em></p>\n\n  <p><em>O jogador lança o 1d4 resultando em um 2. O Mago possui agora 8 pontos de vida. Recebeu 5 no 1º nível e 3 no 2º nível, sendo 2 pelo lançamento do 1d4 e 1 adicional pelo modificador de Constituição.</em></p>\n</blockquote>\n\n<p><strong>Bônus de CON:</strong> o bônus de Constituição é somado ou subtraído (mínimo de 1 PV por nível) aos pontos de vida de um personagem até este atingir o 10º nível.</p>\n\n<p>Deste ponto em diante, cada classe receberá pontos de vida bônus e não mais os bônus por um valor alto de Constituição.</p>\n</div>"
       },
       "video": {
         "controls": true,
@@ -71,13 +71,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!I4r8RyRcxgXxxUNm.smbofqurLfAwGgFo"
+      "_key": "!journal.pages!dVwPXHDt7Y9zvZ7N.Bb1HTBviuEVNFXU9"
     },
     {
       "sort": 2,
       "name": "Classe de Armadura (CA)",
       "type": "text",
-      "_id": "cDHSpwCxPzlZtvDP",
+      "_id": "zQJNB22Pd5cQAvUw",
       "title": {
         "show": true,
         "level": 1
@@ -106,13 +106,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!I4r8RyRcxgXxxUNm.cDHSpwCxPzlZtvDP"
+      "_key": "!journal.pages!dVwPXHDt7Y9zvZ7N.zQJNB22Pd5cQAvUw"
     },
     {
       "sort": 3,
       "name": "Base de Ataque (BA)",
       "type": "text",
-      "_id": "Gb4OvejacRxzHn1q",
+      "_id": "Rblu1GBlws953cX7",
       "title": {
         "show": true,
         "level": 1
@@ -120,7 +120,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<div class=\"odo-markdown\">\n<p>A base de ataque (<strong>BA</strong>) é o valor numérico o qual representa a capacidade de um personagem de realizar um ataque corpo a corpo ou um ataque à distância bem-sucedido. É determinada pelo atributo relevante para o teste, o nível, a classe e outros modificadores.</p>\n\n<p>Tem um desdobramento pois pode ser usada para realizar um ataque corpo a corpo (<strong>BAC</strong>) com espadas ou machados; ou ainda para realizar um ataque à distância (<strong>BAD</strong>) com o uso de armas de projétil, como um arco, ou armas arremessadas como uma adaga ou um dardo, ou até mesmo um frasco de ácido.</p>\n\n<blockquote class=\"highlighted\">\n  <p><strong>BAC</strong> = BASE DE ATAQUE + MOD. <strong>FOR</strong> + OUTROS</p>\n\n  <p><strong>BAD</strong> = BASE DE ATAQUE + MOD. <strong>DES</strong> + OUTROS</p>\n</blockquote>\n\n<blockquote class=\"example\">\n  <p><strong>Exemplo:</strong> <em>um humano Ladrão de 3º nível, com Força 13 e Destreza 16, teria:</em></p>\n\n  <p><em><strong>BAC</strong> 3, sendo 2 pelo 3º nível de Ladrão e +1 pelo modificador de FOR.</em></p>\n\n  <p><em><strong>BAD</strong> 4, sendo 2 pelo 3º nível de Ladrão, +2 pelo modificador de DES.</em></p>\n</blockquote>\n\n<p>O <a href=\"/livros/srd/capitulos/combate\">Capítulo 7: Combate</a> trará todas as informações necessárias para entender sobre como realizar ataques e conduzir combates.</p>\n</div>"
+        "content": "<div class=\"odo-markdown\">\n<p>A base de ataque (<strong>BA</strong>) é o valor numérico o qual representa a capacidade de um personagem de realizar um ataque corpo a corpo ou um ataque à distância bem-sucedido. É determinada pelo atributo relevante para o teste, o nível, a classe e outros modificadores.</p>\n\n<p>Tem um desdobramento pois pode ser usada para realizar um ataque corpo a corpo (<strong>BAC</strong>) com espadas ou machados; ou ainda para realizar um ataque à distância (<strong>BAD</strong>) com o uso de armas de projétil, como um arco, ou armas arremessadas como uma adaga ou um dardo, ou até mesmo um frasco de ácido.</p>\n\n<blockquote class=\"highlighted\">\n  <p><strong>BAC</strong> = BASE DE ATAQUE + MOD. <strong>FOR</strong> + OUTROS</p>\n\n  <p><strong>BAD</strong> = BASE DE ATAQUE + MOD. <strong>DES</strong> + OUTROS</p>\n</blockquote>\n\n<blockquote class=\"example\">\n  <p><strong>Exemplo:</strong> <em>um humano Ladrão de 3º nível, com Força 13 e Destreza 16, teria:</em></p>\n\n  <p><em><strong>BAC</strong> 3, sendo 2 pelo 3º nível de Ladrão e +1 pelo modificador de FOR.</em></p>\n\n  <p><em><strong>BAD</strong> 4, sendo 2 pelo 3º nível de Ladrão, +2 pelo modificador de DES.</em></p>\n</blockquote>\n\n<p>O @UUID[Compendium.olddragon2e.srd.JournalEntry.FhzyOayNwbBoh28S]{Capítulo 7: Combate} trará todas as informações necessárias para entender sobre como realizar ataques e conduzir combates.</p>\n</div>"
       },
       "video": {
         "controls": true,
@@ -141,13 +141,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!I4r8RyRcxgXxxUNm.Gb4OvejacRxzHn1q"
+      "_key": "!journal.pages!dVwPXHDt7Y9zvZ7N.Rblu1GBlws953cX7"
     },
     {
       "sort": 4,
       "name": "Jogada de Proteção (JP)",
       "type": "text",
-      "_id": "HaJFN9ES1Pn5J8qT",
+      "_id": "6JA8QzMN5kRf9AzA",
       "title": {
         "show": true,
         "level": 1
@@ -176,13 +176,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!I4r8RyRcxgXxxUNm.HaJFN9ES1Pn5J8qT"
+      "_key": "!journal.pages!dVwPXHDt7Y9zvZ7N.6JA8QzMN5kRf9AzA"
     },
     {
       "sort": 5,
       "name": "Movimento (MV)",
       "type": "text",
-      "_id": "7AR7EP9amT2VNO1l",
+      "_id": "RKKCGHU7owI8kXq7",
       "title": {
         "show": true,
         "level": 1
@@ -190,7 +190,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<div class=\"odo-markdown\">\n<p>O Movimento representa a taxa de deslocamento de um personagem em metros. É determinado pelo valor base dado pela sua raça (humanos e elfos 9, anões e halflings 6), mas pode sofrer alteração por outros fatores, como a quantidade de peso carregada ou o efeito de magias.</p>\n\n<blockquote class=\"highlighted\">\n  <p><strong>MV</strong> = VALOR BASE (<strong>RAÇA</strong>) - <strong>CARGA</strong> - OUTROS</p>\n</blockquote>\n\n<p>Outras formas de deslocamento serão descritas no <a href=\"/livros/srd/capitulos/campanha\">Capítulo 6: Campanha</a>.</p>\n</div>"
+        "content": "<div class=\"odo-markdown\">\n<p>O Movimento representa a taxa de deslocamento de um personagem em metros. É determinado pelo valor base dado pela sua raça (humanos e elfos 9, anões e halflings 6), mas pode sofrer alteração por outros fatores, como a quantidade de peso carregada ou o efeito de magias.</p>\n\n<blockquote class=\"highlighted\">\n  <p><strong>MV</strong> = VALOR BASE (<strong>RAÇA</strong>) - <strong>CARGA</strong> - OUTROS</p>\n</blockquote>\n\n<p>Outras formas de deslocamento serão descritas no @UUID[Compendium.olddragon2e.srd.JournalEntry.IjUjkGQjFi4Hrfiy]{Capítulo 6: Campanha}.</p>\n</div>"
       },
       "video": {
         "controls": true,
@@ -211,13 +211,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!I4r8RyRcxgXxxUNm.7AR7EP9amT2VNO1l"
+      "_key": "!journal.pages!dVwPXHDt7Y9zvZ7N.RKKCGHU7owI8kXq7"
     },
     {
       "sort": 6,
       "name": "Idiomas",
       "type": "text",
-      "_id": "LxAdebMoiPInxWJo",
+      "_id": "IagK1ohXs3oRNp20",
       "title": {
         "show": true,
         "level": 1
@@ -246,13 +246,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!I4r8RyRcxgXxxUNm.LxAdebMoiPInxWJo"
+      "_key": "!journal.pages!dVwPXHDt7Y9zvZ7N.IagK1ohXs3oRNp20"
     },
     {
       "sort": 7,
       "name": "Alinhamento",
       "type": "text",
-      "_id": "GEMNeQ97fddRnQBM",
+      "_id": "sDoVmnvlYqRKqXBs",
       "title": {
         "show": true,
         "level": 1
@@ -281,13 +281,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!I4r8RyRcxgXxxUNm.GEMNeQ97fddRnQBM"
+      "_key": "!journal.pages!dVwPXHDt7Y9zvZ7N.sDoVmnvlYqRKqXBs"
     },
     {
       "sort": 8,
       "name": "Detalhes Finais (Opcional)",
       "type": "text",
-      "_id": "iNklG5ggpXw033Uy",
+      "_id": "tjtNU2cgSzh9mC5M",
       "title": {
         "show": true,
         "level": 1
@@ -295,7 +295,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<div class=\"odo-markdown\">\n<p>Esta parte do capítulo é inteiramente opcional. Você pode usar as informações daqui exatamente como as apresentamos, pode adaptá-las ou usá-las como um guia, ou ainda ignorá-las totalmente, se não se importar.</p>\n\n<p>Nos detalhes finais, você dá os últimos retoques na criação do seu personagem.</p>\n\n<p>Falaremos sobre aparência, personalidade e históricos, que são breves linhas do ocorrido com você antes de se tornar um aventureiro, ajudando você e a todos na sua mesa a entenderem seu personagem com mais profundidade.</p>\n\n<h3 id=\"aparencia\">Aparência</h3>\n\n<p>Descrever seu personagem com alguns adjetivos pode ajudar bastante na hora de imprimir certa realidade aos seus personagens. Listaremos aqui alguns adjetivos para serem escolhidos ou sorteados por você, três deles.</p>\n\n<p>Isso por si só é mais do que o suficiente para uma descrição rápida, divertida e totalmente funcional, e sem os detalhes chatos e enfadonhos.</p>\n\n<p>Você deve ter percebido que não há no <a href=\"/livros/srd/capitulos/raca\">Capítulo 2: Raça</a> informações sobre altura e peso dos personagens. Isso ocorre porque esses detalhes não são mecanicamente relevantes para as regras.</p>\n\n<p>Contar centímetros é chato, desnecessário e nada acrescenta ao jogo. Melhor é focar em características que fazem o mesmo trabalho de forma mais fluida.</p>\n\n<p>Seu personagem é alto ou baixo para sua raça? Está um pouco acima do peso? Seu corpo é franzino ou musculoso? Esse tipo de informação ajuda muito mais do que saber que Bongo, o Halfling, tem 84cm de altura e pesa por volta dos 92kg.</p>\n\n<p>Jogue o 1d6 nas três primeiras colunas para obter três características físicas ou as escolha livremente da tabela 4.1.</p>\n\n<div class=\"overflow-x-auto\">\n  <table>\n    <caption>Atributos <span>tabela 4.1</span></caption>\n    <thead>\n      <tr>\n        <th>d6</th>\n        <th>Corpo</th>\n        <th>Cabelos</th>\n        <th>Geral</th>\n        <th>Especial</th>\n      </tr>\n    </thead>\n    <tbody>\n      <tr class=\"text-center\">\n        <td class=\"font-bold\">1</td>\n        <td>Alto</td>\n        <td>Careca</td>\n        <td>Barba ou Bigode</td>\n        <td>Horrível</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"font-bold\">2</td>\n        <td>Baixo</td>\n        <td>Calvo</td>\n        <td>Moreno</td>\n        <td>Feio</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"font-bold\">3</td>\n        <td>Musculoso</td>\n        <td>Cabelos Raspados</td>\n        <td>Pálido</td>\n        <td>Mais um na multidão</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"font-bold\">4</td>\n        <td>Franzino</td>\n        <td>Cabelos Curtos</td>\n        <td>Jovem</td>\n        <td>Bem Afeiçoado</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"font-bold\">5</td>\n        <td>Gordo</td>\n        <td>Cabelos Longos</td>\n        <td>Velho</td>\n        <td>Bonito</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"font-bold\">6</td>\n        <td>Jogue na Coluna Especial</td>\n        <td>Jogue na Coluna Especial</td>\n        <td>Jogue na Coluna Especial</td>\n        <td>Lindo</td>\n      </tr>\n    </tbody>\n  </table>\n</div>\n\n<blockquote class=\"example\">\n  <p><strong>Exemplo:</strong> <em>jogando 1d6 para cada coluna, sorteamos que Bongo, o Halfling, é: (2) Baixo, (2) Calvo e (6) Jogue na coluna especial. Ao jogarmos na  4ª coluna sorteamos (2) Feio, nos dando:</em></p>\n\n  <p><em>- Bongo, o Halfling, é baixo até para um Halfling,  mesmo sendo jovem já apresenta sinais de calvície  e jamais ganharia um concurso de beleza.</em></p>\n</blockquote>\n\n<h3 id=\"personalidade\">Personalidade</h3>\n\n<p>Assim como a aparência, a personalidade ajuda bastante a tornar seu personagem memorável.</p>\n\n<p>Criamos uma pequena tabela com diferentes traços de personalidades para você escolher ou sortear nas colunas abaixo, exatamente da mesma forma feita com a aparência dele.</p>\n\n<div class=\"overflow-x-auto\">\n  <table>\n    <caption>Personalidade <span>tabela 4.2</span></caption>\n    <thead>\n      <tr>\n        <th>d6</th>\n        <th>Sobre Si Mesmo</th>\n        <th>Sobre Outras Pessoas</th>\n        <th>Sobre Todo o Resto</th>\n        <th>Especial</th>\n      </tr>\n    </thead>\n    <tbody>\n      <tr class=\"text-center\">\n        <td class=\"font-bold\">1</td>\n        <td>Alerta</td>\n        <td>Gentil</td>\n        <td>Otimista</td>\n        <td>Modesto</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"font-bold\">2</td>\n        <td>Distraído</td>\n        <td>Grosso</td>\n        <td>Pessimista</td>\n        <td>Egoísta</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"font-bold\">3</td>\n        <td>Calmo</td>\n        <td>Desconfiado</td>\n        <td>Perfeccionista</td>\n        <td>Humilde</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"font-bold\">4</td>\n        <td>Agitado</td>\n        <td>Tímido</td>\n        <td>Teimoso</td>\n        <td>Galanteador</td>\n      </tr>\n    </tbody>\n  </table>\n</div>\n\n<blockquote class=\"example\">\n  <p><strong>Exemplo:</strong> <em>jogando 1d6 para cada coluna, sorteamos que Bongo, o Halfling, é: (2) Baixo, (2) Calvo e (6) Jogue na coluna especial. Ao jogarmos na 4ª coluna sorteamos (2) Feio, nos dando:</em></p>\n\n  <p><em>- Bongo, o Halfling, é baixo até para um Halfling,  mesmo sendo jovem já apresenta sinais de calvície  e jamais ganharia um concurso de beleza.</em></p>\n</blockquote>\n\n<h3 id=\"historico\">Histórico</h3>\n\n<p>Por fim, concluímos os últimos detalhes do personagem, criando para ele um pequeno e resumidíssimo histórico. Algo que nos diga, com poucas palavras, de onde ele veio, como era sua vida antes de se tornar um aventureiro e quais os principais acontecimentos de sua história.</p>\n\n<p>É aqui no histórico que você usa todas as informações do seu personagem (Atributos, Raça, Classe etc.) para falar sobre o seu passado, deixando ao Mestre brechas e pontas soltas as quais ele pode usar para ligar você ao mundo de jogo, onde as aventuras se desenvolverão.</p>\n\n<p>Aqui nós propomos que o histórico seja curto. Apenas 2 breves linhas são necessárias. Vamos dispor aqui de 6 estruturas e, de acordo com as lacunas dessas estruturas, você jogará nas colunas das listas abaixo para preenchê-las.</p>\n\n<p>Um resultado <strong>[MISTÉRIO]</strong> deve deixar vago para o Mestre usar as aventuras futuras para revelar essas passagens das vidas dos personagens.</p>\n\n<p>Uma lacuna <strong>[CLASSE]</strong> ou <strong>[RAÇA]</strong> devem ser preenchidas pela classe ou raça do próprio personagem.</p>\n\n<ol>\n  <li>\n    <p>Ainda criança, foi abandonado <strong>[LUGAR]</strong>. Cresceu sob os cuidados de um <strong>[CLASSE]</strong> o qual lhe ensinou tudo o que ele sabe. Tornou-se aventureiro para <strong>[MOTIVO]</strong>.</p>\n  </li>\n  <li>\n    <p>Nascido <strong>[LUGAR]</strong> em uma <strong>[FAMÍLIA]</strong>, ficou órfão após <strong>[TRAGÉDIA]</strong>. Tornou-se aventureiro para <strong>[MOTIVO]</strong>.</p>\n  </li>\n  <li>\n    <p>Vítima de uma <strong>[TRAGÉDIA]</strong>, acabou crescendo desamparado <strong>[LUGAR]</strong>. Foi empurrado para uma vida de aventuras <strong>[MOTIVO]</strong>.</p>\n  </li>\n  <li>\n    <p>Sua vida era tranquila e pacífica junto da sua <strong>[FAMÍLIA]</strong>, até que, há alguns anos, você foi vítima <strong>[TRAGÉDIA]</strong> e foi forçado a aprender sozinho as técnicas de <strong>[CLASSE]</strong>. Hoje, se aventura para <strong>[MOTIVO]</strong>.</p>\n  </li>\n  <li>\n    <p>Você é um <strong>[SUA RAÇA]</strong> que cresceu numa família de <strong>[OUTRA RAÇA]</strong> depois <strong>[TRAGÉDIA]</strong>. Isso o fez se sentir pouco acolhido e então resolveu se tornar um aventureiro para <strong>[MOTIVO]</strong>.</p>\n  </li>\n  <li>\n    <p>Você era um jovem que cresceu <strong>[LUGAR]</strong>. Acabou virando aventureiro após um <strong>[TRAGÉDIA]</strong> que matou todos os seus parentes. Seu sonho é acabar sua vida aposentado <strong>[LUGAR]</strong>.</p>\n  </li>\n</ol>\n\n<div class=\"overflow-x-auto\">\n  <table>\n    <caption>Histórico <span>tabela 4.3</span></caption>\n    <thead>\n      <tr>\n        <th>d6</th>\n        <th>Lugar</th>\n        <th>Motivo</th>\n        <th>Família</th>\n        <th>Tragédia</th>\n      </tr>\n    </thead>\n    <tbody>\n      <tr class=\"text-center\">\n        <td class=\"font-bold\">1</td>\n        <td>numa fazenda nos campos</td>\n        <td>ficar rico e poderoso</td>\n        <td>família muito pobre de camponeses</td>\n        <td>de um ataque de orcs e goblins</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"font-bold\">2</td>\n        <td>numa pequena e distante vila</td>\n        <td>vingar seu passado</td>\n        <td>família de comerciantes</td>\n        <td>de uma guerra sanguinária</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"font-bold\">3</td>\n        <td>numa grande e importante cidade</td>\n        <td>trazer glória e fama para você</td>\n        <td>família de fazendeiros</td>\n        <td>de um erro judiciário</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"font-bold\">4</td>\n        <td>numa vila à beira do mar</td>\n        <td>matar a curiosidade sobre o mundo</td>\n        <td>família disfuncional</td>\n        <td>de um terremoto misterioso</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"font-bold\">5</td>\n        <td>numa aldeia nas montanhas</td>\n        <td>tentar dar uma vida melhor aos seus descendentes</td>\n        <td>família adotiva</td>\n        <td>de uma experiência mágica</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"font-bold\">6</td>\n        <td>numa pequena cidade no meio da floresta</td>\n        <td>realizar seu sonho de ser um herói</td>\n        <td>família de nobres falidos</td>\n        <td>de uma epidemia de peste</td>\n      </tr>\n    </tbody>\n  </table>\n</div>\n\n<blockquote class=\"example\">\n  <p><strong>Exemplo:</strong> <em>lendo as opções de históricos, escolhemos o <strong>modelo 5</strong> para ele. Jogando 1d6 para tragédia obtemos um resultado (6) de uma epidemia  de peste e para motivo (4) matar a curiosidade sobre o mundo. Assim, o breve histórico de Bongo é:</em></p>\n\n  <p><em>Um  <strong>halfling</strong>  que  cresceu  numa  família  de  <strong>humanos</strong> depois <strong>de uma epidemia de peste</strong>. Isso o fez se sentir pouco acolhido e então resolveu se tornar um aventureiro para <strong>matar a curiosidade sobre o mundo</strong>.</em></p>\n</blockquote>\n\n<p><a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.pt_BR\" class=\"cc-by\" target=\"_blank\" rel=\"external\"><img src=\"https://static.olddragon.com.br/digital_items_srd/CC_BY-SA_icon.png\" alt=\"CC-BY\" /></a></p>\n</div>"
+        "content": "<div class=\"odo-markdown\">\n<p>Esta parte do capítulo é inteiramente opcional. Você pode usar as informações daqui exatamente como as apresentamos, pode adaptá-las ou usá-las como um guia, ou ainda ignorá-las totalmente, se não se importar.</p>\n\n<p>Nos detalhes finais, você dá os últimos retoques na criação do seu personagem.</p>\n\n<p>Falaremos sobre aparência, personalidade e históricos, que são breves linhas do ocorrido com você antes de se tornar um aventureiro, ajudando você e a todos na sua mesa a entenderem seu personagem com mais profundidade.</p>\n\n<h3 id=\"aparencia\">Aparência</h3>\n\n<p>Descrever seu personagem com alguns adjetivos pode ajudar bastante na hora de imprimir certa realidade aos seus personagens. Listaremos aqui alguns adjetivos para serem escolhidos ou sorteados por você, três deles.</p>\n\n<p>Isso por si só é mais do que o suficiente para uma descrição rápida, divertida e totalmente funcional, e sem os detalhes chatos e enfadonhos.</p>\n\n<p>Você deve ter percebido que não há no @UUID[Compendium.olddragon2e.srd.JournalEntry.KmvOj1D3EIGnCxXw]{Capítulo 2: Raça} informações sobre altura e peso dos personagens. Isso ocorre porque esses detalhes não são mecanicamente relevantes para as regras.</p>\n\n<p>Contar centímetros é chato, desnecessário e nada acrescenta ao jogo. Melhor é focar em características que fazem o mesmo trabalho de forma mais fluida.</p>\n\n<p>Seu personagem é alto ou baixo para sua raça? Está um pouco acima do peso? Seu corpo é franzino ou musculoso? Esse tipo de informação ajuda muito mais do que saber que Bongo, o Halfling, tem 84cm de altura e pesa por volta dos 92kg.</p>\n\n<p>Jogue o 1d6 nas três primeiras colunas para obter três características físicas ou as escolha livremente da tabela 4.1.</p>\n\n<div class=\"overflow-x-auto\">\n  <table>\n    <caption>Atributos <span>tabela 4.1</span></caption>\n    <thead>\n      <tr>\n        <th>d6</th>\n        <th>Corpo</th>\n        <th>Cabelos</th>\n        <th>Geral</th>\n        <th>Especial</th>\n      </tr>\n    </thead>\n    <tbody>\n      <tr class=\"text-center\">\n        <td class=\"font-bold\">1</td>\n        <td>Alto</td>\n        <td>Careca</td>\n        <td>Barba ou Bigode</td>\n        <td>Horrível</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"font-bold\">2</td>\n        <td>Baixo</td>\n        <td>Calvo</td>\n        <td>Moreno</td>\n        <td>Feio</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"font-bold\">3</td>\n        <td>Musculoso</td>\n        <td>Cabelos Raspados</td>\n        <td>Pálido</td>\n        <td>Mais um na multidão</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"font-bold\">4</td>\n        <td>Franzino</td>\n        <td>Cabelos Curtos</td>\n        <td>Jovem</td>\n        <td>Bem Afeiçoado</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"font-bold\">5</td>\n        <td>Gordo</td>\n        <td>Cabelos Longos</td>\n        <td>Velho</td>\n        <td>Bonito</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"font-bold\">6</td>\n        <td>Jogue na Coluna Especial</td>\n        <td>Jogue na Coluna Especial</td>\n        <td>Jogue na Coluna Especial</td>\n        <td>Lindo</td>\n      </tr>\n    </tbody>\n  </table>\n</div>\n\n<blockquote class=\"example\">\n  <p><strong>Exemplo:</strong> <em>jogando 1d6 para cada coluna, sorteamos que Bongo, o Halfling, é: (2) Baixo, (2) Calvo e (6) Jogue na coluna especial. Ao jogarmos na  4ª coluna sorteamos (2) Feio, nos dando:</em></p>\n\n  <p><em>- Bongo, o Halfling, é baixo até para um Halfling,  mesmo sendo jovem já apresenta sinais de calvície  e jamais ganharia um concurso de beleza.</em></p>\n</blockquote>\n\n<h3 id=\"personalidade\">Personalidade</h3>\n\n<p>Assim como a aparência, a personalidade ajuda bastante a tornar seu personagem memorável.</p>\n\n<p>Criamos uma pequena tabela com diferentes traços de personalidades para você escolher ou sortear nas colunas abaixo, exatamente da mesma forma feita com a aparência dele.</p>\n\n<div class=\"overflow-x-auto\">\n  <table>\n    <caption>Personalidade <span>tabela 4.2</span></caption>\n    <thead>\n      <tr>\n        <th>d6</th>\n        <th>Sobre Si Mesmo</th>\n        <th>Sobre Outras Pessoas</th>\n        <th>Sobre Todo o Resto</th>\n        <th>Especial</th>\n      </tr>\n    </thead>\n    <tbody>\n      <tr class=\"text-center\">\n        <td class=\"font-bold\">1</td>\n        <td>Alerta</td>\n        <td>Gentil</td>\n        <td>Otimista</td>\n        <td>Modesto</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"font-bold\">2</td>\n        <td>Distraído</td>\n        <td>Grosso</td>\n        <td>Pessimista</td>\n        <td>Egoísta</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"font-bold\">3</td>\n        <td>Calmo</td>\n        <td>Desconfiado</td>\n        <td>Perfeccionista</td>\n        <td>Humilde</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"font-bold\">4</td>\n        <td>Agitado</td>\n        <td>Tímido</td>\n        <td>Teimoso</td>\n        <td>Galanteador</td>\n      </tr>\n    </tbody>\n  </table>\n</div>\n\n<blockquote class=\"example\">\n  <p><strong>Exemplo:</strong> <em>jogando 1d6 para cada coluna, sorteamos que Bongo, o Halfling, é: (2) Baixo, (2) Calvo e (6) Jogue na coluna especial. Ao jogarmos na 4ª coluna sorteamos (2) Feio, nos dando:</em></p>\n\n  <p><em>- Bongo, o Halfling, é baixo até para um Halfling,  mesmo sendo jovem já apresenta sinais de calvície  e jamais ganharia um concurso de beleza.</em></p>\n</blockquote>\n\n<h3 id=\"historico\">Histórico</h3>\n\n<p>Por fim, concluímos os últimos detalhes do personagem, criando para ele um pequeno e resumidíssimo histórico. Algo que nos diga, com poucas palavras, de onde ele veio, como era sua vida antes de se tornar um aventureiro e quais os principais acontecimentos de sua história.</p>\n\n<p>É aqui no histórico que você usa todas as informações do seu personagem (Atributos, Raça, Classe etc.) para falar sobre o seu passado, deixando ao Mestre brechas e pontas soltas as quais ele pode usar para ligar você ao mundo de jogo, onde as aventuras se desenvolverão.</p>\n\n<p>Aqui nós propomos que o histórico seja curto. Apenas 2 breves linhas são necessárias. Vamos dispor aqui de 6 estruturas e, de acordo com as lacunas dessas estruturas, você jogará nas colunas das listas abaixo para preenchê-las.</p>\n\n<p>Um resultado <strong>[MISTÉRIO]</strong> deve deixar vago para o Mestre usar as aventuras futuras para revelar essas passagens das vidas dos personagens.</p>\n\n<p>Uma lacuna <strong>[CLASSE]</strong> ou <strong>[RAÇA]</strong> devem ser preenchidas pela classe ou raça do próprio personagem.</p>\n\n<ol>\n  <li>\n    <p>Ainda criança, foi abandonado <strong>[LUGAR]</strong>. Cresceu sob os cuidados de um <strong>[CLASSE]</strong> o qual lhe ensinou tudo o que ele sabe. Tornou-se aventureiro para <strong>[MOTIVO]</strong>.</p>\n  </li>\n  <li>\n    <p>Nascido <strong>[LUGAR]</strong> em uma <strong>[FAMÍLIA]</strong>, ficou órfão após <strong>[TRAGÉDIA]</strong>. Tornou-se aventureiro para <strong>[MOTIVO]</strong>.</p>\n  </li>\n  <li>\n    <p>Vítima de uma <strong>[TRAGÉDIA]</strong>, acabou crescendo desamparado <strong>[LUGAR]</strong>. Foi empurrado para uma vida de aventuras <strong>[MOTIVO]</strong>.</p>\n  </li>\n  <li>\n    <p>Sua vida era tranquila e pacífica junto da sua <strong>[FAMÍLIA]</strong>, até que, há alguns anos, você foi vítima <strong>[TRAGÉDIA]</strong> e foi forçado a aprender sozinho as técnicas de <strong>[CLASSE]</strong>. Hoje, se aventura para <strong>[MOTIVO]</strong>.</p>\n  </li>\n  <li>\n    <p>Você é um <strong>[SUA RAÇA]</strong> que cresceu numa família de <strong>[OUTRA RAÇA]</strong> depois <strong>[TRAGÉDIA]</strong>. Isso o fez se sentir pouco acolhido e então resolveu se tornar um aventureiro para <strong>[MOTIVO]</strong>.</p>\n  </li>\n  <li>\n    <p>Você era um jovem que cresceu <strong>[LUGAR]</strong>. Acabou virando aventureiro após um <strong>[TRAGÉDIA]</strong> que matou todos os seus parentes. Seu sonho é acabar sua vida aposentado <strong>[LUGAR]</strong>.</p>\n  </li>\n</ol>\n\n<div class=\"overflow-x-auto\">\n  <table>\n    <caption>Histórico <span>tabela 4.3</span></caption>\n    <thead>\n      <tr>\n        <th>d6</th>\n        <th>Lugar</th>\n        <th>Motivo</th>\n        <th>Família</th>\n        <th>Tragédia</th>\n      </tr>\n    </thead>\n    <tbody>\n      <tr class=\"text-center\">\n        <td class=\"font-bold\">1</td>\n        <td>numa fazenda nos campos</td>\n        <td>ficar rico e poderoso</td>\n        <td>família muito pobre de camponeses</td>\n        <td>de um ataque de orcs e goblins</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"font-bold\">2</td>\n        <td>numa pequena e distante vila</td>\n        <td>vingar seu passado</td>\n        <td>família de comerciantes</td>\n        <td>de uma guerra sanguinária</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"font-bold\">3</td>\n        <td>numa grande e importante cidade</td>\n        <td>trazer glória e fama para você</td>\n        <td>família de fazendeiros</td>\n        <td>de um erro judiciário</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"font-bold\">4</td>\n        <td>numa vila à beira do mar</td>\n        <td>matar a curiosidade sobre o mundo</td>\n        <td>família disfuncional</td>\n        <td>de um terremoto misterioso</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"font-bold\">5</td>\n        <td>numa aldeia nas montanhas</td>\n        <td>tentar dar uma vida melhor aos seus descendentes</td>\n        <td>família adotiva</td>\n        <td>de uma experiência mágica</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"font-bold\">6</td>\n        <td>numa pequena cidade no meio da floresta</td>\n        <td>realizar seu sonho de ser um herói</td>\n        <td>família de nobres falidos</td>\n        <td>de uma epidemia de peste</td>\n      </tr>\n    </tbody>\n  </table>\n</div>\n\n<blockquote class=\"example\">\n  <p><strong>Exemplo:</strong> <em>lendo as opções de históricos, escolhemos o <strong>modelo 5</strong> para ele. Jogando 1d6 para tragédia obtemos um resultado (6) de uma epidemia  de peste e para motivo (4) matar a curiosidade sobre o mundo. Assim, o breve histórico de Bongo é:</em></p>\n\n  <p><em>Um  <strong>halfling</strong>  que  cresceu  numa  família  de  <strong>humanos</strong> depois <strong>de uma epidemia de peste</strong>. Isso o fez se sentir pouco acolhido e então resolveu se tornar um aventureiro para <strong>matar a curiosidade sobre o mundo</strong>.</em></p>\n</blockquote>\n\n<p><a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.pt_BR\" class=\"cc-by\" target=\"_blank\" rel=\"external\"><img src=\"https://static.olddragon.com.br/digital_items_srd/CC_BY-SA_icon.png\" alt=\"CC-BY\" /></a></p>\n</div>"
       },
       "video": {
         "controls": true,
@@ -316,7 +316,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!I4r8RyRcxgXxxUNm.iNklG5ggpXw033Uy"
+      "_key": "!journal.pages!dVwPXHDt7Y9zvZ7N.tjtNU2cgSzh9mC5M"
     }
   ],
   "flags": {},
@@ -333,5 +333,5 @@
     "default": 0,
     "enzpVKIAX52oTyPe": 3
   },
-  "_key": "!journal!I4r8RyRcxgXxxUNm"
+  "_key": "!journal!dVwPXHDt7Y9zvZ7N"
 }

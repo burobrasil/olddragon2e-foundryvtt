@@ -1,13 +1,13 @@
 {
   "folder": null,
   "name": "Capítulo 5: Equipamento",
-  "_id": "gbzRj7cVUO86ZU0Y",
+  "_id": "d3ZD8zqtCTFI3yxi",
   "pages": [
     {
       "sort": 0,
       "name": "Introdução",
       "type": "text",
-      "_id": "QUPGFhr9UifDyUyi",
+      "_id": "A0P2BYnWfnWPWgK4",
       "title": {
         "show": true,
         "level": 1
@@ -36,13 +36,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!gbzRj7cVUO86ZU0Y.QUPGFhr9UifDyUyi"
+      "_key": "!journal.pages!d3ZD8zqtCTFI3yxi.A0P2BYnWfnWPWgK4"
     },
     {
       "sort": 1,
       "name": "Sistema Monetário",
       "type": "text",
-      "_id": "BiChmHswABLOd43o",
+      "_id": "3oGtl8mqjXB9OhIu",
       "title": {
         "show": true,
         "level": 1
@@ -71,13 +71,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!gbzRj7cVUO86ZU0Y.BiChmHswABLOd43o"
+      "_key": "!journal.pages!d3ZD8zqtCTFI3yxi.3oGtl8mqjXB9OhIu"
     },
     {
       "sort": 2,
       "name": "Listas de Equipamentos",
       "type": "text",
-      "_id": "OwITlEEELs1P5dFM",
+      "_id": "xUVkSg6qdSjGTe86",
       "title": {
         "show": true,
         "level": 1
@@ -85,7 +85,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<div class=\"odo-markdown\">\n<p>Este capítulo apresenta uma lista de equipamentos contendo armas, armaduras e itens gerais comuns a aventureiros e seus preços médios.</p>\n\n<p>Os preços e a disponibilidade podem variar de cidade para cidade, estando mais caros em cidades menores, ou em condições de escassez durante uma epidemia ou em tempos de guerra, por exemplo.</p>\n\n<ul>\n  <li>\n    <p><strong>Escassez:</strong> uma variação de 25% a mais nos preços durante um período de escassez ou em regiões remotas pode ser aplicada pelo Mestre.</p>\n  </li>\n  <li>\n    <p><strong>Pesos:</strong> todos os pesos são apresentados em quilos (Kg). Os itens marcados com * são leves, vinte deles somam 1 kg. Os itens identificados com ** têm peso irrelevante e devem ser ignorados, a não ser quando estiverem às centenas.</p>\n  </li>\n  <li>\n    <p><strong>Carga:</strong> armas e armaduras não apresentam os pesos dos itens, e sim os valores de <a href=\"/livros/srd/capitulos/campanha#carga\">carga</a> individualmente.</p>\n\n    <p>Munições estão marcadas com um # por não agregarem valores de carga pois estão consideradas nas armas que as disparam.</p>\n  </li>\n  <li>\n    <p><strong>Dano:</strong> na tabela de armas, a coluna Dano demonstra o dado usado para causar <a href=\"/livros/srd/capitulos/combate#danos-e-outros-perigos\">dano</a> nos ataques bem-sucedidos.</p>\n  </li>\n  <li>\n    <p><strong>CA:</strong> na tabela de armaduras, a coluna CA mostra o quão efetiva é uma armadura para defender um ataque. Este é o valor que deve ser adicionado à CA do personagem.</p>\n  </li>\n</ul>\n\n<h3 id=\"materiais-diferentes\">Materiais Diferentes</h3>\n\n<p>Todos os itens e produtos listados neste capítulo consideram que materiais normais e comuns foram empregados na sua fabricação.</p>\n\n<p>A lista trata de itens normais e não especiais, mas como lidar com itens de qualidade superior ou de materiais nobres como prata ou ouro?</p>\n\n<ul>\n  <li>\n    <p><strong>Qualidade Superior:</strong> itens de melhor fabricação usam melhores materiais na sua composição e foram construídos por mestres na sua manufatura. <strong>Custam o dobro</strong> dos itens normais. O Mestre deve ser consultado para decidir se estes itens de qualidade superior interferem em alguma estatística de jogo, como cordas mais difíceis de serem cortadas, ou cadeados mais complicados de serem arrombados.</p>\n\n    <p>Alguma situação extraordinária pode requerer que seus personagens precisem ou desejem armas e armaduras de materiais especiais.</p>\n  </li>\n  <li>\n    <p><strong>Prata:</strong> atinge licantropos e alguns mortos-vivos imunes a armas comuns. <strong>Custam o dobro</strong> do preço de um item comum.</p>\n  </li>\n  <li>\n    <p><strong>Bronze:</strong> piora o bônus da defesa de armaduras metálicas (mas não dos escudos) em 1, mas reduz o peso dessas armaduras. Uma armadura pesada, por exemplo, se torna média. Seu preço é <strong>1,5 vezes mais caro</strong> do que o preço comum.</p>\n  </li>\n  <li>\n    <p><strong>Mitral:</strong> melhora o bônus de defesa das armaduras em 1 e torna as armas mais afiadas e balanceadas, aumentando o dano também em 1.</p>\n  </li>\n</ul>\n\n<p>Um item forjado em mitral são raros, caros e despertam a cobiça no pior tipo de gente, pois possuem o preço <strong>multiplicado por 10</strong>.</p>\n</div>"
+        "content": "<div class=\"odo-markdown\">\n<p>Este capítulo apresenta uma lista de equipamentos contendo armas, armaduras e itens gerais comuns a aventureiros e seus preços médios.</p>\n\n<p>Os preços e a disponibilidade podem variar de cidade para cidade, estando mais caros em cidades menores, ou em condições de escassez durante uma epidemia ou em tempos de guerra, por exemplo.</p>\n\n<ul>\n  <li>\n    <p><strong>Escassez:</strong> uma variação de 25% a mais nos preços durante um período de escassez ou em regiões remotas pode ser aplicada pelo Mestre.</p>\n  </li>\n  <li>\n    <p><strong>Pesos:</strong> todos os pesos são apresentados em quilos (Kg). Os itens marcados com * são leves, vinte deles somam 1 kg. Os itens identificados com ** têm peso irrelevante e devem ser ignorados, a não ser quando estiverem às centenas.</p>\n  </li>\n  <li>\n    <p><strong>Carga:</strong> armas e armaduras não apresentam os pesos dos itens, e sim os valores de @UUID[Compendium.olddragon2e.srd.JournalEntry.IjUjkGQjFi4Hrfiy.JournalEntryPage.ga6iTLcZND3kJoUz]{carga} individualmente.</p>\n\n    <p>Munições estão marcadas com um # por não agregarem valores de carga pois estão consideradas nas armas que as disparam.</p>\n  </li>\n  <li>\n    <p><strong>Dano:</strong> na tabela de armas, a coluna Dano demonstra o dado usado para causar @UUID[Compendium.olddragon2e.srd.JournalEntry.FhzyOayNwbBoh28S.JournalEntryPage.CGew2ztQn9jDn7fU]{dano} nos ataques bem-sucedidos.</p>\n  </li>\n  <li>\n    <p><strong>CA:</strong> na tabela de armaduras, a coluna CA mostra o quão efetiva é uma armadura para defender um ataque. Este é o valor que deve ser adicionado à CA do personagem.</p>\n  </li>\n</ul>\n\n<h3 id=\"materiais-diferentes\">Materiais Diferentes</h3>\n\n<p>Todos os itens e produtos listados neste capítulo consideram que materiais normais e comuns foram empregados na sua fabricação.</p>\n\n<p>A lista trata de itens normais e não especiais, mas como lidar com itens de qualidade superior ou de materiais nobres como prata ou ouro?</p>\n\n<ul>\n  <li>\n    <p><strong>Qualidade Superior:</strong> itens de melhor fabricação usam melhores materiais na sua composição e foram construídos por mestres na sua manufatura. <strong>Custam o dobro</strong> dos itens normais. O Mestre deve ser consultado para decidir se estes itens de qualidade superior interferem em alguma estatística de jogo, como cordas mais difíceis de serem cortadas, ou cadeados mais complicados de serem arrombados.</p>\n\n    <p>Alguma situação extraordinária pode requerer que seus personagens precisem ou desejem armas e armaduras de materiais especiais.</p>\n  </li>\n  <li>\n    <p><strong>Prata:</strong> atinge licantropos e alguns mortos-vivos imunes a armas comuns. <strong>Custam o dobro</strong> do preço de um item comum.</p>\n  </li>\n  <li>\n    <p><strong>Bronze:</strong> piora o bônus da defesa de armaduras metálicas (mas não dos escudos) em 1, mas reduz o peso dessas armaduras. Uma armadura pesada, por exemplo, se torna média. Seu preço é <strong>1,5 vezes mais caro</strong> do que o preço comum.</p>\n  </li>\n  <li>\n    <p><strong>Mitral:</strong> melhora o bônus de defesa das armaduras em 1 e torna as armas mais afiadas e balanceadas, aumentando o dano também em 1.</p>\n  </li>\n</ul>\n\n<p>Um item forjado em mitral são raros, caros e despertam a cobiça no pior tipo de gente, pois possuem o preço <strong>multiplicado por 10</strong>.</p>\n</div>"
       },
       "video": {
         "controls": true,
@@ -106,13 +106,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!gbzRj7cVUO86ZU0Y.OwITlEEELs1P5dFM"
+      "_key": "!journal.pages!d3ZD8zqtCTFI3yxi.xUVkSg6qdSjGTe86"
     },
     {
       "sort": 3,
       "name": "Itens Raciais",
       "type": "text",
-      "_id": "f7deLjIZSGaKldqr",
+      "_id": "J9mQEcfZ7wLE45OI",
       "title": {
         "show": true,
         "level": 1
@@ -141,13 +141,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!gbzRj7cVUO86ZU0Y.f7deLjIZSGaKldqr"
+      "_key": "!journal.pages!d3ZD8zqtCTFI3yxi.J9mQEcfZ7wLE45OI"
     },
     {
       "sort": 4,
       "name": "Armas",
       "type": "text",
-      "_id": "JXjz8dbG119yLoWO",
+      "_id": "R6Y1A3hnO2iNOTmv",
       "title": {
         "show": true,
         "level": 1
@@ -155,7 +155,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<div class=\"odo-markdown\">\n<div class=\"overflow-x-auto\">\n  <table>\n    <caption>Armas <span>tabela 5.1</span></caption>\n    <thead>\n      <tr>\n        <th class=\"text-left\">Arma</th>\n        <th>Dano</th>\n        <th>Carga</th>\n        <th class=\"text-left\">Descrição</th>\n        <th class=\"text-right\">Custo</th>\n      </tr>\n    </thead>\n    <tbody>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Adaga</td>\n        <td>1d4</td>\n        <td>1</td>\n        <td class=\"text-left\">Pequena, Perfurante, Arremesso (9).</td>\n        <td class=\"text-right\">2 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Alabarda</td>\n        <td>1d10</td>\n        <td>3</td>\n        <td class=\"text-left\">Grande, Cortante, Duas Mãos, Haste.</td>\n        <td class=\"text-right\">8 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Arco Curto</td>\n        <td>por flecha</td>\n        <td>2</td>\n        <td class=\"text-left\">Média, Disparo (30), Duas Mãos.</td>\n        <td class=\"text-right\">25 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Arco Longo</td>\n        <td>por flecha</td>\n        <td>3</td>\n        <td class=\"text-left\">Grande, Disparo (45), Duas Mãos.</td>\n        <td class=\"text-right\">60 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">— Flecha de Caça</td>\n        <td>1d6</td>\n        <td>#</td>\n        <td class=\"text-left\">Perfurante. Madeira. Peso e preço pelo conjunto de 20 unidades.</td>\n        <td class=\"text-right\">1 PP</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">— Flecha de Guerra</td>\n        <td>1d8</td>\n        <td>#</td>\n        <td class=\"text-left\">Perfurante. Peso e preço pelo conjunto de 20 unidades.</td>\n        <td class=\"text-right\">1 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Azagaia</td>\n        <td>1d4</td>\n        <td>1</td>\n        <td class=\"text-left\">Pequena, Madeira, Perfurante, Arremesso (18), Contra investida.</td>\n        <td class=\"text-right\">1 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Besta de Mão</td>\n        <td>por virote</td>\n        <td>1</td>\n        <td class=\"text-left\">Pequena, Disparo (36), Recarga.</td>\n        <td class=\"text-right\">30 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">— Virote pequeno</td>\n        <td>1d4</td>\n        <td>#</td>\n        <td class=\"text-left\">Perfurante. Peso e preço pelo conjunto de 20 unidades.</td>\n        <td class=\"text-right\">2 PP</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Besta</td>\n        <td>por virote</td>\n        <td>2</td>\n        <td class=\"text-left\">Média, Disparo (54), Duas Mãos, Recarga.</td>\n        <td class=\"text-right\">50 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">— Virote</td>\n        <td>1d6</td>\n        <td>#</td>\n        <td class=\"text-left\">Perfurante. Peso e preço pelo conjunto de 20 unidades.</td>\n        <td class=\"text-right\">4 PP</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Bordão/Cajado</td>\n        <td>1d4</td>\n        <td>1</td>\n        <td class=\"text-left\">Pequena, Madeira, Impactante, Duas Mãos.</td>\n        <td class=\"text-right\">1 PP</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Cimitarra</td>\n        <td>1d6</td>\n        <td>2</td>\n        <td class=\"text-left\">Média, Cortante.</td>\n        <td class=\"text-right\">15 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Espada Bastarda</td>\n        <td>1d8</td>\n        <td>2</td>\n        <td class=\"text-left\">Média, Versátil, Cortante</td>\n        <td class=\"text-right\">15 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Espada Curta</td>\n        <td>1d6</td>\n        <td>1</td>\n        <td class=\"text-left\">Pequena, Cortante.</td>\n        <td class=\"text-right\">6 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Espada Longa</td>\n        <td>1d8</td>\n        <td>2</td>\n        <td class=\"text-left\">Média, Cortante.</td>\n        <td class=\"text-right\">10 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Funda</td>\n        <td>1d4</td>\n        <td>1</td>\n        <td class=\"text-left\">Pequena, Impactante, Arremesso (27).</td>\n        <td class=\"text-right\">5 PP</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Lança</td>\n        <td>1d6</td>\n        <td>2</td>\n        <td class=\"text-left\">Média, Madeira, Perfurante, Arremesso (12), Haste, Versátil, Contrainvestida.</td>\n        <td class=\"text-right\">4 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Lança Montada</td>\n        <td>1d8</td>\n        <td>3</td>\n        <td class=\"text-left\">Grande, Perfurante, Haste, Duas Mãos, Montada, Contrainvestida.</td>\n        <td class=\"text-right\">5 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Maça</td>\n        <td>1d8</td>\n        <td>2</td>\n        <td class=\"text-left\">Média, Impactante.</td>\n        <td class=\"text-right\">6 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Machado</td>\n        <td>1d8</td>\n        <td>2</td>\n        <td class=\"text-left\">Média, Cortante.</td>\n        <td class=\"text-right\">6 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Machado de Batalha</td>\n        <td>2d6</td>\n        <td>3</td>\n        <td class=\"text-left\">Grande, Cortante, Duas Mãos.</td>\n        <td class=\"text-right\">16 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Mangual</td>\n        <td>1d8</td>\n        <td>3</td>\n        <td class=\"text-left\">Grande, Impactante.</td>\n        <td class=\"text-right\">10 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Martelo</td>\n        <td>1d6</td>\n        <td>2</td>\n        <td class=\"text-left\">Média, Arremesso (6), Impactante.</td>\n        <td class=\"text-right\">6 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Martelo de Batalha</td>\n        <td>2d4</td>\n        <td>3</td>\n        <td class=\"text-left\">Grande, Impactante.</td>\n        <td class=\"text-right\">12 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Montante</td>\n        <td>1d12</td>\n        <td>3</td>\n        <td class=\"text-left\">Grande, Cortante, Duas Mãos.</td>\n        <td class=\"text-right\">16 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Pique</td>\n        <td>1d10</td>\n        <td>3</td>\n        <td class=\"text-left\">Grande, Perfurante, Contrainvestida, Duas Mãos, Haste.</td>\n        <td class=\"text-right\">8 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Porrete/Clava</td>\n        <td>1d4</td>\n        <td>2</td>\n        <td class=\"text-left\">Média, Madeira, Versátil, Impactante</td>\n        <td class=\"text-right\">5 PP</td>\n      </tr>\n    </tbody>\n  </table>\n</div>\n\n<p>A tabela 5.1 apresenta várias características descritivas para as armas:</p>\n\n<ul>\n  <li>\n    <p><strong>Arremesso:</strong> estas armas podem ser arremessadas em um ataque à distância (BAD).</p>\n\n    <p>O número indica a distância máxima do alvo em metros para um ataque. Qualquer alvo além dessa distância é considerado um alvo distante.</p>\n\n    <p>Halflings recebem um bônus de +1 no ataque quando usam armas de arremesso.</p>\n\n    <p>Armas de Arremesso usam o modificador de Força no dano, como uma arma corpo a corpo receberia.</p>\n  </li>\n  <li><strong>Contra investida:</strong> pode ser preparada contra um ataque de investida para causar o dobro de dano.</li>\n  <li><strong>Cortante:</strong> estas armas causam dano do tipo corte em alvos atingidos.</li>\n  <li>\n    <p><strong>Disparo:</strong> estas armas disparam projéteis em um ataque à distância (BAD).</p>\n\n    <p>O número indica a distância máxima do alvo em metros, para um ataque. Qualquer alvo além dessa distância é considerado um alvo distante.</p>\n\n    <p>Armas de Disparo não usam o modificador de Força no dano.</p>\n  </li>\n  <li><strong>Duas Mãos:</strong> estas armas precisam ser usadas com as duas mãos e impossibilitam o uso de escudos.</li>\n  <li><strong>Impactante:</strong> armas que causam dano por impacto. Podem ser usadas por Clérigos.</li>\n  <li><strong>Grande:</strong> não podem ser usadas por anões, halflings, Ladrões e Magos. Soma 3 na Carga.</li>\n  <li><strong>Haste:</strong> estas armas conseguem atingir alvos a até 3 metros de distância.</li>\n  <li><strong>Madeira:</strong> podem ser usadas por personagens com restrição à armas metálicas</li>\n  <li><strong>Média:</strong> podem ser usadas por Ladrões, anões, e também por halflings, mas estes precisam das duas mãos. Soma 2 na Carga.</li>\n  <li><strong>Montada:</strong> esta arma de duas mãos pode ser usada com uma arma de mão única quando usada sobre cavalos.</li>\n  <li><strong>Pequena:</strong> podem ser usadas por Magos, Ladrões, anões e halflings. Soma 1 na Carga.</li>\n  <li><strong>Perfurante:</strong> estas armas causam dano do tipo perfuração em alvos atingidos.</li>\n  <li><strong>Recarga:</strong> armas que precisam de uma <a href=\"/livros/srd/capitulos/combate#manobra\">manobra</a> de combate para serem recarregadas e, assim, novamente usadas.</li>\n  <li><strong>Versátil:</strong> estas armas podem ser usadas com uma ou com duas mãos. Ao serem usadas com duas mãos, recebem um incremento nos dados de dano na sequência abaixo:</li>\n</ul>\n\n<blockquote class=\"highlighted\">\n  <p>D4 → D6 → D8 → D10 → D12</p>\n</blockquote>\n</div>"
+        "content": "<div class=\"odo-markdown\">\n<div class=\"overflow-x-auto\">\n  <table>\n    <caption>Armas <span>tabela 5.1</span></caption>\n    <thead>\n      <tr>\n        <th class=\"text-left\">Arma</th>\n        <th>Dano</th>\n        <th>Carga</th>\n        <th class=\"text-left\">Descrição</th>\n        <th class=\"text-right\">Custo</th>\n      </tr>\n    </thead>\n    <tbody>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Adaga</td>\n        <td>1d4</td>\n        <td>1</td>\n        <td class=\"text-left\">Pequena, Perfurante, Arremesso (9).</td>\n        <td class=\"text-right\">2 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Alabarda</td>\n        <td>1d10</td>\n        <td>3</td>\n        <td class=\"text-left\">Grande, Cortante, Duas Mãos, Haste.</td>\n        <td class=\"text-right\">8 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Arco Curto</td>\n        <td>por flecha</td>\n        <td>2</td>\n        <td class=\"text-left\">Média, Disparo (30), Duas Mãos.</td>\n        <td class=\"text-right\">25 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Arco Longo</td>\n        <td>por flecha</td>\n        <td>3</td>\n        <td class=\"text-left\">Grande, Disparo (45), Duas Mãos.</td>\n        <td class=\"text-right\">60 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">— Flecha de Caça</td>\n        <td>1d6</td>\n        <td>#</td>\n        <td class=\"text-left\">Perfurante. Madeira. Peso e preço pelo conjunto de 20 unidades.</td>\n        <td class=\"text-right\">1 PP</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">— Flecha de Guerra</td>\n        <td>1d8</td>\n        <td>#</td>\n        <td class=\"text-left\">Perfurante. Peso e preço pelo conjunto de 20 unidades.</td>\n        <td class=\"text-right\">1 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Azagaia</td>\n        <td>1d4</td>\n        <td>1</td>\n        <td class=\"text-left\">Pequena, Madeira, Perfurante, Arremesso (18), Contra investida.</td>\n        <td class=\"text-right\">1 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Besta de Mão</td>\n        <td>por virote</td>\n        <td>1</td>\n        <td class=\"text-left\">Pequena, Disparo (36), Recarga.</td>\n        <td class=\"text-right\">30 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">— Virote pequeno</td>\n        <td>1d4</td>\n        <td>#</td>\n        <td class=\"text-left\">Perfurante. Peso e preço pelo conjunto de 20 unidades.</td>\n        <td class=\"text-right\">2 PP</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Besta</td>\n        <td>por virote</td>\n        <td>2</td>\n        <td class=\"text-left\">Média, Disparo (54), Duas Mãos, Recarga.</td>\n        <td class=\"text-right\">50 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">— Virote</td>\n        <td>1d6</td>\n        <td>#</td>\n        <td class=\"text-left\">Perfurante. Peso e preço pelo conjunto de 20 unidades.</td>\n        <td class=\"text-right\">4 PP</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Bordão/Cajado</td>\n        <td>1d4</td>\n        <td>1</td>\n        <td class=\"text-left\">Pequena, Madeira, Impactante, Duas Mãos.</td>\n        <td class=\"text-right\">1 PP</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Cimitarra</td>\n        <td>1d6</td>\n        <td>2</td>\n        <td class=\"text-left\">Média, Cortante.</td>\n        <td class=\"text-right\">15 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Espada Bastarda</td>\n        <td>1d8</td>\n        <td>2</td>\n        <td class=\"text-left\">Média, Versátil, Cortante</td>\n        <td class=\"text-right\">15 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Espada Curta</td>\n        <td>1d6</td>\n        <td>1</td>\n        <td class=\"text-left\">Pequena, Cortante.</td>\n        <td class=\"text-right\">6 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Espada Longa</td>\n        <td>1d8</td>\n        <td>2</td>\n        <td class=\"text-left\">Média, Cortante.</td>\n        <td class=\"text-right\">10 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Funda</td>\n        <td>1d4</td>\n        <td>1</td>\n        <td class=\"text-left\">Pequena, Impactante, Arremesso (27).</td>\n        <td class=\"text-right\">5 PP</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Lança</td>\n        <td>1d6</td>\n        <td>2</td>\n        <td class=\"text-left\">Média, Madeira, Perfurante, Arremesso (12), Haste, Versátil, Contrainvestida.</td>\n        <td class=\"text-right\">4 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Lança Montada</td>\n        <td>1d8</td>\n        <td>3</td>\n        <td class=\"text-left\">Grande, Perfurante, Haste, Duas Mãos, Montada, Contrainvestida.</td>\n        <td class=\"text-right\">5 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Maça</td>\n        <td>1d8</td>\n        <td>2</td>\n        <td class=\"text-left\">Média, Impactante.</td>\n        <td class=\"text-right\">6 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Machado</td>\n        <td>1d8</td>\n        <td>2</td>\n        <td class=\"text-left\">Média, Cortante.</td>\n        <td class=\"text-right\">6 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Machado de Batalha</td>\n        <td>2d6</td>\n        <td>3</td>\n        <td class=\"text-left\">Grande, Cortante, Duas Mãos.</td>\n        <td class=\"text-right\">16 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Mangual</td>\n        <td>1d8</td>\n        <td>3</td>\n        <td class=\"text-left\">Grande, Impactante.</td>\n        <td class=\"text-right\">10 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Martelo</td>\n        <td>1d6</td>\n        <td>2</td>\n        <td class=\"text-left\">Média, Arremesso (6), Impactante.</td>\n        <td class=\"text-right\">6 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Martelo de Batalha</td>\n        <td>2d4</td>\n        <td>3</td>\n        <td class=\"text-left\">Grande, Impactante.</td>\n        <td class=\"text-right\">12 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Montante</td>\n        <td>1d12</td>\n        <td>3</td>\n        <td class=\"text-left\">Grande, Cortante, Duas Mãos.</td>\n        <td class=\"text-right\">16 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Pique</td>\n        <td>1d10</td>\n        <td>3</td>\n        <td class=\"text-left\">Grande, Perfurante, Contrainvestida, Duas Mãos, Haste.</td>\n        <td class=\"text-right\">8 PO</td>\n      </tr>\n      <tr class=\"text-center\">\n        <td class=\"text-left\">Porrete/Clava</td>\n        <td>1d4</td>\n        <td>2</td>\n        <td class=\"text-left\">Média, Madeira, Versátil, Impactante</td>\n        <td class=\"text-right\">5 PP</td>\n      </tr>\n    </tbody>\n  </table>\n</div>\n\n<p>A tabela 5.1 apresenta várias características descritivas para as armas:</p>\n\n<ul>\n  <li>\n    <p><strong>Arremesso:</strong> estas armas podem ser arremessadas em um ataque à distância (BAD).</p>\n\n    <p>O número indica a distância máxima do alvo em metros para um ataque. Qualquer alvo além dessa distância é considerado um alvo distante.</p>\n\n    <p>Halflings recebem um bônus de +1 no ataque quando usam armas de arremesso.</p>\n\n    <p>Armas de Arremesso usam o modificador de Força no dano, como uma arma corpo a corpo receberia.</p>\n  </li>\n  <li><strong>Contra investida:</strong> pode ser preparada contra um ataque de investida para causar o dobro de dano.</li>\n  <li><strong>Cortante:</strong> estas armas causam dano do tipo corte em alvos atingidos.</li>\n  <li>\n    <p><strong>Disparo:</strong> estas armas disparam projéteis em um ataque à distância (BAD).</p>\n\n    <p>O número indica a distância máxima do alvo em metros, para um ataque. Qualquer alvo além dessa distância é considerado um alvo distante.</p>\n\n    <p>Armas de Disparo não usam o modificador de Força no dano.</p>\n  </li>\n  <li><strong>Duas Mãos:</strong> estas armas precisam ser usadas com as duas mãos e impossibilitam o uso de escudos.</li>\n  <li><strong>Impactante:</strong> armas que causam dano por impacto. Podem ser usadas por Clérigos.</li>\n  <li><strong>Grande:</strong> não podem ser usadas por anões, halflings, Ladrões e Magos. Soma 3 na Carga.</li>\n  <li><strong>Haste:</strong> estas armas conseguem atingir alvos a até 3 metros de distância.</li>\n  <li><strong>Madeira:</strong> podem ser usadas por personagens com restrição à armas metálicas</li>\n  <li><strong>Média:</strong> podem ser usadas por Ladrões, anões, e também por halflings, mas estes precisam das duas mãos. Soma 2 na Carga.</li>\n  <li><strong>Montada:</strong> esta arma de duas mãos pode ser usada com uma arma de mão única quando usada sobre cavalos.</li>\n  <li><strong>Pequena:</strong> podem ser usadas por Magos, Ladrões, anões e halflings. Soma 1 na Carga.</li>\n  <li><strong>Perfurante:</strong> estas armas causam dano do tipo perfuração em alvos atingidos.</li>\n  <li><strong>Recarga:</strong> armas que precisam de uma @UUID[Compendium.olddragon2e.srd.JournalEntry.FhzyOayNwbBoh28S.JournalEntryPage.V6mYprZiCHcuEIm9]{manobra} de combate para serem recarregadas e, assim, novamente usadas.</li>\n  <li><strong>Versátil:</strong> estas armas podem ser usadas com uma ou com duas mãos. Ao serem usadas com duas mãos, recebem um incremento nos dados de dano na sequência abaixo:</li>\n</ul>\n\n<blockquote class=\"highlighted\">\n  <p>D4 → D6 → D8 → D10 → D12</p>\n</blockquote>\n</div>"
       },
       "video": {
         "controls": true,
@@ -176,13 +176,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!gbzRj7cVUO86ZU0Y.JXjz8dbG119yLoWO"
+      "_key": "!journal.pages!d3ZD8zqtCTFI3yxi.R6Y1A3hnO2iNOTmv"
     },
     {
       "sort": 5,
       "name": "Armaduras",
       "type": "text",
-      "_id": "y7hHer18DszaAF8c",
+      "_id": "8KU8iJu6RXZtNqTb",
       "title": {
         "show": true,
         "level": 1
@@ -211,13 +211,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!gbzRj7cVUO86ZU0Y.y7hHer18DszaAF8c"
+      "_key": "!journal.pages!d3ZD8zqtCTFI3yxi.8KU8iJu6RXZtNqTb"
     },
     {
       "sort": 6,
       "name": "Itens Gerais",
       "type": "text",
-      "_id": "VnkAzwbBgCRSUw5n",
+      "_id": "rDY1QkHUQ8nMqW3R",
       "title": {
         "show": true,
         "level": 1
@@ -246,13 +246,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!gbzRj7cVUO86ZU0Y.VnkAzwbBgCRSUw5n"
+      "_key": "!journal.pages!d3ZD8zqtCTFI3yxi.rDY1QkHUQ8nMqW3R"
     },
     {
       "sort": 7,
       "name": "Recipientes & Vasilhames",
       "type": "text",
-      "_id": "lDTpCPgdKJs8nvqp",
+      "_id": "mKvtd8IdTNPC0WJ0",
       "title": {
         "show": true,
         "level": 1
@@ -281,13 +281,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!gbzRj7cVUO86ZU0Y.lDTpCPgdKJs8nvqp"
+      "_key": "!journal.pages!d3ZD8zqtCTFI3yxi.mKvtd8IdTNPC0WJ0"
     },
     {
       "sort": 8,
       "name": "Montaria, Transporte & Animais de Carga",
       "type": "text",
-      "_id": "WKqCPbCukz1m9CGX",
+      "_id": "5uYVbuBlPoLE4nON",
       "title": {
         "show": true,
         "level": 1
@@ -316,13 +316,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!gbzRj7cVUO86ZU0Y.WKqCPbCukz1m9CGX"
+      "_key": "!journal.pages!d3ZD8zqtCTFI3yxi.5uYVbuBlPoLE4nON"
     },
     {
       "sort": 9,
       "name": "Máquinas de Cerco",
       "type": "text",
-      "_id": "hQHWvCd8uRGFz9Zr",
+      "_id": "phF6U7YcTQ6xNiIb",
       "title": {
         "show": true,
         "level": 1
@@ -351,13 +351,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!gbzRj7cVUO86ZU0Y.hQHWvCd8uRGFz9Zr"
+      "_key": "!journal.pages!d3ZD8zqtCTFI3yxi.phF6U7YcTQ6xNiIb"
     },
     {
       "sort": 10,
       "name": "Atacando Construções",
       "type": "text",
-      "_id": "Sx0SDH7WLj7cEpu0",
+      "_id": "wWwOGqJgnqhujWVv",
       "title": {
         "show": true,
         "level": 1
@@ -386,13 +386,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!gbzRj7cVUO86ZU0Y.Sx0SDH7WLj7cEpu0"
+      "_key": "!journal.pages!d3ZD8zqtCTFI3yxi.wWwOGqJgnqhujWVv"
     },
     {
       "sort": 11,
       "name": "JP de Materiais",
       "type": "text",
-      "_id": "HP4WC1hLe7WLF7EJ",
+      "_id": "j48qzyXarkb6trh2",
       "title": {
         "show": true,
         "level": 1
@@ -421,13 +421,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!gbzRj7cVUO86ZU0Y.HP4WC1hLe7WLF7EJ"
+      "_key": "!journal.pages!d3ZD8zqtCTFI3yxi.j48qzyXarkb6trh2"
     },
     {
       "sort": 12,
       "name": "Transporte Aquático",
       "type": "text",
-      "_id": "OxqKY18zP68C7SF1",
+      "_id": "QkRkxKIXemCGpNVw",
       "title": {
         "show": true,
         "level": 1
@@ -456,7 +456,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!gbzRj7cVUO86ZU0Y.OxqKY18zP68C7SF1"
+      "_key": "!journal.pages!d3ZD8zqtCTFI3yxi.QkRkxKIXemCGpNVw"
     }
   ],
   "flags": {},
@@ -473,5 +473,5 @@
     "default": 0,
     "enzpVKIAX52oTyPe": 3
   },
-  "_key": "!journal!gbzRj7cVUO86ZU0Y"
+  "_key": "!journal!d3ZD8zqtCTFI3yxi"
 }

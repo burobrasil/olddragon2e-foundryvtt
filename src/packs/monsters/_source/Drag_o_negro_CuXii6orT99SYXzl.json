@@ -1,5 +1,5 @@
 {
-  "name": "Dragão negro",
+  "name": "Dragão Negro",
   "type": "monster",
   "_id": "CuXii6orT99SYXzl",
   "img": "systems/olddragon2e/assets/monsters-concepts/dragao-grande.webp",
@@ -37,7 +37,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Dragão negro",
+    "name": "Dragão Negro",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,

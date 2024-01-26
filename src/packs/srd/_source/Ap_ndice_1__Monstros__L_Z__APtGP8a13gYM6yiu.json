@@ -1,13 +1,13 @@
 {
   "folder": null,
   "name": "Apêndice 1: Monstros (L-Z)",
-  "_id": "haFrGbWoMPQSGw7B",
+  "_id": "APtGP8a13gYM6yiu",
   "pages": [
     {
       "sort": 0,
       "name": "Introdução",
       "type": "text",
-      "_id": "kxasOrWzcJS3LMUN",
+      "_id": "bJvdJTMRDJGUhpiw",
       "title": {
         "show": true,
         "level": 1
@@ -36,13 +36,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!haFrGbWoMPQSGw7B.kxasOrWzcJS3LMUN"
+      "_key": "!journal.pages!APtGP8a13gYM6yiu.bJvdJTMRDJGUhpiw"
     },
     {
       "sort": 1,
       "name": "Lagarto Gigante",
       "type": "text",
-      "_id": "hNPX9Zho4xX9nxvK",
+      "_id": "qCgI5nW2aUYcqsN6",
       "title": {
         "show": true,
         "level": 1
@@ -50,7 +50,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.zmPlC6cD3lS9ybJh]{Lagarto gigante}</p>\n</div>"
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.zmPlC6cD3lS9ybJh]{Lagarto Gigante}</p>\n</div>"
       },
       "video": {
         "controls": true,
@@ -71,13 +71,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!haFrGbWoMPQSGw7B.hNPX9Zho4xX9nxvK"
+      "_key": "!journal.pages!APtGP8a13gYM6yiu.qCgI5nW2aUYcqsN6"
     },
     {
       "sort": 2,
       "name": "Lesma Mangual",
       "type": "text",
-      "_id": "tvoSf5GAre4B4C6p",
+      "_id": "4u17IgJEfs7QhY5C",
       "title": {
         "show": true,
         "level": 1
@@ -85,7 +85,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.sRAbWkl9noYXjjWy]{Lesma mangual}</p>\n</div>"
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.sRAbWkl9noYXjjWy]{Lesma Mangual}</p>\n</div>"
       },
       "video": {
         "controls": true,
@@ -106,13 +106,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!haFrGbWoMPQSGw7B.tvoSf5GAre4B4C6p"
+      "_key": "!journal.pages!APtGP8a13gYM6yiu.4u17IgJEfs7QhY5C"
     },
     {
       "sort": 3,
       "name": "Licantropos",
       "type": "text",
-      "_id": "XChFYrXDFV84jx82",
+      "_id": "t0ly6Se7vD5XvsjM",
       "title": {
         "show": true,
         "level": 1
@@ -120,7 +120,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<div class=\"odo-markdown\">\n<p>Licantropos são humanoides portadores de uma condição causada por uma maldição ou doença e que, mediante a ativação de algum gatilho, se transformam em criaturas antropomórficas com características de animais.</p>\n\n<p>A Licantropia se instala no corpo do hospedeiro como um parasita e pode ser transmitida aos seus descendentes hereditários ou a outras pessoas por meio de ferimentos.</p>\n\n<h3 id=\"contraindo-licantropia\">Contraindo Licantropia</h3>\n\n<p>Qualquer pessoa que perder ao menos 50% dos pontos de vida para ataques físicos do licantropo adquire a licantropia. O infectado se transformará em um licantropo do mesmo tipo que o contagiou em 2d12 dias, começando a notar os sintomas após metade deste tempo.</p>\n\n<h3 id=\"licantropia-hereditaria\">Licantropia Hereditária</h3>\n\n<p>A forma hereditária da Licantropia afeta os descendentes em uma chance de 15% cumulativa. O primeiro filho possui 15% de chance de nascer com a condição; o segundo, 30% de chance; o terceiro, 45%; e assim sucessivamente até o sétimo filho que possui 100% de chance de nascer com a licantropia.</p>\n\n<p>Os efeitos da licantropia hereditária não serão notados até o portador atingir a vida adulta.</p>\n\n<h3 id=\"curando-a-licantropia\">Curando a Licantropia</h3>\n\n<p>Apenas uma magia de Curar Doenças ou a morte do licantropo causador da infecção no alvo podem curar uma licantropia.</p>\n\n<p><strong>Não humanos:</strong> Licantropia é fatal para não humanos contagiados.</p>\n\n<h3 id=\"formas-dos-licantropos\">Formas dos Licantropos</h3>\n\n<p>Um licantropo possui três formas diferentes:</p>\n\n<p><strong>Humana</strong> é indistinguível de um humano normal. São características muito tênues, como excesso de pelos, comportamento rústico ou hábitos excêntricos, que podem indicar a condição. Apenas olhares muito especializados conseguem identificar um licantropo na forma humana. Animais bons de faro como cães e cavalos podem se assustar ao sentirem o cheiro característico de um licantropo.</p>\n\n<p><strong>Monstruosa</strong> é a forma híbrida do licantropo, o meio do caminho entre homem e animal, quando características dos dois tipos de criaturas estão presentes. Esta é a forma básica de um licantropo transformado. Nesta forma, um licantropo apenas consegue se comunicar com outros licantropos e com animais associados à sua licantropia.</p>\n\n<p><strong>Animal</strong> é quando o licantropo assume a forma do animal associada à sua licantropia. Um licantropo nesta forma é sempre reconhecível por ser maior, mais feroz e mais animalesco que um animal normal.</p>\n\n<h3 id=\"transformacao\">Transformação</h3>\n\n<p>Um licantropo sempre precisa de uma rodada para se transformar da forma humana à forma monstruosa, e outra rodada para ir da forma monstruosa para a forma animal. Não é possível se transformar diretamente da forma animal para a forma humana e vice-versa.</p>\n\n<p><strong>Morto:</strong> caso seja morto, não importa a forma que isso ocorra, um licantropo sempre reverterá a transformação e retornará à forma humana.</p>\n\n<p><strong>Roupas e objetos</strong> usados no corpo durante a transformação são rasgados e inutilizados. Se um objeto impedir mecanicamente a transformação ele será destruído e causará 1d6 de dano ao licantropo. Por este motivo, licantropos evitam usar armaduras as quais impeçam suas transformações.</p>\n\n<h3 id=\"homem-gato\">Homem-Gato</h3>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.lbXCNs8XO7cOD8Sb]{Homem-gato}</p>\n\n<h3 id=\"homem-javali\">Homem-Javali</h3>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.GghNUZO7HZWBdwzp]{Homem-javali}</p>\n\n<h3 id=\"homem-lobo\">Homem-Lobo</h3>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.x0brQAvnfAGSh1wG]{Homem-lobo}</p>\n\n<h3 id=\"homem-rato\">Homem-Rato</h3>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.bIsuqpD5XL67xFkg]{Homem-rato}</p>\n\n<h3 id=\"homem-urso\">Homem-Urso</h3>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.X4cS3uAEmRaS6eU4]{Homem-urso}</p>\n</div>"
+        "content": "<div class=\"odo-markdown\">\n<p>Licantropos são humanoides portadores de uma condição causada por uma maldição ou doença e que, mediante a ativação de algum gatilho, se transformam em criaturas antropomórficas com características de animais.</p>\n\n<p>A Licantropia se instala no corpo do hospedeiro como um parasita e pode ser transmitida aos seus descendentes hereditários ou a outras pessoas por meio de ferimentos.</p>\n\n<h3 id=\"contraindo-licantropia\">Contraindo Licantropia</h3>\n\n<p>Qualquer pessoa que perder ao menos 50% dos pontos de vida para ataques físicos do licantropo adquire a licantropia. O infectado se transformará em um licantropo do mesmo tipo que o contagiou em 2d12 dias, começando a notar os sintomas após metade deste tempo.</p>\n\n<h3 id=\"licantropia-hereditaria\">Licantropia Hereditária</h3>\n\n<p>A forma hereditária da Licantropia afeta os descendentes em uma chance de 15% cumulativa. O primeiro filho possui 15% de chance de nascer com a condição; o segundo, 30% de chance; o terceiro, 45%; e assim sucessivamente até o sétimo filho que possui 100% de chance de nascer com a licantropia.</p>\n\n<p>Os efeitos da licantropia hereditária não serão notados até o portador atingir a vida adulta.</p>\n\n<h3 id=\"curando-a-licantropia\">Curando a Licantropia</h3>\n\n<p>Apenas uma magia de Curar Doenças ou a morte do licantropo causador da infecção no alvo podem curar uma licantropia.</p>\n\n<p><strong>Não humanos:</strong> Licantropia é fatal para não humanos contagiados.</p>\n\n<h3 id=\"formas-dos-licantropos\">Formas dos Licantropos</h3>\n\n<p>Um licantropo possui três formas diferentes:</p>\n\n<p><strong>Humana</strong> é indistinguível de um humano normal. São características muito tênues, como excesso de pelos, comportamento rústico ou hábitos excêntricos, que podem indicar a condição. Apenas olhares muito especializados conseguem identificar um licantropo na forma humana. Animais bons de faro como cães e cavalos podem se assustar ao sentirem o cheiro característico de um licantropo.</p>\n\n<p><strong>Monstruosa</strong> é a forma híbrida do licantropo, o meio do caminho entre homem e animal, quando características dos dois tipos de criaturas estão presentes. Esta é a forma básica de um licantropo transformado. Nesta forma, um licantropo apenas consegue se comunicar com outros licantropos e com animais associados à sua licantropia.</p>\n\n<p><strong>Animal</strong> é quando o licantropo assume a forma do animal associada à sua licantropia. Um licantropo nesta forma é sempre reconhecível por ser maior, mais feroz e mais animalesco que um animal normal.</p>\n\n<h3 id=\"transformacao\">Transformação</h3>\n\n<p>Um licantropo sempre precisa de uma rodada para se transformar da forma humana à forma monstruosa, e outra rodada para ir da forma monstruosa para a forma animal. Não é possível se transformar diretamente da forma animal para a forma humana e vice-versa.</p>\n\n<p><strong>Morto:</strong> caso seja morto, não importa a forma que isso ocorra, um licantropo sempre reverterá a transformação e retornará à forma humana.</p>\n\n<p><strong>Roupas e objetos</strong> usados no corpo durante a transformação são rasgados e inutilizados. Se um objeto impedir mecanicamente a transformação ele será destruído e causará 1d6 de dano ao licantropo. Por este motivo, licantropos evitam usar armaduras as quais impeçam suas transformações.</p>\n\n<h3 id=\"homem-gato\">Homem-Gato</h3>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.lbXCNs8XO7cOD8Sb]{Homem-Gato}</p>\n\n<h3 id=\"homem-javali\">Homem-Javali</h3>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.GghNUZO7HZWBdwzp]{Homem-Javali}</p>\n\n<h3 id=\"homem-lobo\">Homem-Lobo</h3>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.x0brQAvnfAGSh1wG]{Homem-Lobo}</p>\n\n<h3 id=\"homem-rato\">Homem-Rato</h3>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.bIsuqpD5XL67xFkg]{Homem-Rato}</p>\n\n<h3 id=\"homem-urso\">Homem-Urso</h3>\n<p>@UUID[Compendium.olddragon2e.monsters.Actor.X4cS3uAEmRaS6eU4]{Homem-Urso}</p>\n</div>"
       },
       "video": {
         "controls": true,
@@ -141,13 +141,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!haFrGbWoMPQSGw7B.XChFYrXDFV84jx82"
+      "_key": "!journal.pages!APtGP8a13gYM6yiu.t0ly6Se7vD5XvsjM"
     },
     {
       "sort": 4,
       "name": "Lich",
       "type": "text",
-      "_id": "KRoMyCJafdle6qv3",
+      "_id": "BJDGCy0ohpNiObhK",
       "title": {
         "show": true,
         "level": 1
@@ -176,13 +176,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!haFrGbWoMPQSGw7B.KRoMyCJafdle6qv3"
+      "_key": "!journal.pages!APtGP8a13gYM6yiu.BJDGCy0ohpNiObhK"
     },
     {
       "sort": 5,
       "name": "Limo Cinzento",
       "type": "text",
-      "_id": "wwd5psB0Xz811oA9",
+      "_id": "K5hjFV6YNjO7Gy19",
       "title": {
         "show": true,
         "level": 1
@@ -190,7 +190,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.Ket2v9UQ5B0BzkvF]{Limo cinzento}</p>\n</div>"
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.Ket2v9UQ5B0BzkvF]{Limo Cinzento}</p>\n</div>"
       },
       "video": {
         "controls": true,
@@ -211,13 +211,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!haFrGbWoMPQSGw7B.wwd5psB0Xz811oA9"
+      "_key": "!journal.pages!APtGP8a13gYM6yiu.K5hjFV6YNjO7Gy19"
     },
     {
       "sort": 6,
       "name": "Mantícora",
       "type": "text",
-      "_id": "3qD1D4efMSZyFIxa",
+      "_id": "V2xttsRSy3dEcISR",
       "title": {
         "show": true,
         "level": 1
@@ -246,13 +246,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!haFrGbWoMPQSGw7B.3qD1D4efMSZyFIxa"
+      "_key": "!journal.pages!APtGP8a13gYM6yiu.V2xttsRSy3dEcISR"
     },
     {
       "sort": 7,
       "name": "Medusa",
       "type": "text",
-      "_id": "EkHerk4Jt5AYDELe",
+      "_id": "qZdiDsQfvIg4yh8n",
       "title": {
         "show": true,
         "level": 1
@@ -281,13 +281,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!haFrGbWoMPQSGw7B.EkHerk4Jt5AYDELe"
+      "_key": "!journal.pages!APtGP8a13gYM6yiu.qZdiDsQfvIg4yh8n"
     },
     {
       "sort": 8,
       "name": "Mil-Galhos",
       "type": "text",
-      "_id": "pJiUGfzsIxkN2tJc",
+      "_id": "Cbu0udsfFjOEdtV0",
       "title": {
         "show": true,
         "level": 1
@@ -295,7 +295,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.XJxIlnlGbJSMbNXp]{Mil-galhos}</p>\n</div>"
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.XJxIlnlGbJSMbNXp]{Mil-Galhos}</p>\n</div>"
       },
       "video": {
         "controls": true,
@@ -316,13 +316,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!haFrGbWoMPQSGw7B.pJiUGfzsIxkN2tJc"
+      "_key": "!journal.pages!APtGP8a13gYM6yiu.Cbu0udsfFjOEdtV0"
     },
     {
       "sort": 9,
       "name": "Mímico",
       "type": "text",
-      "_id": "SmtNjVUu1KwMQryE",
+      "_id": "mbpmhl92B3HJN2fz",
       "title": {
         "show": true,
         "level": 1
@@ -351,13 +351,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!haFrGbWoMPQSGw7B.SmtNjVUu1KwMQryE"
+      "_key": "!journal.pages!APtGP8a13gYM6yiu.mbpmhl92B3HJN2fz"
     },
     {
       "sort": 10,
       "name": "Minotauro",
       "type": "text",
-      "_id": "2fxGMcArlEvoRSbn",
+      "_id": "FWnk5NCHVpWW5qRP",
       "title": {
         "show": true,
         "level": 1
@@ -386,13 +386,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!haFrGbWoMPQSGw7B.2fxGMcArlEvoRSbn"
+      "_key": "!journal.pages!APtGP8a13gYM6yiu.FWnk5NCHVpWW5qRP"
     },
     {
       "sort": 11,
       "name": "Monstro Ferrugem",
       "type": "text",
-      "_id": "6ikjgdSB6wgSIyEm",
+      "_id": "euLAGVg9kRoRsOQc",
       "title": {
         "show": true,
         "level": 1
@@ -400,7 +400,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.KQNfDIa9hdvdlHBl]{Monstro ferrugem}</p>\n</div>"
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.KQNfDIa9hdvdlHBl]{Monstro Ferrugem}</p>\n</div>"
       },
       "video": {
         "controls": true,
@@ -421,13 +421,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!haFrGbWoMPQSGw7B.6ikjgdSB6wgSIyEm"
+      "_key": "!journal.pages!APtGP8a13gYM6yiu.euLAGVg9kRoRsOQc"
     },
     {
       "sort": 12,
       "name": "Múmia",
       "type": "text",
-      "_id": "whUCaWC2DqxO6RhI",
+      "_id": "HORj1ZzP5tjFl4W6",
       "title": {
         "show": true,
         "level": 1
@@ -456,13 +456,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!haFrGbWoMPQSGw7B.whUCaWC2DqxO6RhI"
+      "_key": "!journal.pages!APtGP8a13gYM6yiu.HORj1ZzP5tjFl4W6"
     },
     {
       "sort": 13,
       "name": "Naga Negra",
       "type": "text",
-      "_id": "8KpcpgGpAlNPecGL",
+      "_id": "vuxB3gZpBDKIcbSd",
       "title": {
         "show": true,
         "level": 1
@@ -470,7 +470,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.C3JYKTGlRuFOlKVl]{Naga negra}</p>\n</div>"
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.C3JYKTGlRuFOlKVl]{Naga Negra}</p>\n</div>"
       },
       "video": {
         "controls": true,
@@ -491,13 +491,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!haFrGbWoMPQSGw7B.8KpcpgGpAlNPecGL"
+      "_key": "!journal.pages!APtGP8a13gYM6yiu.vuxB3gZpBDKIcbSd"
     },
     {
       "sort": 14,
       "name": "Nixie",
       "type": "text",
-      "_id": "StWcl4jA9het56VI",
+      "_id": "ncUmNo5U59iuF8Zf",
       "title": {
         "show": true,
         "level": 1
@@ -526,13 +526,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!haFrGbWoMPQSGw7B.StWcl4jA9het56VI"
+      "_key": "!journal.pages!APtGP8a13gYM6yiu.ncUmNo5U59iuF8Zf"
     },
     {
       "sort": 15,
       "name": "Observador",
       "type": "text",
-      "_id": "sNU4dWPfhmqahdxj",
+      "_id": "tJfswRHnZVMdtyYH",
       "title": {
         "show": true,
         "level": 1
@@ -561,13 +561,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!haFrGbWoMPQSGw7B.sNU4dWPfhmqahdxj"
+      "_key": "!journal.pages!APtGP8a13gYM6yiu.tJfswRHnZVMdtyYH"
     },
     {
       "sort": 16,
       "name": "Ogro",
       "type": "text",
-      "_id": "eHtctK5YVho9js8f",
+      "_id": "5ket1oIqQRQTSawj",
       "title": {
         "show": true,
         "level": 1
@@ -596,13 +596,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!haFrGbWoMPQSGw7B.eHtctK5YVho9js8f"
+      "_key": "!journal.pages!APtGP8a13gYM6yiu.5ket1oIqQRQTSawj"
     },
     {
       "sort": 17,
       "name": "Oni Mago",
       "type": "text",
-      "_id": "fsejUDszzXhtL4JF",
+      "_id": "TiJgWN5csSsqP9nf",
       "title": {
         "show": true,
         "level": 1
@@ -610,7 +610,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.rjwn86d5Pjvkp57V]{Oni mago}</p>\n</div>"
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.rjwn86d5Pjvkp57V]{Oni Mago}</p>\n</div>"
       },
       "video": {
         "controls": true,
@@ -631,13 +631,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!haFrGbWoMPQSGw7B.fsejUDszzXhtL4JF"
+      "_key": "!journal.pages!APtGP8a13gYM6yiu.TiJgWN5csSsqP9nf"
     },
     {
       "sort": 18,
       "name": "Orc",
       "type": "text",
-      "_id": "SSTZvxjEMGAboASR",
+      "_id": "toB1r7pWNq78nNXK",
       "title": {
         "show": true,
         "level": 1
@@ -666,13 +666,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!haFrGbWoMPQSGw7B.SSTZvxjEMGAboASR"
+      "_key": "!journal.pages!APtGP8a13gYM6yiu.toB1r7pWNq78nNXK"
     },
     {
       "sort": 19,
       "name": "Otyugh",
       "type": "text",
-      "_id": "yZ5ZeJ56moAIgMVq",
+      "_id": "sSw4nDRNbMyaMEI4",
       "title": {
         "show": true,
         "level": 1
@@ -701,13 +701,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!haFrGbWoMPQSGw7B.yZ5ZeJ56moAIgMVq"
+      "_key": "!journal.pages!APtGP8a13gYM6yiu.sSw4nDRNbMyaMEI4"
     },
     {
       "sort": 20,
       "name": "Pégaso",
       "type": "text",
-      "_id": "kL8G2dNxEru6mKzU",
+      "_id": "E6EDZ7gsr1PU85BG",
       "title": {
         "show": true,
         "level": 1
@@ -736,13 +736,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!haFrGbWoMPQSGw7B.kL8G2dNxEru6mKzU"
+      "_key": "!journal.pages!APtGP8a13gYM6yiu.E6EDZ7gsr1PU85BG"
     },
     {
       "sort": 21,
       "name": "Pixie",
       "type": "text",
-      "_id": "Blht9YJqtV8oR8hP",
+      "_id": "2tVwBvJ2Z4yG3TQh",
       "title": {
         "show": true,
         "level": 1
@@ -771,13 +771,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!haFrGbWoMPQSGw7B.Blht9YJqtV8oR8hP"
+      "_key": "!journal.pages!APtGP8a13gYM6yiu.2tVwBvJ2Z4yG3TQh"
     },
     {
       "sort": 22,
       "name": "Pólipo Voador",
       "type": "text",
-      "_id": "KEIKKQln57Y5FeuP",
+      "_id": "znjvoAuu4K7UG6rA",
       "title": {
         "show": true,
         "level": 1
@@ -785,7 +785,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.di5lEQJKQxvMs2kg]{Pólipo voador}</p>\n</div>"
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.di5lEQJKQxvMs2kg]{Pólipo Voador}</p>\n</div>"
       },
       "video": {
         "controls": true,
@@ -806,13 +806,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!haFrGbWoMPQSGw7B.KEIKKQln57Y5FeuP"
+      "_key": "!journal.pages!APtGP8a13gYM6yiu.znjvoAuu4K7UG6rA"
     },
     {
       "sort": 23,
       "name": "Polvo Gigante",
       "type": "text",
-      "_id": "H1sM0AbDvONDLcI7",
+      "_id": "sVRvRkQZhYQANaqs",
       "title": {
         "show": true,
         "level": 1
@@ -820,7 +820,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.QFWjqIPPfHWBcsQX]{Polvo gigante}</p>\n</div>"
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.QFWjqIPPfHWBcsQX]{Polvo Gigante}</p>\n</div>"
       },
       "video": {
         "controls": true,
@@ -841,13 +841,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!haFrGbWoMPQSGw7B.H1sM0AbDvONDLcI7"
+      "_key": "!journal.pages!APtGP8a13gYM6yiu.sVRvRkQZhYQANaqs"
     },
     {
       "sort": 24,
       "name": "Polvo do Mar",
       "type": "text",
-      "_id": "cRcWwCOELMBjqvUX",
+      "_id": "LGKGcNSjuah2N1tt",
       "title": {
         "show": true,
         "level": 1
@@ -855,7 +855,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.CMhVMNGLCFjZgnjr]{Povo do mar}</p>\n</div>"
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.CMhVMNGLCFjZgnjr]{Povo do Mar}</p>\n</div>"
       },
       "video": {
         "controls": true,
@@ -876,13 +876,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!haFrGbWoMPQSGw7B.cRcWwCOELMBjqvUX"
+      "_key": "!journal.pages!APtGP8a13gYM6yiu.LGKGcNSjuah2N1tt"
     },
     {
       "sort": 25,
       "name": "Pudim Negro",
       "type": "text",
-      "_id": "SVvXK2sDjlJ7mdY1",
+      "_id": "XvcGiebsZBr82vIT",
       "title": {
         "show": true,
         "level": 1
@@ -890,7 +890,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.uN7aX0KWUXccpyM4]{Pudim negro}</p>\n</div>"
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.uN7aX0KWUXccpyM4]{Pudim Negro}</p>\n</div>"
       },
       "video": {
         "controls": true,
@@ -911,13 +911,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!haFrGbWoMPQSGw7B.SVvXK2sDjlJ7mdY1"
+      "_key": "!journal.pages!APtGP8a13gYM6yiu.XvcGiebsZBr82vIT"
     },
     {
       "sort": 26,
       "name": "Quimera",
       "type": "text",
-      "_id": "B1HQVhrizE6Xvue6",
+      "_id": "JbxIWtIDMS8ed6ag",
       "title": {
         "show": true,
         "level": 1
@@ -946,13 +946,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!haFrGbWoMPQSGw7B.B1HQVhrizE6Xvue6"
+      "_key": "!journal.pages!APtGP8a13gYM6yiu.JbxIWtIDMS8ed6ag"
     },
     {
       "sort": 27,
       "name": "Rato Gigante",
       "type": "text",
-      "_id": "YDc73mNlN0DnYDkS",
+      "_id": "yhK1Nd2onR8kJUKS",
       "title": {
         "show": true,
         "level": 1
@@ -960,7 +960,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.mqRTtXa8bpLpaLDO]{Rato gigante}</p>\n</div>"
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.mqRTtXa8bpLpaLDO]{Rato Gigante}</p>\n</div>"
       },
       "video": {
         "controls": true,
@@ -981,13 +981,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!haFrGbWoMPQSGw7B.YDc73mNlN0DnYDkS"
+      "_key": "!journal.pages!APtGP8a13gYM6yiu.yhK1Nd2onR8kJUKS"
     },
     {
       "sort": 28,
       "name": "Remorhaz",
       "type": "text",
-      "_id": "fh4yrHonWIKvCBmJ",
+      "_id": "9CHnQdWxRoQnWvGf",
       "title": {
         "show": true,
         "level": 1
@@ -1016,13 +1016,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!haFrGbWoMPQSGw7B.fh4yrHonWIKvCBmJ"
+      "_key": "!journal.pages!APtGP8a13gYM6yiu.9CHnQdWxRoQnWvGf"
     },
     {
       "sort": 29,
       "name": "Revenant",
       "type": "text",
-      "_id": "8Zpsc0k0MOHIlOTn",
+      "_id": "PtAxQM4YBZ5B2BGe",
       "title": {
         "show": true,
         "level": 1
@@ -1051,13 +1051,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!haFrGbWoMPQSGw7B.8Zpsc0k0MOHIlOTn"
+      "_key": "!journal.pages!APtGP8a13gYM6yiu.PtAxQM4YBZ5B2BGe"
     },
     {
       "sort": 30,
       "name": "Roper",
       "type": "text",
-      "_id": "PpPC8b7wtfVpdqOD",
+      "_id": "o9769wo8HdGxrkDE",
       "title": {
         "show": true,
         "level": 1
@@ -1086,13 +1086,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!haFrGbWoMPQSGw7B.PpPC8b7wtfVpdqOD"
+      "_key": "!journal.pages!APtGP8a13gYM6yiu.o9769wo8HdGxrkDE"
     },
     {
       "sort": 31,
       "name": "Sahuagin",
       "type": "text",
-      "_id": "OBCCMiX6vcRX5EmF",
+      "_id": "7iXKU232fj3vgRNV",
       "title": {
         "show": true,
         "level": 1
@@ -1121,13 +1121,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!haFrGbWoMPQSGw7B.OBCCMiX6vcRX5EmF"
+      "_key": "!journal.pages!APtGP8a13gYM6yiu.7iXKU232fj3vgRNV"
     },
     {
       "sort": 32,
       "name": "Salamandra",
       "type": "text",
-      "_id": "3qA4iGGbPmF2xuRy",
+      "_id": "GdPU6mLhpkoWSfpw",
       "title": {
         "show": true,
         "level": 1
@@ -1156,13 +1156,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!haFrGbWoMPQSGw7B.3qA4iGGbPmF2xuRy"
+      "_key": "!journal.pages!APtGP8a13gYM6yiu.GdPU6mLhpkoWSfpw"
     },
     {
       "sort": 33,
       "name": "Sapo Gigante",
       "type": "text",
-      "_id": "1bR4haC72iXQRoqN",
+      "_id": "uH2XLzvciJRvAvnk",
       "title": {
         "show": true,
         "level": 1
@@ -1170,7 +1170,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.CF4B3p17RUJki22Y]{Sapo gigante}</p>\n</div>"
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.CF4B3p17RUJki22Y]{Sapo Gigante}</p>\n</div>"
       },
       "video": {
         "controls": true,
@@ -1191,13 +1191,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!haFrGbWoMPQSGw7B.1bR4haC72iXQRoqN"
+      "_key": "!journal.pages!APtGP8a13gYM6yiu.uH2XLzvciJRvAvnk"
     },
     {
       "sort": 34,
       "name": "Sátiro",
       "type": "text",
-      "_id": "40zQJpu7C7QqyaR8",
+      "_id": "rYgV3oB5QJIUTDup",
       "title": {
         "show": true,
         "level": 1
@@ -1226,13 +1226,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!haFrGbWoMPQSGw7B.40zQJpu7C7QqyaR8"
+      "_key": "!journal.pages!APtGP8a13gYM6yiu.rYgV3oB5QJIUTDup"
     },
     {
       "sort": 35,
       "name": "Shoggoth",
       "type": "text",
-      "_id": "IYV0PEpKC1mKllI6",
+      "_id": "DQiQ4bhbeFuesAx9",
       "title": {
         "show": true,
         "level": 1
@@ -1261,13 +1261,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!haFrGbWoMPQSGw7B.IYV0PEpKC1mKllI6"
+      "_key": "!journal.pages!APtGP8a13gYM6yiu.DQiQ4bhbeFuesAx9"
     },
     {
       "sort": 36,
       "name": "Sibilate",
       "type": "text",
-      "_id": "6dyDgFBdLZd3ibRc",
+      "_id": "mTfAgCx7DnatJIwa",
       "title": {
         "show": true,
         "level": 1
@@ -1296,13 +1296,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!haFrGbWoMPQSGw7B.6dyDgFBdLZd3ibRc"
+      "_key": "!journal.pages!APtGP8a13gYM6yiu.mTfAgCx7DnatJIwa"
     },
     {
       "sort": 37,
       "name": "Sombra",
       "type": "text",
-      "_id": "8EzoVXychI5nJpLu",
+      "_id": "Uh2W9H9xoUVbiw3h",
       "title": {
         "show": true,
         "level": 1
@@ -1331,13 +1331,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!haFrGbWoMPQSGw7B.8EzoVXychI5nJpLu"
+      "_key": "!journal.pages!APtGP8a13gYM6yiu.Uh2W9H9xoUVbiw3h"
     },
     {
       "sort": 38,
       "name": "Stirge",
       "type": "text",
-      "_id": "zhWQOqaiRSdTQkYJ",
+      "_id": "pfSj0MiQipEO2xVW",
       "title": {
         "show": true,
         "level": 1
@@ -1366,13 +1366,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!haFrGbWoMPQSGw7B.zhWQOqaiRSdTQkYJ"
+      "_key": "!journal.pages!APtGP8a13gYM6yiu.pfSj0MiQipEO2xVW"
     },
     {
       "sort": 39,
       "name": "Tarrasque",
       "type": "text",
-      "_id": "tKADZNyeRSckrgUz",
+      "_id": "4qIFnyBVQIx3yTKp",
       "title": {
         "show": true,
         "level": 1
@@ -1401,13 +1401,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!haFrGbWoMPQSGw7B.tKADZNyeRSckrgUz"
+      "_key": "!journal.pages!APtGP8a13gYM6yiu.4qIFnyBVQIx3yTKp"
     },
     {
       "sort": 40,
       "name": "Tasloi",
       "type": "text",
-      "_id": "sti6lWNar2fE1IkN",
+      "_id": "35j6pHZmbTjjwRIv",
       "title": {
         "show": true,
         "level": 1
@@ -1436,13 +1436,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!haFrGbWoMPQSGw7B.sti6lWNar2fE1IkN"
+      "_key": "!journal.pages!APtGP8a13gYM6yiu.35j6pHZmbTjjwRIv"
     },
     {
       "sort": 41,
       "name": "Thoul",
       "type": "text",
-      "_id": "gPVBRSNDuTx5jOLD",
+      "_id": "SB04gGbWRKBoXdtZ",
       "title": {
         "show": true,
         "level": 1
@@ -1471,13 +1471,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!haFrGbWoMPQSGw7B.gPVBRSNDuTx5jOLD"
+      "_key": "!journal.pages!APtGP8a13gYM6yiu.SB04gGbWRKBoXdtZ"
     },
     {
       "sort": 42,
       "name": "Tragg",
       "type": "text",
-      "_id": "MQSwnHptIld9CZPt",
+      "_id": "EzWAWFVfwO3ec2cm",
       "title": {
         "show": true,
         "level": 1
@@ -1506,13 +1506,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!haFrGbWoMPQSGw7B.MQSwnHptIld9CZPt"
+      "_key": "!journal.pages!APtGP8a13gYM6yiu.EzWAWFVfwO3ec2cm"
     },
     {
       "sort": 43,
       "name": "Treant",
       "type": "text",
-      "_id": "NDLUKcHYmvJuygX6",
+      "_id": "CLOipuu62HhKnjq1",
       "title": {
         "show": true,
         "level": 1
@@ -1541,13 +1541,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!haFrGbWoMPQSGw7B.NDLUKcHYmvJuygX6"
+      "_key": "!journal.pages!APtGP8a13gYM6yiu.CLOipuu62HhKnjq1"
     },
     {
       "sort": 44,
       "name": "Trogolita",
       "type": "text",
-      "_id": "gEMnyagGbW9zlzgQ",
+      "_id": "4zwzRFnb4ekUouxC",
       "title": {
         "show": true,
         "level": 1
@@ -1576,13 +1576,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!haFrGbWoMPQSGw7B.gEMnyagGbW9zlzgQ"
+      "_key": "!journal.pages!APtGP8a13gYM6yiu.4zwzRFnb4ekUouxC"
     },
     {
       "sort": 45,
       "name": "Troll",
       "type": "text",
-      "_id": "WTuUD7sJqhDXTGoO",
+      "_id": "gXJtVbDhqLGcb769",
       "title": {
         "show": true,
         "level": 1
@@ -1611,13 +1611,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!haFrGbWoMPQSGw7B.WTuUD7sJqhDXTGoO"
+      "_key": "!journal.pages!APtGP8a13gYM6yiu.gXJtVbDhqLGcb769"
     },
     {
       "sort": 46,
       "name": "Urso Coruja",
       "type": "text",
-      "_id": "VUrLWHdZlHUrpseC",
+      "_id": "CsTHvlFwh0soT351",
       "title": {
         "show": true,
         "level": 1
@@ -1625,7 +1625,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.sclJwihHrROAJUuY]{Urso-coruja}</p>\n</div>"
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.sclJwihHrROAJUuY]{Urso-Coruja}</p>\n</div>"
       },
       "video": {
         "controls": true,
@@ -1646,13 +1646,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!haFrGbWoMPQSGw7B.VUrLWHdZlHUrpseC"
+      "_key": "!journal.pages!APtGP8a13gYM6yiu.CsTHvlFwh0soT351"
     },
     {
       "sort": 47,
       "name": "Vampiro",
       "type": "text",
-      "_id": "vc8cATr4OliK4uCh",
+      "_id": "jCxNrglYHKnnwv5z",
       "title": {
         "show": true,
         "level": 1
@@ -1681,13 +1681,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!haFrGbWoMPQSGw7B.vc8cATr4OliK4uCh"
+      "_key": "!journal.pages!APtGP8a13gYM6yiu.jCxNrglYHKnnwv5z"
     },
     {
       "sort": 48,
       "name": "Verme da Carcaça",
       "type": "text",
-      "_id": "ufpYSHR95Tjfn92R",
+      "_id": "hstDt6K8SE2SBm1A",
       "title": {
         "show": true,
         "level": 1
@@ -1695,7 +1695,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.CvoLVeEN90A8LkY0]{Verme da carcaça}</p>\n</div>"
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.CvoLVeEN90A8LkY0]{Verme da Carcaça}</p>\n</div>"
       },
       "video": {
         "controls": true,
@@ -1716,13 +1716,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!haFrGbWoMPQSGw7B.ufpYSHR95Tjfn92R"
+      "_key": "!journal.pages!APtGP8a13gYM6yiu.hstDt6K8SE2SBm1A"
     },
     {
       "sort": 49,
       "name": "Verme Escalate",
       "type": "text",
-      "_id": "kqtpMGFbdoVWPpih",
+      "_id": "uF3ljg9mtW2QxQXe",
       "title": {
         "show": true,
         "level": 1
@@ -1730,7 +1730,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.kJdGK13SAFUoyDzC]{Verme escarlate}</p>\n</div>"
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.kJdGK13SAFUoyDzC]{Verme Escarlate}</p>\n</div>"
       },
       "video": {
         "controls": true,
@@ -1751,13 +1751,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!haFrGbWoMPQSGw7B.kqtpMGFbdoVWPpih"
+      "_key": "!journal.pages!APtGP8a13gYM6yiu.uF3ljg9mtW2QxQXe"
     },
     {
       "sort": 50,
       "name": "Víbora Gigante",
       "type": "text",
-      "_id": "oFecYhe6vmGFuHC8",
+      "_id": "dRwYDthccGkfSrRu",
       "title": {
         "show": true,
         "level": 1
@@ -1765,7 +1765,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.Y2r5nAkqv08q2LLR]{Víbora gigante}</p>\n</div>"
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.Y2r5nAkqv08q2LLR]{Víbora Gigante}</p>\n</div>"
       },
       "video": {
         "controls": true,
@@ -1786,13 +1786,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!haFrGbWoMPQSGw7B.oFecYhe6vmGFuHC8"
+      "_key": "!journal.pages!APtGP8a13gYM6yiu.dRwYDthccGkfSrRu"
     },
     {
       "sort": 51,
       "name": "Vinha Mortal",
       "type": "text",
-      "_id": "ajZ13ChcDe9CsPuN",
+      "_id": "HKyk4gtNDeJGHiT8",
       "title": {
         "show": true,
         "level": 1
@@ -1800,7 +1800,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.lWV1ukE9PAYi33Zi]{Vinha mortal}</p>\n</div>"
+        "content": "<div class=\"odo-markdown\"><p>@UUID[Compendium.olddragon2e.monsters.Actor.lWV1ukE9PAYi33Zi]{Vinha Mortal}</p>\n</div>"
       },
       "video": {
         "controls": true,
@@ -1821,13 +1821,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!haFrGbWoMPQSGw7B.ajZ13ChcDe9CsPuN"
+      "_key": "!journal.pages!APtGP8a13gYM6yiu.HKyk4gtNDeJGHiT8"
     },
     {
       "sort": 52,
       "name": "Worg",
       "type": "text",
-      "_id": "tNzzXhQDZZaNOiqH",
+      "_id": "p008vVKBBCte5qmH",
       "title": {
         "show": true,
         "level": 1
@@ -1856,13 +1856,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!haFrGbWoMPQSGw7B.tNzzXhQDZZaNOiqH"
+      "_key": "!journal.pages!APtGP8a13gYM6yiu.p008vVKBBCte5qmH"
     },
     {
       "sort": 53,
       "name": "Wyvern",
       "type": "text",
-      "_id": "326cEbkTcbS3B9hJ",
+      "_id": "guRiq7CEmpsssUjr",
       "title": {
         "show": true,
         "level": 1
@@ -1891,13 +1891,13 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!haFrGbWoMPQSGw7B.326cEbkTcbS3B9hJ"
+      "_key": "!journal.pages!APtGP8a13gYM6yiu.guRiq7CEmpsssUjr"
     },
     {
       "sort": 54,
       "name": "Zumbi",
       "type": "text",
-      "_id": "6QVVLeaJLpiAJlf5",
+      "_id": "qfdWfei01fBEPbLU",
       "title": {
         "show": true,
         "level": 1
@@ -1926,7 +1926,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "sHlguNLILDsjMUbV"
       },
-      "_key": "!journal.pages!haFrGbWoMPQSGw7B.6QVVLeaJLpiAJlf5"
+      "_key": "!journal.pages!APtGP8a13gYM6yiu.qfdWfei01fBEPbLU"
     }
   ],
   "flags": {},
@@ -1943,5 +1943,5 @@
     "default": 0,
     "enzpVKIAX52oTyPe": 3
   },
-  "_key": "!journal!haFrGbWoMPQSGw7B"
+  "_key": "!journal!APtGP8a13gYM6yiu"
 }

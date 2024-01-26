@@ -1,5 +1,5 @@
 {
-  "name": "Piqueiro (mercenário)",
+  "name": "Piqueiro (Mercenário)",
   "type": "monster",
   "_id": "D5kUIzs4W1kQYEKU",
   "img": "systems/olddragon2e/assets/monsters-concepts/humanoide-medio.webp",
@@ -37,7 +37,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Piqueiro (mercenário)",
+    "name": "Piqueiro (Mercenário)",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,

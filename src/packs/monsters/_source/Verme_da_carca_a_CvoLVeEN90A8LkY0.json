@@ -1,5 +1,5 @@
 {
-  "name": "Verme da carcaça",
+  "name": "Verme da Carcaça",
   "type": "monster",
   "_id": "CvoLVeEN90A8LkY0",
   "img": "systems/olddragon2e/assets/monsters-concepts/besta-grande.webp",
@@ -37,7 +37,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Verme da carcaça",
+    "name": "Verme da Carcaça",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,

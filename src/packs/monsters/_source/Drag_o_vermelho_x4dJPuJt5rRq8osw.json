@@ -1,5 +1,5 @@
 {
-  "name": "Dragão vermelho",
+  "name": "Dragão Vermelho",
   "type": "monster",
   "_id": "x4dJPuJt5rRq8osw",
   "img": "systems/olddragon2e/assets/monsters-concepts/dragao-imenso.webp",
@@ -37,7 +37,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Dragão vermelho",
+    "name": "Dragão Vermelho",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,

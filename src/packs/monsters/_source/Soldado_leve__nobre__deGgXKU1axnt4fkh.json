@@ -1,5 +1,5 @@
 {
-  "name": "Soldado leve (nobre)",
+  "name": "Soldado Leve (Nobre)",
   "type": "monster",
   "_id": "deGgXKU1axnt4fkh",
   "img": "systems/olddragon2e/assets/monsters-concepts/humanoide-medio.webp",
@@ -37,7 +37,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Soldado leve (nobre)",
+    "name": "Soldado Leve (Nobre)",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
