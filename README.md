@@ -24,7 +24,7 @@ Para instalar, abra o Foundry, vá em Sistemas (_Systems_) em Instalar Sistema (
 Você também pode copiar o link do manifesto abaixo e colar na caixa de manifesto (_Link manifest_):
 
 ```text
-https://github.com/burobrasil/olddragon2e-foundryvtt/releases/latest/download/system.json
+https://github.com/burobrasil/olddragon2e-foundryvtt/releases/latest/download/olddragon2e.json
 ```
 
 Opcionalmente, com o FoundryVTT fechado, você pode baixar o arquivo `olddragon2e.zip` da aba de [Releases](https://github.com/burobrasil/olddragon2e-foundryvtt/releases) e colocar dentro do seu FoundryVTT, na subpasta `Data/systems`.
