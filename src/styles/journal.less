@@ -78,6 +78,16 @@
           color: @carmesim-500;
         }
 
+        a.content-link {
+          padding: 0px;
+          background-color: transparent;
+          border: none;
+
+          i {
+            display: none;
+          }
+        }
+
         ul {
           margin: 0px;
           margin-bottom: 0.75rem;
@@ -88,6 +98,65 @@
           p {
             display: inline;
           }
+        }
+
+        // Images
+
+        img {
+          border: none;
+        }
+
+        img.large,
+        img.tall,
+        img.diagram,
+        img.medium,
+        img.small,
+        img.flat,
+        img.minimap,
+        img.tiny {
+          display: flex;
+          margin-top: 2.5rem;
+          margin-right: auto;
+          margin-bottom: 2.5rem;
+          margin-left: auto;
+        }
+
+        img.large {
+          width: 66.666667%;
+        }
+
+        img.tall {
+          max-height: 48rem;
+        }
+
+        img.diagram {
+          max-height: 72rem;
+        }
+
+        img.medium {
+          max-height: 36rem;
+        }
+
+        img.small {
+          max-height: 12rem;
+        }
+
+        img.dialogueicon {
+          display: inline;
+          width: 2rem;
+          height: 2rem;
+        }
+
+        img.flat {
+          width: 24rem;
+        }
+
+        img.minimap {
+          max-height: 20rem;
+        }
+
+        img.tiny {
+          width: 5rem;
         }
 
         .overflow-x-auto {
