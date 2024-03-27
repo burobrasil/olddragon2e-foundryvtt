@@ -1,3 +1,6 @@
+const getItemsOfActorOfType = (actor, filterType, filterFn = null) =>
+  actor.items.filter(({ type }) => type === filterType).filter(filterFn || (() => true));
+
 export class OD2MonsterDataModel extends foundry.abstract.TypeDataModel {
   static defineSchema() {
     const fields = foundry.data.fields;
@@ -51,5 +54,9 @@ export class OD2MonsterDataModel extends foundry.abstract.TypeDataModel {
 
   get mve() {
     return Math.floor(parseInt(this.mv) - 2);
+  }
+
+  get monster_attack_items() {
+    return getItemsOfActorOfType(this.parent, 'monster_attack').sort((a, b) => (a.sort || 0) - (b.sort || 0));
   }
 }

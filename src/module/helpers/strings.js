@@ -6,3 +6,13 @@ export function truncateString(string, number) {
   // Return string truncated with '...' concatenated to the end of string.
   return string.slice(0, number) + '...';
 }
+
+export function signed_number(number, zero = '+0') {
+  if (number === '0') {
+    return zero;
+  } else if (number < 0) {
+    return number.toString();
+  } else {
+    return `+${number}`;
+  }
+}

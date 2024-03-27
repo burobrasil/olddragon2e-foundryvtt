@@ -1,3 +1,3 @@
 export { showDialog } from './dialogs';
 export { registerHandlebarsHelper } from './handlebars';
-export { truncateString } from './strings';
+export { truncateString, signed_number } from './strings';

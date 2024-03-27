@@ -8,6 +8,7 @@ export default class OD2Item extends Item {
     container: 'systems/olddragon2e/templates/partials/cards/container-card.hbs',
     vehicle: 'systems/olddragon2e/templates/partials/cards/vehicle-card.hbs',
     spell: 'systems/olddragon2e/templates/chat/spell-chat.hbs',
+    monster_attack: 'systems/olddragon2e/templates/partials/cards/monster_attack-card.hbs',
   };
 
   async roll() {
