@@ -11,9 +11,11 @@ Sistema do Old Dragon 2a Edição para FoundryVTT.
 - **Cálculo Automático de Movimento:** O módulo calcula automaticamente as variações de movimento (Correr, Nadar e Escalar) baseado no valor do movimento atual;
 - **Cálculo Automático de Carga:** O módulo calcula automaticamente a Carga Máxima e a Carga Atual do personagem. A Carga Máxima é representada pelo maior valor entre os atributos de Força e Constituição, além de bônus provenientes de equipamentos como a Mochila. A Carga Atual leva em consideração a soma da carga de todos os itens que personagem possui. (O peso das moedas ainda não está sendo incluído).
 - **Rolagens de Dados Aprimoradas para Personagens:** Inclui rolagens para Atributos, Jogadas de Proteção (JPD/JPC/JPS), Ataques (BAC/BAD), Dano e Chance de Nocaute com opções de Ajuste de Teste e Modificador Opcional;
-- **Rolagens de Dados Aprimoradas para Monstros & Inimigos:** Inclui rolagens para Jogada de Proteção (JP), Moral (MO) e Pontos de Vida (DV/PV) com opções de Ajuste de Teste e Modificador Opcional;
-- **Gerenciamento de Magias e Equipamentos:** Permite adicionar, editar, mover, remover e lançar magias, bem como gerenciar equipamentos. Alterações em itens refletem dinamicamente no Peso Total, Valor Total e Carga Atual/Carga Máxima do personagem;
+- **Rolagens de Dados Aprimoradas para Monstros & Inimigos:** Inclui rolagens para Jogada de Proteção (JP), Moral (MO), Dados de Vida/Pontos de Vida (DV/PV), Ataque (BA) e Dano com opções de Ajuste de Teste e Modificador Opcional;
+- **Gerenciamento de Magias e Equipamentos:** Permite adicionar, editar, mover, remover e lançar magias, bem como gerenciar equipamentos. Alterações em itens refletem dinamicamente no Peso Total, Valor Total e Carga Atual/Máxima do personagem;
 - **Equipar/Desequipar itens**: Permite equipar/desequipar Armas, Armaduras, Escudos, Recipientes & Vasilhames. Armas equipadas são exibidas na aba "Ataques". Ao equipar uma Armadura ou Escudo, os bônus de CA são adicionados automaticamente à Classe de Armadura do personagem. Ao equipar uma Mochila, o valor da Carga Máxima permitida é atualizado automaticamente.
+- **Compêndio SRD**: O módulo inclui gratuitamente o compêndio "SRD". Esta coleção concisa e compacta inclui Equipamentos, Magias, Monstros & Inimigos, Tabelas de Rolagem, Personagens Prontos, além do SRD (Documento de Referência) em si, o que possibilita consultar regras e instruções sem a necessidade de sair do aplicativo.
+- **Iniciativa (Combat Encounter)**: O módulo utiliza a regra de iniciativa alternativa "Iniciativa Individual", presente no LB2 (pág. 88). Ao adicionar Personagens e Monstros & Inimigos a um Encontro, utilizando o _Combat Encounter_, ao clicar em "Rolar Iniciativa" será lançado 1d12 para cada participante do combate. Os personagens com os resultados mais altos agem primeiro. Por tanto, a ordem das ações será: Maior resultado > 2º maior resultado > 3º maior resultado.
 
 O restante da ficha deve ser preenchida e gerenciada manualmente. Mais abaixo você encontra uma lista de pendências com o que planejamos implementar no futuro.
 
@@ -36,11 +38,15 @@ O sistema `olddragon2e` para Foundry VTT está em desenvolvimento contínuo, ain
 - Controle de uso de Magias;
 - Raças e Classes dinâmicas (xp, movimento, infravisão, habilidades);
 - Controle de uso de Habilidades de Classe;
-- Rolagem de ataque para Monstros;
-- Tabelas de rolagens diversas (ex: Tesouros);
-- Sistema de turnos/iniciativa (Combat Tracker).
+- Sistema de Iniciativa (Combat Encounter) padrão do LB1.
 
 ## Importação de personagens
+
+O sistema permite importar personagens criados na plataforma [ODO](https://olddragon.com.br/).
+
+Passo a passo: Na aba "Actors", clique em "Importar Personagem do ODO". Insira o link da ficha do personagem escolhido no [ODO](https://olddragon.com.br/) (utilizando o botão de "Compartilhar" da ficha, ou copiando a URL no browser). Por último, basta clicar em "Importar".
+
+Esta funcionalidade ainda será aprimorada. Por tanto, atualmente o personagem importado carrega apenas os seguintes dados: Nome; Raça; Classe; Nível; Movimento; Pontos de Vida; Atributos e Modificadores (Força, Destreza, Constituição, Inteligência, Sabedoria e Carisma).
 
 ![Importação de personagem](./static/importacao-personagem.gif)
 
