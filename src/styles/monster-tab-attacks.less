@@ -1,0 +1,78 @@
+.olddragon2e.sheet.monster {
+  .monster-tab-attacks {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.25rem;
+
+    .attacks {
+      width: 100%;
+
+      .list {
+        display: flex;
+        flex-direction: row;
+        width: 100%;
+        padding: 2.5px 5px;
+        border-top-left-radius: 0.25rem;
+        border-top-right-radius: 0.25rem;
+        background-color: @carmesim-600;
+        color: white;
+        font-size: smaller;
+        font-weight: bold;
+
+        .attack {
+          flex-basis: 48%;
+        }
+  
+        .ba {
+          flex-basis: 10%;
+        }
+  
+        .damage {
+          flex-basis: 42%;
+        }
+      }
+
+      ol {
+        width: 100%;
+        margin: 0px;
+        padding: 0px;
+        list-style-type: none;
+
+        li {
+          display: flex;
+          flex-direction: row;
+          align-items: center;
+          width: 100%;
+          height: 30px;
+          margin-bottom: 0.1rem;
+          padding: 2.5px 5px;
+          background-color: rgba(128, 128, 128, 0.25);
+          font-size: smaller;
+
+          a:hover {
+            text-shadow: none;
+            color: @carmesim-600;
+          }
+
+          .attack-text {
+            flex-basis: 48%;
+          }
+    
+          .attack-ba {
+            flex-basis: 10%;
+          }
+    
+          .attack-damage-description {
+            flex-basis: 35%;
+          }
+
+          .item-controls {
+            flex-basis: 7%;
+            text-align: right;
+          }
+        }
+      }
+    }
+  }
+}

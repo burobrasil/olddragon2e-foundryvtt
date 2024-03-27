@@ -10,7 +10,7 @@
             <div class="damage-type"></div>
             <div class="description">{{localize "olddragon2e.properties"}}</div>
         </div>
-        <ol>
+        <ol class="item-list">
             {{#each attack as |attack id|}}
             <li class="item attack" data-item-id="{{attack._id}}">
                 {{> "systems/olddragon2e/templates/partials/cards/attack-card.hbs" attack actor=@root.system}}

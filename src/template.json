@@ -3,6 +3,6 @@
     "types": ["character", "monster"]
   },
   "Item": {
-    "types": ["weapon", "armor", "shield", "misc", "container", "vehicle", "spell"]
+    "types": ["weapon", "armor", "shield", "misc", "container", "vehicle", "spell", "monster_attack"]
   }
 }

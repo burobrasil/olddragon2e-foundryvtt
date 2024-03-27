@@ -1,0 +1,17 @@
+<div class="monster-tab-attacks">
+    {{!-- Ataques --}}
+    <div class="attacks">
+        <div class="list">
+            <div class="attack">{{localize "olddragon2e.atq"}}</div>
+            <div class="ba">{{localize "olddragon2e.ba_short"}}</div>
+            <div class="damage">{{localize "olddragon2e.damage"}}</div>
+        </div>
+        <ol class="item-list">
+            {{#each monster_attack as |monster_attack|}}
+            <li class="item attack" data-item-id="{{monster_attack.id}}">
+                {{> "systems/olddragon2e/templates/partials/cards/monster_attack-card.hbs" monster_attack}}
+            </li>
+            {{/each}}
+        </ol>
+    </div>
+</div>

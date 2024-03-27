@@ -5,7 +5,7 @@ export async function preloadTemplates() {
     'systems/olddragon2e/templates/partials/tabs/character-tab-spells.hbs',
     'systems/olddragon2e/templates/partials/tabs/character-tab-equipment.hbs',
     'systems/olddragon2e/templates/partials/tabs/character-tab-details.hbs',
-    'systems/olddragon2e/templates/partials/tabs/monster-tab-skills.hbs',
+    'systems/olddragon2e/templates/partials/tabs/monster-tab-attacks.hbs',
     'systems/olddragon2e/templates/partials/tabs/monster-tab-info.hbs',
     'systems/olddragon2e/templates/partials/cards/attack-card.hbs',
     'systems/olddragon2e/templates/partials/cards/weapon-card.hbs',
@@ -15,6 +15,7 @@ export async function preloadTemplates() {
     'systems/olddragon2e/templates/partials/cards/container-card.hbs',
     'systems/olddragon2e/templates/partials/cards/vehicle-card.hbs',
     'systems/olddragon2e/templates/partials/cards/spell-card.hbs',
+    'systems/olddragon2e/templates/partials/cards/monster_attack-card.hbs',
   ];
 
   return loadTemplates(templatePaths);
