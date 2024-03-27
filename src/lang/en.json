@@ -220,6 +220,7 @@
     "equipment_short": "Equip.",
     "quantity": "Quantidade",
     "quantity_short": "Qtd",
+    "times": "Vezes",
     "weight": "Peso",
     "weight_in_load": "Peso em carga",
     "weight_in_grams": "Peso em gramas",
@@ -246,6 +247,7 @@
     },
     "unarmed": "Desarmado",
     "damage": "Dano",
+    "damage_description": "Descrição do dano",
     "damage_roll": "Rolar dano",
     "avarage_damage": "Dano médio",
     "bonus_damage": "Bônus no dano",
@@ -253,8 +255,8 @@
     "knockout_roll": "Rolar chance de nocaute",
     "bonus_ba": "Bônus na BA",
     "range": "Alcance",
-    "throw_range": "Alcance (disparo)",
-    "shoot_range": "Alcance (arremesso)",
+    "throw_range": "Alcance (arremesso)",
+    "shoot_range": "Alcance (disparo)",
     "arrow": "Flecha",
     "bolt": "Virote",
     "bolt_small": "Virote pequeno",
@@ -309,7 +311,7 @@
         "details_tab": "Detalhes"
       },
       "monster": {
-        "skills_tab": "Habilidades",
+        "attacks_tab": "Ataques",
         "info_tab": "Informações"
       }
     },
