@@ -11,7 +11,6 @@
     "alignment": "caotico",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Deflexão</strong>: toda magia lançada diretamente sobre o Shoggoth (excetuando-se as magias em área) possui 1-2 chances em 1d6 de não surtir efeitos.</p>\n  </li>\n  <li>\n    <p><strong>Imunidades</strong>: imune aos efeitos do frio, da eletricidade, venenos, paralisação e encantamentos.</p>\n  </li>\n  <li>\n    <p><strong>Alterar Forma</strong>: pode assumir a forma de qualquer criatura humanoide (M ou G). Um Shoggoth voltará a sua forma normal caso seja morto.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × mordida +13 (3d10)</li>\n  <li>2 × tentáculos +13 (2d6)</li>\n</ul>\n",
     "encounters": "1",
     "encounters_lair": "1",
     "xp": "3150",
@@ -25,7 +24,6 @@
     "mvo": "",
     "dv": "15",
     "dv_bonus": "",
-    "pv": "75",
     "ca": "19",
     "jp": "14",
     "mo": "10",
@@ -100,7 +98,76 @@
     "flags": {},
     "randomImg": false
   },
-  "items": [],
+  "items": [
+    {
+      "_id": "cfv6GZbNb6ZhLPF1",
+      "name": "1 × mordida +13 (3d10)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 1,
+        "ba": 13,
+        "damage_bonus": null,
+        "weapon": false,
+        "description": "mordida",
+        "damage_description": "3d10",
+        "damage": "3d10"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!Ic1WjSsl5DW4D0gV.cfv6GZbNb6ZhLPF1"
+    },
+    {
+      "_id": "T18Ks3rMJRXUgYnw",
+      "name": "2 × tentáculos +13 (2d6)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 2,
+        "ba": 13,
+        "damage_bonus": null,
+        "weapon": false,
+        "description": "tentáculos",
+        "damage_description": "2d6",
+        "damage": "2d6"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!Ic1WjSsl5DW4D0gV.T18Ks3rMJRXUgYnw"
+    }
+  ],
   "effects": [],
   "folder": "8gdK9MBNzpaboPvc",
   "flags": {

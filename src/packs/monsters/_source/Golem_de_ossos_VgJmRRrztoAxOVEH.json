@@ -11,7 +11,6 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Imunidades</strong>: um Golem de Ossos é imune ao dano de qualquer arma não mágica. Além disso, não são atingidos por ataques que necessitem de um alvo vivo (como gases, venenos ou magias mentais como ilusões ou demais formas mágicas de interferir na mente de seres vivos).</p>\n  </li>\n  <li>\n    <p><strong>Quatro Braços</strong>: um Golem de Ossos possui 4 braços os quais podem ser usados para atacar até 2 oponentes diferentes. Um Golem de Ossos pode ainda usar duas armas de duas mãos e desferir dois ataques em um único oponente.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × arma +9 (arma +0)</li>\n</ul>\n",
     "encounters": "1",
     "encounters_lair": "1",
     "xp": "740",
@@ -25,7 +24,6 @@
     "mvo": "",
     "dv": "8",
     "dv_bonus": "",
-    "pv": "40",
     "ca": "18",
     "jp": "7",
     "mo": "12",
@@ -100,7 +98,42 @@
     "flags": {},
     "randomImg": false
   },
-  "items": [],
+  "items": [
+    {
+      "_id": "nASKqQ5uGaCsDGSU",
+      "name": "1 × arma +9 (arma +0)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 1,
+        "ba": 9,
+        "damage_bonus": 0,
+        "weapon": true,
+        "description": "arma",
+        "damage_description": "arma +0",
+        "damage": null
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!VgJmRRrztoAxOVEH.nASKqQ5uGaCsDGSU"
+    }
+  ],
   "effects": [],
   "folder": "dL28FhbTtcpVU2wM",
   "flags": {

@@ -11,7 +11,6 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Classe de armadura</strong>: Cavaleiros da Morte possuem CA 14 ou 21 quando usam armadura completa.</p>\n  </li>\n  <li>\n    <p><strong>Medo</strong>: sua aura de morte amedronta todos dentro de um raio de 10 metros e que tenham falhado em uma JPS. Os alvos devem fugir por 1d3 turnos e têm 50% de chance de soltarem qualquer objeto que estejam segurando.</p>\n  </li>\n  <li>\n    <p><strong>Neblina das tumbas</strong>: o Cavaleiro da Morte dificulta o efeito de um Afastar Mortos-Vivos de um Clérigo. Todo morto-vivo a até 20 metros deve ser tratado como se tivesse um dado de vida a mais para ser afetado.</p>\n  </li>\n  <li>\n    <p><strong>Morto-vivo</strong>: imune a magias mentais de manipulação, controle ou ilusão, ou demais formas mágicas de interferir na mente de seres vivos.</p>\n  </li>\n  <li>\n    <p><strong>Fogo Profano</strong>: a espada longa do Cavaleiro da Morte arde em chamas causando 1d6 de dano adicional pelo fogo.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>2 × espadas longas +9 (1d8+6 + fogo)</li>\n</ul>\n",
     "encounters": "1",
     "encounters_lair": "1",
     "xp": "740",
@@ -25,7 +24,6 @@
     "mvo": "",
     "dv": "9",
     "dv_bonus": "+16",
-    "pv": "61",
     "ca": "14/21",
     "jp": "12",
     "mo": "12",
@@ -100,7 +98,42 @@
     "flags": {},
     "randomImg": false
   },
-  "items": [],
+  "items": [
+    {
+      "_id": "SnTO7mTRswjPRYmh",
+      "name": "2 × espadas longas +9 (1d8+6 + fogo)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 2,
+        "ba": 9,
+        "damage_bonus": 6,
+        "weapon": false,
+        "description": "espadas longas",
+        "damage_description": "1d8+6 + fogo",
+        "damage": "1d8"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!fz8fbyGB0zxNuevl.SnTO7mTRswjPRYmh"
+    }
+  ],
   "effects": [],
   "folder": "gVTyUIxvSEA8UxwB",
   "flags": {

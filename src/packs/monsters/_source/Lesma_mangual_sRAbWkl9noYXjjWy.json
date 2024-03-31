@@ -11,7 +11,6 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Muco</strong>: a Lesma Mangual deixa um rastro de muco escorregadio por onde passa. Por 1d3 turnos essa trilha escorregadia faz com que todos que pisem nela tenham que ser bem-sucedidos numa JPD ou escorregarão e cairão no chão. Há uma chance de 1-2 em 1d6 de uma pessoa que escorregue solte qualquer objeto que esteja segurando. A Lesma Mangual pode deslizar, deslocando-se assim com o dobro do seu movimento por uma área na qual já possua o muco no chão.</p>\n  </li>\n  <li>\n    <p><strong>Refletir Magia</strong>: Lesmas Manguais distorcem todas as magias lançadas diretamente sobre elas (com exceção das magias de área).  Quando forem alvos de uma magia, lance 1d6 e confira na lista:</p>\n  </li>\n</ul>\n\n<p><strong>1</strong>. A magia lançada ricocheteia em seu casco e retorna, causando efeitos ao conjurador.</p>\n\n<p><strong>2</strong>. A magia lançada ricocheteia em seu casco e retorna, atingindo o alvo mais próximo que não seja o conjurador ou a Lesma Mangual.</p>\n\n<p><strong>3-4</strong>. A magia lançada ricocheteia em seu casco e atinge o teto, a parede ou o piso, não causando nenhum efeito.</p>\n\n<p><strong>5-6</strong>. A magia lançada causa seu efeito normalmente.</p>\n",
-    "described_attacks": "<ul>\n  <li>4 × pancadas +5 (1d8+2)</li>\n</ul>\n",
     "encounters": "1",
     "encounters_lair": "1d2",
     "xp": "235",
@@ -25,7 +24,6 @@
     "mvo": "",
     "dv": "5",
     "dv_bonus": "",
-    "pv": "25",
     "ca": "16",
     "jp": "8",
     "mo": "8",
@@ -100,7 +98,42 @@
     "flags": {},
     "randomImg": false
   },
-  "items": [],
+  "items": [
+    {
+      "_id": "WzB8Cnc2UyjX0Avw",
+      "name": "4 × pancadas +5 (1d8+2)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 4,
+        "ba": 5,
+        "damage_bonus": 2,
+        "weapon": false,
+        "description": "pancadas",
+        "damage_description": "1d8+2",
+        "damage": "1d8"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!sRAbWkl9noYXjjWy.WzB8Cnc2UyjX0Avw"
+    }
+  ],
   "effects": [],
   "folder": "8gdK9MBNzpaboPvc",
   "flags": {

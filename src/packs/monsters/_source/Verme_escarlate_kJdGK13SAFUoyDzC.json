@@ -11,7 +11,6 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Senso Sísmico</strong>: um Verme Escarlate pode sentir vibrações no solo a até 30 metros de onde estiver. Ele consegue identificar movimento, perceber a exata localização de uma presa e identificar o tamanho e a quantidade de inimigos na área.</p>\n  </li>\n  <li>\n    <p><strong>Engolir</strong>: se um Verme Escarlate obtiver um 20 natural em seu teste de ataque, engolirá seu oponente. Um oponente engolido sofre 2d4 de dano por rodada até conseguir sair do estômago do Verme. Atacar dentro do sistema digestivo é possível com penalidade de 4 no ataque.</p>\n  </li>\n  <li>\n    <p><strong>Surpresa</strong>: o Verme Escarlate pode atacar vindo diretamente do chão, surpreendendo seus inimigos com um resultado de 1 a 3 em 1d6.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>2 × mordidas +8 (2d6)</li>\n</ul>\n",
     "encounters": "1d2",
     "encounters_lair": "1d4",
     "xp": "740",
@@ -25,7 +24,6 @@
     "mvo": "",
     "dv": "8",
     "dv_bonus": "",
-    "pv": "40",
     "ca": "17",
     "jp": "6",
     "mo": "9",
@@ -100,7 +98,42 @@
     "flags": {},
     "randomImg": false
   },
-  "items": [],
+  "items": [
+    {
+      "_id": "Dkp2p1yywB61Ku6y",
+      "name": "2 × mordidas +8 (2d6)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 2,
+        "ba": 8,
+        "damage_bonus": null,
+        "weapon": false,
+        "description": "mordidas",
+        "damage_description": "2d6",
+        "damage": "2d6"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!kJdGK13SAFUoyDzC.Dkp2p1yywB61Ku6y"
+    }
+  ],
   "effects": [],
   "folder": "8gdK9MBNzpaboPvc",
   "flags": {

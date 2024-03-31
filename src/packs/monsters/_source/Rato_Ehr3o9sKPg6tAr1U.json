@@ -11,7 +11,6 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li><strong>Doença</strong>: um rato possui 1 chance em 1d6 de transmitir Febre do Esgoto a um alvo mordido. Um alvo mordido que falhar em uma JPC, ficará doente e com valor de Constituição igual a 1 por 1d6 dias.</li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × mordida (1d4 + doença)</li>\n</ul>\n",
     "encounters": "5d10",
     "encounters_lair": "2d10",
     "xp": "10",
@@ -25,7 +24,6 @@
     "mvo": "",
     "dv": "½",
     "dv_bonus": "-1",
-    "pv": "1",
     "ca": "12",
     "jp": "3",
     "mo": "5",
@@ -100,7 +98,42 @@
     "flags": {},
     "randomImg": false
   },
-  "items": [],
+  "items": [
+    {
+      "_id": "GlXW8IvDXwEdHe4w",
+      "name": "1 × mordida (1d4 + doença)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 1,
+        "ba": 0,
+        "damage_bonus": null,
+        "weapon": false,
+        "description": "mordida",
+        "damage_description": "1d4 + doença",
+        "damage": "1d4"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!Ehr3o9sKPg6tAr1U.GlXW8IvDXwEdHe4w"
+    }
+  ],
   "effects": [],
   "folder": "fCR6JPmJVtpt7hqx",
   "flags": {

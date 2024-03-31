@@ -11,7 +11,6 @@
     "alignment": "caotico",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Rajada Mental</strong>: o Devorador de Cérebros pode emitir um pulso de caos mental afetando todas as vítimas em um cone de 18 metros de distância. As vítimas que não forem bem-sucedidas em uma JPS, cairão inconscientes por 1d6 turnos.</p>\n  </li>\n  <li>\n    <p><strong>Devorar Mentes</strong>: o Devorador agarra uma de suas vítimas confusas e, ao introduzir seus tentáculos nos ouvidos da vítima, suga e devora os seus miolos. A vítima morre imediatamente.</p>\n  </li>\n  <li>\n    <p><strong>Magias</strong>: podem lançar magias como um Clérigo de 3º nível.</p>\n  </li>\n  <li>\n    <p><strong>Resistência à magia</strong>: qualquer magia lançada contra o Devorador de Cérebro tem 1-5 chances em 1d6 de ser completamente ignorada.</p>\n  </li>\n  <li>\n    <p><strong>Infravisão</strong>: 20 metros.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × pancada +2 (1d6+2)</li>\n</ul>\n",
     "encounters": "1d4",
     "encounters_lair": "4d4",
     "xp": "785",
@@ -25,7 +24,6 @@
     "mvo": "",
     "dv": "8",
     "dv_bonus": "+4",
-    "pv": "44",
     "ca": "17",
     "jp": "11",
     "mo": "10",
@@ -100,7 +98,42 @@
     "flags": {},
     "randomImg": false
   },
-  "items": [],
+  "items": [
+    {
+      "_id": "iwknidA05jwWrJav",
+      "name": "1 × pancada +2 (1d6+2)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 1,
+        "ba": 2,
+        "damage_bonus": 2,
+        "weapon": false,
+        "description": "pancada",
+        "damage_description": "1d6+2",
+        "damage": "1d6"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!sEvbxI9Ni4LxqCyv.iwknidA05jwWrJav"
+    }
+  ],
   "effects": [],
   "folder": "iiv4e6IKFVP68JnX",
   "flags": {

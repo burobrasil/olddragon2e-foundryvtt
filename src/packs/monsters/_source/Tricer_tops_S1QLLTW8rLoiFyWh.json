@@ -11,7 +11,6 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li><strong>Carga</strong>: um Tricerátops pode atacar em carga.  Um ataque de carga possui +2 no ataque, +2 no dano, mas causa uma redução de 2 na CA.</li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>3 × chifres +14 (2d8)</li>\n</ul>\n",
     "encounters": "0",
     "encounters_lair": "1d4",
     "xp": "3350",
@@ -25,7 +24,6 @@
     "mvo": "",
     "dv": "16",
     "dv_bonus": "",
-    "pv": "80",
     "ca": "17",
     "jp": "14",
     "mo": "10",
@@ -100,7 +98,42 @@
     "flags": {},
     "randomImg": false
   },
-  "items": [],
+  "items": [
+    {
+      "_id": "8Zbu2k9cvEFPOmGH",
+      "name": "3 × chifres +14 (2d8)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 3,
+        "ba": 14,
+        "damage_bonus": null,
+        "weapon": false,
+        "description": "chifres",
+        "damage_description": "2d8",
+        "damage": "2d8"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!S1QLLTW8rLoiFyWh.8Zbu2k9cvEFPOmGH"
+    }
+  ],
   "effects": [],
   "folder": "fCR6JPmJVtpt7hqx",
   "flags": {

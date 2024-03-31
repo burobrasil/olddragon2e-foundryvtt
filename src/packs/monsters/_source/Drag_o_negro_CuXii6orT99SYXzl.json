@@ -11,7 +11,6 @@
     "alignment": "caotico",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Baforada</strong>: o Dragão Negro pode, 3 vezes ao dia, abdicar dos seus ataques físicos para liberar uma baforada de jato ácido com a forma de cone com 2 metros de largura e 20 metros de distância. O dano de uma baforada é igual ao número de seus dados de vida em d4. Ou seja, um Dragão Negro causa 7d4 de dano em todos na área de efeito da baforada. Um teste de JPD pode reduzir o dano pela metade. Ao contrário do ácido concentrado, a baforada de ácido do Dragão Negro não causa o dano regressivo típico dos ácidos.</p>\n  </li>\n  <li>\n    <p><strong>Imunidade</strong>: um Dragão Negro é imune a qualquer efeito de ácido.</p>\n  </li>\n  <li>\n    <p><strong>Magias</strong>: um Dragão Negro pode conjurar magias como se fosse um Mago de 6º nível.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × mordida +6 (2d10)</li>\n  <li>2 × garras +7 (1d4+4)</li>\n</ul>\n",
     "encounters": "1d4",
     "encounters_lair": "1d4",
     "xp": "540",
@@ -25,7 +24,6 @@
     "mvo": "",
     "dv": "7",
     "dv_bonus": "+7",
-    "pv": "42",
     "ca": "18",
     "jp": "11",
     "mo": "8",
@@ -100,7 +98,76 @@
     "flags": {},
     "randomImg": false
   },
-  "items": [],
+  "items": [
+    {
+      "_id": "6ZYJRrB9VN1MQomQ",
+      "name": "1 × mordida +6 (2d10)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 1,
+        "ba": 6,
+        "damage_bonus": null,
+        "weapon": false,
+        "description": "mordida",
+        "damage_description": "2d10",
+        "damage": "2d10"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!CuXii6orT99SYXzl.6ZYJRrB9VN1MQomQ"
+    },
+    {
+      "_id": "y89rrHRVqviQnNwl",
+      "name": "2 × garras +7 (1d4+4)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 2,
+        "ba": 7,
+        "damage_bonus": 4,
+        "weapon": false,
+        "description": "garras",
+        "damage_description": "1d4+4",
+        "damage": "1d4"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!CuXii6orT99SYXzl.y89rrHRVqviQnNwl"
+    }
+  ],
   "effects": [],
   "folder": "JAAEFzOmAfOQrbEV",
   "flags": {

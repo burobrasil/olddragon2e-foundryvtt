@@ -11,7 +11,6 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Vigia</strong>: um Cérbero está sempre vigilante e não pode ser surpreendido.</p>\n  </li>\n  <li>\n    <p><strong>Desmorte</strong>: uma criatura morta pelo Cérbero retorna como um Ghoul sob seu controle em 1d3 turnos.</p>\n  </li>\n  <li>\n    <p><strong>Veneno</strong>: a cauda perfurante do Cérbero inocula Veneno Paralisante. Uma JPC evita qualquer efeito deste veneno. Uma falha no teste causa a perda de 1d6 pontos de Destreza por turno até o alvo perder todos os pontos de Destreza e morrer.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × cauda +10 (2d4 + veneno)</li>\n  <li>2 × mordidas +16 (2d6+8)</li>\n</ul>\n",
     "encounters": "1",
     "encounters_lair": "1",
     "xp": "2100",
@@ -25,7 +24,6 @@
     "mvo": "",
     "dv": "20",
     "dv_bonus": "",
-    "pv": "100",
     "ca": "20",
     "jp": "12",
     "mo": "10",
@@ -100,7 +98,76 @@
     "flags": {},
     "randomImg": false
   },
-  "items": [],
+  "items": [
+    {
+      "_id": "kCXvtNmYt7xz0XLX",
+      "name": "1 × cauda +10 (2d4 + veneno)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 1,
+        "ba": 10,
+        "damage_bonus": null,
+        "weapon": false,
+        "description": "cauda",
+        "damage_description": "2d4 + veneno",
+        "damage": "2d4"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!dlrUmrH1tVQWYrBq.kCXvtNmYt7xz0XLX"
+    },
+    {
+      "_id": "FQSgBd0kwlBTedGr",
+      "name": "2 × mordidas +16 (2d6+8)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 2,
+        "ba": 16,
+        "damage_bonus": 8,
+        "weapon": false,
+        "description": "mordidas",
+        "damage_description": "2d6+8",
+        "damage": "2d6"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!dlrUmrH1tVQWYrBq.FQSgBd0kwlBTedGr"
+    }
+  ],
   "effects": [],
   "folder": "8gdK9MBNzpaboPvc",
   "flags": {

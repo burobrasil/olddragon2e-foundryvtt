@@ -11,7 +11,6 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Mordida</strong>: se acertar 4 ataques contra o mesmo personagem, causará mais 3d4 de dano por mordida. O alvo só conseguirá se soltar se receber ajuda externa ou se passar em 4 testes de Força consecutivos.</p>\n  </li>\n  <li>\n    <p><strong>Inflamáveis</strong>: fogo causa dano dobrado nestas criaturas.</p>\n  </li>\n  <li>\n    <p><strong>Proliferar</strong>: ao acertar dois ataques de Mordida no mesmo alvo, o Fungo Violeta liberará esporos que entrarão no corpo da vítima que, por sua vez, morrerá em dois dias após dar vida a um Fungo Pigmeu.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>4 × tentáculos +4 (1d4+4)</li>\n</ul>\n",
     "encounters": "1d8",
     "encounters_lair": "1d4",
     "xp": "50",
@@ -25,7 +24,6 @@
     "mvo": "",
     "dv": "2",
     "dv_bonus": "+4",
-    "pv": "14",
     "ca": "16",
     "jp": "5",
     "mo": "10",
@@ -100,7 +98,42 @@
     "flags": {},
     "randomImg": false
   },
-  "items": [],
+  "items": [
+    {
+      "_id": "CLwyq3xnELqPIMoC",
+      "name": "4 × tentáculos +4 (1d4+4)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 4,
+        "ba": 4,
+        "damage_bonus": 4,
+        "weapon": false,
+        "description": "tentáculos",
+        "damage_description": "1d4+4",
+        "damage": "1d4"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!zOOlZ0m75Rj3KrSq.CLwyq3xnELqPIMoC"
+    }
+  ],
   "effects": [],
   "folder": "UU54ksk0UlLgzORT",
   "flags": {

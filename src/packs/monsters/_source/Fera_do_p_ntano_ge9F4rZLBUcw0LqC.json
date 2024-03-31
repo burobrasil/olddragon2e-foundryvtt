@@ -11,7 +11,6 @@
     "alignment": "caotico",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Classe de armadura</strong>: possuem CA 13 ou 15 quando usam armadura de couro.</p>\n  </li>\n  <li>\n    <p><strong>Emboscar</strong>: podem prender a respiração por até 10 minutos sob a água, atacando de surpresa e ganhando a iniciativa.</p>\n  </li>\n  <li>\n    <p><strong>Saliva paralisante</strong>: 1 vez por combate podem lançar um cuspe à 5 metros de distância capaz de paralisar a vítima por 1d4-2 rodadas, a menos que esta passe em uma JPD.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × chicote +3 (1d4+2)</li>\n  <li>1 × tridente +2 (1d6+2)</li>\n</ul>\n",
     "encounters": "2d4",
     "encounters_lair": "4d6",
     "xp": "25",
@@ -25,7 +24,6 @@
     "mvo": "",
     "dv": "2",
     "dv_bonus": "",
-    "pv": "10",
     "ca": "13/15",
     "jp": "5",
     "mo": "8",
@@ -100,7 +98,76 @@
     "flags": {},
     "randomImg": false
   },
-  "items": [],
+  "items": [
+    {
+      "_id": "TAcNluSNWZWChqyw",
+      "name": "1 × chicote +3 (1d4+2)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 1,
+        "ba": 3,
+        "damage_bonus": 2,
+        "weapon": false,
+        "description": "chicote",
+        "damage_description": "1d4+2",
+        "damage": "1d4"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!ge9F4rZLBUcw0LqC.TAcNluSNWZWChqyw"
+    },
+    {
+      "_id": "G4QGiaeggcEaTOZD",
+      "name": "1 × tridente +2 (1d6+2)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 1,
+        "ba": 2,
+        "damage_bonus": 2,
+        "weapon": false,
+        "description": "tridente",
+        "damage_description": "1d6+2",
+        "damage": "1d6"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!ge9F4rZLBUcw0LqC.G4QGiaeggcEaTOZD"
+    }
+  ],
   "effects": [],
   "folder": "rpL2cWeB5HlAT1Tc",
   "flags": {

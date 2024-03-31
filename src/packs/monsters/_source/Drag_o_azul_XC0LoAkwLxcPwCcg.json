@@ -11,7 +11,6 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Baforada</strong>: o Dragão Azul pode, 3 vezes ao dia, abdicar dos seus ataques físicos para liberar uma baforada de raios elétricos em uma linha de até 30 metros. O dano de uma baforada é igual ao número de seus dados de vida em d8, ou seja, um Dragão Azul causa 9d8 de dano em todos na área de efeito da baforada. Um teste de JPD pode reduzir o dano pela metade.</p>\n  </li>\n  <li>\n    <p><strong>Imunidade</strong>: um Dragão Azul é imune a qualquer efeito de eletricidade.</p>\n  </li>\n  <li>\n    <p><strong>Magias</strong>: um Dragão Azul pode conjurar magias como se fosse um Mago de 7º nível.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × mordida +9 (3d10)</li>\n  <li>2 × garras +10 (1d6+5)</li>\n</ul>\n",
     "encounters": "1d4",
     "encounters_lair": "1d4",
     "xp": "1075",
@@ -25,7 +24,6 @@
     "mvo": "",
     "dv": "9",
     "dv_bonus": "+9",
-    "pv": "54",
     "ca": "20",
     "jp": "12",
     "mo": "9",
@@ -100,7 +98,76 @@
     "flags": {},
     "randomImg": false
   },
-  "items": [],
+  "items": [
+    {
+      "_id": "1kts0PSMq0m9JoG7",
+      "name": "1 × mordida +9 (3d10)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 1,
+        "ba": 9,
+        "damage_bonus": null,
+        "weapon": false,
+        "description": "mordida",
+        "damage_description": "3d10",
+        "damage": "3d10"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!XC0LoAkwLxcPwCcg.1kts0PSMq0m9JoG7"
+    },
+    {
+      "_id": "KyVyE8Q0UQNCSyzM",
+      "name": "2 × garras +10 (1d6+5)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 2,
+        "ba": 10,
+        "damage_bonus": 5,
+        "weapon": false,
+        "description": "garras",
+        "damage_description": "1d6+5",
+        "damage": "1d6"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!XC0LoAkwLxcPwCcg.KyVyE8Q0UQNCSyzM"
+    }
+  ],
   "effects": [],
   "folder": "JAAEFzOmAfOQrbEV",
   "flags": {

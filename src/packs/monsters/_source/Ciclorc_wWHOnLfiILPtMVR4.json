@@ -11,7 +11,6 @@
     "alignment": "caotico",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Infravisão</strong>: 15 metros.</p>\n  </li>\n  <li>\n    <p><strong>Bode Sagrado</strong>: durante um combate e enquanto os Ciclorcs não precisarem realizar um teste de moral, todos os Ciclorcs realizam seus ataques corpo a corpo como ataques fáceis devido a sua ligação mística com o grande Bode Negro Zraxius. Quando um teste de moral for realizado para os Ciclorcs, esta habilidade não pode ser mais utilizada até o final do combate.</p>\n  </li>\n  <li>\n    <p><strong>Cura Totêmica</strong>: um Ciclorc pode se curar, ou curar um alvo tocado, em 1d8 pontos de vida. Esta habilidade pode ser usada até uma vez ao dia.</p>\n  </li>\n  <li>\n    <p><strong>Magia</strong>: um Ciclorc pode lançar magias como se fosse um Clérigo Xamã de 3º nível.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × clava +5 (1d6+3)</li>\n  <li>1 × pancada +5 (1d6+2)</li>\n</ul>\n",
     "encounters": "1d4",
     "encounters_lair": "1d4x3",
     "xp": "135",
@@ -25,7 +24,6 @@
     "mvo": "",
     "dv": "3",
     "dv_bonus": "",
-    "pv": "15",
     "ca": "15",
     "jp": "7",
     "mo": "10",
@@ -100,7 +98,76 @@
     "flags": {},
     "randomImg": false
   },
-  "items": [],
+  "items": [
+    {
+      "_id": "TeZo4WQeAikbTovY",
+      "name": "1 × clava +5 (1d6+3)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 1,
+        "ba": 5,
+        "damage_bonus": 3,
+        "weapon": false,
+        "description": "clava",
+        "damage_description": "1d6+3",
+        "damage": "1d6"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!wWHOnLfiILPtMVR4.TeZo4WQeAikbTovY"
+    },
+    {
+      "_id": "Eg6Bi85IP1pA3tVt",
+      "name": "1 × pancada +5 (1d6+2)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 1,
+        "ba": 5,
+        "damage_bonus": 2,
+        "weapon": false,
+        "description": "pancada",
+        "damage_description": "1d6+2",
+        "damage": "1d6"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!wWHOnLfiILPtMVR4.Eg6Bi85IP1pA3tVt"
+    }
+  ],
   "effects": [],
   "folder": "rpL2cWeB5HlAT1Tc",
   "flags": {

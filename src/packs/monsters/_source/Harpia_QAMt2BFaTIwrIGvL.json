@@ -11,7 +11,6 @@
     "alignment": "caotico",
     "variant": false,
     "description": "<ul>\n  <li><strong>Canto</strong>: a Harpia emite um canto lamurioso o qual encanta todos que estejam a até 90 metros dela. Uma JPS nega os efeitos do canto pelas próximas 24 horas, mas, em caso de falha, o alvo caminhará em direção à Harpia pelo melhor caminho possível. A única ação possível a uma pessoa sob o efeito do canto da Harpia é se defender. O efeito do encantamento dura até um turno após a interrupção do canto.</li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × arma +6 (arma)</li>\n  <li>2 × garras +6 (1d6)</li>\n</ul>\n",
     "encounters": "1d6",
     "encounters_lair": "2d4",
     "xp": "420",
@@ -25,7 +24,6 @@
     "mvo": "",
     "dv": "7",
     "dv_bonus": "",
-    "pv": "35",
     "ca": "15",
     "jp": "7",
     "mo": "10",
@@ -100,7 +98,76 @@
     "flags": {},
     "randomImg": false
   },
-  "items": [],
+  "items": [
+    {
+      "_id": "wnxmbjjbRx4GPwXM",
+      "name": "1 × arma +6 (arma)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 1,
+        "ba": 6,
+        "damage_bonus": null,
+        "weapon": true,
+        "description": "arma",
+        "damage_description": "arma",
+        "damage": null
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!QAMt2BFaTIwrIGvL.wnxmbjjbRx4GPwXM"
+    },
+    {
+      "_id": "AyYriNstTXm7SABt",
+      "name": "2 × garras +6 (1d6)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 2,
+        "ba": 6,
+        "damage_bonus": null,
+        "weapon": false,
+        "description": "garras",
+        "damage_description": "1d6",
+        "damage": "1d6"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!QAMt2BFaTIwrIGvL.AyYriNstTXm7SABt"
+    }
+  ],
   "effects": [],
   "folder": "iiv4e6IKFVP68JnX",
   "flags": {

@@ -11,7 +11,6 @@
     "alignment": "neutro",
     "variant": false,
     "description": null,
-    "described_attacks": "<ul>\n  <li>1 × especial (especial)</li>\n</ul>\n",
     "encounters": "5d4",
     "encounters_lair": "",
     "xp": "5",
@@ -25,7 +24,6 @@
     "mvo": "",
     "dv": "1",
     "dv_bonus": "-1",
-    "pv": "1",
     "ca": "10",
     "jp": "3",
     "mo": "6",
@@ -100,7 +98,42 @@
     "flags": {},
     "randomImg": false
   },
-  "items": [],
+  "items": [
+    {
+      "_id": "WSNMmYmexj66CNQA",
+      "name": "1 × especial (especial)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 1,
+        "ba": 0,
+        "damage_bonus": null,
+        "weapon": false,
+        "description": "especial",
+        "damage_description": "especial",
+        "damage": null
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!OkKDRY1HKenvyVVZ.WSNMmYmexj66CNQA"
+    }
+  ],
   "effects": [],
   "folder": "8gdK9MBNzpaboPvc",
   "flags": {

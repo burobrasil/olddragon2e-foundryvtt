@@ -11,7 +11,6 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Derrete Metais</strong>: ao entrar em combate, o Remorhaz secreta um óleo incrivelmente quente no seu dorso, capaz até mesmo de derreter metais ou causar dano por cauterização.  Qualquer um que tocar suas costas sofrerá 10d10 pontos de dano. Armas que toquem suas costas durante um ataque são imediatamente derretidas. Este efeito não atinge armas mágicas.</p>\n  </li>\n  <li>\n    <p><strong>Engolir</strong>: se um Remorhaz obtiver um 20 natural em seu teste de ataque, engolirá seu oponente matando-o imediatamente, sem direito a nenhuma jogada de proteção.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × mordida +12 (5d6)</li>\n</ul>\n",
     "encounters": "1",
     "encounters_lair": "1d3",
     "xp": "2025",
@@ -25,7 +24,6 @@
     "mvo": "",
     "dv": "12",
     "dv_bonus": "",
-    "pv": "60",
     "ca": "19",
     "jp": "12",
     "mo": "10",
@@ -100,7 +98,42 @@
     "flags": {},
     "randomImg": false
   },
-  "items": [],
+  "items": [
+    {
+      "_id": "3BiWUD4qp2hbwbjo",
+      "name": "1 × mordida +12 (5d6)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 1,
+        "ba": 12,
+        "damage_bonus": null,
+        "weapon": false,
+        "description": "mordida",
+        "damage_description": "5d6",
+        "damage": "5d6"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!cWhNsqGvoZ0yXFn2.3BiWUD4qp2hbwbjo"
+    }
+  ],
   "effects": [],
   "folder": "8gdK9MBNzpaboPvc",
   "flags": {

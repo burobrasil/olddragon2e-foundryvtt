@@ -11,7 +11,6 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li><strong>Veneno</strong>: causa morte em 1d3+1 turnos em caso de falha em uma JPC.</li>\n  <li><strong>Surpresa</strong>: surpreende seus inimigos com um resultado de 1 a 4 em 1d6 devido sua camuflagem.</li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × mordida +3 (1d8 + veneno)</li>\n</ul>\n",
     "encounters": "1d4",
     "encounters_lair": "1d4",
     "xp": "50",
@@ -25,7 +24,6 @@
     "mvo": "",
     "dv": "2",
     "dv_bonus": "",
-    "pv": "10",
     "ca": "12",
     "jp": "5",
     "mo": "7",
@@ -100,7 +98,42 @@
     "flags": {},
     "randomImg": false
   },
-  "items": [],
+  "items": [
+    {
+      "_id": "fZkxILRjHvOql6Yw",
+      "name": "1 × mordida +3 (1d8 + veneno)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 1,
+        "ba": 3,
+        "damage_bonus": null,
+        "weapon": false,
+        "description": "mordida",
+        "damage_description": "1d8 + veneno",
+        "damage": "1d8"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!GZPloEigW2XRuCPP.fZkxILRjHvOql6Yw"
+    }
+  ],
   "effects": [],
   "folder": "tVf2EkWEOvHAHyw9",
   "flags": {

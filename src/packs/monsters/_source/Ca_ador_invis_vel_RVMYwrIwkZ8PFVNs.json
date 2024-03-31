@@ -11,7 +11,6 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Surpresa</strong>: surpreende seus inimigos com um resultado de 1 a 5 em 1d6, a não ser que o alvo consiga detectar invisibilidade.</p>\n  </li>\n  <li>\n    <p><strong>Invisibilidade</strong>: o Caçador Invisível consegue manter-se invisível até mesmo durante um combate.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × encontrão +8 (4d4)</li>\n  <li>1 × pancada +8 (2d4)</li>\n</ul>\n",
     "encounters": "1",
     "encounters_lair": "1",
     "xp": "695",
@@ -25,7 +24,6 @@
     "mvo": "",
     "dv": "8",
     "dv_bonus": "",
-    "pv": "40",
     "ca": "17",
     "jp": "10",
     "mo": "12",
@@ -100,7 +98,76 @@
     "flags": {},
     "randomImg": false
   },
-  "items": [],
+  "items": [
+    {
+      "_id": "MC6oKOgJmT1ru3Uu",
+      "name": "1 × encontrão +8 (4d4)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 1,
+        "ba": 8,
+        "damage_bonus": null,
+        "weapon": false,
+        "description": "encontrão",
+        "damage_description": "4d4",
+        "damage": "4d4"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!RVMYwrIwkZ8PFVNs.MC6oKOgJmT1ru3Uu"
+    },
+    {
+      "_id": "U7Q7lU8oEtnJf7qF",
+      "name": "1 × pancada +8 (2d4)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 1,
+        "ba": 8,
+        "damage_bonus": null,
+        "weapon": false,
+        "description": "pancada",
+        "damage_description": "2d4",
+        "damage": "2d4"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!RVMYwrIwkZ8PFVNs.U7Q7lU8oEtnJf7qF"
+    }
+  ],
   "effects": [],
   "folder": "iiv4e6IKFVP68JnX",
   "flags": {

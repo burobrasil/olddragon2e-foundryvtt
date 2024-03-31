@@ -11,7 +11,6 @@
     "alignment": "caotico",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Veneno</strong>: a Víbora inocula um veneno fatal em sua mordida. Uma JPC evita qualquer efeito deste veneno. Já uma falha no teste, causa a morte em 1d4 turnos.</p>\n  </li>\n  <li>\n    <p><strong>Agarrar</strong>: um alvo atingido por um ataque de agarrar que não passe em uma JPD será agarrado pela Víbora e sofrerá a cada rodada 2d6 de dano por constrição. Um alvo agarrado pode ser mordido automaticamente.</p>\n  </li>\n  <li>\n    <p><strong>Montaria</strong>: pode ser usada como montaria apta para combater, sendo capaz de realizar ataques de investida se ainda não engajada em combate, usar armaduras e atacar na mesma rodada que seu condutor.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × agarrar +6 (2d6)</li>\n  <li>2 × mordidas +6 (3d4 + veneno)</li>\n</ul>\n",
     "encounters": "1",
     "encounters_lair": "1d4",
     "xp": "305",
@@ -25,7 +24,6 @@
     "mvo": "",
     "dv": "6",
     "dv_bonus": "",
-    "pv": "30",
     "ca": "15",
     "jp": "8",
     "mo": "11",
@@ -100,7 +98,76 @@
     "flags": {},
     "randomImg": false
   },
-  "items": [],
+  "items": [
+    {
+      "_id": "HnFZzMM7ZWd2Mo3k",
+      "name": "1 × agarrar +6 (2d6)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 1,
+        "ba": 6,
+        "damage_bonus": null,
+        "weapon": false,
+        "description": "agarrar",
+        "damage_description": "2d6",
+        "damage": "2d6"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!Y2r5nAkqv08q2LLR.HnFZzMM7ZWd2Mo3k"
+    },
+    {
+      "_id": "91DndJxka75xtI6K",
+      "name": "2 × mordidas +6 (3d4 + veneno)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 2,
+        "ba": 6,
+        "damage_bonus": null,
+        "weapon": false,
+        "description": "mordidas",
+        "damage_description": "3d4 + veneno",
+        "damage": "3d4"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!Y2r5nAkqv08q2LLR.91DndJxka75xtI6K"
+    }
+  ],
   "effects": [],
   "folder": "fCR6JPmJVtpt7hqx",
   "flags": {

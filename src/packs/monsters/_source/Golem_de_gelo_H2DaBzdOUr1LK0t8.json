@@ -11,7 +11,6 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Imunidades</strong>: um Golem de Gelo é imune ao dano de qualquer arma não mágica. Além disso, não são atingidos por ataques que necessitem de um alvo vivo (como gases, venenos ou magias mentais como ilusões ou demais formas mágicas de interferir na mente de seres vivos). Um Golem de Gelo também é inume a qualquer ataque de gelo ou frio.</p>\n  </li>\n  <li>\n    <p><strong>Estilhaços de Gelo</strong>: quando reduzido a zero pontos de vida, um Golem de Gelo explode em estilhaços de gelo afiados. Todas as criaturas a até 3 metros de distância do Golem de Gelo recebem 3d6 pontos de dano da explosão. Uma JPD pode reduzir o dano à metade.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>2 × pancadas +9 (2d8)</li>\n</ul>\n",
     "encounters": "1",
     "encounters_lair": "1",
     "xp": "740",
@@ -25,7 +24,6 @@
     "mvo": "",
     "dv": "8",
     "dv_bonus": "",
-    "pv": "40",
     "ca": "17",
     "jp": "7",
     "mo": "12",
@@ -100,7 +98,42 @@
     "flags": {},
     "randomImg": false
   },
-  "items": [],
+  "items": [
+    {
+      "_id": "z0c3kzd0fqj9RmLG",
+      "name": "2 × pancadas +9 (2d8)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 2,
+        "ba": 9,
+        "damage_bonus": null,
+        "weapon": false,
+        "description": "pancadas",
+        "damage_description": "2d8",
+        "damage": "2d8"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!H2DaBzdOUr1LK0t8.z0c3kzd0fqj9RmLG"
+    }
+  ],
   "effects": [],
   "folder": "dL28FhbTtcpVU2wM",
   "flags": {

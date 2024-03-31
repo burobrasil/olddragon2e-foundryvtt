@@ -11,7 +11,6 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Imunidades</strong>: não recebe dano de armas não mágicas e nem é afetado por nenhuma magia, exceto Portal e Desejo.</p>\n  </li>\n  <li>\n    <p><strong>Salto Planar</strong>: até 1d4+2 vezes ao dia, um Homem Esguio pode percorrer até 30 metros em pequenos saltos planares. Uma criatura tocada pelo Homem Esguio o acompanha neste salto.</p>\n  </li>\n  <li>\n    <p><strong>Drenar Energia</strong>: seu ataque drena 1 nível do personagem, caso este não passe em uma JPC. Uma criatura com todos seus níveis drenados por um Homem Esguio tem sua alma devorada por ele e não pode ser ressuscitada.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × garra +5 (1d8 + dreno)</li>\n</ul>\n",
     "encounters": "1",
     "encounters_lair": "0",
     "xp": "235",
@@ -25,7 +24,6 @@
     "mvo": "",
     "dv": "5",
     "dv_bonus": "+5",
-    "pv": "30",
     "ca": "15",
     "jp": "8",
     "mo": "12",
@@ -100,7 +98,42 @@
     "flags": {},
     "randomImg": false
   },
-  "items": [],
+  "items": [
+    {
+      "_id": "smvvpyGIdH8Tc7RW",
+      "name": "1 × garra +5 (1d8 + dreno)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 1,
+        "ba": 5,
+        "damage_bonus": null,
+        "weapon": false,
+        "description": "garra",
+        "damage_description": "1d8 + dreno",
+        "damage": "1d8"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!JHGwTcYpXUDMmlYF.smvvpyGIdH8Tc7RW"
+    }
+  ],
   "effects": [],
   "folder": "iiv4e6IKFVP68JnX",
   "flags": {

@@ -11,7 +11,6 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Variações</strong>: a cada 15 halflings, um deles será um Halfling Líder, e há 1-2 chances em 1d6 do líder ser um Halfling Aventureiro.</p>\n  </li>\n  <li>\n    <p><strong>Furtivo</strong>: 1-2 chances em 1d6 de se esconderem.</p>\n  </li>\n  <li>\n    <p><strong>Bom de mira</strong>: ataques à distância como ataques fáceis.</p>\n  </li>\n  <li>\n    <p><strong>Pequenos</strong>: atacantes grandes ou maiores realizam ataques difíceis para acertar um halfling.</p>\n  </li>\n  <li>\n    <p><strong>Infravisão</strong>: 18 metros.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × espada curta +1 (1d6)</li>\n  <li>1 × funda +2 (1d4)</li>\n</ul>\n",
     "encounters": "-",
     "encounters_lair": "-",
     "xp": "35",
@@ -25,7 +24,6 @@
     "mvo": "",
     "dv": "1",
     "dv_bonus": "",
-    "pv": "5",
     "ca": "12",
     "jp": "6",
     "mo": "8",
@@ -100,7 +98,76 @@
     "flags": {},
     "randomImg": false
   },
-  "items": [],
+  "items": [
+    {
+      "_id": "zeUWh1lO3DsBm5yQ",
+      "name": "1 × espada curta +1 (1d6)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 1,
+        "ba": 1,
+        "damage_bonus": null,
+        "weapon": false,
+        "description": "espada curta",
+        "damage_description": "1d6",
+        "damage": "1d6"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!uFuKxAyLwG4MOz3N.zeUWh1lO3DsBm5yQ"
+    },
+    {
+      "_id": "n56Bdumn6GBCNxGw",
+      "name": "1 × funda +2 (1d4)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 1,
+        "ba": 2,
+        "damage_bonus": null,
+        "weapon": false,
+        "description": "funda",
+        "damage_description": "1d4",
+        "damage": "1d4"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!uFuKxAyLwG4MOz3N.n56Bdumn6GBCNxGw"
+    }
+  ],
   "effects": [],
   "folder": "rpL2cWeB5HlAT1Tc",
   "flags": {

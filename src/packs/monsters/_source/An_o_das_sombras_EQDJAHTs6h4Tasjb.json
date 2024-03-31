@@ -11,7 +11,6 @@
     "alignment": "caotico",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Classe de armadura</strong>: possuem CA 13 ou 16 quando usam armadura de couro batido.</p>\n  </li>\n  <li>\n    <p><strong>Infravisão</strong>: 18 metros.</p>\n  </li>\n  <li>\n    <p><strong>Espada Kundur</strong>: possuem uma espada racial típica com lâminas extremamente afiadas, serrilhadas e em formato de cruz que são o terror de seus inimigos. Todo ataque realizado com uma espada Kundur é considerado fácil para um Anão das Sombras, mas todo ataque com outras armas são considerados difíceis.</p>\n  </li>\n  <li>\n    <p><strong>Furtivos</strong>: são mestres em esconder-se nos subterrâneos com 1-3 chances em 1d6.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × arma +3 (arma)</li>\n  <li>1 × espada kundur +7 (2d4)</li>\n</ul>\n",
     "encounters": "2d4",
     "encounters_lair": "3d10",
     "xp": "95",
@@ -25,7 +24,6 @@
     "mvo": "",
     "dv": "3",
     "dv_bonus": "",
-    "pv": "15",
     "ca": "13/16",
     "jp": "6",
     "mo": "9",
@@ -100,7 +98,76 @@
     "flags": {},
     "randomImg": false
   },
-  "items": [],
+  "items": [
+    {
+      "_id": "8t1pjgS2KQMgtK3Y",
+      "name": "1 × arma +3 (arma)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 1,
+        "ba": 3,
+        "damage_bonus": null,
+        "weapon": true,
+        "description": "arma",
+        "damage_description": "arma",
+        "damage": null
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!EQDJAHTs6h4Tasjb.8t1pjgS2KQMgtK3Y"
+    },
+    {
+      "_id": "n0rVLPRLbf2WcN6s",
+      "name": "1 × espada kundur +7 (2d4)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 1,
+        "ba": 7,
+        "damage_bonus": null,
+        "weapon": false,
+        "description": "espada kundur",
+        "damage_description": "2d4",
+        "damage": "2d4"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!EQDJAHTs6h4Tasjb.n0rVLPRLbf2WcN6s"
+    }
+  ],
   "effects": [],
   "folder": "rpL2cWeB5HlAT1Tc",
   "flags": {

@@ -11,7 +11,6 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li><strong>Veneno</strong>: causa a perda de 1d4+2 pontos de Constituição em caso de falha em uma JPC.</li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × ferrão +4 (2d4 + veneno)</li>\n</ul>\n",
     "encounters": "1d4",
     "encounters_lair": "2d4",
     "xp": "175",
@@ -25,7 +24,6 @@
     "mvo": "",
     "dv": "4",
     "dv_bonus": "",
-    "pv": "20",
     "ca": "17",
     "jp": "6",
     "mo": "8",
@@ -100,7 +98,42 @@
     "flags": {},
     "randomImg": false
   },
-  "items": [],
+  "items": [
+    {
+      "_id": "viMi59ax2fyQjtVW",
+      "name": "1 × ferrão +4 (2d4 + veneno)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 1,
+        "ba": 4,
+        "damage_bonus": null,
+        "weapon": false,
+        "description": "ferrão",
+        "damage_description": "2d4 + veneno",
+        "damage": "2d4"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!xgVmlpgM5Uh0yjxn.viMi59ax2fyQjtVW"
+    }
+  ],
   "effects": [],
   "folder": "tVf2EkWEOvHAHyw9",
   "flags": {

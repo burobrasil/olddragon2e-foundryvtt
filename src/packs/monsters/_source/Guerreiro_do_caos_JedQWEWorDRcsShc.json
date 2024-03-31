@@ -11,7 +11,6 @@
     "alignment": "caotico",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Classe de armadura</strong>: Guerreiros do Caos possuem CA 13 ou 20 quando usam armadura completa.</p>\n  </li>\n  <li>\n    <p><strong>Lutar além da morte</strong>: mantêm-se ativos em combate por até 1d6+2 rodadas após atingirem zero pontos de vida. Ao fim deste tempo, caem imediatamente mortos ao chão.</p>\n  </li>\n  <li>\n    <p><strong>Marca do caos</strong>: ao desejarem, deixam o caos tomar conta de seus corpos. Recebem +2 no BA e +4 no dano, além de 4 pontos de dano em si mesmos ao fim de cada rodada em que esta habilidade estiver acionada.</p>\n  </li>\n  <li>\n    <p><strong>Resistência à dano</strong>: ignoram 1 ponto de dano de cada ataque físico.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × machado +4 (2d6+4)</li>\n</ul>\n",
     "encounters": "1",
     "encounters_lair": "1",
     "xp": "540",
@@ -25,7 +24,6 @@
     "mvo": "",
     "dv": "7",
     "dv_bonus": "+3",
-    "pv": "38",
     "ca": "13/20",
     "jp": "11",
     "mo": "11",
@@ -100,7 +98,42 @@
     "flags": {},
     "randomImg": false
   },
-  "items": [],
+  "items": [
+    {
+      "_id": "IrfUDkCjc8xwX19f",
+      "name": "1 × machado +4 (2d6+4)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 1,
+        "ba": 4,
+        "damage_bonus": 4,
+        "weapon": false,
+        "description": "machado",
+        "damage_description": "2d6+4",
+        "damage": "2d6"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!JedQWEWorDRcsShc.IrfUDkCjc8xwX19f"
+    }
+  ],
   "effects": [],
   "folder": "iiv4e6IKFVP68JnX",
   "flags": {

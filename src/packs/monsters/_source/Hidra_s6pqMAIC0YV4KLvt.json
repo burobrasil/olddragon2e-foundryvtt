@@ -11,7 +11,6 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li><strong>Múltiplas cabeças</strong>: Hidras são encontradas com 1d8+4 cabeças, cada uma com 1 Dado de Vida e 1 ataque. Uma Hidra perde 1 cabeça a cada 8 pontos de dano recebidos. Uma cabeça perdida se regenera dando origem a duas outras cabeças em 1d4 turnos (recuperando 2 DV e 2 ataques). Contudo, a cabeça cortada não irá se regenerar caso seja atacada com fogo ou ácido. Nesses casos, o pescoço fica inerte, não regenerando novas cabeças.  Uma Hidra pode possuir no máximo 12 cabeças simultaneamente.</li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × mordida +8 (1d10)</li>\n</ul>\n",
     "encounters": "1",
     "encounters_lair": "1",
     "xp": "Especial",
@@ -25,7 +24,6 @@
     "mvo": "",
     "dv": "5 a 12",
     "dv_bonus": "",
-    "pv": "25 a 60",
     "ca": "15",
     "jp": "12",
     "mo": "9",
@@ -100,7 +98,42 @@
     "flags": {},
     "randomImg": false
   },
-  "items": [],
+  "items": [
+    {
+      "_id": "8TL5XqmlhluIQMV3",
+      "name": "1 × mordida +8 (1d10)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 1,
+        "ba": 8,
+        "damage_bonus": null,
+        "weapon": false,
+        "description": "mordida",
+        "damage_description": "1d10",
+        "damage": "1d10"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!s6pqMAIC0YV4KLvt.8TL5XqmlhluIQMV3"
+    }
+  ],
   "effects": [],
   "folder": "8gdK9MBNzpaboPvc",
   "flags": {

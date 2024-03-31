@@ -11,7 +11,6 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li><strong>Cola</strong>: qualquer coisa que toque o corpo de um Mímico ficará presa em uma poderosa cola. Um teste de Força pode soltar o objeto do corpo do Mímico. A cola perderá sua adesão por volta de 1 minuto após a morte do Mímico.</li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × mordida +5 (2d6)</li>\n  <li>1 × pancada +8 (3d4 + cola)</li>\n</ul>\n",
     "encounters": "1",
     "encounters_lair": "0",
     "xp": "460",
@@ -25,7 +24,6 @@
     "mvo": "",
     "dv": "7",
     "dv_bonus": "",
-    "pv": "35",
     "ca": "14",
     "jp": "6",
     "mo": "11",
@@ -100,7 +98,76 @@
     "flags": {},
     "randomImg": false
   },
-  "items": [],
+  "items": [
+    {
+      "_id": "tu34k0fHzzPDO088",
+      "name": "1 × mordida +5 (2d6)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 1,
+        "ba": 5,
+        "damage_bonus": null,
+        "weapon": false,
+        "description": "mordida",
+        "damage_description": "2d6",
+        "damage": "2d6"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!ngzl4j45pre6sTEY.tu34k0fHzzPDO088"
+    },
+    {
+      "_id": "nLjmvgVk8MdT94Or",
+      "name": "1 × pancada +8 (3d4 + cola)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 1,
+        "ba": 8,
+        "damage_bonus": null,
+        "weapon": false,
+        "description": "pancada",
+        "damage_description": "3d4 + cola",
+        "damage": "3d4"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!ngzl4j45pre6sTEY.nLjmvgVk8MdT94Or"
+    }
+  ],
   "effects": [],
   "folder": "8gdK9MBNzpaboPvc",
   "flags": {

@@ -11,7 +11,6 @@
     "alignment": "caotico",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Classe de armadura</strong>: possuem CA 16 ou 20 quando usam cota de malha.</p>\n  </li>\n  <li>\n    <p><strong>Imunidade ao fogo</strong>: imunidade total ao fogo e ao calor oriundos de fontes naturais.  Fogos mágicos causam metade do dano e efeito.</p>\n  </li>\n  <li>\n    <p><strong>Golpe Potente</strong>: se conseguir causar, com uma pancada, pedrada ou arma, uma quantidade de dano maior que a força do alvo, este é arremessado 1d6 metros para trás.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × arma +12 (arma +8)</li>\n  <li>1 × pedrada +9 (2d10)</li>\n  <li>2 × pancadas +13 (1d8+4)</li>\n</ul>\n",
     "encounters": "1d2",
     "encounters_lair": "1d3",
     "xp": "2725",
@@ -25,7 +24,6 @@
     "mvo": "",
     "dv": "14",
     "dv_bonus": "+10",
-    "pv": "80",
     "ca": "16/20",
     "jp": "14",
     "mo": "10",
@@ -100,7 +98,110 @@
     "flags": {},
     "randomImg": false
   },
-  "items": [],
+  "items": [
+    {
+      "_id": "RV3As5CcOpmlcRzC",
+      "name": "1 × arma +12 (arma +8)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 1,
+        "ba": 12,
+        "damage_bonus": 8,
+        "weapon": true,
+        "description": "arma",
+        "damage_description": "arma +8",
+        "damage": null
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!QwSwd2T47PrpmKvE.RV3As5CcOpmlcRzC"
+    },
+    {
+      "_id": "vxePV0C71KG3ytyN",
+      "name": "1 × pedrada +9 (2d10)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 1,
+        "ba": 9,
+        "damage_bonus": null,
+        "weapon": false,
+        "description": "pedrada",
+        "damage_description": "2d10",
+        "damage": "2d10"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!QwSwd2T47PrpmKvE.vxePV0C71KG3ytyN"
+    },
+    {
+      "_id": "q7RSufoW0aFgNb6c",
+      "name": "2 × pancadas +13 (1d8+4)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 2,
+        "ba": 13,
+        "damage_bonus": 4,
+        "weapon": false,
+        "description": "pancadas",
+        "damage_description": "1d8+4",
+        "damage": "1d8"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!QwSwd2T47PrpmKvE.q7RSufoW0aFgNb6c"
+    }
+  ],
   "effects": [],
   "folder": "qRj6GXmFQo4suMBZ",
   "flags": {

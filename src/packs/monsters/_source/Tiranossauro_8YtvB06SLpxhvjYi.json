@@ -11,7 +11,6 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li><strong>Engolir</strong>: se um Tiranossauro obtiver um 20 natural em seu teste de ataque, engolirá seu oponente. Um alvo engolido pelo Tiranossauro morre imediatamente. Uma JPD impede que o Tiranossauro engula o alvo atacado.</li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × mordida +16 (6d6)</li>\n</ul>\n",
     "encounters": "0",
     "encounters_lair": "1",
     "xp": "4825",
@@ -25,7 +24,6 @@
     "mvo": "",
     "dv": "20",
     "dv_bonus": "",
-    "pv": "100",
     "ca": "15",
     "jp": "15",
     "mo": "11",
@@ -100,7 +98,42 @@
     "flags": {},
     "randomImg": false
   },
-  "items": [],
+  "items": [
+    {
+      "_id": "U7cJ0iDuYS9rGZi7",
+      "name": "1 × mordida +16 (6d6)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 1,
+        "ba": 16,
+        "damage_bonus": null,
+        "weapon": false,
+        "description": "mordida",
+        "damage_description": "6d6",
+        "damage": "6d6"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!8YtvB06SLpxhvjYi.U7cJ0iDuYS9rGZi7"
+    }
+  ],
   "effects": [],
   "folder": "fCR6JPmJVtpt7hqx",
   "flags": {

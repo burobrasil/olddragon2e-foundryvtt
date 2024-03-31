@@ -11,7 +11,6 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li><strong>Investida</strong>: se ainda não engajado em combate, pode usar a manobra de investida para causar o dobro de dano com suas presas.</li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × presa +4 (2d4)</li>\n</ul>\n",
     "encounters": "1d6",
     "encounters_lair": "1d6",
     "xp": "75",
@@ -25,7 +24,6 @@
     "mvo": "",
     "dv": "3",
     "dv_bonus": "",
-    "pv": "15",
     "ca": "13",
     "jp": "6",
     "mo": "9",
@@ -100,7 +98,42 @@
     "flags": {},
     "randomImg": false
   },
-  "items": [],
+  "items": [
+    {
+      "_id": "W1wU4plzBvK2xp18",
+      "name": "1 × presa +4 (2d4)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 1,
+        "ba": 4,
+        "damage_bonus": null,
+        "weapon": false,
+        "description": "presa",
+        "damage_description": "2d4",
+        "damage": "2d4"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!MnjIyBS7q5j54Eka.W1wU4plzBvK2xp18"
+    }
+  ],
   "effects": [],
   "folder": "fCR6JPmJVtpt7hqx",
   "flags": {

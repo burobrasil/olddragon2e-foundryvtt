@@ -11,7 +11,6 @@
     "alignment": "caotico",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Imunidades</strong>: um Pólipo Voador é imune ao dano de qualquer arma não mágica e ao dano proveniente de eletricidade.</p>\n  </li>\n  <li>\n    <p><strong>Ataque Elétrico</strong>: ao invés de atacar, um Pólipo Voador pode desferir ataques elétricos numa linha de até 12 metros. O dano de um ataque elétrico é de 3d8 em todos que estiverem na linha reta atravessada pelo raio. Um teste de JPD pode reduzir o dano pela metade.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>2 × tentáculos +6 (2d4+2)</li>\n</ul>\n",
     "encounters": "1",
     "encounters_lair": "0",
     "xp": "305",
@@ -25,7 +24,6 @@
     "mvo": "",
     "dv": "6",
     "dv_bonus": "",
-    "pv": "30",
     "ca": "17",
     "jp": "8",
     "mo": "10",
@@ -100,7 +98,42 @@
     "flags": {},
     "randomImg": false
   },
-  "items": [],
+  "items": [
+    {
+      "_id": "msaKEdsYkquRk7fr",
+      "name": "2 × tentáculos +6 (2d4+2)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 2,
+        "ba": 6,
+        "damage_bonus": 2,
+        "weapon": false,
+        "description": "tentáculos",
+        "damage_description": "2d4+2",
+        "damage": "2d4"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!di5lEQJKQxvMs2kg.msaKEdsYkquRk7fr"
+    }
+  ],
   "effects": [],
   "folder": "8gdK9MBNzpaboPvc",
   "flags": {

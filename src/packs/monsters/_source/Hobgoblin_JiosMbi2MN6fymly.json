@@ -11,7 +11,6 @@
     "alignment": "ordeiro",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Classe de armadura</strong>: Hobglobins possuem CA 11 ou 16 quando usam cota de malha e escudo.</p>\n  </li>\n  <li>\n    <p><strong>Infravisão</strong>: 18 metros.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × arma +3 (1d8+1)</li>\n</ul>\n",
     "encounters": "1d6",
     "encounters_lair": "4d6",
     "xp": "15",
@@ -25,7 +24,6 @@
     "mvo": "",
     "dv": "1",
     "dv_bonus": "+1",
-    "pv": "6",
     "ca": "11/16",
     "jp": "5",
     "mo": "9",
@@ -100,7 +98,42 @@
     "flags": {},
     "randomImg": false
   },
-  "items": [],
+  "items": [
+    {
+      "_id": "DAtCgqllcNPRXjz2",
+      "name": "1 × arma +3 (1d8+1)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 1,
+        "ba": 3,
+        "damage_bonus": 1,
+        "weapon": false,
+        "description": "arma",
+        "damage_description": "1d8+1",
+        "damage": "1d8"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!JiosMbi2MN6fymly.DAtCgqllcNPRXjz2"
+    }
+  ],
   "effects": [],
   "folder": "rpL2cWeB5HlAT1Tc",
   "flags": {

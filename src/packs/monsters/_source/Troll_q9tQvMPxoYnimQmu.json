@@ -11,7 +11,6 @@
     "alignment": "caotico",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Regeneração</strong>: um Troll é capaz de regenerar 1 ponto de vida a cada rodada.  Esta regeneração é capaz de reconstituir até mesmo membros amputados em até 1d6 dias. Um Troll não é capaz de regenerar dano causado por fogo ou ácido.</p>\n  </li>\n  <li>\n    <p><strong>Falsa Morte</strong>: Trolls reduzidos a 0 pontos de vida retornam a vida em 2d6 rodadas, a não ser que seus restos sejam queimados por fogo ou destruídos com ácido.</p>\n  </li>\n  <li>\n    <p><strong>Medo de fogo e ácido</strong>: na presença de fogo ou ácido, o valor do Moral de um Troll é 8.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × mordida +6 (2d6+4)</li>\n  <li>2 × garras +6 (1d4+4)</li>\n</ul>\n",
     "encounters": "1d8",
     "encounters_lair": "1d8",
     "xp": "305",
@@ -25,7 +24,6 @@
     "mvo": "",
     "dv": "6",
     "dv_bonus": "+5",
-    "pv": "35",
     "ca": "16",
     "jp": "9",
     "mo": "10",
@@ -100,7 +98,76 @@
     "flags": {},
     "randomImg": false
   },
-  "items": [],
+  "items": [
+    {
+      "_id": "s9Lnp7mdqyFdm1oz",
+      "name": "1 × mordida +6 (2d6+4)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 1,
+        "ba": 6,
+        "damage_bonus": 4,
+        "weapon": false,
+        "description": "mordida",
+        "damage_description": "2d6+4",
+        "damage": "2d6"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!q9tQvMPxoYnimQmu.s9Lnp7mdqyFdm1oz"
+    },
+    {
+      "_id": "imrPrsBeguU7K7rX",
+      "name": "2 × garras +6 (1d4+4)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 2,
+        "ba": 6,
+        "damage_bonus": 4,
+        "weapon": false,
+        "description": "garras",
+        "damage_description": "1d4+4",
+        "damage": "1d4"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!q9tQvMPxoYnimQmu.imrPrsBeguU7K7rX"
+    }
+  ],
   "effects": [],
   "folder": "qRj6GXmFQo4suMBZ",
   "flags": {

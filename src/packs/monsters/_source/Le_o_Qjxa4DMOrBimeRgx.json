@@ -11,7 +11,6 @@
     "alignment": "neutro",
     "variant": false,
     "description": null,
-    "described_attacks": "<ul>\n  <li>1 × mordida +6 (1d10)</li>\n  <li>2 × garras +6 (1d4+1)</li>\n</ul>\n",
     "encounters": "1d4",
     "encounters_lair": "1d8",
     "xp": "175",
@@ -25,7 +24,6 @@
     "mvo": "",
     "dv": "5",
     "dv_bonus": "",
-    "pv": "25",
     "ca": "14",
     "jp": "8",
     "mo": "9",
@@ -100,7 +98,76 @@
     "flags": {},
     "randomImg": false
   },
-  "items": [],
+  "items": [
+    {
+      "_id": "s90JglSd7cp69Iyh",
+      "name": "1 × mordida +6 (1d10)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 1,
+        "ba": 6,
+        "damage_bonus": null,
+        "weapon": false,
+        "description": "mordida",
+        "damage_description": "1d10",
+        "damage": "1d10"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!Qjxa4DMOrBimeRgx.s90JglSd7cp69Iyh"
+    },
+    {
+      "_id": "KMUIOFSjGcf1DSsD",
+      "name": "2 × garras +6 (1d4+1)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 2,
+        "ba": 6,
+        "damage_bonus": 1,
+        "weapon": false,
+        "description": "garras",
+        "damage_description": "1d4+1",
+        "damage": "1d4"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!Qjxa4DMOrBimeRgx.KMUIOFSjGcf1DSsD"
+    }
+  ],
   "effects": [],
   "folder": "fCR6JPmJVtpt7hqx",
   "flags": {

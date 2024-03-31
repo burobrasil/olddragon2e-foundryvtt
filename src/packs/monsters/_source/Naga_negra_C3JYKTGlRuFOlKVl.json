@@ -11,7 +11,6 @@
     "alignment": "caotico",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Veneno</strong>: o ferrão serrilhado da naga inocula Veneno Sonífero. Uma JPC evita qualquer efeito deste veneno. Uma falha no teste causa a perda de 1d6 pontos de Inteligência por turno até o alvo perder todos os pontos de Inteligência e morrer. Um antídoto ou magia podem neutralizar o veneno e encerrar seus efeitos.</p>\n  </li>\n  <li>\n    <p><strong>Magia</strong>: uma naga pode conjurar magias como se fosse um Mago de 6º nível.</p>\n  </li>\n  <li>\n    <p><strong>Imunidades</strong>: uma naga é imune ao dano de qualquer ácido e veneno.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × ferrão +9 (2d8 + veneno)</li>\n  <li>2 × mordidas +9 (1d4)</li>\n</ul>\n",
     "encounters": "1d2",
     "encounters_lair": "1d4",
     "xp": "740",
@@ -25,7 +24,6 @@
     "mvo": "",
     "dv": "8",
     "dv_bonus": "",
-    "pv": "40",
     "ca": "15",
     "jp": "7",
     "mo": "11",
@@ -100,7 +98,76 @@
     "flags": {},
     "randomImg": false
   },
-  "items": [],
+  "items": [
+    {
+      "_id": "faOBn9m2nx9AoNEE",
+      "name": "1 × ferrão +9 (2d8 + veneno)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 1,
+        "ba": 9,
+        "damage_bonus": null,
+        "weapon": false,
+        "description": "ferrão",
+        "damage_description": "2d8 + veneno",
+        "damage": "2d8"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!C3JYKTGlRuFOlKVl.faOBn9m2nx9AoNEE"
+    },
+    {
+      "_id": "WPAwNAdj0BFBGWg5",
+      "name": "2 × mordidas +9 (1d4)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 2,
+        "ba": 9,
+        "damage_bonus": null,
+        "weapon": false,
+        "description": "mordidas",
+        "damage_description": "1d4",
+        "damage": "1d4"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!C3JYKTGlRuFOlKVl.WPAwNAdj0BFBGWg5"
+    }
+  ],
   "effects": [],
   "folder": "8gdK9MBNzpaboPvc",
   "flags": {

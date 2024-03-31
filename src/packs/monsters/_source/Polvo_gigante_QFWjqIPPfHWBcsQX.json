@@ -11,7 +11,6 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Constrição</strong>: quando um ataque com tentáculos é bem-sucedido, o Polvo Gigante agarra a vítima causando 2d4 de dano por rodada.  Um teste de Força bem-sucedido faz com que o alvo se livre do tentáculo e da constrição.</p>\n  </li>\n  <li>\n    <p><strong>Tentáculos</strong>: se o Polvo Gigante receber 10 ou mais de dano, seus tentáculos são amputados.  Para os efeitos de testes de MO, trate os tentáculos como um membro de um bando, ou seja, teste quando metade dos tentáculos for amputada.</p>\n  </li>\n  <li>\n    <p><strong>Nuvem de Tinta</strong>: um Polvo Gigante pode lançar na água uma nuvem de tinta preta com 20 metros de diâmetro para confundir seus perseguidores em uma fuga.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × mordida +12 (2d6)</li>\n  <li>8 × tentáculos +12 (2d4 + constrição)</li>\n</ul>\n",
     "encounters": "1",
     "encounters_lair": "1d2",
     "xp": "1950",
@@ -25,7 +24,6 @@
     "mvo": "",
     "dv": "12",
     "dv_bonus": "",
-    "pv": "60",
     "ca": "17",
     "jp": "12",
     "mo": "10",
@@ -100,7 +98,76 @@
     "flags": {},
     "randomImg": false
   },
-  "items": [],
+  "items": [
+    {
+      "_id": "XoEeCBQyTzvCxBmv",
+      "name": "1 × mordida +12 (2d6)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 1,
+        "ba": 12,
+        "damage_bonus": null,
+        "weapon": false,
+        "description": "mordida",
+        "damage_description": "2d6",
+        "damage": "2d6"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!QFWjqIPPfHWBcsQX.XoEeCBQyTzvCxBmv"
+    },
+    {
+      "_id": "1zPiSsCZOk7NOLvx",
+      "name": "8 × tentáculos +12 (2d4 + constrição)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 8,
+        "ba": 12,
+        "damage_bonus": null,
+        "weapon": false,
+        "description": "tentáculos",
+        "damage_description": "2d4 + constrição",
+        "damage": "2d4"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!QFWjqIPPfHWBcsQX.1zPiSsCZOk7NOLvx"
+    }
+  ],
   "effects": [],
   "folder": "fCR6JPmJVtpt7hqx",
   "flags": {

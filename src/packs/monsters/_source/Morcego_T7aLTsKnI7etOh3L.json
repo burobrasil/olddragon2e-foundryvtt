@@ -11,7 +11,6 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li><strong>Confusão</strong>: quando 10 ou mais morcegos sobrevoam um alvo, causam nele um ataque de confusão. O alvo recebe -2 para realizar qualquer ação que não seja se debater e tentar afastar os morcegos.</li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × enxame (confusão)</li>\n</ul>\n",
     "encounters": "1d100",
     "encounters_lair": "1d100",
     "xp": "5",
@@ -25,7 +24,6 @@
     "mvo": "",
     "dv": "½",
     "dv_bonus": "-1",
-    "pv": "1",
     "ca": "14",
     "jp": "4",
     "mo": "6",
@@ -100,7 +98,42 @@
     "flags": {},
     "randomImg": false
   },
-  "items": [],
+  "items": [
+    {
+      "_id": "1VhDEc40wg8V8wot",
+      "name": "1 × enxame (confusão)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 1,
+        "ba": 0,
+        "damage_bonus": null,
+        "weapon": false,
+        "description": "enxame",
+        "damage_description": "confusão",
+        "damage": null
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!T7aLTsKnI7etOh3L.1VhDEc40wg8V8wot"
+    }
+  ],
   "effects": [],
   "folder": "fCR6JPmJVtpt7hqx",
   "flags": {

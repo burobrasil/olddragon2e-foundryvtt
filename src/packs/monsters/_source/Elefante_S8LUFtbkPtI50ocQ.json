@@ -11,7 +11,6 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li><strong>Investida</strong>: se ainda não engajado em combate, pode usar a manobra de investida para causar o dobro de dano com sua tromba.</li>\n  <li><strong>Carga</strong>: carrega ou puxa até 6.000 moedas ou 3.000 moedas e até 3 montadores.</li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × atropelar +8 (4d8)</li>\n  <li>1 × tromba +10 (2d4)</li>\n</ul>\n",
     "encounters": "0",
     "encounters_lair": "1d20",
     "xp": "925",
@@ -25,7 +24,6 @@
     "mvo": "",
     "dv": "9",
     "dv_bonus": "",
-    "pv": "45",
     "ca": "15",
     "jp": "11",
     "mo": "8",
@@ -100,7 +98,76 @@
     "flags": {},
     "randomImg": false
   },
-  "items": [],
+  "items": [
+    {
+      "_id": "ThYCvj3Padw5IUZY",
+      "name": "1 × atropelar +8 (4d8)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 1,
+        "ba": 8,
+        "damage_bonus": null,
+        "weapon": false,
+        "description": "atropelar",
+        "damage_description": "4d8",
+        "damage": "4d8"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!S8LUFtbkPtI50ocQ.ThYCvj3Padw5IUZY"
+    },
+    {
+      "_id": "XvwZ9Lugt0VmiFIi",
+      "name": "1 × tromba +10 (2d4)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 1,
+        "ba": 10,
+        "damage_bonus": null,
+        "weapon": false,
+        "description": "tromba",
+        "damage_description": "2d4",
+        "damage": "2d4"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!S8LUFtbkPtI50ocQ.XvwZ9Lugt0VmiFIi"
+    }
+  ],
   "effects": [],
   "folder": "fCR6JPmJVtpt7hqx",
   "flags": {

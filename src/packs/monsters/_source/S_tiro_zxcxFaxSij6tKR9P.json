@@ -11,7 +11,6 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Flauta</strong>: tocando sua flauta, um Sátiro consegue conjurar as magias Sono, Medo e Enfeitiçar Pessoas como um conjurador de 3º nível.</p>\n  </li>\n  <li>\n    <p><strong>Silvestre</strong>: sabem como se esconder e como se portar dentro de ambientes silvestres.  Sátiros conseguem se esconder nestas situações em 90% das vezes, e jamais são surpreendidos nestes ambientes.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × chifre +3 (2d4)</li>\n</ul>\n",
     "encounters": "1d4",
     "encounters_lair": "2d4",
     "xp": "35",
@@ -25,7 +24,6 @@
     "mvo": "",
     "dv": "2",
     "dv_bonus": "",
-    "pv": "10",
     "ca": "15",
     "jp": "5",
     "mo": "7",
@@ -100,7 +98,42 @@
     "flags": {},
     "randomImg": false
   },
-  "items": [],
+  "items": [
+    {
+      "_id": "FwQrPEha5n1o6XIV",
+      "name": "1 × chifre +3 (2d4)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 1,
+        "ba": 3,
+        "damage_bonus": null,
+        "weapon": false,
+        "description": "chifre",
+        "damage_description": "2d4",
+        "damage": "2d4"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!zxcxFaxSij6tKR9P.FwQrPEha5n1o6XIV"
+    }
+  ],
   "effects": [],
   "folder": "iiv4e6IKFVP68JnX",
   "flags": {
