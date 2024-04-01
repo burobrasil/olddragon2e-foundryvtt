@@ -175,6 +175,12 @@ export default class OD2MonsterSheet extends ActorSheet {
 
     const itemID = target.closest('.attack').dataset.itemId;
     const item = this.actor.items.get(itemID);
+    let originalDamage = item.system.damage;
+
+    // Para ataques feitos com uma arma, o dano é ajustado para "1d6"
+    if (item.system.weapon) {
+      item.system.damage = '1d6';
+    }
 
     const damageRoll = new MonsterDamageRoll(this.actor, item);
 
@@ -188,29 +194,23 @@ export default class OD2MonsterSheet extends ActorSheet {
           callback: async (html) => {
             const bonus = html.find('#bonus').val();
             const mode = html.find('#rollMode').val();
-            const attackMode = html.find('#attack-mode').val();
 
-            await damageRoll.roll(bonus, attackMode);
+            await damageRoll.roll(bonus);
 
             damageRoll.sendMessage(mode);
+
+            item.system.damage = originalDamage;
           },
         },
       },
       render: (html) => {
         const formulaEl = html.find('#formula');
-        const attackModeEl = html.find('#attack-mode');
 
         const updateFormula = () => {
-          const selectedAttackMode = attackModeEl.val();
-          formulaEl.val(damageRoll.printFormula(selectedAttackMode));
+          formulaEl.val(damageRoll.printFormula());
         };
 
         formulaEl.val(damageRoll.printFormula());
-        attackModeEl.val(damageRoll.itemAttackType);
-
-        attackModeEl.change(() => {
-          updateFormula();
-        });
 
         updateFormula();
       },
