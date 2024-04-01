@@ -11,7 +11,6 @@
     "alignment": "caotico",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Classe de armadura</strong>: possuem CA 16 ou 18 quando usam armadura de couro.</p>\n  </li>\n  <li>\n    <p><strong>Camuflagem</strong>: quando enterrados sob a neve, surpreendem seus inimigos com 1-4 chances em 1d6.</p>\n  </li>\n  <li>\n    <p><strong>Resistência ao frio</strong>: imunidade total ao frio oriundo de fontes naturais ou mágicas.  Frio mágico pode causar outros efeitos que não seja de dano.</p>\n  </li>\n  <li>\n    <p><strong>Golpe Potente</strong>: se conseguir causar, com uma pancada, pedrada ou arma, uma quantidade de dano maior que a força do alvo, este é arremessado 1d6 metros para trás.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × arma +9 (arma +8)</li>\n  <li>1 × pedrada +7 (2d10)</li>\n  <li>2 × pancadas +12 (1d8+6)</li>\n</ul>\n",
     "encounters": "1d2",
     "encounters_lair": "1d4",
     "xp": "2025",
@@ -25,7 +24,6 @@
     "mvo": "",
     "dv": "12",
     "dv_bonus": "+8",
-    "pv": "68",
     "ca": "16/18",
     "jp": "13",
     "mo": "9",
@@ -100,7 +98,110 @@
     "flags": {},
     "randomImg": false
   },
-  "items": [],
+  "items": [
+    {
+      "_id": "Si6k6vFGFnBaljau",
+      "name": "1 × arma +9 (arma +8)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 1,
+        "ba": 9,
+        "damage_bonus": 8,
+        "weapon": true,
+        "description": "arma",
+        "damage_description": "arma +8",
+        "damage": null
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!J0AY9Asu5UaQVmTx.Si6k6vFGFnBaljau"
+    },
+    {
+      "_id": "sdk5MGZho2v6K6FA",
+      "name": "1 × pedrada +7 (2d10)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 1,
+        "ba": 7,
+        "damage_bonus": null,
+        "weapon": false,
+        "description": "pedrada",
+        "damage_description": "2d10",
+        "damage": "2d10"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!J0AY9Asu5UaQVmTx.sdk5MGZho2v6K6FA"
+    },
+    {
+      "_id": "b4lw2gtVy9kc5UhM",
+      "name": "2 × pancadas +12 (1d8+6)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 2,
+        "ba": 12,
+        "damage_bonus": 6,
+        "weapon": false,
+        "description": "pancadas",
+        "damage_description": "1d8+6",
+        "damage": "1d8"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!J0AY9Asu5UaQVmTx.b4lw2gtVy9kc5UhM"
+    }
+  ],
   "effects": [],
   "folder": "qRj6GXmFQo4suMBZ",
   "flags": {

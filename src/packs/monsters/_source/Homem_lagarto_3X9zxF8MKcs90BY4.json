@@ -11,7 +11,6 @@
     "alignment": "caotico",
     "variant": false,
     "description": "<ul>\n  <li><strong>Lutar até morrer</strong>: quando encurralados, recebem +1 no ataque e dano até o fim do combate.</li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × arma +2 (arma)</li>\n  <li>1 × garra +2 (1d4)</li>\n</ul>\n",
     "encounters": "2d4",
     "encounters_lair": "6d6",
     "xp": "35",
@@ -25,7 +24,6 @@
     "mvo": "",
     "dv": "2",
     "dv_bonus": "+1",
-    "pv": "11",
     "ca": "15",
     "jp": "5",
     "mo": "8",
@@ -100,7 +98,76 @@
     "flags": {},
     "randomImg": false
   },
-  "items": [],
+  "items": [
+    {
+      "_id": "ecdjnDwyVWNiS7er",
+      "name": "1 × arma +2 (arma)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 1,
+        "ba": 2,
+        "damage_bonus": null,
+        "weapon": true,
+        "description": "arma",
+        "damage_description": "arma",
+        "damage": null
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!3X9zxF8MKcs90BY4.ecdjnDwyVWNiS7er"
+    },
+    {
+      "_id": "99Rn2EXr4BZgTdEJ",
+      "name": "1 × garra +2 (1d4)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 1,
+        "ba": 2,
+        "damage_bonus": null,
+        "weapon": false,
+        "description": "garra",
+        "damage_description": "1d4",
+        "damage": "1d4"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!3X9zxF8MKcs90BY4.99Rn2EXr4BZgTdEJ"
+    }
+  ],
   "effects": [],
   "folder": "rpL2cWeB5HlAT1Tc",
   "flags": {

@@ -11,7 +11,6 @@
     "alignment": "caotico",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Roubar Forma</strong>: pode assumir a forma de qualquer criatura humanoide (P ou M). Um Doppelganger voltará a sua forma normal caso seja morto.</p>\n  </li>\n  <li>\n    <p><strong>Surpresa</strong>: uma vez que esteja escondido na forma roubada de uma vítima, atacará seu alvo surpreendendo em 1-5 em 1d6.</p>\n  </li>\n  <li>\n    <p><strong>Imunidade</strong>: efeitos de encantamentos ou de uma magia Sono.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × mordida +4 (2d6)</li>\n</ul>\n",
     "encounters": "1d6",
     "encounters_lair": "1d6",
     "xp": "175",
@@ -25,7 +24,6 @@
     "mvo": "",
     "dv": "4",
     "dv_bonus": "",
-    "pv": "20",
     "ca": "15",
     "jp": "7",
     "mo": "10",
@@ -100,7 +98,42 @@
     "flags": {},
     "randomImg": false
   },
-  "items": [],
+  "items": [
+    {
+      "_id": "9X8kKqelDrHAreeh",
+      "name": "1 × mordida +4 (2d6)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 1,
+        "ba": 4,
+        "damage_bonus": null,
+        "weapon": false,
+        "description": "mordida",
+        "damage_description": "2d6",
+        "damage": "2d6"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!FDDgKuC8c60JIRp0.9X8kKqelDrHAreeh"
+    }
+  ],
   "effects": [],
   "folder": "iiv4e6IKFVP68JnX",
   "flags": {

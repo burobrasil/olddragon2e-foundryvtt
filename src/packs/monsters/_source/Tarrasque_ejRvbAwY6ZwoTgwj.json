@@ -11,7 +11,6 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Engolir</strong>: se um Tarrasque obtiver 30 ou mais no dano de uma mordida, engolirá seu oponente matando-o imediatamente, sem direito a nenhuma jogada de proteção.</p>\n  </li>\n  <li>\n    <p><strong>Aura Aterrorizante</strong>: afeta qualquer criatura com 3DV ou menos, deixando-as paralisadas de pânico, sem qualquer reação, até que o Terrasque saia da sua área de visão.  Criaturas com 4DV até 6DV, fogem desesperadamente.  Nesta fuga, há 1-5 chances em 1d6 de as criaturas soltarem qualquer objeto que estiverem segurando. Criaturas com 7DV ou mais possuem direito a uma JPS para negar o pavor e não fugirem.</p>\n  </li>\n  <li>\n    <p><strong>Imunidades</strong>: o Tarrasque é imune aos efeitos do calor e do fogo, e a qualquer forma de encantamento. Apenas armas mágicas +1 ou superiores causam dano a um Tarrasque.</p>\n  </li>\n  <li>\n    <p><strong>Refletir Magia</strong>: a carapaça de um Tarrasque é capaz de refletir todas as magias lançadas que tenham o Tarrasque como alvo (magias que afetem uma área e não o Tarrasque como alvo não são refletidas).Há ainda 1 chance em 1d6 da magia retornar ao conjurador causando, nele mesmo os efeitos da magia.</p>\n  </li>\n  <li>\n    <p><strong>Regeneração</strong>: o Tarrasque é capaz de regenerar 3 pontos de vida a cada rodada (mesmo os de fogo/ácido). Esta regeneração é capaz de reconstituir membros amputados em até 1d6 turnos.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × cauda +12 (3d10)</li>\n  <li>1 × mordida +12 (5d10 + engolir)</li>\n  <li>2 × chifres +12 (2d8)</li>\n  <li>2 × garras +18 (2d12)</li>\n</ul>\n",
     "encounters": "1",
     "encounters_lair": "0",
     "xp": "24450",
@@ -25,7 +24,6 @@
     "mvo": "",
     "dv": "75",
     "dv_bonus": "+200",
-    "pv": "575",
     "ca": "26",
     "jp": "19",
     "mo": "12",
@@ -100,7 +98,144 @@
     "flags": {},
     "randomImg": false
   },
-  "items": [],
+  "items": [
+    {
+      "_id": "MdvUum3hSAgRqXB5",
+      "name": "1 × cauda +12 (3d10)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 1,
+        "ba": 12,
+        "damage_bonus": null,
+        "weapon": false,
+        "description": "cauda",
+        "damage_description": "3d10",
+        "damage": "3d10"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!ejRvbAwY6ZwoTgwj.MdvUum3hSAgRqXB5"
+    },
+    {
+      "_id": "u7f8BuxsWOmlh3ET",
+      "name": "1 × mordida +12 (5d10 + engolir)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 1,
+        "ba": 12,
+        "damage_bonus": null,
+        "weapon": false,
+        "description": "mordida",
+        "damage_description": "5d10 + engolir",
+        "damage": "5d10"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!ejRvbAwY6ZwoTgwj.u7f8BuxsWOmlh3ET"
+    },
+    {
+      "_id": "OCsESGgYTmrFTFSW",
+      "name": "2 × chifres +12 (2d8)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 2,
+        "ba": 12,
+        "damage_bonus": null,
+        "weapon": false,
+        "description": "chifres",
+        "damage_description": "2d8",
+        "damage": "2d8"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!ejRvbAwY6ZwoTgwj.OCsESGgYTmrFTFSW"
+    },
+    {
+      "_id": "IK4oYfBAMtMv1hLR",
+      "name": "2 × garras +18 (2d12)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 2,
+        "ba": 18,
+        "damage_bonus": null,
+        "weapon": false,
+        "description": "garras",
+        "damage_description": "2d12",
+        "damage": "2d12"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!ejRvbAwY6ZwoTgwj.IK4oYfBAMtMv1hLR"
+    }
+  ],
   "effects": [],
   "folder": "8gdK9MBNzpaboPvc",
   "flags": {

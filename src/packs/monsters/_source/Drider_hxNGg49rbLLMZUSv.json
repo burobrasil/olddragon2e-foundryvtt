@@ -11,7 +11,6 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Infravisão</strong>: 20 metros</p>\n  </li>\n  <li>\n    <p><strong>Veneno</strong>: o ferrão perfurante do Drider inocula Veneno Paralisante. Uma JPC evita qualquer efeito deste veneno. Uma falha no teste causa a perda de 1d6 pontos de Destreza por turno até que o valor chegue a 3.</p>\n  </li>\n  <li>\n    <p><strong>Magias</strong>: um Drider pode conjurar magias como se fosse um sacerdote de 6º nível.</p>\n  </li>\n  <li>\n    <p><strong>Vulnerabilidade</strong>: um Drider fica completamente cego quando exposto a luz do sol, além de perder um ponto de Constituição a cada hora de exposição ao sol.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × arco +7 (1d6+0)</li>\n  <li>1 × ferrão +5 (1d4 + veneno)</li>\n</ul>\n",
     "encounters": "1d4",
     "encounters_lair": "2d4",
     "xp": "305",
@@ -25,7 +24,6 @@
     "mvo": "",
     "dv": "6",
     "dv_bonus": "+6",
-    "pv": "36",
     "ca": "17",
     "jp": "9",
     "mo": "10",
@@ -100,7 +98,76 @@
     "flags": {},
     "randomImg": false
   },
-  "items": [],
+  "items": [
+    {
+      "_id": "XoE1X13jexCT7cAL",
+      "name": "1 × arco +7 (1d6+0)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 1,
+        "ba": 7,
+        "damage_bonus": 0,
+        "weapon": false,
+        "description": "arco",
+        "damage_description": "1d6+0",
+        "damage": "1d6"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!hxNGg49rbLLMZUSv.XoE1X13jexCT7cAL"
+    },
+    {
+      "_id": "q3KrewTuxOtd243L",
+      "name": "1 × ferrão +5 (1d4 + veneno)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 1,
+        "ba": 5,
+        "damage_bonus": null,
+        "weapon": false,
+        "description": "ferrão",
+        "damage_description": "1d4 + veneno",
+        "damage": "1d4"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!hxNGg49rbLLMZUSv.q3KrewTuxOtd243L"
+    }
+  ],
   "effects": [],
   "folder": "8gdK9MBNzpaboPvc",
   "flags": {

@@ -11,7 +11,6 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li><strong>Dreno de Sangue</strong>: ao acertar o ataque, um Stirge consegue drenar sangue de sua vítima causando automaticamente 1d3 por rodada.  O Stirge apenas soltará a vítima se esta tentar arrancá-lo ou se a vítima morrer.</li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × mordida +2 (1d3 + dreno)</li>\n</ul>\n",
     "encounters": "1d10",
     "encounters_lair": "3d12",
     "xp": "25",
@@ -25,7 +24,6 @@
     "mvo": "",
     "dv": "1",
     "dv_bonus": "",
-    "pv": "5",
     "ca": "13",
     "jp": "5",
     "mo": "9",
@@ -100,7 +98,42 @@
     "flags": {},
     "randomImg": false
   },
-  "items": [],
+  "items": [
+    {
+      "_id": "cfPVnyFwPJ7JHOTF",
+      "name": "1 × mordida +2 (1d3 + dreno)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 1,
+        "ba": 2,
+        "damage_bonus": null,
+        "weapon": false,
+        "description": "mordida",
+        "damage_description": "1d3 + dreno",
+        "damage": "1d3"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!MnDnKmU2pQh4yAq1.cfPVnyFwPJ7JHOTF"
+    }
+  ],
   "effects": [],
   "folder": "8gdK9MBNzpaboPvc",
   "flags": {

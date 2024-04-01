@@ -11,7 +11,6 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Rugido</strong>: duas vezes por dia, a Esfinge pode rugir e qualquer vítima até 36 metros dela deve ser bem-sucedida em uma JPS com uma penalidade de 4 ou fugirá com medo por 1d6 turnos.</p>\n  </li>\n  <li>\n    <p><strong>Magia</strong>: uma esfigie pode conjurar magias como se fosse um Mago de 6º nível.</p>\n  </li>\n  <li>\n    <p><strong>Imunidade à magia</strong>: não é afetada por nenhuma magia de 1º, 2º e 3º círculos.</p>\n  </li>\n  <li>\n    <p><strong>Resistência</strong>: só pode ser atingida por armas de prata, armas mágicas +1 ou superiores.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × mordida +8 (2d8)</li>\n  <li>2 × garras +11 (3d6)</li>\n</ul>\n",
     "encounters": "1d2",
     "encounters_lair": "1d4",
     "xp": "1325",
@@ -25,7 +24,6 @@
     "mvo": "",
     "dv": "10",
     "dv_bonus": "+10",
-    "pv": "60",
     "ca": "19",
     "jp": "11",
     "mo": "10",
@@ -100,7 +98,76 @@
     "flags": {},
     "randomImg": false
   },
-  "items": [],
+  "items": [
+    {
+      "_id": "NjrjGPPPYvmtnNdP",
+      "name": "1 × mordida +8 (2d8)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 1,
+        "ba": 8,
+        "damage_bonus": null,
+        "weapon": false,
+        "description": "mordida",
+        "damage_description": "2d8",
+        "damage": "2d8"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!cOWcAhuLb8MUIJhT.NjrjGPPPYvmtnNdP"
+    },
+    {
+      "_id": "zeVgFyVBdCg1aA89",
+      "name": "2 × garras +11 (3d6)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 2,
+        "ba": 11,
+        "damage_bonus": null,
+        "weapon": false,
+        "description": "garras",
+        "damage_description": "3d6",
+        "damage": "3d6"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!cOWcAhuLb8MUIJhT.zeVgFyVBdCg1aA89"
+    }
+  ],
   "effects": [],
   "folder": "8gdK9MBNzpaboPvc",
   "flags": {

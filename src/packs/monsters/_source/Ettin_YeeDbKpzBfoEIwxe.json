@@ -11,7 +11,6 @@
     "alignment": "caotico",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Duas Cabeças</strong>: por terem duas cabeças estão sempre atentos. O teste de surpresa é realizado com 1d10 e são surpreendidos apenas com um resultado de 1 em 1d10.</p>\n  </li>\n  <li>\n    <p><strong>Golpe Potente</strong>: se conseguir causar, com uma pancada ou arma, uma quantidade de dano superior a força do alvo, este é arremessado 1d4 metros para trás.</p>\n  </li>\n  <li>\n    <p><strong>Infravisão</strong>: 18 metros.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>2 × clavas gigantes +11 (2d6)</li>\n  <li>2 × pancadas +12 (2d4+2)</li>\n</ul>\n",
     "encounters": "1",
     "encounters_lair": "1d4",
     "xp": "1250",
@@ -25,7 +24,6 @@
     "mvo": "",
     "dv": "10",
     "dv_bonus": "",
-    "pv": "50",
     "ca": "18",
     "jp": "12",
     "mo": "10",
@@ -100,7 +98,76 @@
     "flags": {},
     "randomImg": false
   },
-  "items": [],
+  "items": [
+    {
+      "_id": "6Xbkw8Mymla2evBG",
+      "name": "2 × clavas gigantes +11 (2d6)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 2,
+        "ba": 11,
+        "damage_bonus": null,
+        "weapon": false,
+        "description": "clavas gigantes",
+        "damage_description": "2d6",
+        "damage": "2d6"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!YeeDbKpzBfoEIwxe.6Xbkw8Mymla2evBG"
+    },
+    {
+      "_id": "2whH9WEqTnBWxmhd",
+      "name": "2 × pancadas +12 (2d4+2)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 2,
+        "ba": 12,
+        "damage_bonus": 2,
+        "weapon": false,
+        "description": "pancadas",
+        "damage_description": "2d4+2",
+        "damage": "2d4"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!YeeDbKpzBfoEIwxe.2whH9WEqTnBWxmhd"
+    }
+  ],
   "effects": [],
   "folder": "qRj6GXmFQo4suMBZ",
   "flags": {

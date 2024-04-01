@@ -11,7 +11,6 @@
     "alignment": "ordeiro",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Soco Destruidor</strong>: caso o ataque de qualquer um dos socos resulte em um 20 natural, o alvo é desintegrado.</p>\n  </li>\n  <li>\n    <p><strong>Raio Ocular</strong>: seus olhos podem disparar 3 vezes ao dia raios que causam 3d10 pontos de dano.</p>\n  </li>\n  <li>\n    <p><strong>Baforada</strong>: 1 vez ao dia, o Destruidor pode expelir uma poderosa baforada de 10d10 x2 pontos de dano.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × cauda +10 (3d8+10)</li>\n  <li>2 × socos +10 (2d10+5)</li>\n</ul>\n",
     "encounters": "1",
     "encounters_lair": "",
     "xp": "22475",
@@ -25,7 +24,6 @@
     "mvo": "",
     "dv": "70",
     "dv_bonus": "+150",
-    "pv": "500",
     "ca": "24",
     "jp": "18",
     "mo": "12",
@@ -100,7 +98,76 @@
     "flags": {},
     "randomImg": false
   },
-  "items": [],
+  "items": [
+    {
+      "_id": "vYfQekMwClVYA0rl",
+      "name": "1 × cauda +10 (3d8+10)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 1,
+        "ba": 10,
+        "damage_bonus": 10,
+        "weapon": false,
+        "description": "cauda",
+        "damage_description": "3d8+10",
+        "damage": "3d8"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!mZRBhxubfvIEFiau.vYfQekMwClVYA0rl"
+    },
+    {
+      "_id": "ncULLeLBkMxbY8Tl",
+      "name": "2 × socos +10 (2d10+5)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 2,
+        "ba": 10,
+        "damage_bonus": 5,
+        "weapon": false,
+        "description": "socos",
+        "damage_description": "2d10+5",
+        "damage": "2d10"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!mZRBhxubfvIEFiau.ncULLeLBkMxbY8Tl"
+    }
+  ],
   "effects": [],
   "folder": "8gdK9MBNzpaboPvc",
   "flags": {

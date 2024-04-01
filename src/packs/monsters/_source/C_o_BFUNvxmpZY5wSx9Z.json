@@ -11,7 +11,6 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li><strong>Inteligente</strong>: podem aprender até 4 truques se ensinado corretamente.</li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × mordida +1 (1d4)</li>\n</ul>\n",
     "encounters": "0",
     "encounters_lair": "1d6",
     "xp": "5",
@@ -25,7 +24,6 @@
     "mvo": "",
     "dv": "½",
     "dv_bonus": "",
-    "pv": "2",
     "ca": "14",
     "jp": "4",
     "mo": "8",
@@ -100,7 +98,42 @@
     "flags": {},
     "randomImg": false
   },
-  "items": [],
+  "items": [
+    {
+      "_id": "n3VRtWJPtPdLCpT2",
+      "name": "1 × mordida +1 (1d4)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 1,
+        "ba": 1,
+        "damage_bonus": null,
+        "weapon": false,
+        "description": "mordida",
+        "damage_description": "1d4",
+        "damage": "1d4"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!BFUNvxmpZY5wSx9Z.n3VRtWJPtPdLCpT2"
+    }
+  ],
   "effects": [],
   "folder": "fCR6JPmJVtpt7hqx",
   "flags": {

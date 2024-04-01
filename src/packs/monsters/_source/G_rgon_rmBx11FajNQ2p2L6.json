@@ -11,7 +11,6 @@
     "alignment": "caotico",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Atropelar</strong>: um Górgon ainda não engajado em combate pode usar a manobra de investida para causar o dobro de dano com seus chifres.</p>\n  </li>\n  <li>\n    <p><strong>Baforada Petrificante</strong>: um Górgon é capaz de lançar uma nuvem de gás petrificante a todos a até 10 metros de distância do Górgon. Uma JPC evita a petrificação.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × chifre +9 (2d6)</li>\n</ul>\n",
     "encounters": "1d2",
     "encounters_lair": "1d4",
     "xp": "740",
@@ -25,7 +24,6 @@
     "mvo": "",
     "dv": "8",
     "dv_bonus": "",
-    "pv": "40",
     "ca": "18",
     "jp": "8",
     "mo": "8",
@@ -100,7 +98,42 @@
     "flags": {},
     "randomImg": false
   },
-  "items": [],
+  "items": [
+    {
+      "_id": "tN9UD75cW53SFDOA",
+      "name": "1 × chifre +9 (2d6)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 1,
+        "ba": 9,
+        "damage_bonus": null,
+        "weapon": false,
+        "description": "chifre",
+        "damage_description": "2d6",
+        "damage": "2d6"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!rmBx11FajNQ2p2L6.tN9UD75cW53SFDOA"
+    }
+  ],
   "effects": [],
   "folder": "8gdK9MBNzpaboPvc",
   "flags": {

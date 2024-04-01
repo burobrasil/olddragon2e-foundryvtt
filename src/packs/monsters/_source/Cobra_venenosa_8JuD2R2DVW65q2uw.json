@@ -11,7 +11,6 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li><strong>Veneno</strong>: causa morte em 1d10 turnos em caso de falha em um teste de JPC.</li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × mordida +1 (1d2 + veneno)</li>\n</ul>\n",
     "encounters": "1d3",
     "encounters_lair": "1d3",
     "xp": "10",
@@ -25,7 +24,6 @@
     "mvo": "",
     "dv": "½",
     "dv_bonus": "",
-    "pv": "2",
     "ca": "14",
     "jp": "4",
     "mo": "7",
@@ -100,7 +98,42 @@
     "flags": {},
     "randomImg": false
   },
-  "items": [],
+  "items": [
+    {
+      "_id": "Y9Lnt69wnCKIGmHN",
+      "name": "1 × mordida +1 (1d2 + veneno)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 1,
+        "ba": 1,
+        "damage_bonus": null,
+        "weapon": false,
+        "description": "mordida",
+        "damage_description": "1d2 + veneno",
+        "damage": "1d2"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!8JuD2R2DVW65q2uw.Y9Lnt69wnCKIGmHN"
+    }
+  ],
   "effects": [],
   "folder": "fCR6JPmJVtpt7hqx",
   "flags": {

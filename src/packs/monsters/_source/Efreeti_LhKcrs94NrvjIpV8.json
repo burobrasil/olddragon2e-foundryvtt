@@ -11,7 +11,6 @@
     "alignment": "ordeiro",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Imunidades</strong>: um Efreeti é imune ao dano de qualquer arma não mágica.</p>\n  </li>\n  <li>\n    <p><strong>Magia</strong>: um Efreeti pode lançar magias como se fosse um Mago de 3º nível.</p>\n  </li>\n  <li>\n    <p><strong>Explosão de Fogo</strong>: o Efreeti pode, uma vez ao dia, causar uma explosão de fogo ao seu redor semelhante à magia Bola de Fogo.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × pancada +11 (2d8)</li>\n</ul>\n",
     "encounters": "1",
     "encounters_lair": "1",
     "xp": "1400",
@@ -25,7 +24,6 @@
     "mvo": "",
     "dv": "10",
     "dv_bonus": "",
-    "pv": "50",
     "ca": "17",
     "jp": "12",
     "mo": "9",
@@ -100,7 +98,42 @@
     "flags": {},
     "randomImg": false
   },
-  "items": [],
+  "items": [
+    {
+      "_id": "oFVrRzAQdNmwlP2L",
+      "name": "1 × pancada +11 (2d8)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 1,
+        "ba": 11,
+        "damage_bonus": null,
+        "weapon": false,
+        "description": "pancada",
+        "damage_description": "2d8",
+        "damage": "2d8"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!LhKcrs94NrvjIpV8.oFVrRzAQdNmwlP2L"
+    }
+  ],
   "effects": [],
   "folder": "iiv4e6IKFVP68JnX",
   "flags": {

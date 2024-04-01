@@ -11,7 +11,6 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Desintegrar</strong>: tudo o que for tocado pela esfera será desintegrado, sem direito a uma Jogada de Proteção.</p>\n  </li>\n  <li>\n    <p><strong>Imunidade à magia</strong>: não é afetada por nenhuma magia, exceto Portal e Desejo.</p>\n  </li>\n  <li>\n    <p><strong>Especial</strong>: não possui nenhuma estatística de combate, não possui dados de vida, nem pontos de vida. Não realiza testes de ataque nem Jogadas de Proteção.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × toque (especial)</li>\n</ul>\n",
     "encounters": "1",
     "encounters_lair": "1",
     "xp": "Especial",
@@ -25,7 +24,6 @@
     "mvo": "",
     "dv": "Especial",
     "dv_bonus": "",
-    "pv": "Especial",
     "ca": "Especial",
     "jp": "Especial",
     "mo": "12",
@@ -100,7 +98,42 @@
     "flags": {},
     "randomImg": false
   },
-  "items": [],
+  "items": [
+    {
+      "_id": "oxH1QX6ak95qPz3O",
+      "name": "1 × toque (especial)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 1,
+        "ba": 0,
+        "damage_bonus": null,
+        "weapon": false,
+        "description": "toque",
+        "damage_description": "especial",
+        "damage": null
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!syjxIYJs3m5k0yYg.oxH1QX6ak95qPz3O"
+    }
+  ],
   "effects": [],
   "folder": "8gdK9MBNzpaboPvc",
   "flags": {

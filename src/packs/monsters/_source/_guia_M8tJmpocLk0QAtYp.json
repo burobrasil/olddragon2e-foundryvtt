@@ -11,7 +11,6 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li><strong>Rasante</strong>: podem realizar um ataque rasante com +2 para acertar o ataque, +2 no dano causado e -2 na CA. Causam dano dobrado em vítimas surpresas.</li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × garra +1 (1d2)</li>\n</ul>\n",
     "encounters": "0",
     "encounters_lair": "1d6",
     "xp": "10",
@@ -25,7 +24,6 @@
     "mvo": "",
     "dv": "½",
     "dv_bonus": "",
-    "pv": "2",
     "ca": "15",
     "jp": "4",
     "mo": "9",
@@ -100,7 +98,42 @@
     "flags": {},
     "randomImg": false
   },
-  "items": [],
+  "items": [
+    {
+      "_id": "JtNPUFcXXQMbSige",
+      "name": "1 × garra +1 (1d2)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 1,
+        "ba": 1,
+        "damage_bonus": null,
+        "weapon": false,
+        "description": "garra",
+        "damage_description": "1d2",
+        "damage": "1d2"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!M8tJmpocLk0QAtYp.JtNPUFcXXQMbSige"
+    }
+  ],
   "effects": [],
   "folder": "fCR6JPmJVtpt7hqx",
   "flags": {

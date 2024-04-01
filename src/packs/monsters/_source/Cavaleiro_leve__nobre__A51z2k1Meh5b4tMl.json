@@ -11,7 +11,6 @@
     "alignment": "neutro",
     "variant": true,
     "description": "<ul>\n  <li><strong>Montado</strong>: cavalo de guerra.</li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × espada longa +1 (1d8+1)</li>\n  <li>1 × lança longa +1 (1d8+1)</li>\n</ul>\n",
     "encounters": "-",
     "encounters_lair": "",
     "xp": "25",
@@ -25,7 +24,6 @@
     "mvo": "",
     "dv": "1",
     "dv_bonus": "",
-    "pv": "5",
     "ca": "14",
     "jp": "5",
     "mo": "9",
@@ -100,7 +98,76 @@
     "flags": {},
     "randomImg": false
   },
-  "items": [],
+  "items": [
+    {
+      "_id": "pKMuJQgbzFwcikK9",
+      "name": "1 × espada longa +1 (1d8+1)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 1,
+        "ba": 1,
+        "damage_bonus": 1,
+        "weapon": false,
+        "description": "espada longa",
+        "damage_description": "1d8+1",
+        "damage": "1d8"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!A51z2k1Meh5b4tMl.pKMuJQgbzFwcikK9"
+    },
+    {
+      "_id": "ro77ORidWRuO8PPM",
+      "name": "1 × lança longa +1 (1d8+1)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 1,
+        "ba": 1,
+        "damage_bonus": 1,
+        "weapon": false,
+        "description": "lança longa",
+        "damage_description": "1d8+1",
+        "damage": "1d8"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!A51z2k1Meh5b4tMl.ro77ORidWRuO8PPM"
+    }
+  ],
   "effects": [],
   "folder": "rpL2cWeB5HlAT1Tc",
   "flags": {

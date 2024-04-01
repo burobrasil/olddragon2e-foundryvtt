@@ -11,7 +11,6 @@
     "alignment": "ordeiro",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Imunidades</strong>: quando transformados, um Licantropo é imune ao dano de qualquer arma não mágica. Armas mágicas, magia e prata causam dano normal a um Licantropo.</p>\n  </li>\n  <li>\n    <p><strong>Convocar animais</strong>: um Homem-Urso pode convocar 1d3 ursos. Os animais convocados chegam em 1d4 rodadas.</p>\n  </li>\n  <li>\n    <p><strong>Abraço</strong>: se o Homem-Urso acertar os dois ataques com suas garras, conseguirá agarrar o alvo, causando 2d8 de dano enquanto estiver agarrando o alvo.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × mordida +6 (2d8)</li>\n  <li>2 × garras +6 (2d4)</li>\n</ul>\n",
     "encounters": "1d4",
     "encounters_lair": "1d4",
     "xp": "305",
@@ -25,7 +24,6 @@
     "mvo": "",
     "dv": "6",
     "dv_bonus": "",
-    "pv": "30",
     "ca": "18",
     "jp": "8",
     "mo": "10",
@@ -100,7 +98,76 @@
     "flags": {},
     "randomImg": false
   },
-  "items": [],
+  "items": [
+    {
+      "_id": "kppWDc1X3BHuk26L",
+      "name": "1 × mordida +6 (2d8)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 1,
+        "ba": 6,
+        "damage_bonus": null,
+        "weapon": false,
+        "description": "mordida",
+        "damage_description": "2d8",
+        "damage": "2d8"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!X4cS3uAEmRaS6eU4.kppWDc1X3BHuk26L"
+    },
+    {
+      "_id": "MCcEwpk3uyeZFcJV",
+      "name": "2 × garras +6 (2d4)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 2,
+        "ba": 6,
+        "damage_bonus": null,
+        "weapon": false,
+        "description": "garras",
+        "damage_description": "2d4",
+        "damage": "2d4"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!X4cS3uAEmRaS6eU4.MCcEwpk3uyeZFcJV"
+    }
+  ],
   "effects": [],
   "folder": "iiv4e6IKFVP68JnX",
   "flags": {

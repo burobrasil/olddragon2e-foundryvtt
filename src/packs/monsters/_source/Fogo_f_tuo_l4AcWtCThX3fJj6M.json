@@ -11,7 +11,6 @@
     "alignment": "caotico",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Imunidade</strong>: aos efeitos de encantamentos, de magias de Sono e de outros efeitos mentais.  Também são imunes a venenos ou ácidos.</p>\n  </li>\n  <li>\n    <p><strong>Descarga elétrica</strong>: o Fogo Fátuo pode acumular energia elétrica em seu interior. Esta criatura ataca procurando tocar suas vítimas enquanto descarrega a energia acumulada em forma de um grande choque.</p>\n  </li>\n  <li>\n    <p><strong>Invisibilidade</strong>: o Fogo Fátuo pode apagar sua luz conscientemente e, assim, ficar invisível a todos por até 2d4 rodadas. Enquanto apagados, um Fogo Fátuo não é capaz de atacar seus inimigos.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × toque +10 (2d8)</li>\n</ul>\n",
     "encounters": "1",
     "encounters_lair": "1d3",
     "xp": "1025",
@@ -25,7 +24,6 @@
     "mvo": "",
     "dv": "9",
     "dv_bonus": "",
-    "pv": "45",
     "ca": "23",
     "jp": "11",
     "mo": "12",
@@ -100,7 +98,42 @@
     "flags": {},
     "randomImg": false
   },
-  "items": [],
+  "items": [
+    {
+      "_id": "eYX078FHU4RAa96d",
+      "name": "1 × toque +10 (2d8)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 1,
+        "ba": 10,
+        "damage_bonus": null,
+        "weapon": false,
+        "description": "toque",
+        "damage_description": "2d8",
+        "damage": "2d8"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!l4AcWtCThX3fJj6M.eYX078FHU4RAa96d"
+    }
+  ],
   "effects": [],
   "folder": "8gdK9MBNzpaboPvc",
   "flags": {

@@ -11,7 +11,6 @@
     "alignment": "caotico",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Magias</strong>: pode lançar magias como um Mago de 10º nível, preferindo magia de Ilusão.</p>\n  </li>\n  <li>\n    <p><strong>Amaldiçoar</strong>: podem lançar uma maldição no alvo. Esta só pode ser desfeita por magias que lidam com maldições ou pela vontade da Bruxa que a lançou.</p>\n  </li>\n  <li>\n    <p><strong>Transformar</strong>: pode se transformar a vontade em qualquer criatura humanoide desejada, pelo tempo que quiser. Sua sombra, contudo, permanece a mesma.</p>\n  </li>\n  <li>\n    <p><strong>Resistência à magia</strong>: qualquer magia lançada contra uma Bruxa possui 1-2 chances em 1d6 de ser completamente ignorada.</p>\n  </li>\n  <li>\n    <p><strong>Água cristalina</strong>: água vinda de uma fonte pura e sagrada pode lhe causar dano como se fosse ácido, mas infringindo 1d10 pontos regressivos.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × garra +8 (2d6+5)</li>\n  <li>1 × mordida +8 (1d10+7)</li>\n</ul>\n",
     "encounters": "0",
     "encounters_lair": "1",
     "xp": "740",
@@ -25,7 +24,6 @@
     "mvo": "",
     "dv": "8",
     "dv_bonus": "+10",
-    "pv": "50",
     "ca": "19",
     "jp": "11",
     "mo": "10",
@@ -100,7 +98,76 @@
     "flags": {},
     "randomImg": false
   },
-  "items": [],
+  "items": [
+    {
+      "_id": "VeJAfFV9AvAbLvTW",
+      "name": "1 × garra +8 (2d6+5)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 1,
+        "ba": 8,
+        "damage_bonus": 5,
+        "weapon": false,
+        "description": "garra",
+        "damage_description": "2d6+5",
+        "damage": "2d6"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!hvv6Y20ptDSC4nOE.VeJAfFV9AvAbLvTW"
+    },
+    {
+      "_id": "HVUYCcteSJ7sxFF9",
+      "name": "1 × mordida +8 (1d10+7)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 1,
+        "ba": 8,
+        "damage_bonus": 7,
+        "weapon": false,
+        "description": "mordida",
+        "damage_description": "1d10+7",
+        "damage": "1d10"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!hvv6Y20ptDSC4nOE.HVUYCcteSJ7sxFF9"
+    }
+  ],
   "effects": [],
   "folder": "iiv4e6IKFVP68JnX",
   "flags": {

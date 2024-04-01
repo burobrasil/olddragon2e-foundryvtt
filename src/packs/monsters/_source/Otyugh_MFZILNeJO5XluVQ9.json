@@ -11,7 +11,6 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Vigilância</strong>: está sempre vigilante com seus tentáculos e não pode ser surpreendido.</p>\n  </li>\n  <li>\n    <p><strong>Doença</strong>: qualquer alvo que receber dano de uma mordida de um Otyugh, terá uma chance de 1 em 1d6, cumulativa por mordida (duas mordidas, 2 chances; três mordidas, 3 chances; etc.) de ser infectado pela Cólera do Lixo. A doença causa diarreia e a perda de 2d4 pontos de Constituição por até 1d4+2 dias.  Uma JPC bem-sucedida evita os efeitos de uma Cólera do Lixo.</p>\n  </li>\n  <li>\n    <p><strong>Agarrar</strong>: se acertar os dois ataques com seus tentáculos, conseguirá agarrar a vítima.  A cada rodada, o Otyugh baterá com a vítima no chão, causando 2d8 de dano.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × mordida +7 (1d4+1)</li>\n  <li>3 × tentáculos +7 (1d8)</li>\n</ul>\n",
     "encounters": "1",
     "encounters_lair": "1d2",
     "xp": "420",
@@ -25,7 +24,6 @@
     "mvo": "",
     "dv": "7",
     "dv_bonus": "",
-    "pv": "35",
     "ca": "18",
     "jp": "6",
     "mo": "10",
@@ -100,7 +98,76 @@
     "flags": {},
     "randomImg": false
   },
-  "items": [],
+  "items": [
+    {
+      "_id": "nPE0fv3diKhP6LS7",
+      "name": "1 × mordida +7 (1d4+1)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 1,
+        "ba": 7,
+        "damage_bonus": 1,
+        "weapon": false,
+        "description": "mordida",
+        "damage_description": "1d4+1",
+        "damage": "1d4"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!MFZILNeJO5XluVQ9.nPE0fv3diKhP6LS7"
+    },
+    {
+      "_id": "FAn6TVvXSTeEh4AC",
+      "name": "3 × tentáculos +7 (1d8)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 3,
+        "ba": 7,
+        "damage_bonus": null,
+        "weapon": false,
+        "description": "tentáculos",
+        "damage_description": "1d8",
+        "damage": "1d8"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!MFZILNeJO5XluVQ9.FAn6TVvXSTeEh4AC"
+    }
+  ],
   "effects": [],
   "folder": "8gdK9MBNzpaboPvc",
   "flags": {

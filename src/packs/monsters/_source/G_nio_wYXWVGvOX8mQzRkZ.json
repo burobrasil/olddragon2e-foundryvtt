@@ -11,7 +11,6 @@
     "alignment": "caotico",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Imunidades</strong>: um Gênio é imune ao dano de qualquer arma não mágica.</p>\n  </li>\n  <li>\n    <p><strong>Redemoinho</strong>: um Gênio pode se transformar em um enorme redemoinho quantas vezes desejar. Nesta forma, é capaz de causar 2d6 de dano a todos que estejam até 3 metros.</p>\n  </li>\n  <li>\n    <p><strong>Magia</strong>: um Gênio pode lançar as seguintes magias como se fosse um Mago de 3º nível: Invisibilidade, Ilusão e Criar Alimentos.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × pancada +8 (2d8)</li>\n</ul>\n",
     "encounters": "1",
     "encounters_lair": "1",
     "xp": "460",
@@ -25,7 +24,6 @@
     "mvo": "",
     "dv": "7",
     "dv_bonus": "+1",
-    "pv": "36",
     "ca": "15",
     "jp": "11",
     "mo": "12",
@@ -100,7 +98,42 @@
     "flags": {},
     "randomImg": false
   },
-  "items": [],
+  "items": [
+    {
+      "_id": "jEdwm3b1Y7xN0kfo",
+      "name": "1 × pancada +8 (2d8)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 1,
+        "ba": 8,
+        "damage_bonus": null,
+        "weapon": false,
+        "description": "pancada",
+        "damage_description": "2d8",
+        "damage": "2d8"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!wYXWVGvOX8mQzRkZ.jEdwm3b1Y7xN0kfo"
+    }
+  ],
   "effects": [],
   "folder": "8gdK9MBNzpaboPvc",
   "flags": {

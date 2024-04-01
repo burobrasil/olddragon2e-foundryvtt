@@ -11,7 +11,6 @@
     "alignment": "ordeiro",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Classe de armadura</strong>: Oni Magos possuem CA 13 ou 16 quando usam armadura de couro batido.</p>\n  </li>\n  <li>\n    <p><strong>Magias</strong>: como um Mago de 5º nível.</p>\n  </li>\n  <li>\n    <p><strong>Salto</strong>: o Oni Mago pode saltar até 10 metros, os quais podem ser divididos entre altura e distância. Assim, é possível a ele saltar 10 metros para cima ou 5 metros para frente e, ao mesmo tempo, 5 metros para cima.</p>\n  </li>\n  <li>\n    <p><strong>Transformar</strong>: pode se transformar em um ser humanoide 1 vez ao dia, por no máximo 12 horas.</p>\n  </li>\n  <li>\n    <p><strong>Pavor de sua imagem</strong>: caso seja refletido em um espelho, seus poderes deixarão de funcionar e ele tentará fugir a todo custo.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × arma +5 (arma +4)</li>\n</ul>\n",
     "encounters": "1d6",
     "encounters_lair": "0",
     "xp": "205",
@@ -25,7 +24,6 @@
     "mvo": "",
     "dv": "5",
     "dv_bonus": "+4",
-    "pv": "29",
     "ca": "13/16",
     "jp": "9",
     "mo": "9",
@@ -100,7 +98,42 @@
     "flags": {},
     "randomImg": false
   },
-  "items": [],
+  "items": [
+    {
+      "_id": "mX7ANS6kFsCge4NO",
+      "name": "1 × arma +5 (arma +4)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 1,
+        "ba": 5,
+        "damage_bonus": 4,
+        "weapon": true,
+        "description": "arma",
+        "damage_description": "arma +4",
+        "damage": null
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!rjwn86d5Pjvkp57V.mX7ANS6kFsCge4NO"
+    }
+  ],
   "effects": [],
   "folder": "qRj6GXmFQo4suMBZ",
   "flags": {

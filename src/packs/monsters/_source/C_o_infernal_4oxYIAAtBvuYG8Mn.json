@@ -11,7 +11,6 @@
     "alignment": "caotico",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Sopro de fogo</strong>: podem usar a vontade.  Causa 1d10 de dano. Quando mordem o alvo e tiram um 20 no dado, causam automaticamente 1d10 de dano extra pelo sopro.</p>\n  </li>\n  <li>\n    <p><strong>Imunidade</strong>: são imunes a qualquer fogo normal, recebendo metade do dano caso a origem do fogo seja mágica.</p>\n  </li>\n  <li>\n    <p><strong>Visão extradimensional</strong>: possuem 50% de chance de ver alvos invisíveis ou em viagem planar.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × baforada +3 (1d10)</li>\n  <li>2 × mordidas +5 (1d6+2)</li>\n</ul>\n",
     "encounters": "2d4",
     "encounters_lair": "2d4",
     "xp": "175",
@@ -25,7 +24,6 @@
     "mvo": "",
     "dv": "4",
     "dv_bonus": "+8",
-    "pv": "28",
     "ca": "16",
     "jp": "7",
     "mo": "10",
@@ -100,7 +98,76 @@
     "flags": {},
     "randomImg": false
   },
-  "items": [],
+  "items": [
+    {
+      "_id": "vIv5y6reMXaX1Czh",
+      "name": "1 × baforada +3 (1d10)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 1,
+        "ba": 3,
+        "damage_bonus": null,
+        "weapon": false,
+        "description": "baforada",
+        "damage_description": "1d10",
+        "damage": "1d10"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!4oxYIAAtBvuYG8Mn.vIv5y6reMXaX1Czh"
+    },
+    {
+      "_id": "VhAqDhcZoUhRxfdd",
+      "name": "2 × mordidas +5 (1d6+2)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 2,
+        "ba": 5,
+        "damage_bonus": 2,
+        "weapon": false,
+        "description": "mordidas",
+        "damage_description": "1d6+2",
+        "damage": "1d6"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!4oxYIAAtBvuYG8Mn.VhAqDhcZoUhRxfdd"
+    }
+  ],
   "effects": [],
   "folder": "8gdK9MBNzpaboPvc",
   "flags": {

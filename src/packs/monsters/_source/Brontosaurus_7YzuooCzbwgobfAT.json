@@ -11,7 +11,6 @@
     "alignment": "neutro",
     "variant": false,
     "description": null,
-    "described_attacks": "<ul>\n  <li>1 × chute +12 (3d6)</li>\n</ul>\n",
     "encounters": "0",
     "encounters_lair": "1d4",
     "xp": "8250",
@@ -25,7 +24,6 @@
     "mvo": "",
     "dv": "30",
     "dv_bonus": "",
-    "pv": "150",
     "ca": "16",
     "jp": "15",
     "mo": "9",
@@ -100,7 +98,42 @@
     "flags": {},
     "randomImg": false
   },
-  "items": [],
+  "items": [
+    {
+      "_id": "Y3QkYpuATCTTITBV",
+      "name": "1 × chute +12 (3d6)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 1,
+        "ba": 12,
+        "damage_bonus": null,
+        "weapon": false,
+        "description": "chute",
+        "damage_description": "3d6",
+        "damage": "3d6"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!7YzuooCzbwgobfAT.Y3QkYpuATCTTITBV"
+    }
+  ],
   "effects": [],
   "folder": "fCR6JPmJVtpt7hqx",
   "flags": {

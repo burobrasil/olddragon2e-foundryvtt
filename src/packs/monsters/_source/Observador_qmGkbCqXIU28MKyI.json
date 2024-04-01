@@ -11,7 +11,6 @@
     "alignment": "ordeiro",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Atento</strong>: só pode ser surpreendido com um resultado 1 em 1d6.</p>\n  </li>\n  <li>\n    <p><strong>Resistência à magia</strong>: qualquer magia lançada contra o Observador possui 1-2 chances em 1d6 de ser completamente ignorada.</p>\n  </li>\n  <li>\n    <p><strong>Olho central</strong>: capaz de anular qualquer efeito mágico (seja de itens, poderes ou habilidades mágicas). Basta o alvo estar dentro de um arco de 90º da visão do olho central para sofrer o efeito.</p>\n  </li>\n  <li>\n    <p><strong>Olhos secundários</strong>: cada um possui uma função, e apenas 3 podem usar suas habilidades ao mesmo tempo (apesar de enxergarem o tempo todo). As habilidades funcionam como se fossem usadas por um personagem de 10º nível. São elas:</p>\n  </li>\n</ul>\n\n<p><strong>1</strong>. Sono;</p>\n\n<p><strong>2</strong>. Enfeitiçar Pessoas;</p>\n\n<p><strong>3</strong>. Aterrorizar;</p>\n\n<p><strong>4</strong>. Detectar Invisibilidade;</p>\n\n<p><strong>5</strong>. Lentidão;</p>\n\n<p><strong>6</strong>. Magia da Morte;</p>\n\n<p><strong>7</strong>. Telecinesia;</p>\n\n<p><strong>8</strong>. Imobilizar Pessoas;</p>\n\n<p><strong>9</strong>. Ilusão;</p>\n\n<p><strong>10</strong>. Confusão.</p>\n",
-    "described_attacks": "<ul>\n  <li>1 × mordida +4 (1d6+3)</li>\n</ul>\n",
     "encounters": "1",
     "encounters_lair": "1",
     "xp": "1900",
@@ -25,7 +24,6 @@
     "mvo": "",
     "dv": "11",
     "dv_bonus": "+10",
-    "pv": "65",
     "ca": "18",
     "jp": "14",
     "mo": "10",
@@ -100,7 +98,42 @@
     "flags": {},
     "randomImg": false
   },
-  "items": [],
+  "items": [
+    {
+      "_id": "kXS8DkAROVPAhjhe",
+      "name": "1 × mordida +4 (1d6+3)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 1,
+        "ba": 4,
+        "damage_bonus": 3,
+        "weapon": false,
+        "description": "mordida",
+        "damage_description": "1d6+3",
+        "damage": "1d6"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!qmGkbCqXIU28MKyI.kXS8DkAROVPAhjhe"
+    }
+  ],
   "effects": [],
   "folder": "8gdK9MBNzpaboPvc",
   "flags": {

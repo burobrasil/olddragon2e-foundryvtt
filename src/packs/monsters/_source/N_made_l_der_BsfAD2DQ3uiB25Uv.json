@@ -11,7 +11,6 @@
     "alignment": "neutro",
     "variant": true,
     "description": "<ul>\n  <li><strong>Variações</strong>: nos acampamentos, para cada 50 nômades, um deles será um Nômade Xamã; e em todo acampamento haverá um Nômade Líder.</li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × arco curto +3 (1d6+1)</li>\n  <li>1 × espada longa +3 (1d8+1)</li>\n</ul>\n",
     "encounters": "-",
     "encounters_lair": "",
     "xp": "95",
@@ -25,7 +24,6 @@
     "mvo": "",
     "dv": "3",
     "dv_bonus": "",
-    "pv": "15",
     "ca": "15",
     "jp": "6",
     "mo": "8",
@@ -100,7 +98,76 @@
     "flags": {},
     "randomImg": false
   },
-  "items": [],
+  "items": [
+    {
+      "_id": "BHUxpRsk4i58p7dp",
+      "name": "1 × arco curto +3 (1d6+1)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 1,
+        "ba": 3,
+        "damage_bonus": 1,
+        "weapon": false,
+        "description": "arco curto",
+        "damage_description": "1d6+1",
+        "damage": "1d6"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!BsfAD2DQ3uiB25Uv.BHUxpRsk4i58p7dp"
+    },
+    {
+      "_id": "7zeUY30ETwVONvj0",
+      "name": "1 × espada longa +3 (1d8+1)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 1,
+        "ba": 3,
+        "damage_bonus": 1,
+        "weapon": false,
+        "description": "espada longa",
+        "damage_description": "1d8+1",
+        "damage": "1d8"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!BsfAD2DQ3uiB25Uv.7zeUY30ETwVONvj0"
+    }
+  ],
   "effects": [],
   "folder": "rpL2cWeB5HlAT1Tc",
   "flags": {

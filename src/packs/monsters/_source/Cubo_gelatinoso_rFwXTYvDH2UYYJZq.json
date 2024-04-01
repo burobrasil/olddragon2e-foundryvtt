@@ -11,7 +11,6 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Surpresa</strong>: surpreende seus inimigos com um resultado de 1-4 em 1d6.</p>\n  </li>\n  <li>\n    <p><strong>Paralisia</strong>: o alvo deve ser bem-sucedido em uma JPC ou ficará paralisado por 2d4 turnos.</p>\n  </li>\n  <li>\n    <p><strong>Imunidades</strong>: imune aos efeitos do frio e da eletricidade.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × toque +4 (2d4 + paralisia)</li>\n</ul>\n",
     "encounters": "1",
     "encounters_lair": "0",
     "xp": "150",
@@ -25,7 +24,6 @@
     "mvo": "",
     "dv": "4",
     "dv_bonus": "",
-    "pv": "20",
     "ca": "12",
     "jp": "6",
     "mo": "12",
@@ -100,7 +98,42 @@
     "flags": {},
     "randomImg": false
   },
-  "items": [],
+  "items": [
+    {
+      "_id": "JEf7pdlKd7IVkYdh",
+      "name": "1 × toque +4 (2d4 + paralisia)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 1,
+        "ba": 4,
+        "damage_bonus": null,
+        "weapon": false,
+        "description": "toque",
+        "damage_description": "2d4 + paralisia",
+        "damage": "2d4"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!rFwXTYvDH2UYYJZq.JEf7pdlKd7IVkYdh"
+    }
+  ],
   "effects": [],
   "folder": "Aaa1XYCcgdMm5JDx",
   "flags": {

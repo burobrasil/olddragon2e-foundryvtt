@@ -380,34 +380,36 @@ export class OD2CharacterDataModel extends foundry.abstract.TypeDataModel {
   }
 
   get attack_items() {
-    return getItemsOfActorOfType(this.parent, 'weapon', ({ system }) => system.is_equipped);
+    return getItemsOfActorOfType(this.parent, 'weapon', ({ system }) => system.is_equipped).sort(
+      (a, b) => (a.sort || 0) - (b.sort || 0),
+    );
   }
 
   get weapon_items() {
-    return getItemsOfActorOfType(this.parent, 'weapon');
+    return getItemsOfActorOfType(this.parent, 'weapon').sort((a, b) => (a.sort || 0) - (b.sort || 0));
   }
 
   get armor_items() {
-    return getItemsOfActorOfType(this.parent, 'armor');
+    return getItemsOfActorOfType(this.parent, 'armor').sort((a, b) => (a.sort || 0) - (b.sort || 0));
   }
 
   get shield_items() {
-    return getItemsOfActorOfType(this.parent, 'shield');
+    return getItemsOfActorOfType(this.parent, 'shield').sort((a, b) => (a.sort || 0) - (b.sort || 0));
   }
 
   get misc_items() {
-    return getItemsOfActorOfType(this.parent, 'misc');
+    return getItemsOfActorOfType(this.parent, 'misc').sort((a, b) => (a.sort || 0) - (b.sort || 0));
   }
 
   get container_items() {
-    return getItemsOfActorOfType(this.parent, 'container');
+    return getItemsOfActorOfType(this.parent, 'container').sort((a, b) => (a.sort || 0) - (b.sort || 0));
   }
 
   get vehicle_items() {
-    return getItemsOfActorOfType(this.parent, 'vehicle');
+    return getItemsOfActorOfType(this.parent, 'vehicle').sort((a, b) => (a.sort || 0) - (b.sort || 0));
   }
 
   get spell_items() {
-    return getItemsOfActorOfType(this.parent, 'spell');
+    return getItemsOfActorOfType(this.parent, 'spell').sort((a, b) => (a.sort || 0) - (b.sort || 0));
   }
 }

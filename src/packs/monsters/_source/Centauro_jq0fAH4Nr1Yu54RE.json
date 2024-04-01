@@ -11,7 +11,6 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Correr</strong>: pode correr com movimento 15 durante 1 turno.</p>\n  </li>\n  <li>\n    <p><strong>Investida</strong>: se ainda não engajado em combate, pode usar a manobra de investida para aumentar o dano do seu ataque com armas corpo-a-corpo.</p>\n  </li>\n  <li>\n    <p><strong>Carga</strong>: carrega até 4.000 moedas ou 2.000 moedas e um montador.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × arma +4 (arma)</li>\n  <li>2 × cascos +4 (1d6)</li>\n</ul>\n",
     "encounters": "0",
     "encounters_lair": "2d10",
     "xp": "125",
@@ -25,7 +24,6 @@
     "mvo": "",
     "dv": "4",
     "dv_bonus": "+4",
-    "pv": "24",
     "ca": "15",
     "jp": "6",
     "mo": "10",
@@ -100,7 +98,76 @@
     "flags": {},
     "randomImg": false
   },
-  "items": [],
+  "items": [
+    {
+      "_id": "34KorwONnPy8dLcw",
+      "name": "1 × arma +4 (arma)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 1,
+        "ba": 4,
+        "damage_bonus": null,
+        "weapon": true,
+        "description": "arma",
+        "damage_description": "arma",
+        "damage": null
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!jq0fAH4Nr1Yu54RE.34KorwONnPy8dLcw"
+    },
+    {
+      "_id": "tJEkAIr36BmuJudH",
+      "name": "2 × cascos +4 (1d6)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 2,
+        "ba": 4,
+        "damage_bonus": null,
+        "weapon": false,
+        "description": "cascos",
+        "damage_description": "1d6",
+        "damage": "1d6"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!jq0fAH4Nr1Yu54RE.tJEkAIr36BmuJudH"
+    }
+  ],
   "effects": [],
   "folder": "8gdK9MBNzpaboPvc",
   "flags": {

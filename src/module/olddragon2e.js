@@ -19,6 +19,7 @@ import {
   OD2EquipmentDataModel,
   OD2ContainerDataModel,
   OD2SpellDataModel,
+  OD2MonsterAttackDataModel,
 } from './items';
 
 // Initialize system
@@ -43,6 +44,7 @@ Hooks.once('init', async () => {
     container: OD2ContainerDataModel,
     vehicle: OD2EquipmentDataModel,
     spell: OD2SpellDataModel,
+    monster_attack: OD2MonsterAttackDataModel,
   };
 
   Items.unregisterSheet('core', ItemSheet);

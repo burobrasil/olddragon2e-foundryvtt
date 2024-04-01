@@ -11,7 +11,6 @@
     "alignment": "caotico",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Baforada</strong>: o Dragão Verde pode, 3 vezes ao dia, abdicar dos seus ataques físicos para liberar uma baforada de gás venenoso em forma de nuvem com 12 metros de largura, 15 metros de distância e 6 metros de altura. O dano de uma baforada é igual ao número de seus dados de vida em d6. Ou seja, um Dragão Verde causa 8d6 de dano em todos na área de efeito da baforada. Um teste de JPD pode reduzir o dano pela metade.  u Imunidade: um Dragão Verde é imune a qualquer efeito de venenos.</p>\n  </li>\n  <li>\n    <p><strong>Magias</strong>: um Dragão Verde pode conjurar magias como se fosse um Mago 6º nível.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × mordida +7 (3d8)</li>\n  <li>2 × garras +8 (1d6+4)</li>\n</ul>\n",
     "encounters": "1d4",
     "encounters_lair": "1d4",
     "xp": "785",
@@ -25,7 +24,6 @@
     "mvo": "",
     "dv": "8",
     "dv_bonus": "+8",
-    "pv": "48",
     "ca": "19",
     "jp": "11",
     "mo": "9",
@@ -100,7 +98,76 @@
     "flags": {},
     "randomImg": false
   },
-  "items": [],
+  "items": [
+    {
+      "_id": "AtEPE43julkhHNZQ",
+      "name": "1 × mordida +7 (3d8)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 1,
+        "ba": 7,
+        "damage_bonus": null,
+        "weapon": false,
+        "description": "mordida",
+        "damage_description": "3d8",
+        "damage": "3d8"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!RcU9HVHKvXTd5QBi.AtEPE43julkhHNZQ"
+    },
+    {
+      "_id": "Pq0YNOj1471kMS3c",
+      "name": "2 × garras +8 (1d6+4)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 2,
+        "ba": 8,
+        "damage_bonus": 4,
+        "weapon": false,
+        "description": "garras",
+        "damage_description": "1d6+4",
+        "damage": "1d6"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!RcU9HVHKvXTd5QBi.Pq0YNOj1471kMS3c"
+    }
+  ],
   "effects": [],
   "folder": "JAAEFzOmAfOQrbEV",
   "flags": {

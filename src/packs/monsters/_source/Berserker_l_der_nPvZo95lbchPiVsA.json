@@ -11,7 +11,6 @@
     "alignment": "neutro",
     "variant": true,
     "description": "<ul>\n  <li>\n    <p><strong>Variações</strong>: a cada 20 Berserkers, um deles será um Berserker Líder.</p>\n  </li>\n  <li>\n    <p><strong>Fúria</strong>: entram em fúria quando perdem metade de seus pontos de vida, realizando todos seus ataques como fáceis e recebendo um bônus de +2 nos danos.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × machado +3 (1d8+2)</li>\n</ul>\n",
     "encounters": "-",
     "encounters_lair": "-",
     "xp": "95",
@@ -25,7 +24,6 @@
     "mvo": "",
     "dv": "3",
     "dv_bonus": "",
-    "pv": "15",
     "ca": "16",
     "jp": "6",
     "mo": "12",
@@ -100,7 +98,42 @@
     "flags": {},
     "randomImg": false
   },
-  "items": [],
+  "items": [
+    {
+      "_id": "FdPbn8mmgwH5BvBZ",
+      "name": "1 × machado +3 (1d8+2)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 1,
+        "ba": 3,
+        "damage_bonus": 2,
+        "weapon": false,
+        "description": "machado",
+        "damage_description": "1d8+2",
+        "damage": "1d8"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!nPvZo95lbchPiVsA.FdPbn8mmgwH5BvBZ"
+    }
+  ],
   "effects": [],
   "folder": "rpL2cWeB5HlAT1Tc",
   "flags": {

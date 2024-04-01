@@ -11,7 +11,6 @@
     "alignment": "ordeiro",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Assustador</strong>: alvos que falharem em uma JPS irão tentar fugir de medo, com uma chance de 1-2 em 1d6 de soltarem qualquer objeto que estejam segurando.</p>\n  </li>\n  <li>\n    <p><strong>Correntes</strong>: possuem 1d4 correntes presas no corpo, que obedecem seus comandos.  Elas podem se mover até 20 metros, dando voltas, fazendo curvas e quaisquer outras manobras desejada pelo Cenobita.</p>\n  </li>\n  <li>\n    <p><strong>Rasgar</strong>: quando o alvo for atingido pela corrente com um resultado de “20” no dado, ele deve fazer uma JPD. Caso falhe, receberá +2d6 de dano e -1 na DES, mas, se for bem-sucedido, receberá apenas +2d6 de dano. A DES pode ser recuperada como se fosse um ferimento normal.</p>\n  </li>\n  <li>\n    <p><strong>Resistência à magia</strong>: qualquer magia lançada contra um Cenobita possui 1-2 chances em 1d6 de ser completamente ignorada.</p>\n  </li>\n  <li>\n    <p><strong>Excomungar</strong>: eles podem ser expulsos por meio do quebra-cabeças usado para trazê-los.  Se o personagem tentar resolver o enigma, deve fazer um teste de INT difícil. Assim que resolvido, todos os Cenobitas próximos serão excomungados.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × corrente +5 (2d6+3)</li>\n</ul>\n",
     "encounters": "1",
     "encounters_lair": "0",
     "xp": "340",
@@ -25,7 +24,6 @@
     "mvo": "",
     "dv": "6",
     "dv_bonus": "",
-    "pv": "30",
     "ca": "15",
     "jp": "9",
     "mo": "10",
@@ -100,7 +98,42 @@
     "flags": {},
     "randomImg": false
   },
-  "items": [],
+  "items": [
+    {
+      "_id": "ke6ECfe5ChJntOtD",
+      "name": "1 × corrente +5 (2d6+3)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 1,
+        "ba": 5,
+        "damage_bonus": 3,
+        "weapon": false,
+        "description": "corrente",
+        "damage_description": "2d6+3",
+        "damage": "2d6"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!gk2V2RsOfs4cEOdU.ke6ECfe5ChJntOtD"
+    }
+  ],
   "effects": [],
   "folder": "iiv4e6IKFVP68JnX",
   "flags": {

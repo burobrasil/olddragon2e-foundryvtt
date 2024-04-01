@@ -1,3 +1,9 @@
+.sheet header.sheet-header h1 input.monster-attack-name {
+  background: none;
+  border: none;
+  cursor: not-allowed;
+}
+
 .olddragon2e.sheet.item {
   form {
     display: flex;
@@ -18,14 +24,17 @@
   .misc,
   .container,
   .vehicle,
-  .spell-data {
+  .spell-data,
+  .monster-attack {
     display: grid;
     grid-template-columns: repeat(2, minmax(0, 1fr));
     gap: 0.5rem;
     height: 100%;
 
     .properties,
-    .description {
+    .description,
+    .attack,
+    .damage {
       display: flex;
       flex-direction: column;
 
@@ -57,7 +66,12 @@
       .circle,
       .range,
       .duration,
-      .jp {
+      .jp,
+      .times,
+      .description,
+      .ba,
+      .damage-description,
+      .damage-bonus {
         display: flex;
         flex-direction: row;
         justify-content: space-between;

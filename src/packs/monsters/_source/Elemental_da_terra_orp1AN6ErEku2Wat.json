@@ -11,7 +11,6 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Bloqueio</strong>: um Elemental da Terra não pode ultrapassar uma fonte de água mais profunda que sua altura.</p>\n  </li>\n  <li>\n    <p><strong>Potencializado</strong>: um ataque realizado a um alvo que esteja tocando o solo causa 1d8 de dano adicional.</p>\n  </li>\n  <li>\n    <p><strong>Imunidades</strong>: um Elemental da Terra é imune ao dano de qualquer arma não mágica e a qualquer dano proveniente da terra, ainda que mágico.</p>\n  </li>\n  <li>\n    <p><strong>Vulnerabilidade</strong>: um Elemental da Terra leva dano dobrado de qualquer ataque proveniente de uma fonte de fogo.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>2 × pancadas +9 (2d8+5)</li>\n</ul>\n",
     "encounters": "1",
     "encounters_lair": "1",
     "xp": "460",
@@ -25,7 +24,6 @@
     "mvo": "",
     "dv": "7",
     "dv_bonus": "",
-    "pv": "35",
     "ca": "19",
     "jp": "11",
     "mo": "12",
@@ -100,7 +98,42 @@
     "flags": {},
     "randomImg": false
   },
-  "items": [],
+  "items": [
+    {
+      "_id": "4nShgjf18QViaDWz",
+      "name": "2 × pancadas +9 (2d8+5)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 2,
+        "ba": 9,
+        "damage_bonus": 5,
+        "weapon": false,
+        "description": "pancadas",
+        "damage_description": "2d8+5",
+        "damage": "2d8"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!orp1AN6ErEku2Wat.4nShgjf18QViaDWz"
+    }
+  ],
   "effects": [],
   "folder": "8gdK9MBNzpaboPvc",
   "flags": {

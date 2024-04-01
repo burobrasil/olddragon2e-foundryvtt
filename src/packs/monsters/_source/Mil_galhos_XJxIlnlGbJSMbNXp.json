@@ -11,7 +11,6 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Imóvel e Silencioso</strong>: não se locomove e, por isso, não produz som algum até atacar, surpreendendo seus alvos com um resultado de 1-4 em 1d6.</p>\n  </li>\n  <li>\n    <p><strong>Fogo</strong>: um Mil-Galhos é especialmente suscetível ao fogo. Todo dano causado pelo fogo deve ser ampliado em 50%.</p>\n  </li>\n  <li>\n    <p><strong>Morto-vivo</strong>: imune a frio, magias mentais de manipulação, controle ou ilusão, ou demais formas mágicas de interferir na mente de seres vivos. Sofre 1d6 de dano ácido por frasco de água benta.</p>\n  </li>\n  <li>\n    <p><strong>Paralisia</strong>: alvo atingido por um Mil-Galhos deve ser bem-sucedido em uma JPC ou ficará paralisado por até 1d6 turnos. Elfos são imunes a habilidade de Paralisia de um Mil-Galhos assim como a dos Ghouls.</p>\n  </li>\n  <li>\n    <p><strong>Imunidades</strong>: além das imunidades comuns aos mortos-vivos, são imunes ao poder de Afastar Mortos-Vivos de um Clérigo.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × pancada +5 (1d6 + paralisia)</li>\n</ul>\n",
     "encounters": "1",
     "encounters_lair": "",
     "xp": "200",
@@ -25,7 +24,6 @@
     "mvo": "",
     "dv": "4",
     "dv_bonus": "+4",
-    "pv": "24",
     "ca": "14",
     "jp": "10",
     "mo": "10",
@@ -100,7 +98,42 @@
     "flags": {},
     "randomImg": false
   },
-  "items": [],
+  "items": [
+    {
+      "_id": "v2w4AcL9HUOghn6N",
+      "name": "1 × pancada +5 (1d6 + paralisia)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 1,
+        "ba": 5,
+        "damage_bonus": null,
+        "weapon": false,
+        "description": "pancada",
+        "damage_description": "1d6 + paralisia",
+        "damage": "1d6"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!XJxIlnlGbJSMbNXp.v2w4AcL9HUOghn6N"
+    }
+  ],
   "effects": [],
   "folder": "gVTyUIxvSEA8UxwB",
   "flags": {

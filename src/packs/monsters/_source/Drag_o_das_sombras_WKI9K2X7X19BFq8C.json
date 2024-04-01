@@ -11,7 +11,6 @@
     "alignment": "caotico",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Baforada</strong>: o Dragão das Sombras pode, 3 vezes ao dia, abdicar dos seus ataques físicos para liberar uma baforada de escuridão em forma de nuvem com 12 metros de largura, 15 metros de distância e 6 metros de altura. As criaturas em contato com esta nuvem ficarão cegas por 1d6 rodadas e perderão metade de seus pontos vida.  Ou seja, um personagem com 30 pontos de vida atingido pela nuvem de escuridão perderá 15 pontos de vida pelo efeito da baforada. Um teste de JPD pode reduzir o dano pela metade.</p>\n  </li>\n  <li>\n    <p><strong>Imunidade</strong>: um Dragão das Sombras é imune a qualquer efeito que envolva sombras e escuridão.</p>\n  </li>\n  <li>\n    <p><strong>Magias</strong>: um Dragão das Sombras pode conjurar magias como se fosse um Mago de 6º nível.</p>\n  </li>\n  <li>\n    <p><strong>Infravisão</strong>: 30 metros</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>1 × mordida +7 (3d8)</li>\n  <li>2 × garras +8 (1d8+6)</li>\n</ul>\n",
     "encounters": "1",
     "encounters_lair": "1",
     "xp": "785",
@@ -25,7 +24,6 @@
     "mvo": "",
     "dv": "8",
     "dv_bonus": "+8",
-    "pv": "48",
     "ca": "20",
     "jp": "11",
     "mo": "10",
@@ -100,7 +98,76 @@
     "flags": {},
     "randomImg": false
   },
-  "items": [],
+  "items": [
+    {
+      "_id": "6A9vsIlZ3VqJ5JE2",
+      "name": "1 × mordida +7 (3d8)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 1,
+        "ba": 7,
+        "damage_bonus": null,
+        "weapon": false,
+        "description": "mordida",
+        "damage_description": "3d8",
+        "damage": "3d8"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!WKI9K2X7X19BFq8C.6A9vsIlZ3VqJ5JE2"
+    },
+    {
+      "_id": "wX6rwivnK5glX4vC",
+      "name": "2 × garras +8 (1d8+6)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 2,
+        "ba": 8,
+        "damage_bonus": 6,
+        "weapon": false,
+        "description": "garras",
+        "damage_description": "1d8+6",
+        "damage": "1d8"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!WKI9K2X7X19BFq8C.wX6rwivnK5glX4vC"
+    }
+  ],
   "effects": [],
   "folder": "JAAEFzOmAfOQrbEV",
   "flags": {

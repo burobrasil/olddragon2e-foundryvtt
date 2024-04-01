@@ -11,7 +11,6 @@
     "alignment": "neutro",
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Redemoinho</strong>: criaturas com 2 DV ou menos precisam passar em uma JPD ou serão arremessadas até 1d4+2 metros do Elemental do Ar.</p>\n  </li>\n  <li>\n    <p><strong>Potencializado</strong>: um ataque realizado a um alvo que esteja voando ou levitando causa 1d8 de dano adicional.</p>\n  </li>\n  <li>\n    <p><strong>Imunidades</strong>: um Elemental do Ar é imune ao dano de qualquer arma não mágica e a qualquer dano proveniente de um ataque de ar, ainda que mágico.</p>\n  </li>\n  <li>\n    <p><strong>Vulnerabilidade</strong>: um Elemental do Ar leva dano dobrado de qualquer ataque proveniente de uma fonte de terra.</p>\n  </li>\n</ul>\n",
-    "described_attacks": "<ul>\n  <li>2 × pancadas +9 (2d8+5)</li>\n</ul>\n",
     "encounters": "1",
     "encounters_lair": "1",
     "xp": "460",
@@ -25,7 +24,6 @@
     "mvo": "",
     "dv": "7",
     "dv_bonus": "",
-    "pv": "35",
     "ca": "19",
     "jp": "11",
     "mo": "12",
@@ -100,7 +98,42 @@
     "flags": {},
     "randomImg": false
   },
-  "items": [],
+  "items": [
+    {
+      "_id": "DgrtkWJ8f9mYrr2G",
+      "name": "2 × pancadas +9 (2d8+5)",
+      "type": "monster_attack",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "times": 2,
+        "ba": 9,
+        "damage_bonus": 5,
+        "weapon": false,
+        "description": "pancadas",
+        "damage_description": "2d8+5",
+        "damage": "2d8"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "enzpVKIAX52oTyPe": 3
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "systemId": "olddragon2e",
+        "systemVersion": "0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1698721200000,
+        "modifiedTime": 1702782000000,
+        "lastModifiedBy": "enzpVKIAX52oTyPe"
+      },
+      "_key": "!actors.items!sR7K4GLPgHEJjHn2.DgrtkWJ8f9mYrr2G"
+    }
+  ],
   "effects": [],
   "folder": "8gdK9MBNzpaboPvc",
   "flags": {
