@@ -1,3 +1,9 @@
+.sheet header.sheet-header h1 input.monster-attack-name {
+  background: none;
+  border: none;
+  cursor: not-allowed;
+}
+
 .olddragon2e.sheet.item {
   form {
     display: flex;
@@ -26,7 +32,9 @@
     height: 100%;
 
     .properties,
-    .description {
+    .description,
+    .attack,
+    .damage {
       display: flex;
       flex-direction: column;
 
@@ -127,15 +135,6 @@
         background-color: white;
         border-radius: 0.25rem;
         cursor: text;
-      }
-    }
-  }
-
-  .monster-attack {
-
-    .description {
-      textarea {
-        background-color: transparent;
       }
     }
   }

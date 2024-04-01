@@ -1,12 +1,12 @@
 <form class="{{cssClass}}" autocomplete="off">
     <header class="sheet-header">
         <img src="{{item.img}}" data-edit="img" title="{{item.name}}" height="64" width="64"/>
-        <h1><input name="name" type="text" value="{{system.times}} × {{system.description}} {{signed_number system.ba}} ({{system.damage_description}})"/></h1>
+        <h1><input class="monster-attack-name" name="name" type="text" value="{{system.times}} × {{system.description}} {{signed_number system.ba}} ({{system.damage_description}})" data-dtype="String" onkeydown="return false;" title="Não altere o nome do ataque"/></h1>
     </header>
     <div class="monster-attack">
-        {{!-- Propriedades --}}
-        <div class="properties">
-            <label class="tab-title">{{localize "olddragon2e.properties"}}</label>
+        {{!-- Ataque --}}
+        <div class="attack">
+            <label class="tab-title">{{localize "olddragon2e.atq"}}</label>
             {{!-- Vezes --}}
             <div class="times">
                 <label class="font-bold">{{localize "olddragon2e.times"}}</label>
@@ -19,14 +19,20 @@
             </div>
             {{!-- BA --}}
             <div class="ba">
-                <label class="font-bold">{{localize "olddragon2e.ba_short"}}</label>
+                <label class="font-bold">{{localize "olddragon2e.ba"}} ({{localize "olddragon2e.ba_short"}})</label>
                 <input name="system.ba" type="text" value="{{system.ba}}" data-dtype="Number">
             </div>
-            {{!-- Descrição do Dano --}}
-            <div class="damage-description">
-                <label class="font-bold">{{localize "olddragon2e.damage_description"}}</label>
-                <input name="system.damage_description" type="text" value="{{system.damage_description}}" data-dtype="String">
+            {{!-- Arma --}}
+            <div class="checkboxes">
+                <div class="checkbox">
+                    <input class="weapon-checkbox" name="system.weapon" type="checkbox" {{checked system.weapon}}>
+                    <label class="font-bold">{{localize "olddragon2e.weapon"}} <i class="fa-solid fa-circle-info" title="Se marcada, a rolagem de dano deste ataque terá seu valor considerado como 1d6"></i></label>
+                </div>
             </div>
+        </div>
+        {{!-- Dano --}}
+        <div class="damage">
+            <label class="tab-title">{{localize "olddragon2e.damage"}}</label>
             {{!-- Dano --}}
             <div class="damage">
                 <label class="font-bold">{{localize "olddragon2e.damage"}}</label>
@@ -37,18 +43,11 @@
                 <label class="font-bold">{{localize "olddragon2e.bonus_damage"}}</label>
                 <input name="system.damage_bonus" type="text" value="{{system.damage_bonus}}" data-dtype="Number">
             </div>
-            {{!-- Arma --}}
-            <div class="checkboxes">
-                <div class="checkbox">
-                    <input class="weapon-checkbox" name="system.weapon" type="checkbox" {{checked system.weapon}}>
-                    <label class="font-bold">{{localize "olddragon2e.weapon"}}</label>
-                </div>
+            {{!-- Descrição do Dano --}}
+            <div class="damage-description">
+                <label class="font-bold">{{localize "olddragon2e.damage_description"}} <i class="fa-solid fa-circle-info" title='Texto exibido entre parêntesis para representar o dano. Ex.: "1d4 +2", "arma +1" ou "1d3 + veneno"'></i></label>
+                <input name="system.damage_description" type="text" value="{{system.damage_description}}" data-dtype="String">
             </div>
-        </div>
-        {{!-- Descrição --}}
-        <div class="description">
-            <label class="tab-title">{{localize "olddragon2e.description"}}</label>
-            <textarea name="system.text" data-dtype="String" disabled>{{system.times}} × {{system.description}} {{signed_number system.ba}} ({{system.damage_description}})</textarea>
         </div>
     </div>
 </form>
