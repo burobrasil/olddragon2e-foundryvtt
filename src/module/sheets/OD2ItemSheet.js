@@ -25,14 +25,21 @@ export default class OD2ItemSheet extends ItemSheet {
   }
 
   async activateListeners(html) {
-    html.find('.weapon-checkbox').change(this._isWeapon.bind(this));
+    if (this.isEditable) {
+      html.find('.weapon-checkbox').change(this._isWeapon.bind(this));
+    }
 
     super.activateListeners(html);
   }
 
   async _isWeapon(event) {
-    if (event.currentTarget.checked) {
-      this.item.update({ 'system.damage': '1d6' });
-    }
+    setTimeout(() => {
+      if (event.currentTarget.checked) {
+        this.item.update({
+          'system.description': 'arma',
+          'system.damage': '',
+        });
+      }
+    }, 0);
   }
 }
