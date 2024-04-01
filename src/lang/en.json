@@ -1,4 +1,15 @@
 {
+  "TYPES.Actor.character": "Personagem",
+  "TYPES.Actor.monster": "Monstro/Inimigo",
+  "TYPES.Item.weapon": "Arma",
+  "TYPES.Item.armor": "Armadura",
+  "TYPES.Item.shield": "Escudo",
+  "TYPES.Item.misc": "Item Geral",
+  "TYPES.Item.container": "Recipiente/Vasilhame",
+  "TYPES.Item.vehicle": "Montaria/Transporte",
+  "TYPES.Item.spell": "Magia",
+  "TYPES.Item.monster_attack": "Ataque de Monstro",
+
   "olddragon2e": {
     "name": "Nome",
     "id": "ID",
