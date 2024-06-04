@@ -2,7 +2,6 @@
   "id": "olddragon2e",
   "title": "Old Dragon 2e",
   "description": "Sistema para Old Dragon 2a Edição | System for Old Dragon 2nd Edition",
-  "author": "Buró do Brasil",
   "authors": [
     {
       "name": "Dei Priori",
@@ -21,7 +20,7 @@
   "version": "This is auto replaced",
   "compatibility": {
     "minimum": "11",
-    "verified": "11"
+    "verified": "12"
   },
   "scripts": [],
   "esmodules": ["module/olddragon2e.js"],
@@ -100,6 +99,10 @@
   "initiative": "1d12",
   "gridDistance": 1.5,
   "gridUnits": "m",
+  "grid": {
+    "distance": 1.5,
+    "units": "m"
+  },
   "primaryTokenAttribute": "hp",
   "background": "systems/olddragon2e/assets/system-cover.webp"
 }
