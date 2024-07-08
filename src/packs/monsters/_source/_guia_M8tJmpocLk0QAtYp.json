@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "JtNPUFcXXQMbSige",
-      "name": "1 × garra +1 (1d2)",
+      "_id": "hB4iReUgtyvFmSfj",
+      "name": "1 × Garra +1 (1d2)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,7 +109,7 @@
         "ba": 1,
         "damage_bonus": null,
         "weapon": false,
-        "description": "garra",
+        "description": "Garra",
         "damage_description": "1d2",
         "damage": "1d2"
       },
@@ -131,7 +131,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!M8tJmpocLk0QAtYp.JtNPUFcXXQMbSige"
+      "_key": "!actors.items!M8tJmpocLk0QAtYp.hB4iReUgtyvFmSfj"
     }
   ],
   "effects": [],

@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "eYX078FHU4RAa96d",
-      "name": "1 × toque +10 (2d8)",
+      "_id": "Kgz7siSQZUNMAhLo",
+      "name": "1 × Toque +10 (2d8)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,7 +109,7 @@
         "ba": 10,
         "damage_bonus": null,
         "weapon": false,
-        "description": "toque",
+        "description": "Toque",
         "damage_description": "2d8",
         "damage": "2d8"
       },
@@ -131,7 +131,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!l4AcWtCThX3fJj6M.eYX078FHU4RAa96d"
+      "_key": "!actors.items!l4AcWtCThX3fJj6M.Kgz7siSQZUNMAhLo"
     }
   ],
   "effects": [],

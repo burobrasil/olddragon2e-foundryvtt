@@ -100,17 +100,17 @@
   },
   "items": [
     {
-      "_id": "a6MQbn2YMrdoAwfT",
-      "name": "1 × arma +1 (arma +0)",
+      "_id": "KPk2irKVNvsTjzJH",
+      "name": "1 × Arma +1 (Arma)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
         "times": 1,
         "ba": 1,
-        "damage_bonus": 0,
+        "damage_bonus": null,
         "weapon": true,
-        "description": "arma",
-        "damage_description": "arma +0",
+        "description": "Arma",
+        "damage_description": "Arma",
         "damage": null
       },
       "effects": [],
@@ -131,11 +131,11 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!yQU69CHKwfHphkxf.a6MQbn2YMrdoAwfT"
+      "_key": "!actors.items!yQU69CHKwfHphkxf.KPk2irKVNvsTjzJH"
     },
     {
-      "_id": "5JxWiwhMpS0L1kVN",
-      "name": "1 × baforada +2 (1d4+1)",
+      "_id": "HCgUqgtSwkKF83W8",
+      "name": "1 × Baforada +2 (1d4+1)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -143,7 +143,7 @@
         "ba": 2,
         "damage_bonus": 1,
         "weapon": false,
-        "description": "baforada",
+        "description": "Baforada",
         "damage_description": "1d4+1",
         "damage": "1d4"
       },
@@ -165,7 +165,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!yQU69CHKwfHphkxf.5JxWiwhMpS0L1kVN"
+      "_key": "!actors.items!yQU69CHKwfHphkxf.HCgUqgtSwkKF83W8"
     }
   ],
   "effects": [],

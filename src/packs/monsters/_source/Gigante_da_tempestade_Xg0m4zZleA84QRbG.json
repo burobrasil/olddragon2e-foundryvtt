@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "A1k8bLQRYdDvODOf",
-      "name": "1 × arma +14 (arma +12)",
+      "_id": "bqqMvUuWMrdHUabw",
+      "name": "1 × Arma +14 (Arma +12)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,8 +109,8 @@
         "ba": 14,
         "damage_bonus": 12,
         "weapon": true,
-        "description": "arma",
-        "damage_description": "arma +12",
+        "description": "Arma",
+        "damage_description": "Arma +12",
         "damage": null
       },
       "effects": [],
@@ -131,11 +131,11 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!Xg0m4zZleA84QRbG.A1k8bLQRYdDvODOf"
+      "_key": "!actors.items!Xg0m4zZleA84QRbG.bqqMvUuWMrdHUabw"
     },
     {
-      "_id": "VstRGAuuem8qBc0c",
-      "name": "2 × pancadas +12 (2d6+2)",
+      "_id": "w76GTJYXYbuz1oH1",
+      "name": "2 × Pancadas +12 (2d6+2)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -143,7 +143,7 @@
         "ba": 12,
         "damage_bonus": 2,
         "weapon": false,
-        "description": "pancadas",
+        "description": "Pancadas",
         "damage_description": "2d6+2",
         "damage": "2d6"
       },
@@ -165,7 +165,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!Xg0m4zZleA84QRbG.VstRGAuuem8qBc0c"
+      "_key": "!actors.items!Xg0m4zZleA84QRbG.w76GTJYXYbuz1oH1"
     }
   ],
   "effects": [],

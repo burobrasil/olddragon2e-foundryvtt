@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "MR0Q3HGo6P5Okcu7",
-      "name": "1 × arma improvisada (1d4)",
+      "_id": "WTOqtxNndM6zwwNB",
+      "name": "1 × Arma improvisada (1d4)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,7 +109,7 @@
         "ba": 0,
         "damage_bonus": null,
         "weapon": false,
-        "description": "arma improvisada",
+        "description": "Arma improvisada",
         "damage_description": "1d4",
         "damage": "1d4"
       },
@@ -131,11 +131,11 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!JjoR83wBu8VvnBqo.MR0Q3HGo6P5Okcu7"
+      "_key": "!actors.items!JjoR83wBu8VvnBqo.WTOqtxNndM6zwwNB"
     },
     {
-      "_id": "l1r6pMDZLN69BAMl",
-      "name": "1 × soco (1d3)",
+      "_id": "OioJktgtBB94mlKs",
+      "name": "1 × Soco (1d3)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -143,7 +143,7 @@
         "ba": 0,
         "damage_bonus": null,
         "weapon": false,
-        "description": "soco",
+        "description": "Soco",
         "damage_description": "1d3",
         "damage": "1d3"
       },
@@ -165,7 +165,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!JjoR83wBu8VvnBqo.l1r6pMDZLN69BAMl"
+      "_key": "!actors.items!JjoR83wBu8VvnBqo.OioJktgtBB94mlKs"
     }
   ],
   "effects": [],

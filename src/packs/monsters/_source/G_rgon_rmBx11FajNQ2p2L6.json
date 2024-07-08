@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "tN9UD75cW53SFDOA",
-      "name": "1 × chifre +9 (2d6)",
+      "_id": "B4BLAYGH14OfMtu8",
+      "name": "1 × Chifre +9 (2d6)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,7 +109,7 @@
         "ba": 9,
         "damage_bonus": null,
         "weapon": false,
-        "description": "chifre",
+        "description": "Chifre",
         "damage_description": "2d6",
         "damage": "2d6"
       },
@@ -131,7 +131,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!rmBx11FajNQ2p2L6.tN9UD75cW53SFDOA"
+      "_key": "!actors.items!rmBx11FajNQ2p2L6.B4BLAYGH14OfMtu8"
     }
   ],
   "effects": [],

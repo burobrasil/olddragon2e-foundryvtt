@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "Dkp2p1yywB61Ku6y",
-      "name": "2 × mordidas +8 (2d6)",
+      "_id": "Isy9Pk0Di6P81Qw6",
+      "name": "2 × Mordidas +8 (2d6)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,7 +109,7 @@
         "ba": 8,
         "damage_bonus": null,
         "weapon": false,
-        "description": "mordidas",
+        "description": "Mordidas",
         "damage_description": "2d6",
         "damage": "2d6"
       },
@@ -131,7 +131,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!kJdGK13SAFUoyDzC.Dkp2p1yywB61Ku6y"
+      "_key": "!actors.items!kJdGK13SAFUoyDzC.Isy9Pk0Di6P81Qw6"
     }
   ],
   "effects": [],

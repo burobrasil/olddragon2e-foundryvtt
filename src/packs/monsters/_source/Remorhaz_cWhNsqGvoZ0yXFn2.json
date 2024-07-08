@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "3BiWUD4qp2hbwbjo",
-      "name": "1 × mordida +12 (5d6)",
+      "_id": "5R5hlcDhDNwkYH6O",
+      "name": "1 × Mordida +12 (5d6)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,7 +109,7 @@
         "ba": 12,
         "damage_bonus": null,
         "weapon": false,
-        "description": "mordida",
+        "description": "Mordida",
         "damage_description": "5d6",
         "damage": "5d6"
       },
@@ -131,7 +131,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!cWhNsqGvoZ0yXFn2.3BiWUD4qp2hbwbjo"
+      "_key": "!actors.items!cWhNsqGvoZ0yXFn2.5R5hlcDhDNwkYH6O"
     }
   ],
   "effects": [],

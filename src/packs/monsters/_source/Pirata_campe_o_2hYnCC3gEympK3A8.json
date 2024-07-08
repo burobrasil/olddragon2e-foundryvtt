@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "NTW3yGmhuYUmnKPc",
-      "name": "1 × adaga +3 (1d4+1)",
+      "_id": "sfqF8Tko1b8R4g0I",
+      "name": "1 × Adaga +3 (1d4+1)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,7 +109,7 @@
         "ba": 3,
         "damage_bonus": 1,
         "weapon": false,
-        "description": "adaga",
+        "description": "Adaga",
         "damage_description": "1d4+1",
         "damage": "1d4"
       },
@@ -131,11 +131,11 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!2hYnCC3gEympK3A8.NTW3yGmhuYUmnKPc"
+      "_key": "!actors.items!2hYnCC3gEympK3A8.sfqF8Tko1b8R4g0I"
     },
     {
-      "_id": "ff9Efdx92pqlMZhO",
-      "name": "1 × espada longa +3 (1d8+1)",
+      "_id": "pqJ7m7o8qt65cQI4",
+      "name": "1 × Espada longa +3 (1d8+1)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -143,7 +143,7 @@
         "ba": 3,
         "damage_bonus": 1,
         "weapon": false,
-        "description": "espada longa",
+        "description": "Espada longa",
         "damage_description": "1d8+1",
         "damage": "1d8"
       },
@@ -165,7 +165,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!2hYnCC3gEympK3A8.ff9Efdx92pqlMZhO"
+      "_key": "!actors.items!2hYnCC3gEympK3A8.pqJ7m7o8qt65cQI4"
     }
   ],
   "effects": [],

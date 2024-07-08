@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "aPxU96tWgnI8DNkK",
-      "name": "1 × clava +11 (2d6+4)",
+      "_id": "FHtc5vl4tyAfJQPa",
+      "name": "1 × Clava +11 (2d6+4)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,7 +109,7 @@
         "ba": 11,
         "damage_bonus": 4,
         "weapon": false,
-        "description": "clava",
+        "description": "Clava",
         "damage_description": "2d6+4",
         "damage": "2d6"
       },
@@ -131,11 +131,11 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!LUlIVtxLjgsN7aSZ.aPxU96tWgnI8DNkK"
+      "_key": "!actors.items!LUlIVtxLjgsN7aSZ.FHtc5vl4tyAfJQPa"
     },
     {
-      "_id": "osCmmG7PWEnj5oPW",
-      "name": "1 × pedrada +8 (3d6)",
+      "_id": "pHIY5HWI3P7sfgpX",
+      "name": "1 × Pedrada +8 (3d6)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -143,7 +143,7 @@
         "ba": 8,
         "damage_bonus": null,
         "weapon": false,
-        "description": "pedrada",
+        "description": "Pedrada",
         "damage_description": "3d6",
         "damage": "3d6"
       },
@@ -165,7 +165,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!LUlIVtxLjgsN7aSZ.osCmmG7PWEnj5oPW"
+      "_key": "!actors.items!LUlIVtxLjgsN7aSZ.pHIY5HWI3P7sfgpX"
     }
   ],
   "effects": [],

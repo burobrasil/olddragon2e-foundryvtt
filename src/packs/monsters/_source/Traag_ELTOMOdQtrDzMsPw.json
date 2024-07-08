@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "kvsnwZrBpXKuaox4",
-      "name": "1 × pancada +4 (2d4+2)",
+      "_id": "G8v7yu9asHwkcA0I",
+      "name": "1 × Pancada +4 (2d4+2)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,7 +109,7 @@
         "ba": 4,
         "damage_bonus": 2,
         "weapon": false,
-        "description": "pancada",
+        "description": "Pancada",
         "damage_description": "2d4+2",
         "damage": "2d4"
       },
@@ -131,7 +131,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!ELTOMOdQtrDzMsPw.kvsnwZrBpXKuaox4"
+      "_key": "!actors.items!ELTOMOdQtrDzMsPw.G8v7yu9asHwkcA0I"
     }
   ],
   "effects": [],

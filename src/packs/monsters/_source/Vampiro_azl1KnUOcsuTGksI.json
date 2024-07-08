@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "v1lngYcZh983pHjM",
-      "name": "1 × toque +10 (1d10 + dreno)",
+      "_id": "G4iZihmURknRDeOh",
+      "name": "1 × Toque +10 (1d10 + Dreno)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,8 +109,8 @@
         "ba": 10,
         "damage_bonus": null,
         "weapon": false,
-        "description": "toque",
-        "damage_description": "1d10 + dreno",
+        "description": "Toque",
+        "damage_description": "1d10 + Dreno",
         "damage": "1d10"
       },
       "effects": [],
@@ -131,7 +131,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!azl1KnUOcsuTGksI.v1lngYcZh983pHjM"
+      "_key": "!actors.items!azl1KnUOcsuTGksI.G4iZihmURknRDeOh"
     }
   ],
   "effects": [],

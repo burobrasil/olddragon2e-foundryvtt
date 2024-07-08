@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "Y3QkYpuATCTTITBV",
-      "name": "1 × chute +12 (3d6)",
+      "_id": "SJC0UWdKHoCoUhzQ",
+      "name": "1 × Chute +12 (3d6)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,7 +109,7 @@
         "ba": 12,
         "damage_bonus": null,
         "weapon": false,
-        "description": "chute",
+        "description": "Chute",
         "damage_description": "3d6",
         "damage": "3d6"
       },
@@ -131,7 +131,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!7YzuooCzbwgobfAT.Y3QkYpuATCTTITBV"
+      "_key": "!actors.items!7YzuooCzbwgobfAT.SJC0UWdKHoCoUhzQ"
     }
   ],
   "effects": [],

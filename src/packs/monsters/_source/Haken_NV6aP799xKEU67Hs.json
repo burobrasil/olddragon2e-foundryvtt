@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "DyLmXmTYLIifwwit",
-      "name": "1 × chifre +2 (2d6+1)",
+      "_id": "isJ4Xh4QsJsbzWmf",
+      "name": "1 × Chifre +2 (2d6+1)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,7 +109,7 @@
         "ba": 2,
         "damage_bonus": 1,
         "weapon": false,
-        "description": "chifre",
+        "description": "Chifre",
         "damage_description": "2d6+1",
         "damage": "2d6"
       },
@@ -131,11 +131,11 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!NV6aP799xKEU67Hs.DyLmXmTYLIifwwit"
+      "_key": "!actors.items!NV6aP799xKEU67Hs.isJ4Xh4QsJsbzWmf"
     },
     {
-      "_id": "sn2qicR7r5i23nAv",
-      "name": "2 × garras +2 (1d8+1)",
+      "_id": "XG18nwoEFsL4UhDx",
+      "name": "2 × Garras +2 (1d8+1)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -143,7 +143,7 @@
         "ba": 2,
         "damage_bonus": 1,
         "weapon": false,
-        "description": "garras",
+        "description": "Garras",
         "damage_description": "1d8+1",
         "damage": "1d8"
       },
@@ -165,7 +165,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!NV6aP799xKEU67Hs.sn2qicR7r5i23nAv"
+      "_key": "!actors.items!NV6aP799xKEU67Hs.XG18nwoEFsL4UhDx"
     }
   ],
   "effects": [],

@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "AX1TbMreiLJz91A0",
-      "name": "1 × espada curta +1 (1d6+1)",
+      "_id": "FIV2DQ41Vi7O62F1",
+      "name": "1 × Espada curta +1 (1d6+1)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,7 +109,7 @@
         "ba": 1,
         "damage_bonus": 1,
         "weapon": false,
-        "description": "espada curta",
+        "description": "Espada curta",
         "damage_description": "1d6+1",
         "damage": "1d6"
       },
@@ -131,7 +131,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!wxaFJ4mb3EcRQLxl.AX1TbMreiLJz91A0"
+      "_key": "!actors.items!wxaFJ4mb3EcRQLxl.FIV2DQ41Vi7O62F1"
     }
   ],
   "effects": [],

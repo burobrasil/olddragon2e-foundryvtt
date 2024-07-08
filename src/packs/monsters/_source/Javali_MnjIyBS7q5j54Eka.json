@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "W1wU4plzBvK2xp18",
-      "name": "1 × presa +4 (2d4)",
+      "_id": "X7pFicxu86MLRrZm",
+      "name": "1 × Presa +4 (2d4)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,7 +109,7 @@
         "ba": 4,
         "damage_bonus": null,
         "weapon": false,
-        "description": "presa",
+        "description": "Presa",
         "damage_description": "2d4",
         "damage": "2d4"
       },
@@ -131,7 +131,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!MnjIyBS7q5j54Eka.W1wU4plzBvK2xp18"
+      "_key": "!actors.items!MnjIyBS7q5j54Eka.X7pFicxu86MLRrZm"
     }
   ],
   "effects": [],

@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "smvvpyGIdH8Tc7RW",
-      "name": "1 × garra +5 (1d8 + dreno)",
+      "_id": "5RVKVqDASbqLvbEE",
+      "name": "1 × Garra +5 (1d8 + Dreno)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,8 +109,8 @@
         "ba": 5,
         "damage_bonus": null,
         "weapon": false,
-        "description": "garra",
-        "damage_description": "1d8 + dreno",
+        "description": "Garra",
+        "damage_description": "1d8 + Dreno",
         "damage": "1d8"
       },
       "effects": [],
@@ -131,7 +131,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!JHGwTcYpXUDMmlYF.smvvpyGIdH8Tc7RW"
+      "_key": "!actors.items!JHGwTcYpXUDMmlYF.5RVKVqDASbqLvbEE"
     }
   ],
   "effects": [],

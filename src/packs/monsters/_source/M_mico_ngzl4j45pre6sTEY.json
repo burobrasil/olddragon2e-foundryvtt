@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "tu34k0fHzzPDO088",
-      "name": "1 × mordida +5 (2d6)",
+      "_id": "34W8poE3TLckzBpJ",
+      "name": "1 × Mordida +5 (2d6)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,7 +109,7 @@
         "ba": 5,
         "damage_bonus": null,
         "weapon": false,
-        "description": "mordida",
+        "description": "Mordida",
         "damage_description": "2d6",
         "damage": "2d6"
       },
@@ -131,11 +131,11 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!ngzl4j45pre6sTEY.tu34k0fHzzPDO088"
+      "_key": "!actors.items!ngzl4j45pre6sTEY.34W8poE3TLckzBpJ"
     },
     {
-      "_id": "nLjmvgVk8MdT94Or",
-      "name": "1 × pancada +8 (3d4 + cola)",
+      "_id": "8oT0lzuO0F4RXyN4",
+      "name": "1 × Pancada +8 (3d4 + Cola)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -143,8 +143,8 @@
         "ba": 8,
         "damage_bonus": null,
         "weapon": false,
-        "description": "pancada",
-        "damage_description": "3d4 + cola",
+        "description": "Pancada",
+        "damage_description": "3d4 + Cola",
         "damage": "3d4"
       },
       "effects": [],
@@ -165,7 +165,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!ngzl4j45pre6sTEY.nLjmvgVk8MdT94Or"
+      "_key": "!actors.items!ngzl4j45pre6sTEY.8oT0lzuO0F4RXyN4"
     }
   ],
   "effects": [],

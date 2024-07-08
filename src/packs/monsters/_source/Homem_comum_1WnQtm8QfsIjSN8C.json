@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "T8XHgV5mVHg5FA2s",
-      "name": "1 × soco (1d3)",
+      "_id": "UELKOrIyHs6M6X8a",
+      "name": "1 × Soco (1d3)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,7 +109,7 @@
         "ba": 0,
         "damage_bonus": null,
         "weapon": false,
-        "description": "soco",
+        "description": "Soco",
         "damage_description": "1d3",
         "damage": "1d3"
       },
@@ -131,7 +131,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!1WnQtm8QfsIjSN8C.T8XHgV5mVHg5FA2s"
+      "_key": "!actors.items!1WnQtm8QfsIjSN8C.UELKOrIyHs6M6X8a"
     }
   ],
   "effects": [],

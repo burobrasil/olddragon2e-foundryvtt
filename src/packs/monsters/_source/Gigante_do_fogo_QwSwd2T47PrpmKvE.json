@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "RV3As5CcOpmlcRzC",
-      "name": "1 × arma +12 (arma +8)",
+      "_id": "2NUKuoqbzJfY1DQR",
+      "name": "1 × Arma +12 (Arma +8)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,8 +109,8 @@
         "ba": 12,
         "damage_bonus": 8,
         "weapon": true,
-        "description": "arma",
-        "damage_description": "arma +8",
+        "description": "Arma",
+        "damage_description": "Arma +8",
         "damage": null
       },
       "effects": [],
@@ -131,11 +131,11 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!QwSwd2T47PrpmKvE.RV3As5CcOpmlcRzC"
+      "_key": "!actors.items!QwSwd2T47PrpmKvE.2NUKuoqbzJfY1DQR"
     },
     {
-      "_id": "vxePV0C71KG3ytyN",
-      "name": "1 × pedrada +9 (2d10)",
+      "_id": "InbjA2B97rcjhzf0",
+      "name": "1 × Pedrada +9 (2d10)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -143,7 +143,7 @@
         "ba": 9,
         "damage_bonus": null,
         "weapon": false,
-        "description": "pedrada",
+        "description": "Pedrada",
         "damage_description": "2d10",
         "damage": "2d10"
       },
@@ -165,11 +165,11 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!QwSwd2T47PrpmKvE.vxePV0C71KG3ytyN"
+      "_key": "!actors.items!QwSwd2T47PrpmKvE.InbjA2B97rcjhzf0"
     },
     {
-      "_id": "q7RSufoW0aFgNb6c",
-      "name": "2 × pancadas +13 (1d8+4)",
+      "_id": "P4PG9ufrBTPzrxkl",
+      "name": "2 × Pancadas +13 (1d8+4)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -177,7 +177,7 @@
         "ba": 13,
         "damage_bonus": 4,
         "weapon": false,
-        "description": "pancadas",
+        "description": "Pancadas",
         "damage_description": "1d8+4",
         "damage": "1d8"
       },
@@ -199,7 +199,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!QwSwd2T47PrpmKvE.q7RSufoW0aFgNb6c"
+      "_key": "!actors.items!QwSwd2T47PrpmKvE.P4PG9ufrBTPzrxkl"
     }
   ],
   "effects": [],

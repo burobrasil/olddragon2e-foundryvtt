@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "D0HOM6xSnvOEuItd",
-      "name": "2 × tentáculos +6 (2d4)",
+      "_id": "yZp5RL9xjFwc1K0S",
+      "name": "2 × Tentáculos +6 (2d4)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,7 +109,7 @@
         "ba": 6,
         "damage_bonus": null,
         "weapon": false,
-        "description": "tentáculos",
+        "description": "Tentáculos",
         "damage_description": "2d4",
         "damage": "2d4"
       },
@@ -131,7 +131,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!1f7XX0q1VNa6zGno.D0HOM6xSnvOEuItd"
+      "_key": "!actors.items!1f7XX0q1VNa6zGno.yZp5RL9xjFwc1K0S"
     }
   ],
   "effects": [],

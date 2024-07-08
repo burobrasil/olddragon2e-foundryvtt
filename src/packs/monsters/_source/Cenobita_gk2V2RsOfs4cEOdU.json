@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "ke6ECfe5ChJntOtD",
-      "name": "1 × corrente +5 (2d6+3)",
+      "_id": "9EXmbz9drLjNBIX8",
+      "name": "1 × Corrente +5 (2d6+3)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,7 +109,7 @@
         "ba": 5,
         "damage_bonus": 3,
         "weapon": false,
-        "description": "corrente",
+        "description": "Corrente",
         "damage_description": "2d6+3",
         "damage": "2d6"
       },
@@ -131,7 +131,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!gk2V2RsOfs4cEOdU.ke6ECfe5ChJntOtD"
+      "_key": "!actors.items!gk2V2RsOfs4cEOdU.9EXmbz9drLjNBIX8"
     }
   ],
   "effects": [],

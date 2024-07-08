@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "v2KHrB4GDl2jxEyi",
-      "name": "1 × mordida +1 (2d4)",
+      "_id": "PFBW0DoFAtt2Y5ld",
+      "name": "1 × Mordida +1 (2d4)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,7 +109,7 @@
         "ba": 1,
         "damage_bonus": null,
         "weapon": false,
-        "description": "mordida",
+        "description": "Mordida",
         "damage_description": "2d4",
         "damage": "2d4"
       },
@@ -131,7 +131,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!hQXbZielvscxsiM0.v2KHrB4GDl2jxEyi"
+      "_key": "!actors.items!hQXbZielvscxsiM0.PFBW0DoFAtt2Y5ld"
     }
   ],
   "effects": [],

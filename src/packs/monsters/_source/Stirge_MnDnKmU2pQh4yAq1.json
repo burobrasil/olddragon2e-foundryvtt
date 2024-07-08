@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "cfPVnyFwPJ7JHOTF",
-      "name": "1 × mordida +2 (1d3 + dreno)",
+      "_id": "oGJPHjTWLd32aszH",
+      "name": "1 × Mordida +2 (1d3 + Dreno)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,8 +109,8 @@
         "ba": 2,
         "damage_bonus": null,
         "weapon": false,
-        "description": "mordida",
-        "damage_description": "1d3 + dreno",
+        "description": "Mordida",
+        "damage_description": "1d3 + Dreno",
         "damage": "1d3"
       },
       "effects": [],
@@ -131,7 +131,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!MnDnKmU2pQh4yAq1.cfPVnyFwPJ7JHOTF"
+      "_key": "!actors.items!MnDnKmU2pQh4yAq1.oGJPHjTWLd32aszH"
     }
   ],
   "effects": [],

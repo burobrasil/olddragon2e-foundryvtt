@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "oxH1QX6ak95qPz3O",
-      "name": "1 × toque (especial)",
+      "_id": "gUeIxUO9XEaidmFy",
+      "name": "1 × Toque (Especial)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,8 +109,8 @@
         "ba": 0,
         "damage_bonus": null,
         "weapon": false,
-        "description": "toque",
-        "damage_description": "especial",
+        "description": "Toque",
+        "damage_description": "Especial",
         "damage": null
       },
       "effects": [],
@@ -131,7 +131,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!syjxIYJs3m5k0yYg.oxH1QX6ak95qPz3O"
+      "_key": "!actors.items!syjxIYJs3m5k0yYg.gUeIxUO9XEaidmFy"
     }
   ],
   "effects": [],

@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "YsQJ4ESlUKyFehXf",
-      "name": "1 × machado +1 (1d8+1)",
+      "_id": "W0zz9i5b0tXamz3L",
+      "name": "1 × Machado +1 (1d8+1)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,7 +109,7 @@
         "ba": 1,
         "damage_bonus": 1,
         "weapon": false,
-        "description": "machado",
+        "description": "Machado",
         "damage_description": "1d8+1",
         "damage": "1d8"
       },
@@ -131,7 +131,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!Wxldyz07EJb474r9.YsQJ4ESlUKyFehXf"
+      "_key": "!actors.items!Wxldyz07EJb474r9.W0zz9i5b0tXamz3L"
     }
   ],
   "effects": [],

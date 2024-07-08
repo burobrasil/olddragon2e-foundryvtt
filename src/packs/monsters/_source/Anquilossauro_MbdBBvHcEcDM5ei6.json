@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "cL1HMP7RfexWr5I6",
-      "name": "1 × cauda +10 (3d6)",
+      "_id": "mptsq0AfSBOIYfp1",
+      "name": "1 × Cauda +10 (3d6)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,7 +109,7 @@
         "ba": 10,
         "damage_bonus": null,
         "weapon": false,
-        "description": "cauda",
+        "description": "Cauda",
         "damage_description": "3d6",
         "damage": "3d6"
       },
@@ -131,7 +131,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!MbdBBvHcEcDM5ei6.cL1HMP7RfexWr5I6"
+      "_key": "!actors.items!MbdBBvHcEcDM5ei6.mptsq0AfSBOIYfp1"
     }
   ],
   "effects": [],

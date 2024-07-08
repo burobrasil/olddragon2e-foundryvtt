@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "FZR8W04lBp1PF5Ik",
-      "name": "1 × lança +6 (1d6+2)",
+      "_id": "8BT7CkZVcSXYu75z",
+      "name": "1 × Lança +6 (1d6+2)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,7 +109,7 @@
         "ba": 6,
         "damage_bonus": 2,
         "weapon": false,
-        "description": "lança",
+        "description": "Lança",
         "damage_description": "1d6+2",
         "damage": "1d6"
       },
@@ -131,7 +131,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!YDKXUfijz4qQgqmX.FZR8W04lBp1PF5Ik"
+      "_key": "!actors.items!YDKXUfijz4qQgqmX.8BT7CkZVcSXYu75z"
     }
   ],
   "effects": [],

@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "DV61YFMh1jcDsQfs",
-      "name": "1 × ferrão +7 (1d6 + veneno)",
+      "_id": "H5z8wL64t9qYh2dp",
+      "name": "1 × Ferrão +7 (1d6 + Veneno)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,8 +109,8 @@
         "ba": 7,
         "damage_bonus": null,
         "weapon": false,
-        "description": "ferrão",
-        "damage_description": "1d6 + veneno",
+        "description": "Ferrão",
+        "damage_description": "1d6 + Veneno",
         "damage": "1d6"
       },
       "effects": [],
@@ -131,11 +131,11 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!lJwJ8QyyujFsIWs0.DV61YFMh1jcDsQfs"
+      "_key": "!actors.items!lJwJ8QyyujFsIWs0.H5z8wL64t9qYh2dp"
     },
     {
-      "_id": "EC5m8t11R1tygym5",
-      "name": "1 × mordida +7 (2d8)",
+      "_id": "kXsxxVde0JcmNd51",
+      "name": "1 × Mordida +7 (2d8)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -143,7 +143,7 @@
         "ba": 7,
         "damage_bonus": null,
         "weapon": false,
-        "description": "mordida",
+        "description": "Mordida",
         "damage_description": "2d8",
         "damage": "2d8"
       },
@@ -165,7 +165,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!lJwJ8QyyujFsIWs0.EC5m8t11R1tygym5"
+      "_key": "!actors.items!lJwJ8QyyujFsIWs0.kXsxxVde0JcmNd51"
     }
   ],
   "effects": [],

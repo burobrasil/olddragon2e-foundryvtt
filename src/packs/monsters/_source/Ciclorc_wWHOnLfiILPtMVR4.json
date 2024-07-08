@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "TeZo4WQeAikbTovY",
-      "name": "1 × clava +5 (1d6+3)",
+      "_id": "3jKhiHPG9jBGqunD",
+      "name": "1 × Clava +5 (1d6+3)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,7 +109,7 @@
         "ba": 5,
         "damage_bonus": 3,
         "weapon": false,
-        "description": "clava",
+        "description": "Clava",
         "damage_description": "1d6+3",
         "damage": "1d6"
       },
@@ -131,11 +131,11 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!wWHOnLfiILPtMVR4.TeZo4WQeAikbTovY"
+      "_key": "!actors.items!wWHOnLfiILPtMVR4.3jKhiHPG9jBGqunD"
     },
     {
-      "_id": "Eg6Bi85IP1pA3tVt",
-      "name": "1 × pancada +5 (1d6+2)",
+      "_id": "P2dcgrncdlDS1Xc7",
+      "name": "1 × Pancada +5 (1d6+2)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -143,7 +143,7 @@
         "ba": 5,
         "damage_bonus": 2,
         "weapon": false,
-        "description": "pancada",
+        "description": "Pancada",
         "damage_description": "1d6+2",
         "damage": "1d6"
       },
@@ -165,7 +165,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!wWHOnLfiILPtMVR4.Eg6Bi85IP1pA3tVt"
+      "_key": "!actors.items!wWHOnLfiILPtMVR4.P2dcgrncdlDS1Xc7"
     }
   ],
   "effects": [],

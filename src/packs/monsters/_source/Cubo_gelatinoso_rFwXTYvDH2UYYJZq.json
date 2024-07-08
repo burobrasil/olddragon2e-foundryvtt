@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "JEf7pdlKd7IVkYdh",
-      "name": "1 × toque +4 (2d4 + paralisia)",
+      "_id": "KYtHgdDWWMVQOo0K",
+      "name": "1 × Toque +4 (2d4 + Paralisia)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,8 +109,8 @@
         "ba": 4,
         "damage_bonus": null,
         "weapon": false,
-        "description": "toque",
-        "damage_description": "2d4 + paralisia",
+        "description": "Toque",
+        "damage_description": "2d4 + Paralisia",
         "damage": "2d4"
       },
       "effects": [],
@@ -131,7 +131,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!rFwXTYvDH2UYYJZq.JEf7pdlKd7IVkYdh"
+      "_key": "!actors.items!rFwXTYvDH2UYYJZq.KYtHgdDWWMVQOo0K"
     }
   ],
   "effects": [],

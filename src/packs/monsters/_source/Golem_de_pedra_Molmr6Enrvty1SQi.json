@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "YIksKGTg1caSn5xk",
-      "name": "1 × pancada +13 (3d8)",
+      "_id": "Hed8Pt1RBzZ7aIhV",
+      "name": "1 × Pancada +13 (3d8)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,7 +109,7 @@
         "ba": 13,
         "damage_bonus": null,
         "weapon": false,
-        "description": "pancada",
+        "description": "Pancada",
         "damage_description": "3d8",
         "damage": "3d8"
       },
@@ -131,7 +131,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!Molmr6Enrvty1SQi.YIksKGTg1caSn5xk"
+      "_key": "!actors.items!Molmr6Enrvty1SQi.Hed8Pt1RBzZ7aIhV"
     }
   ],
   "effects": [],

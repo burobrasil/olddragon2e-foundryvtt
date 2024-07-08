@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "XvrZWDtvCm5Ozdke",
-      "name": "1 × maça +2 (1d8+1)",
+      "_id": "Dc8SezBP2dDZ43OM",
+      "name": "1 × Maça +2 (1d8+1)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,7 +109,7 @@
         "ba": 2,
         "damage_bonus": 1,
         "weapon": false,
-        "description": "maça",
+        "description": "Maça",
         "damage_description": "1d8+1",
         "damage": "1d8"
       },
@@ -131,7 +131,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!ysKN7MKfTNlzaG3x.XvrZWDtvCm5Ozdke"
+      "_key": "!actors.items!ysKN7MKfTNlzaG3x.Dc8SezBP2dDZ43OM"
     }
   ],
   "effects": [],

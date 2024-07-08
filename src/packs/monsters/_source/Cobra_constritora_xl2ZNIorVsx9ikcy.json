@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "G3VsjLY9OcSqDg1t",
-      "name": "1 × mordida +4 (1d4 + constrição)",
+      "_id": "8dstcQYJeKPSYU9o",
+      "name": "1 × Mordida +4 (1d4 + Constrição)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,8 +109,8 @@
         "ba": 4,
         "damage_bonus": null,
         "weapon": false,
-        "description": "mordida",
-        "damage_description": "1d4 + constrição",
+        "description": "Mordida",
+        "damage_description": "1d4 + Constrição",
         "damage": "1d4"
       },
       "effects": [],
@@ -131,7 +131,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!xl2ZNIorVsx9ikcy.G3VsjLY9OcSqDg1t"
+      "_key": "!actors.items!xl2ZNIorVsx9ikcy.8dstcQYJeKPSYU9o"
     }
   ],
   "effects": [],

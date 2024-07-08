@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "Hm9xvm4DDcOeXU4A",
-      "name": "1 × clava +6 (1d6+3)",
+      "_id": "kWYVghwX2BeP02PI",
+      "name": "1 × Clava +6 (1d6+3)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,7 +109,7 @@
         "ba": 6,
         "damage_bonus": 3,
         "weapon": false,
-        "description": "clava",
+        "description": "Clava",
         "damage_description": "1d6+3",
         "damage": "1d6"
       },
@@ -131,7 +131,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!Cgm3WZm3EPeujCRu.Hm9xvm4DDcOeXU4A"
+      "_key": "!actors.items!Cgm3WZm3EPeujCRu.kWYVghwX2BeP02PI"
     }
   ],
   "effects": [],

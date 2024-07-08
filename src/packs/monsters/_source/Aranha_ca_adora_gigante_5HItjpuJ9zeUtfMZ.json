@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "4ms7F8i0Lsn3IkWI",
-      "name": "1 × ferrão +4 (1d8 + veneno)",
+      "_id": "cqdDEfhVzlbDGdIh",
+      "name": "1 × Ferrão +4 (1d8 + Veneno)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,8 +109,8 @@
         "ba": 4,
         "damage_bonus": null,
         "weapon": false,
-        "description": "ferrão",
-        "damage_description": "1d8 + veneno",
+        "description": "Ferrão",
+        "damage_description": "1d8 + Veneno",
         "damage": "1d8"
       },
       "effects": [],
@@ -131,7 +131,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!5HItjpuJ9zeUtfMZ.4ms7F8i0Lsn3IkWI"
+      "_key": "!actors.items!5HItjpuJ9zeUtfMZ.cqdDEfhVzlbDGdIh"
     }
   ],
   "effects": [],

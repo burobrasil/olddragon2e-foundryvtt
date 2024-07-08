@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "Vnldhh1Rvj0ELXIi",
-      "name": "1 × espada bastarda +2 (1d8+1)",
+      "_id": "RieDHDDWemOijXZK",
+      "name": "1 × Espada bastarda +2 (1d8+1)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,7 +109,7 @@
         "ba": 2,
         "damage_bonus": 1,
         "weapon": false,
-        "description": "espada bastarda",
+        "description": "Espada bastarda",
         "damage_description": "1d8+1",
         "damage": "1d8"
       },
@@ -131,11 +131,11 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!eCWDkBXLTUsqvArX.Vnldhh1Rvj0ELXIi"
+      "_key": "!actors.items!eCWDkBXLTUsqvArX.RieDHDDWemOijXZK"
     },
     {
-      "_id": "EB0CXv0tlkkZHL8a",
-      "name": "1 × lança longa +2 (1d8+1)",
+      "_id": "N9AtvlytXhDctOv1",
+      "name": "1 × Lança longa +2 (1d8+1)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -143,7 +143,7 @@
         "ba": 2,
         "damage_bonus": 1,
         "weapon": false,
-        "description": "lança longa",
+        "description": "Lança longa",
         "damage_description": "1d8+1",
         "damage": "1d8"
       },
@@ -165,7 +165,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!eCWDkBXLTUsqvArX.EB0CXv0tlkkZHL8a"
+      "_key": "!actors.items!eCWDkBXLTUsqvArX.N9AtvlytXhDctOv1"
     }
   ],
   "effects": [],

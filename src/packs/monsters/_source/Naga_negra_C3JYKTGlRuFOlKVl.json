@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "faOBn9m2nx9AoNEE",
-      "name": "1 × ferrão +9 (2d8 + veneno)",
+      "_id": "8s0YBwaFnIKcvfHY",
+      "name": "1 × Ferrão +9 (2d8 + Veneno)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,8 +109,8 @@
         "ba": 9,
         "damage_bonus": null,
         "weapon": false,
-        "description": "ferrão",
-        "damage_description": "2d8 + veneno",
+        "description": "Ferrão",
+        "damage_description": "2d8 + Veneno",
         "damage": "2d8"
       },
       "effects": [],
@@ -131,11 +131,11 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!C3JYKTGlRuFOlKVl.faOBn9m2nx9AoNEE"
+      "_key": "!actors.items!C3JYKTGlRuFOlKVl.8s0YBwaFnIKcvfHY"
     },
     {
-      "_id": "WPAwNAdj0BFBGWg5",
-      "name": "2 × mordidas +9 (1d4)",
+      "_id": "MXKuRqmjuLSLAZis",
+      "name": "2 × Mordidas +9 (1d4)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -143,7 +143,7 @@
         "ba": 9,
         "damage_bonus": null,
         "weapon": false,
-        "description": "mordidas",
+        "description": "Mordidas",
         "damage_description": "1d4",
         "damage": "1d4"
       },
@@ -165,7 +165,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!C3JYKTGlRuFOlKVl.WPAwNAdj0BFBGWg5"
+      "_key": "!actors.items!C3JYKTGlRuFOlKVl.MXKuRqmjuLSLAZis"
     }
   ],
   "effects": [],

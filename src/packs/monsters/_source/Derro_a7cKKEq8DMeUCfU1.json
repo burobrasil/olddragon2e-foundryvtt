@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "9VA9BC9lKSMhc3Yq",
-      "name": "1 × besta de mão +7 (1d4 + veneno)",
+      "_id": "p8JWovhexfhKdj4W",
+      "name": "1 × Besta de mão +7 (1d4 + Veneno)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,8 +109,8 @@
         "ba": 7,
         "damage_bonus": null,
         "weapon": false,
-        "description": "besta de mão",
-        "damage_description": "1d4 + veneno",
+        "description": "Besta de mão",
+        "damage_description": "1d4 + Veneno",
         "damage": "1d4"
       },
       "effects": [],
@@ -131,11 +131,11 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!a7cKKEq8DMeUCfU1.9VA9BC9lKSMhc3Yq"
+      "_key": "!actors.items!a7cKKEq8DMeUCfU1.p8JWovhexfhKdj4W"
     },
     {
-      "_id": "AGioiQQHEI6Dxmoi",
-      "name": "1 × pique pequena +5 (1d8 + veneno)",
+      "_id": "haonHtIdElB3nImq",
+      "name": "1 × Pique pequena +5 (1d8 + Veneno)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -143,8 +143,8 @@
         "ba": 5,
         "damage_bonus": null,
         "weapon": false,
-        "description": "pique pequena",
-        "damage_description": "1d8 + veneno",
+        "description": "Pique pequena",
+        "damage_description": "1d8 + Veneno",
         "damage": "1d8"
       },
       "effects": [],
@@ -165,7 +165,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!a7cKKEq8DMeUCfU1.AGioiQQHEI6Dxmoi"
+      "_key": "!actors.items!a7cKKEq8DMeUCfU1.haonHtIdElB3nImq"
     }
   ],
   "effects": [],

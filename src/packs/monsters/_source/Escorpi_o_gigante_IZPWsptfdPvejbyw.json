@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "CCMIg7G02qIQKIl9",
-      "name": "1 × ferrão +4 (1d4 + veneno)",
+      "_id": "fe4cBsAbYTiTfVyK",
+      "name": "1 × Ferrão +4 (1d4 + Veneno)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,8 +109,8 @@
         "ba": 4,
         "damage_bonus": null,
         "weapon": false,
-        "description": "ferrão",
-        "damage_description": "1d4 + veneno",
+        "description": "Ferrão",
+        "damage_description": "1d4 + Veneno",
         "damage": "1d4"
       },
       "effects": [],
@@ -131,11 +131,11 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!IZPWsptfdPvejbyw.CCMIg7G02qIQKIl9"
+      "_key": "!actors.items!IZPWsptfdPvejbyw.fe4cBsAbYTiTfVyK"
     },
     {
-      "_id": "aXqFObWhDHaaeLc3",
-      "name": "2 × pinças +4 (1d10)",
+      "_id": "CIE0lIWrNoUwSUhe",
+      "name": "2 × Pinças +4 (1d10)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -143,7 +143,7 @@
         "ba": 4,
         "damage_bonus": null,
         "weapon": false,
-        "description": "pinças",
+        "description": "Pinças",
         "damage_description": "1d10",
         "damage": "1d10"
       },
@@ -165,7 +165,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!IZPWsptfdPvejbyw.aXqFObWhDHaaeLc3"
+      "_key": "!actors.items!IZPWsptfdPvejbyw.CIE0lIWrNoUwSUhe"
     }
   ],
   "effects": [],

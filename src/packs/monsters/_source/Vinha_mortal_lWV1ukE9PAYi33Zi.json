@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "KOUSyXm3MVCscfyt",
-      "name": "2 × tentáculos +6 (2d4 + esporo)",
+      "_id": "fw64mkecI6fe8dJ2",
+      "name": "2 × Tentáculos +6 (2d4 + Esporo)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,8 +109,8 @@
         "ba": 6,
         "damage_bonus": null,
         "weapon": false,
-        "description": "tentáculos",
-        "damage_description": "2d4 + esporo",
+        "description": "Tentáculos",
+        "damage_description": "2d4 + Esporo",
         "damage": "2d4"
       },
       "effects": [],
@@ -131,7 +131,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!lWV1ukE9PAYi33Zi.KOUSyXm3MVCscfyt"
+      "_key": "!actors.items!lWV1ukE9PAYi33Zi.fw64mkecI6fe8dJ2"
     }
   ],
   "effects": [],

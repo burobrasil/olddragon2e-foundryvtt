@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "XoEeCBQyTzvCxBmv",
-      "name": "1 × mordida +12 (2d6)",
+      "_id": "lP85z1m4ynRDf4qC",
+      "name": "1 × Mordida +12 (2d6)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,7 +109,7 @@
         "ba": 12,
         "damage_bonus": null,
         "weapon": false,
-        "description": "mordida",
+        "description": "Mordida",
         "damage_description": "2d6",
         "damage": "2d6"
       },
@@ -131,11 +131,11 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!QFWjqIPPfHWBcsQX.XoEeCBQyTzvCxBmv"
+      "_key": "!actors.items!QFWjqIPPfHWBcsQX.lP85z1m4ynRDf4qC"
     },
     {
-      "_id": "1zPiSsCZOk7NOLvx",
-      "name": "8 × tentáculos +12 (2d4 + constrição)",
+      "_id": "XV2mJLBb4tZ6ezC1",
+      "name": "8 × Tentáculos +12 (2d4 + Constrição)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -143,8 +143,8 @@
         "ba": 12,
         "damage_bonus": null,
         "weapon": false,
-        "description": "tentáculos",
-        "damage_description": "2d4 + constrição",
+        "description": "Tentáculos",
+        "damage_description": "2d4 + Constrição",
         "damage": "2d4"
       },
       "effects": [],
@@ -165,7 +165,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!QFWjqIPPfHWBcsQX.1zPiSsCZOk7NOLvx"
+      "_key": "!actors.items!QFWjqIPPfHWBcsQX.XV2mJLBb4tZ6ezC1"
     }
   ],
   "effects": [],

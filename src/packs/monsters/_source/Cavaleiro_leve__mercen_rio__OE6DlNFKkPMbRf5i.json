@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "F3wv7rWMjRS2MU5R",
-      "name": "1 × espada longa +1 (1d8+1)",
+      "_id": "T7PHoZFzHblsFYz4",
+      "name": "1 × Espada longa +1 (1d8+1)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,7 +109,7 @@
         "ba": 1,
         "damage_bonus": 1,
         "weapon": false,
-        "description": "espada longa",
+        "description": "Espada longa",
         "damage_description": "1d8+1",
         "damage": "1d8"
       },
@@ -131,11 +131,11 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!OE6DlNFKkPMbRf5i.F3wv7rWMjRS2MU5R"
+      "_key": "!actors.items!OE6DlNFKkPMbRf5i.T7PHoZFzHblsFYz4"
     },
     {
-      "_id": "Te5UYqorc3amm9gI",
-      "name": "1 × lança longa +1 (1d8+1)",
+      "_id": "xtTdTDZqm0WeN4JI",
+      "name": "1 × Lança longa +1 (1d8+1)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -143,7 +143,7 @@
         "ba": 1,
         "damage_bonus": 1,
         "weapon": false,
-        "description": "lança longa",
+        "description": "Lança longa",
         "damage_description": "1d8+1",
         "damage": "1d8"
       },
@@ -165,7 +165,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!OE6DlNFKkPMbRf5i.Te5UYqorc3amm9gI"
+      "_key": "!actors.items!OE6DlNFKkPMbRf5i.xtTdTDZqm0WeN4JI"
     }
   ],
   "effects": [],

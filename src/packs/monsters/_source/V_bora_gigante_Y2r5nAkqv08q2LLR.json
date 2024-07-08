@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "HnFZzMM7ZWd2Mo3k",
-      "name": "1 × agarrar +6 (2d6)",
+      "_id": "1NAxe4LjOvPTxFBq",
+      "name": "1 × Agarrar +6 (2d6)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,7 +109,7 @@
         "ba": 6,
         "damage_bonus": null,
         "weapon": false,
-        "description": "agarrar",
+        "description": "Agarrar",
         "damage_description": "2d6",
         "damage": "2d6"
       },
@@ -131,11 +131,11 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!Y2r5nAkqv08q2LLR.HnFZzMM7ZWd2Mo3k"
+      "_key": "!actors.items!Y2r5nAkqv08q2LLR.1NAxe4LjOvPTxFBq"
     },
     {
-      "_id": "91DndJxka75xtI6K",
-      "name": "2 × mordidas +6 (3d4 + veneno)",
+      "_id": "vwBuQXLe1i7ZMS31",
+      "name": "2 × Mordidas +6 (3d4 + Veneno)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -143,8 +143,8 @@
         "ba": 6,
         "damage_bonus": null,
         "weapon": false,
-        "description": "mordidas",
-        "damage_description": "3d4 + veneno",
+        "description": "Mordidas",
+        "damage_description": "3d4 + Veneno",
         "damage": "3d4"
       },
       "effects": [],
@@ -165,7 +165,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!Y2r5nAkqv08q2LLR.91DndJxka75xtI6K"
+      "_key": "!actors.items!Y2r5nAkqv08q2LLR.vwBuQXLe1i7ZMS31"
     }
   ],
   "effects": [],

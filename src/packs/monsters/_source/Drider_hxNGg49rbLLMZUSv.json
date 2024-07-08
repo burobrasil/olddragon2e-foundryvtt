@@ -100,17 +100,17 @@
   },
   "items": [
     {
-      "_id": "XoE1X13jexCT7cAL",
-      "name": "1 × arco +7 (1d6+0)",
+      "_id": "zkl6ARnNDnuR8eNz",
+      "name": "1 × Arco +7 (1d6)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
         "times": 1,
         "ba": 7,
-        "damage_bonus": 0,
+        "damage_bonus": null,
         "weapon": false,
-        "description": "arco",
-        "damage_description": "1d6+0",
+        "description": "Arco",
+        "damage_description": "1d6",
         "damage": "1d6"
       },
       "effects": [],
@@ -131,11 +131,11 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!hxNGg49rbLLMZUSv.XoE1X13jexCT7cAL"
+      "_key": "!actors.items!hxNGg49rbLLMZUSv.zkl6ARnNDnuR8eNz"
     },
     {
-      "_id": "q3KrewTuxOtd243L",
-      "name": "1 × ferrão +5 (1d4 + veneno)",
+      "_id": "kZApd1aSXQnhkdF6",
+      "name": "1 × Ferrão +5 (1d4 + Veneno)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -143,8 +143,8 @@
         "ba": 5,
         "damage_bonus": null,
         "weapon": false,
-        "description": "ferrão",
-        "damage_description": "1d4 + veneno",
+        "description": "Ferrão",
+        "damage_description": "1d4 + Veneno",
         "damage": "1d4"
       },
       "effects": [],
@@ -165,7 +165,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!hxNGg49rbLLMZUSv.q3KrewTuxOtd243L"
+      "_key": "!actors.items!hxNGg49rbLLMZUSv.kZApd1aSXQnhkdF6"
     }
   ],
   "effects": [],

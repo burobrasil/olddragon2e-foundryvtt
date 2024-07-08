@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "GlXW8IvDXwEdHe4w",
-      "name": "1 × mordida (1d4 + doença)",
+      "_id": "pkY8ccCnhK260Hnl",
+      "name": "1 × Mordida (1d4 + Doença)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,8 +109,8 @@
         "ba": 0,
         "damage_bonus": null,
         "weapon": false,
-        "description": "mordida",
-        "damage_description": "1d4 + doença",
+        "description": "Mordida",
+        "damage_description": "1d4 + Doença",
         "damage": "1d4"
       },
       "effects": [],
@@ -131,7 +131,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!Ehr3o9sKPg6tAr1U.GlXW8IvDXwEdHe4w"
+      "_key": "!actors.items!Ehr3o9sKPg6tAr1U.pkY8ccCnhK260Hnl"
     }
   ],
   "effects": [],

@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "MC6oKOgJmT1ru3Uu",
-      "name": "1 × encontrão +8 (4d4)",
+      "_id": "ewJfiIHl3vbZvKHF",
+      "name": "1 × Encontrão +8 (4d4)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,7 +109,7 @@
         "ba": 8,
         "damage_bonus": null,
         "weapon": false,
-        "description": "encontrão",
+        "description": "Encontrão",
         "damage_description": "4d4",
         "damage": "4d4"
       },
@@ -131,11 +131,11 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!RVMYwrIwkZ8PFVNs.MC6oKOgJmT1ru3Uu"
+      "_key": "!actors.items!RVMYwrIwkZ8PFVNs.ewJfiIHl3vbZvKHF"
     },
     {
-      "_id": "U7Q7lU8oEtnJf7qF",
-      "name": "1 × pancada +8 (2d4)",
+      "_id": "CwdCHBljVNro0M5K",
+      "name": "1 × Pancada +8 (2d4)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -143,7 +143,7 @@
         "ba": 8,
         "damage_bonus": null,
         "weapon": false,
-        "description": "pancada",
+        "description": "Pancada",
         "damage_description": "2d4",
         "damage": "2d4"
       },
@@ -165,7 +165,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!RVMYwrIwkZ8PFVNs.U7Q7lU8oEtnJf7qF"
+      "_key": "!actors.items!RVMYwrIwkZ8PFVNs.CwdCHBljVNro0M5K"
     }
   ],
   "effects": [],

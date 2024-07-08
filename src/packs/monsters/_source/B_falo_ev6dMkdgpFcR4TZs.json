@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "CUvE9m8cbVTdfI9Z",
-      "name": "1 × coice +3 (1d6)",
+      "_id": "SSsEXRkHINvll73p",
+      "name": "1 × Coice +3 (1d6)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,7 +109,7 @@
         "ba": 3,
         "damage_bonus": null,
         "weapon": false,
-        "description": "coice",
+        "description": "Coice",
         "damage_description": "1d6",
         "damage": "1d6"
       },
@@ -131,7 +131,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!ev6dMkdgpFcR4TZs.CUvE9m8cbVTdfI9Z"
+      "_key": "!actors.items!ev6dMkdgpFcR4TZs.SSsEXRkHINvll73p"
     }
   ],
   "effects": [],

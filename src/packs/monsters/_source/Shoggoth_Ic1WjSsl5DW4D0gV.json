@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "cfv6GZbNb6ZhLPF1",
-      "name": "1 × mordida +13 (3d10)",
+      "_id": "SrZsmWy13gUmkyoM",
+      "name": "1 × Mordida +13 (3d10)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,7 +109,7 @@
         "ba": 13,
         "damage_bonus": null,
         "weapon": false,
-        "description": "mordida",
+        "description": "Mordida",
         "damage_description": "3d10",
         "damage": "3d10"
       },
@@ -131,11 +131,11 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!Ic1WjSsl5DW4D0gV.cfv6GZbNb6ZhLPF1"
+      "_key": "!actors.items!Ic1WjSsl5DW4D0gV.SrZsmWy13gUmkyoM"
     },
     {
-      "_id": "T18Ks3rMJRXUgYnw",
-      "name": "2 × tentáculos +13 (2d6)",
+      "_id": "bFx0nvR8xGdRFmu9",
+      "name": "2 × Tentáculos +13 (2d6)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -143,7 +143,7 @@
         "ba": 13,
         "damage_bonus": null,
         "weapon": false,
-        "description": "tentáculos",
+        "description": "Tentáculos",
         "damage_description": "2d6",
         "damage": "2d6"
       },
@@ -165,7 +165,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!Ic1WjSsl5DW4D0gV.T18Ks3rMJRXUgYnw"
+      "_key": "!actors.items!Ic1WjSsl5DW4D0gV.bFx0nvR8xGdRFmu9"
     }
   ],
   "effects": [],

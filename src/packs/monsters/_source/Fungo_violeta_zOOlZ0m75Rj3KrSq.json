@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "CLwyq3xnELqPIMoC",
-      "name": "4 × tentáculos +4 (1d4+4)",
+      "_id": "q9pcNTDzyos2CiGF",
+      "name": "4 × Tentáculos +4 (1d4+4)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,7 +109,7 @@
         "ba": 4,
         "damage_bonus": 4,
         "weapon": false,
-        "description": "tentáculos",
+        "description": "Tentáculos",
         "damage_description": "1d4+4",
         "damage": "1d4"
       },
@@ -131,7 +131,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!zOOlZ0m75Rj3KrSq.CLwyq3xnELqPIMoC"
+      "_key": "!actors.items!zOOlZ0m75Rj3KrSq.q9pcNTDzyos2CiGF"
     }
   ],
   "effects": [],

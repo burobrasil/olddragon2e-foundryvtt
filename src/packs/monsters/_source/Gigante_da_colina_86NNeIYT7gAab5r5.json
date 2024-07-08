@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "9FPXQSIPBYQHtwvT",
-      "name": "1 × arma +11 (arma +6)",
+      "_id": "jX8KQKv062SugMTp",
+      "name": "1 × Arma +11 (Arma +6)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,8 +109,8 @@
         "ba": 11,
         "damage_bonus": 6,
         "weapon": true,
-        "description": "arma",
-        "damage_description": "arma +6",
+        "description": "Arma",
+        "damage_description": "Arma +6",
         "damage": null
       },
       "effects": [],
@@ -131,11 +131,11 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!86NNeIYT7gAab5r5.9FPXQSIPBYQHtwvT"
+      "_key": "!actors.items!86NNeIYT7gAab5r5.jX8KQKv062SugMTp"
     },
     {
-      "_id": "sHMu7BCZjFMuzCJE",
-      "name": "1 × pedrada +11 (2d8)",
+      "_id": "WdtOYQX1qQuUntah",
+      "name": "1 × Pedrada +11 (2d8)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -143,7 +143,7 @@
         "ba": 11,
         "damage_bonus": null,
         "weapon": false,
-        "description": "pedrada",
+        "description": "Pedrada",
         "damage_description": "2d8",
         "damage": "2d8"
       },
@@ -165,7 +165,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!86NNeIYT7gAab5r5.sHMu7BCZjFMuzCJE"
+      "_key": "!actors.items!86NNeIYT7gAab5r5.WdtOYQX1qQuUntah"
     }
   ],
   "effects": [],

@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "SnTO7mTRswjPRYmh",
-      "name": "2 × espadas longas +9 (1d8+6 + fogo)",
+      "_id": "FGqzsr3IUjRplhVQ",
+      "name": "2 × Espadas longas +9 (1d8+6 + Fogo)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,8 +109,8 @@
         "ba": 9,
         "damage_bonus": 6,
         "weapon": false,
-        "description": "espadas longas",
-        "damage_description": "1d8+6 + fogo",
+        "description": "Espadas longas",
+        "damage_description": "1d8+6 + Fogo",
         "damage": "1d8"
       },
       "effects": [],
@@ -131,7 +131,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!fz8fbyGB0zxNuevl.SnTO7mTRswjPRYmh"
+      "_key": "!actors.items!fz8fbyGB0zxNuevl.FGqzsr3IUjRplhVQ"
     }
   ],
   "effects": [],

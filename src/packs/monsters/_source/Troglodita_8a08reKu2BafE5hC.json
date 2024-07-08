@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "XoqY5PhsFaD5RyQH",
-      "name": "1 × arma +2 (arma)",
+      "_id": "AzErjoUsACrJWCdA",
+      "name": "1 × Arma +2 (Arma)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,8 +109,8 @@
         "ba": 2,
         "damage_bonus": null,
         "weapon": true,
-        "description": "arma",
-        "damage_description": "arma",
+        "description": "Arma",
+        "damage_description": "Arma",
         "damage": null
       },
       "effects": [],
@@ -131,11 +131,11 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!8a08reKu2BafE5hC.XoqY5PhsFaD5RyQH"
+      "_key": "!actors.items!8a08reKu2BafE5hC.AzErjoUsACrJWCdA"
     },
     {
-      "_id": "XmAmZTZhi94Hmd4Q",
-      "name": "1 × garra +2 (1d4)",
+      "_id": "s7b5ZymVm8HuzohA",
+      "name": "1 × Garra +2 (1d4)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -143,7 +143,7 @@
         "ba": 2,
         "damage_bonus": null,
         "weapon": false,
-        "description": "garra",
+        "description": "Garra",
         "damage_description": "1d4",
         "damage": "1d4"
       },
@@ -165,11 +165,11 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!8a08reKu2BafE5hC.XmAmZTZhi94Hmd4Q"
+      "_key": "!actors.items!8a08reKu2BafE5hC.s7b5ZymVm8HuzohA"
     },
     {
-      "_id": "L251CNVr5UEymlhn",
-      "name": "1 × mordida +2 (1d4)",
+      "_id": "VQJx1pcrGMoXXE6F",
+      "name": "1 × Mordida +2 (1d4)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -177,7 +177,7 @@
         "ba": 2,
         "damage_bonus": null,
         "weapon": false,
-        "description": "mordida",
+        "description": "Mordida",
         "damage_description": "1d4",
         "damage": "1d4"
       },
@@ -199,7 +199,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!8a08reKu2BafE5hC.L251CNVr5UEymlhn"
+      "_key": "!actors.items!8a08reKu2BafE5hC.VQJx1pcrGMoXXE6F"
     }
   ],
   "effects": [],

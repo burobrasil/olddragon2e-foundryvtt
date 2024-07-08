@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "1VhDEc40wg8V8wot",
-      "name": "1 × enxame (confusão)",
+      "_id": "JcgSNsN3Iu8ntswr",
+      "name": "1 × Enxame (Confusão)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,8 +109,8 @@
         "ba": 0,
         "damage_bonus": null,
         "weapon": false,
-        "description": "enxame",
-        "damage_description": "confusão",
+        "description": "Enxame",
+        "damage_description": "Confusão",
         "damage": null
       },
       "effects": [],
@@ -131,7 +131,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!T7aLTsKnI7etOh3L.1VhDEc40wg8V8wot"
+      "_key": "!actors.items!T7aLTsKnI7etOh3L.JcgSNsN3Iu8ntswr"
     }
   ],
   "effects": [],

@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "OjSTn1DEpwdGgJBS",
-      "name": "1 × arco longo +4 (1d8+2)",
+      "_id": "UMLdcvRFaUXjVFt1",
+      "name": "1 × Arco longo +4 (1d8+2)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,7 +109,7 @@
         "ba": 4,
         "damage_bonus": 2,
         "weapon": false,
-        "description": "arco longo",
+        "description": "Arco longo",
         "damage_description": "1d8+2",
         "damage": "1d8"
       },
@@ -131,11 +131,11 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!dGrCSELrE0lIRoLh.OjSTn1DEpwdGgJBS"
+      "_key": "!actors.items!dGrCSELrE0lIRoLh.UMLdcvRFaUXjVFt1"
     },
     {
-      "_id": "Anj3lPiaOmcYRpM6",
-      "name": "1 × cimitarra +4 (1d6+4)",
+      "_id": "XYLkfQCUZvK22TrB",
+      "name": "1 × Cimitarra +4 (1d6+4)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -143,7 +143,7 @@
         "ba": 4,
         "damage_bonus": 4,
         "weapon": false,
-        "description": "cimitarra",
+        "description": "Cimitarra",
         "damage_description": "1d6+4",
         "damage": "1d6"
       },
@@ -165,7 +165,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!dGrCSELrE0lIRoLh.Anj3lPiaOmcYRpM6"
+      "_key": "!actors.items!dGrCSELrE0lIRoLh.XYLkfQCUZvK22TrB"
     }
   ],
   "effects": [],

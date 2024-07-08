@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "ThYCvj3Padw5IUZY",
-      "name": "1 × atropelar +8 (4d8)",
+      "_id": "D7mfPnsCtHMwl1Zo",
+      "name": "1 × Atropelar +8 (4d8)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,7 +109,7 @@
         "ba": 8,
         "damage_bonus": null,
         "weapon": false,
-        "description": "atropelar",
+        "description": "Atropelar",
         "damage_description": "4d8",
         "damage": "4d8"
       },
@@ -131,11 +131,11 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!S8LUFtbkPtI50ocQ.ThYCvj3Padw5IUZY"
+      "_key": "!actors.items!S8LUFtbkPtI50ocQ.D7mfPnsCtHMwl1Zo"
     },
     {
-      "_id": "XvwZ9Lugt0VmiFIi",
-      "name": "1 × tromba +10 (2d4)",
+      "_id": "R09O0esFGFRGTPsM",
+      "name": "1 × Tromba +10 (2d4)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -143,7 +143,7 @@
         "ba": 10,
         "damage_bonus": null,
         "weapon": false,
-        "description": "tromba",
+        "description": "Tromba",
         "damage_description": "2d4",
         "damage": "2d4"
       },
@@ -165,7 +165,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!S8LUFtbkPtI50ocQ.XvwZ9Lugt0VmiFIi"
+      "_key": "!actors.items!S8LUFtbkPtI50ocQ.R09O0esFGFRGTPsM"
     }
   ],
   "effects": [],

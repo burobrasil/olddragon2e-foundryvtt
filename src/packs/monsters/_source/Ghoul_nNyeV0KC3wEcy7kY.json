@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "BNdXcVPCIOtKdhMm",
-      "name": "1 × mordida +3 (1d3 + paralisia)",
+      "_id": "hu7Jq66Zp948Ab7o",
+      "name": "1 × Mordida +3 (1d3 + Paralisia)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,8 +109,8 @@
         "ba": 3,
         "damage_bonus": null,
         "weapon": false,
-        "description": "mordida",
-        "damage_description": "1d3 + paralisia",
+        "description": "Mordida",
+        "damage_description": "1d3 + Paralisia",
         "damage": "1d3"
       },
       "effects": [],
@@ -131,11 +131,11 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!nNyeV0KC3wEcy7kY.BNdXcVPCIOtKdhMm"
+      "_key": "!actors.items!nNyeV0KC3wEcy7kY.hu7Jq66Zp948Ab7o"
     },
     {
-      "_id": "iIy6sdRFJXD2dhFQ",
-      "name": "2 × garras +3 (1d4 + paralisia)",
+      "_id": "zvl0yFsh8k7FMHNs",
+      "name": "2 × Garras +3 (1d4 + Paralisia)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -143,8 +143,8 @@
         "ba": 3,
         "damage_bonus": null,
         "weapon": false,
-        "description": "garras",
-        "damage_description": "1d4 + paralisia",
+        "description": "Garras",
+        "damage_description": "1d4 + Paralisia",
         "damage": "1d4"
       },
       "effects": [],
@@ -165,7 +165,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!nNyeV0KC3wEcy7kY.iIy6sdRFJXD2dhFQ"
+      "_key": "!actors.items!nNyeV0KC3wEcy7kY.zvl0yFsh8k7FMHNs"
     }
   ],
   "effects": [],
