@@ -1,14 +1,14 @@
-2024/03/31-14:23:57.563934 170fa3000 Recovering log #254
-2024/03/31-14:23:57.565074 170fa3000 Delete type=0 #254
-2024/03/31-14:23:57.565207 170fa3000 Delete type=3 #253
-2024/03/31-14:23:57.571139 17203f000 Level-0 table #258: started
-2024/03/31-14:23:57.573508 17203f000 Level-0 table #258: 355687 bytes OK
-2024/03/31-14:23:57.573638 17203f000 Delete type=0 #256
-2024/03/31-14:23:57.573860 17203f000 Manual compaction at level-0 from '!actors!15LHpJehKB856mfO' @ 72057594037927935 : 1 .. '!folders!tVf2EkWEOvHAHyw9' @ 0 : 0; will stop at '!folders!tVf2EkWEOvHAHyw9' @ 13514 : 1
-2024/03/31-14:23:57.573874 17203f000 Compacting 1@0 + 1@1 files
-2024/03/31-14:23:57.577095 17203f000 Generated table #259@0: 630 keys, 355687 bytes
-2024/03/31-14:23:57.577107 17203f000 Compacted 1@0 + 1@1 files => 355687 bytes
-2024/03/31-14:23:57.577183 17203f000 compacted to: files[ 0 1 0 0 0 0 0 ]
-2024/03/31-14:23:57.577227 17203f000 Delete type=2 #248
-2024/03/31-14:23:57.577406 17203f000 Delete type=2 #258
-2024/03/31-14:23:57.577553 17203f000 Manual compaction at level-0 from '!folders!tVf2EkWEOvHAHyw9' @ 13514 : 1 .. '!folders!tVf2EkWEOvHAHyw9' @ 0 : 0; will stop at (end)
+2024/03/31-14:26:40.298557 170e93000 Recovering log #257
+2024/03/31-14:26:40.299465 170e93000 Delete type=0 #257
+2024/03/31-14:26:40.299569 170e93000 Delete type=3 #255
+2024/03/31-14:26:40.305772 171f2f000 Level-0 table #263: started
+2024/03/31-14:26:40.308423 171f2f000 Level-0 table #263: 343989 bytes OK
+2024/03/31-14:26:40.308523 171f2f000 Delete type=0 #261
+2024/03/31-14:26:40.308689 171f2f000 Manual compaction at level-0 from '!actors!15LHpJehKB856mfO' @ 72057594037927935 : 1 .. '!folders!tVf2EkWEOvHAHyw9' @ 0 : 0; will stop at '!folders!tVf2EkWEOvHAHyw9' @ 14144 : 1
+2024/03/31-14:26:40.308707 171f2f000 Compacting 1@0 + 1@1 files
+2024/03/31-14:26:40.312279 171f2f000 Generated table #264@0: 630 keys, 343989 bytes
+2024/03/31-14:26:40.312292 171f2f000 Compacted 1@0 + 1@1 files => 343989 bytes
+2024/03/31-14:26:40.312373 171f2f000 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/03/31-14:26:40.312433 171f2f000 Delete type=2 #263
+2024/03/31-14:26:40.312550 171f2f000 Delete type=2 #259
+2024/03/31-14:26:40.312790 171f2f000 Manual compaction at level-0 from '!folders!tVf2EkWEOvHAHyw9' @ 14144 : 1 .. '!folders!tVf2EkWEOvHAHyw9' @ 0 : 0; will stop at (end)
