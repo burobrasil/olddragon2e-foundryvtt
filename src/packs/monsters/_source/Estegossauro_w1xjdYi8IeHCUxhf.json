@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "wNW4htr3UeDnOWrJ",
-      "name": "1 × cauda +11 (2d8)",
+      "_id": "GOnPCO35SwJhcyK9",
+      "name": "1 × Cauda +11 (2d8)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,7 +109,7 @@
         "ba": 11,
         "damage_bonus": null,
         "weapon": false,
-        "description": "cauda",
+        "description": "Cauda",
         "damage_description": "2d8",
         "damage": "2d8"
       },
@@ -131,7 +131,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!w1xjdYi8IeHCUxhf.wNW4htr3UeDnOWrJ"
+      "_key": "!actors.items!w1xjdYi8IeHCUxhf.GOnPCO35SwJhcyK9"
     }
   ],
   "effects": [],

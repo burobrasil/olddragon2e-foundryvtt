@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "5pxAA0wNNGylFbST",
-      "name": "1 × arma +3 (arma)",
+      "_id": "j088WDZdVlpKAqAM",
+      "name": "1 × Arma +3 (Arma)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,8 +109,8 @@
         "ba": 3,
         "damage_bonus": null,
         "weapon": true,
-        "description": "arma",
-        "damage_description": "arma",
+        "description": "Arma",
+        "damage_description": "Arma",
         "damage": null
       },
       "effects": [],
@@ -131,11 +131,11 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!Auy2M9WeNrCxQqzv.5pxAA0wNNGylFbST"
+      "_key": "!actors.items!Auy2M9WeNrCxQqzv.j088WDZdVlpKAqAM"
     },
     {
-      "_id": "AtRguDJc80YBxzKD",
-      "name": "2 × garras +3 (1d3 + paralisia)",
+      "_id": "oV09ZMPwuZT9RFtr",
+      "name": "2 × Garras +3 (1d3 + Paralisia)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -143,8 +143,8 @@
         "ba": 3,
         "damage_bonus": null,
         "weapon": false,
-        "description": "garras",
-        "damage_description": "1d3 + paralisia",
+        "description": "Garras",
+        "damage_description": "1d3 + Paralisia",
         "damage": "1d3"
       },
       "effects": [],
@@ -165,7 +165,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!Auy2M9WeNrCxQqzv.AtRguDJc80YBxzKD"
+      "_key": "!actors.items!Auy2M9WeNrCxQqzv.oV09ZMPwuZT9RFtr"
     }
   ],
   "effects": [],

@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "MdvUum3hSAgRqXB5",
-      "name": "1 × cauda +12 (3d10)",
+      "_id": "G18xJgRTJtafJzwo",
+      "name": "1 × Cauda +12 (3d10)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,7 +109,7 @@
         "ba": 12,
         "damage_bonus": null,
         "weapon": false,
-        "description": "cauda",
+        "description": "Cauda",
         "damage_description": "3d10",
         "damage": "3d10"
       },
@@ -131,11 +131,11 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!ejRvbAwY6ZwoTgwj.MdvUum3hSAgRqXB5"
+      "_key": "!actors.items!ejRvbAwY6ZwoTgwj.G18xJgRTJtafJzwo"
     },
     {
-      "_id": "u7f8BuxsWOmlh3ET",
-      "name": "1 × mordida +12 (5d10 + engolir)",
+      "_id": "DzvVFiVBo6QMOYdG",
+      "name": "1 × Mordida +12 (5d10 + Engolir)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -143,8 +143,8 @@
         "ba": 12,
         "damage_bonus": null,
         "weapon": false,
-        "description": "mordida",
-        "damage_description": "5d10 + engolir",
+        "description": "Mordida",
+        "damage_description": "5d10 + Engolir",
         "damage": "5d10"
       },
       "effects": [],
@@ -165,11 +165,11 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!ejRvbAwY6ZwoTgwj.u7f8BuxsWOmlh3ET"
+      "_key": "!actors.items!ejRvbAwY6ZwoTgwj.DzvVFiVBo6QMOYdG"
     },
     {
-      "_id": "OCsESGgYTmrFTFSW",
-      "name": "2 × chifres +12 (2d8)",
+      "_id": "EmYEUT8ydRIBzekw",
+      "name": "2 × Chifres +12 (2d8)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -177,7 +177,7 @@
         "ba": 12,
         "damage_bonus": null,
         "weapon": false,
-        "description": "chifres",
+        "description": "Chifres",
         "damage_description": "2d8",
         "damage": "2d8"
       },
@@ -199,11 +199,11 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!ejRvbAwY6ZwoTgwj.OCsESGgYTmrFTFSW"
+      "_key": "!actors.items!ejRvbAwY6ZwoTgwj.EmYEUT8ydRIBzekw"
     },
     {
-      "_id": "IK4oYfBAMtMv1hLR",
-      "name": "2 × garras +18 (2d12)",
+      "_id": "cNVBP9CkkqCRajPt",
+      "name": "2 × Garras +18 (2d12)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -211,7 +211,7 @@
         "ba": 18,
         "damage_bonus": null,
         "weapon": false,
-        "description": "garras",
+        "description": "Garras",
         "damage_description": "2d12",
         "damage": "2d12"
       },
@@ -233,7 +233,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!ejRvbAwY6ZwoTgwj.IK4oYfBAMtMv1hLR"
+      "_key": "!actors.items!ejRvbAwY6ZwoTgwj.cNVBP9CkkqCRajPt"
     }
   ],
   "effects": [],

@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "6Xbkw8Mymla2evBG",
-      "name": "2 × clavas gigantes +11 (2d6)",
+      "_id": "YtU6zIe0l0mH1yqd",
+      "name": "2 × Clavas gigantes +11 (2d6)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,7 +109,7 @@
         "ba": 11,
         "damage_bonus": null,
         "weapon": false,
-        "description": "clavas gigantes",
+        "description": "Clavas gigantes",
         "damage_description": "2d6",
         "damage": "2d6"
       },
@@ -131,11 +131,11 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!YeeDbKpzBfoEIwxe.6Xbkw8Mymla2evBG"
+      "_key": "!actors.items!YeeDbKpzBfoEIwxe.YtU6zIe0l0mH1yqd"
     },
     {
-      "_id": "2whH9WEqTnBWxmhd",
-      "name": "2 × pancadas +12 (2d4+2)",
+      "_id": "PmNrDt0zoxF3tcnD",
+      "name": "2 × Pancadas +12 (2d4+2)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -143,7 +143,7 @@
         "ba": 12,
         "damage_bonus": 2,
         "weapon": false,
-        "description": "pancadas",
+        "description": "Pancadas",
         "damage_description": "2d4+2",
         "damage": "2d4"
       },
@@ -165,7 +165,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!YeeDbKpzBfoEIwxe.2whH9WEqTnBWxmhd"
+      "_key": "!actors.items!YeeDbKpzBfoEIwxe.PmNrDt0zoxF3tcnD"
     }
   ],
   "effects": [],

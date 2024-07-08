@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "Jw5SuayNA3mgndNq",
-      "name": "1 × besta da mão +1 (1d4)",
+      "_id": "uIqw4MFk2iSEEbQo",
+      "name": "1 × Besta de mão +1 (1d4)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,7 +109,7 @@
         "ba": 1,
         "damage_bonus": null,
         "weapon": false,
-        "description": "besta da mão",
+        "description": "Besta de mão",
         "damage_description": "1d4",
         "damage": "1d4"
       },
@@ -131,11 +131,11 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!9V2nAyBC5gtWDziX.Jw5SuayNA3mgndNq"
+      "_key": "!actors.items!9V2nAyBC5gtWDziX.uIqw4MFk2iSEEbQo"
     },
     {
-      "_id": "6tbucVqm2bAdG9Xa",
-      "name": "1 × espada longa +2 (1d8+1)",
+      "_id": "eEPIDBWrpZt3ExQt",
+      "name": "1 × Espada longa +2 (1d8+1)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -143,7 +143,7 @@
         "ba": 2,
         "damage_bonus": 1,
         "weapon": false,
-        "description": "espada longa",
+        "description": "Espada longa",
         "damage_description": "1d8+1",
         "damage": "1d8"
       },
@@ -165,7 +165,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!9V2nAyBC5gtWDziX.6tbucVqm2bAdG9Xa"
+      "_key": "!actors.items!9V2nAyBC5gtWDziX.eEPIDBWrpZt3ExQt"
     }
   ],
   "effects": [],

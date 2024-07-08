@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "kCXvtNmYt7xz0XLX",
-      "name": "1 × cauda +10 (2d4 + veneno)",
+      "_id": "2DmmkWzgW0UMZItJ",
+      "name": "1 × Cauda +10 (2d4 + Veneno)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,8 +109,8 @@
         "ba": 10,
         "damage_bonus": null,
         "weapon": false,
-        "description": "cauda",
-        "damage_description": "2d4 + veneno",
+        "description": "Cauda",
+        "damage_description": "2d4 + Veneno",
         "damage": "2d4"
       },
       "effects": [],
@@ -131,11 +131,11 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!dlrUmrH1tVQWYrBq.kCXvtNmYt7xz0XLX"
+      "_key": "!actors.items!dlrUmrH1tVQWYrBq.2DmmkWzgW0UMZItJ"
     },
     {
-      "_id": "FQSgBd0kwlBTedGr",
-      "name": "2 × mordidas +16 (2d6+8)",
+      "_id": "PmcwLBi7kZfGczLj",
+      "name": "2 × Mordidas +16 (2d6+8)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -143,7 +143,7 @@
         "ba": 16,
         "damage_bonus": 8,
         "weapon": false,
-        "description": "mordidas",
+        "description": "Mordidas",
         "damage_description": "2d6+8",
         "damage": "2d6"
       },
@@ -165,7 +165,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!dlrUmrH1tVQWYrBq.FQSgBd0kwlBTedGr"
+      "_key": "!actors.items!dlrUmrH1tVQWYrBq.PmcwLBi7kZfGczLj"
     }
   ],
   "effects": [],

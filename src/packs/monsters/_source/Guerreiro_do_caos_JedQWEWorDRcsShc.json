@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "IrfUDkCjc8xwX19f",
-      "name": "1 × machado +4 (2d6+4)",
+      "_id": "fS5AxEyBFTYzJH6a",
+      "name": "1 × Machado +4 (2d6+4)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,7 +109,7 @@
         "ba": 4,
         "damage_bonus": 4,
         "weapon": false,
-        "description": "machado",
+        "description": "Machado",
         "damage_description": "2d6+4",
         "damage": "2d6"
       },
@@ -131,7 +131,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!JedQWEWorDRcsShc.IrfUDkCjc8xwX19f"
+      "_key": "!actors.items!JedQWEWorDRcsShc.fS5AxEyBFTYzJH6a"
     }
   ],
   "effects": [],

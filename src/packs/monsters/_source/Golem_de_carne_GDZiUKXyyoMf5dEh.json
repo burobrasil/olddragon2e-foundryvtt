@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "9T2O5NNtawrGDrkV",
-      "name": "2 × pancadas +9 (2d8)",
+      "_id": "4zUDqKvRPgfIkfZ7",
+      "name": "2 × Pancadas +9 (2d8)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,7 +109,7 @@
         "ba": 9,
         "damage_bonus": null,
         "weapon": false,
-        "description": "pancadas",
+        "description": "Pancadas",
         "damage_description": "2d8",
         "damage": "2d8"
       },
@@ -131,7 +131,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!GDZiUKXyyoMf5dEh.9T2O5NNtawrGDrkV"
+      "_key": "!actors.items!GDZiUKXyyoMf5dEh.4zUDqKvRPgfIkfZ7"
     }
   ],
   "effects": [],

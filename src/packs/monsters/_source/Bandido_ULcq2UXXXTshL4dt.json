@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "U07JugNBMDYxwh8l",
-      "name": "1 × espada curta +1 (1d6+1)",
+      "_id": "UkMNzRfKLObk1F1q",
+      "name": "1 × Espada curta +1 (1d6+1)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,7 +109,7 @@
         "ba": 1,
         "damage_bonus": 1,
         "weapon": false,
-        "description": "espada curta",
+        "description": "Espada curta",
         "damage_description": "1d6+1",
         "damage": "1d6"
       },
@@ -131,11 +131,11 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!ULcq2UXXXTshL4dt.U07JugNBMDYxwh8l"
+      "_key": "!actors.items!ULcq2UXXXTshL4dt.UkMNzRfKLObk1F1q"
     },
     {
-      "_id": "tPg7K83DTieeQ7Uf",
-      "name": "1 × funda +1 (1d3)",
+      "_id": "Upwl5dPJcQhgCIif",
+      "name": "1 × Funda +1 (1d3)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -143,7 +143,7 @@
         "ba": 1,
         "damage_bonus": null,
         "weapon": false,
-        "description": "funda",
+        "description": "Funda",
         "damage_description": "1d3",
         "damage": "1d3"
       },
@@ -165,7 +165,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!ULcq2UXXXTshL4dt.tPg7K83DTieeQ7Uf"
+      "_key": "!actors.items!ULcq2UXXXTshL4dt.Upwl5dPJcQhgCIif"
     }
   ],
   "effects": [],

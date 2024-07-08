@@ -28,6 +28,7 @@
     "postinstall": "husky install"
   },
   "devDependencies": {
+    "@foundryvtt/foundryvtt-cli": "^1.0.3",
     "@rollup/plugin-node-resolve": "^15.2.3",
     "@rollup/stream": "^3.0.1",
     "@typhonjs-fvtt/eslint-config-foundry.js": "^0.8.0",

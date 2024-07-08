@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "DjpRACHbPrus16oR",
-      "name": "1 × atropelar +10 (4d8)",
+      "_id": "H4Ohh44TiZj68Kav",
+      "name": "1 × Atropelar +10 (4d8)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,7 +109,7 @@
         "ba": 10,
         "damage_bonus": null,
         "weapon": false,
-        "description": "atropelar",
+        "description": "Atropelar",
         "damage_description": "4d8",
         "damage": "4d8"
       },
@@ -131,11 +131,11 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!pfYfxnT0Tp52dhos.DjpRACHbPrus16oR"
+      "_key": "!actors.items!pfYfxnT0Tp52dhos.H4Ohh44TiZj68Kav"
     },
     {
-      "_id": "q0VKZNxrDPtGadao",
-      "name": "2 × presas +12 (2d6)",
+      "_id": "MAAVxzDYMCFxyXvy",
+      "name": "2 × Presas +12 (2d6)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -143,7 +143,7 @@
         "ba": 12,
         "damage_bonus": null,
         "weapon": false,
-        "description": "presas",
+        "description": "Presas",
         "damage_description": "2d6",
         "damage": "2d6"
       },
@@ -165,7 +165,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!pfYfxnT0Tp52dhos.q0VKZNxrDPtGadao"
+      "_key": "!actors.items!pfYfxnT0Tp52dhos.MAAVxzDYMCFxyXvy"
     }
   ],
   "effects": [],

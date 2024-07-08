@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "loJbCuVhF6XED1zB",
-      "name": "1 × lança longa +2 (1d8+1)",
+      "_id": "FwdkwrLKiJI7dhGr",
+      "name": "1 × Lança longa +2 (1d8+1)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,7 +109,7 @@
         "ba": 2,
         "damage_bonus": 1,
         "weapon": false,
-        "description": "lança longa",
+        "description": "Lança longa",
         "damage_description": "1d8+1",
         "damage": "1d8"
       },
@@ -131,7 +131,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!FbXeZEkzdB8Z1Mr8.loJbCuVhF6XED1zB"
+      "_key": "!actors.items!FbXeZEkzdB8Z1Mr8.FwdkwrLKiJI7dhGr"
     }
   ],
   "effects": [],

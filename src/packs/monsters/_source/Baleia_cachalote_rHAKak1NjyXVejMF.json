@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "UNNhgYE0jxEQ1MfP",
-      "name": "1 × mordida +16 (4d12)",
+      "_id": "K664gSMTJqVxWMwW",
+      "name": "1 × Mordida +16 (4d12)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,7 +109,7 @@
         "ba": 16,
         "damage_bonus": null,
         "weapon": false,
-        "description": "mordida",
+        "description": "Mordida",
         "damage_description": "4d12",
         "damage": "4d12"
       },
@@ -131,7 +131,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!rHAKak1NjyXVejMF.UNNhgYE0jxEQ1MfP"
+      "_key": "!actors.items!rHAKak1NjyXVejMF.K664gSMTJqVxWMwW"
     }
   ],
   "effects": [],

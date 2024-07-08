@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "XSfEwIRUG09rF7ml",
-      "name": "1 × bordão +1 (1d4+1)",
+      "_id": "2dg2iVwfbAYghc4j",
+      "name": "1 × Bordão +1 (1d4+1)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,7 +109,7 @@
         "ba": 1,
         "damage_bonus": 1,
         "weapon": false,
-        "description": "bordão",
+        "description": "Bordão",
         "damage_description": "1d4+1",
         "damage": "1d4"
       },
@@ -131,7 +131,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!FmFrdCJOJhmaeI8w.XSfEwIRUG09rF7ml"
+      "_key": "!actors.items!FmFrdCJOJhmaeI8w.2dg2iVwfbAYghc4j"
     }
   ],
   "effects": [],

@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "4BKnpbd0AKbSnc2z",
-      "name": "1 × mordida +2 (2d6)",
+      "_id": "IiJNc10XbGa4sff9",
+      "name": "1 × Mordida +2 (2d6)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,7 +109,7 @@
         "ba": 2,
         "damage_bonus": null,
         "weapon": false,
-        "description": "mordida",
+        "description": "Mordida",
         "damage_description": "2d6",
         "damage": "2d6"
       },
@@ -131,7 +131,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!D59mYqnYIgRAGVsU.4BKnpbd0AKbSnc2z"
+      "_key": "!actors.items!D59mYqnYIgRAGVsU.IiJNc10XbGa4sff9"
     }
   ],
   "effects": [],

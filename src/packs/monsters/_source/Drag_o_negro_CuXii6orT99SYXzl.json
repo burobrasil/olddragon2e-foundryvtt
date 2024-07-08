@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "6ZYJRrB9VN1MQomQ",
-      "name": "1 × mordida +6 (2d10)",
+      "_id": "qnvIIJp1WtjyLwgn",
+      "name": "1 × Mordida +6 (2d10)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,7 +109,7 @@
         "ba": 6,
         "damage_bonus": null,
         "weapon": false,
-        "description": "mordida",
+        "description": "Mordida",
         "damage_description": "2d10",
         "damage": "2d10"
       },
@@ -131,11 +131,11 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!CuXii6orT99SYXzl.6ZYJRrB9VN1MQomQ"
+      "_key": "!actors.items!CuXii6orT99SYXzl.qnvIIJp1WtjyLwgn"
     },
     {
-      "_id": "y89rrHRVqviQnNwl",
-      "name": "2 × garras +7 (1d4+4)",
+      "_id": "n8XTwEyZyZ6WCUnp",
+      "name": "2 × Garras +7 (1d4+4)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -143,7 +143,7 @@
         "ba": 7,
         "damage_bonus": 4,
         "weapon": false,
-        "description": "garras",
+        "description": "Garras",
         "damage_description": "1d4+4",
         "damage": "1d4"
       },
@@ -165,7 +165,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!CuXii6orT99SYXzl.y89rrHRVqviQnNwl"
+      "_key": "!actors.items!CuXii6orT99SYXzl.n8XTwEyZyZ6WCUnp"
     }
   ],
   "effects": [],

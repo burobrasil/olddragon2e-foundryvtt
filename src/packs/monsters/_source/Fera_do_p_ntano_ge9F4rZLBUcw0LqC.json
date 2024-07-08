@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "TAcNluSNWZWChqyw",
-      "name": "1 × chicote +3 (1d4+2)",
+      "_id": "JNv7h25BMzctAy9T",
+      "name": "1 × Chicote +3 (1d4+2)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,7 +109,7 @@
         "ba": 3,
         "damage_bonus": 2,
         "weapon": false,
-        "description": "chicote",
+        "description": "Chicote",
         "damage_description": "1d4+2",
         "damage": "1d4"
       },
@@ -131,11 +131,11 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!ge9F4rZLBUcw0LqC.TAcNluSNWZWChqyw"
+      "_key": "!actors.items!ge9F4rZLBUcw0LqC.JNv7h25BMzctAy9T"
     },
     {
-      "_id": "G4QGiaeggcEaTOZD",
-      "name": "1 × tridente +2 (1d6+2)",
+      "_id": "b0kOZvFPjXv7pjWf",
+      "name": "1 × Tridente +2 (1d6+2)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -143,7 +143,7 @@
         "ba": 2,
         "damage_bonus": 2,
         "weapon": false,
-        "description": "tridente",
+        "description": "Tridente",
         "damage_description": "1d6+2",
         "damage": "1d6"
       },
@@ -165,7 +165,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!ge9F4rZLBUcw0LqC.G4QGiaeggcEaTOZD"
+      "_key": "!actors.items!ge9F4rZLBUcw0LqC.b0kOZvFPjXv7pjWf"
     }
   ],
   "effects": [],

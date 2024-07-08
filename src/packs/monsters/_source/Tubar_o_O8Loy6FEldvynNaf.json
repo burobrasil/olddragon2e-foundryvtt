@@ -5,7 +5,7 @@
   "img": "systems/olddragon2e/assets/monsters-concepts/animal-grande.webp",
   "system": {
     "odo_id": "tubarao",
-    "flavor": "Grande tubarão branco , feroz, assassino e exímio caçador dos oceanos.",
+    "flavor": "Grande tubarão branco, feroz, assassino e exímio caçador dos oceanos.",
     "concept": "Animal",
     "size": "grande",
     "alignment": "neutro",
@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "CLDqvq983WLwDv2M",
-      "name": "1 × mordida +9 (2d10)",
+      "_id": "J6TU5Ys8xZBvvzzF",
+      "name": "1 × Mordida +9 (2d10)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,7 +109,7 @@
         "ba": 9,
         "damage_bonus": null,
         "weapon": false,
-        "description": "mordida",
+        "description": "Mordida",
         "damage_description": "2d10",
         "damage": "2d10"
       },
@@ -131,7 +131,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!O8Loy6FEldvynNaf.CLDqvq983WLwDv2M"
+      "_key": "!actors.items!O8Loy6FEldvynNaf.J6TU5Ys8xZBvvzzF"
     }
   ],
   "effects": [],

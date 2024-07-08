@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "MLDOhcGF2ASY9rlq",
-      "name": "1 × bicada +5 (1d4 + petrificação)",
+      "_id": "9aY8E63hFSzmizj4",
+      "name": "1 × Bicada +5 (1d4 + Petrificação)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,8 +109,8 @@
         "ba": 5,
         "damage_bonus": null,
         "weapon": false,
-        "description": "bicada",
-        "damage_description": "1d4 + petrificação",
+        "description": "Bicada",
+        "damage_description": "1d4 + Petrificação",
         "damage": "1d4"
       },
       "effects": [],
@@ -131,11 +131,11 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!h6IBuy2tZGPXh8PP.MLDOhcGF2ASY9rlq"
+      "_key": "!actors.items!h6IBuy2tZGPXh8PP.9aY8E63hFSzmizj4"
     },
     {
-      "_id": "suYyKzVgPhEwtjwh",
-      "name": "1 × garra +3 (1d4+1 + confusão)",
+      "_id": "zyNZOXpAZ1Kcyui6",
+      "name": "1 × Garra +3 (1d4+1 + Confusão)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -143,8 +143,8 @@
         "ba": 3,
         "damage_bonus": 1,
         "weapon": false,
-        "description": "garra",
-        "damage_description": "1d4+1 + confusão",
+        "description": "Garra",
+        "damage_description": "1d4+1 + Confusão",
         "damage": "1d4"
       },
       "effects": [],
@@ -165,7 +165,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!h6IBuy2tZGPXh8PP.suYyKzVgPhEwtjwh"
+      "_key": "!actors.items!h6IBuy2tZGPXh8PP.zyNZOXpAZ1Kcyui6"
     }
   ],
   "effects": [],

@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "v2w4AcL9HUOghn6N",
-      "name": "1 × pancada +5 (1d6 + paralisia)",
+      "_id": "mIYsrlRPBylNK3Er",
+      "name": "1 × Pancada +5 (1d6 + Paralisia)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,8 +109,8 @@
         "ba": 5,
         "damage_bonus": null,
         "weapon": false,
-        "description": "pancada",
-        "damage_description": "1d6 + paralisia",
+        "description": "Pancada",
+        "damage_description": "1d6 + Paralisia",
         "damage": "1d6"
       },
       "effects": [],
@@ -131,7 +131,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!XJxIlnlGbJSMbNXp.v2w4AcL9HUOghn6N"
+      "_key": "!actors.items!XJxIlnlGbJSMbNXp.mIYsrlRPBylNK3Er"
     }
   ],
   "effects": [],

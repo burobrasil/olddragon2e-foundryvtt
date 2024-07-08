@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "5BuIHxT3ATB1DxEH",
-      "name": "1 × toque +5 (1d6 + ácido)",
+      "_id": "BFSDXm2BVMvNrBYL",
+      "name": "1 × Toque +5 (1d6 + Ácido)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,8 +109,8 @@
         "ba": 5,
         "damage_bonus": null,
         "weapon": false,
-        "description": "toque",
-        "damage_description": "1d6 + ácido",
+        "description": "Toque",
+        "damage_description": "1d6 + Ácido",
         "damage": "1d6"
       },
       "effects": [],
@@ -131,7 +131,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!iA4pwS4UkPCibVsH.5BuIHxT3ATB1DxEH"
+      "_key": "!actors.items!iA4pwS4UkPCibVsH.BFSDXm2BVMvNrBYL"
     }
   ],
   "effects": [],

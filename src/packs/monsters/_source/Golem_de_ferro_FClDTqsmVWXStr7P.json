@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "ohp6lj1umXDbT5Ri",
-      "name": "1 × espada curta +15 (4d10)",
+      "_id": "InIlCpY0glMeADpq",
+      "name": "1 × Espada curta +15 (4d10)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,7 +109,7 @@
         "ba": 15,
         "damage_bonus": null,
         "weapon": false,
-        "description": "espada curta",
+        "description": "Espada curta",
         "damage_description": "4d10",
         "damage": "4d10"
       },
@@ -131,11 +131,11 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!FClDTqsmVWXStr7P.ohp6lj1umXDbT5Ri"
+      "_key": "!actors.items!FClDTqsmVWXStr7P.InIlCpY0glMeADpq"
     },
     {
-      "_id": "1CKyB2SQDIZH1DOt",
-      "name": "1 × pancada +12 (4d8)",
+      "_id": "reCKgaszH360U6YV",
+      "name": "1 × Pancada +12 (4d8)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -143,7 +143,7 @@
         "ba": 12,
         "damage_bonus": null,
         "weapon": false,
-        "description": "pancada",
+        "description": "Pancada",
         "damage_description": "4d8",
         "damage": "4d8"
       },
@@ -165,7 +165,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!FClDTqsmVWXStr7P.1CKyB2SQDIZH1DOt"
+      "_key": "!actors.items!FClDTqsmVWXStr7P.reCKgaszH360U6YV"
     }
   ],
   "effects": [],

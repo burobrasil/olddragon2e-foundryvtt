@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "VjyXINaFztbFiwlh",
-      "name": "1 × martelo +1 (1d6+1)",
+      "_id": "W0JDTlDHhHpIOYyj",
+      "name": "1 × Martelo +1 (1d6+1)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,7 +109,7 @@
         "ba": 1,
         "damage_bonus": 1,
         "weapon": false,
-        "description": "martelo",
+        "description": "Martelo",
         "damage_description": "1d6+1",
         "damage": "1d6"
       },
@@ -131,7 +131,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!R9O3MNdN8uMuMokD.VjyXINaFztbFiwlh"
+      "_key": "!actors.items!R9O3MNdN8uMuMokD.W0JDTlDHhHpIOYyj"
     }
   ],
   "effects": [],

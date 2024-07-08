@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "8t1pjgS2KQMgtK3Y",
-      "name": "1 × arma +3 (arma)",
+      "_id": "Pyi6GMST414fCJ6a",
+      "name": "1 × Arma +3 (Arma)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,8 +109,8 @@
         "ba": 3,
         "damage_bonus": null,
         "weapon": true,
-        "description": "arma",
-        "damage_description": "arma",
+        "description": "Arma",
+        "damage_description": "Arma",
         "damage": null
       },
       "effects": [],
@@ -131,11 +131,11 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!EQDJAHTs6h4Tasjb.8t1pjgS2KQMgtK3Y"
+      "_key": "!actors.items!EQDJAHTs6h4Tasjb.Pyi6GMST414fCJ6a"
     },
     {
-      "_id": "n0rVLPRLbf2WcN6s",
-      "name": "1 × espada kundur +7 (2d4)",
+      "_id": "ndWSRp4kNU77FeJK",
+      "name": "1 × Espada Kundur +7 (2d4)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -143,7 +143,7 @@
         "ba": 7,
         "damage_bonus": null,
         "weapon": false,
-        "description": "espada kundur",
+        "description": "Espada Kundur",
         "damage_description": "2d4",
         "damage": "2d4"
       },
@@ -165,7 +165,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!EQDJAHTs6h4Tasjb.n0rVLPRLbf2WcN6s"
+      "_key": "!actors.items!EQDJAHTs6h4Tasjb.ndWSRp4kNU77FeJK"
     }
   ],
   "effects": [],

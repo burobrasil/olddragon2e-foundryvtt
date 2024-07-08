@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "UVePJpRDdKFzdRHa",
-      "name": "1 × arma +5 (arma +6)",
+      "_id": "zxbMKxFubiMapJlw",
+      "name": "1 × Arma +5 (Arma +6)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,8 +109,8 @@
         "ba": 5,
         "damage_bonus": 6,
         "weapon": true,
-        "description": "arma",
-        "damage_description": "arma +6",
+        "description": "Arma",
+        "damage_description": "Arma +6",
         "damage": null
       },
       "effects": [],
@@ -131,11 +131,11 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!a2mQNIC8e5v0jVjd.UVePJpRDdKFzdRHa"
+      "_key": "!actors.items!a2mQNIC8e5v0jVjd.zxbMKxFubiMapJlw"
     },
     {
-      "_id": "zBvHtwCWQx4q2cmd",
-      "name": "1 × pancada +4 (1d6+4)",
+      "_id": "ihUabY2ezo3Aj3a1",
+      "name": "1 × Pancada +4 (1d6+4)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -143,7 +143,7 @@
         "ba": 4,
         "damage_bonus": 4,
         "weapon": false,
-        "description": "pancada",
+        "description": "Pancada",
         "damage_description": "1d6+4",
         "damage": "1d6"
       },
@@ -165,7 +165,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!a2mQNIC8e5v0jVjd.zBvHtwCWQx4q2cmd"
+      "_key": "!actors.items!a2mQNIC8e5v0jVjd.ihUabY2ezo3Aj3a1"
     }
   ],
   "effects": [],

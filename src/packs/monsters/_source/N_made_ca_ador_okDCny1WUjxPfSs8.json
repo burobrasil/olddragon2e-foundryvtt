@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "9bAk1FKNcVii7VWG",
-      "name": "1 × arco curto +1 (1d6)",
+      "_id": "e8EBoavNhUHTYZML",
+      "name": "1 × Arco curto +1 (1d6)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,7 +109,7 @@
         "ba": 1,
         "damage_bonus": null,
         "weapon": false,
-        "description": "arco curto",
+        "description": "Arco curto",
         "damage_description": "1d6",
         "damage": "1d6"
       },
@@ -131,11 +131,11 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!okDCny1WUjxPfSs8.9bAk1FKNcVii7VWG"
+      "_key": "!actors.items!okDCny1WUjxPfSs8.e8EBoavNhUHTYZML"
     },
     {
-      "_id": "tW2VS6zzPCHVob5R",
-      "name": "1 × espada curta +1 (1d6)",
+      "_id": "JhO1CciqLrXpVZpF",
+      "name": "1 × Espada curta +1 (1d6)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -143,7 +143,7 @@
         "ba": 1,
         "damage_bonus": null,
         "weapon": false,
-        "description": "espada curta",
+        "description": "Espada curta",
         "damage_description": "1d6",
         "damage": "1d6"
       },
@@ -165,7 +165,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!okDCny1WUjxPfSs8.tW2VS6zzPCHVob5R"
+      "_key": "!actors.items!okDCny1WUjxPfSs8.JhO1CciqLrXpVZpF"
     }
   ],
   "effects": [],

@@ -23,7 +23,7 @@
     "mvv": "",
     "mvo": "",
     "dv": "2",
-    "dv_bonus": "+0",
+    "dv_bonus": "",
     "ca": "13",
     "jp": "7",
     "mo": "7",
@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "SpM2v3SSNonKqZOO",
-      "name": "1 × garra +2 (1d6+2)",
+      "_id": "EXb2gzgF03TtwWVo",
+      "name": "1 × Garra +2 (1d6+2)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,7 +109,7 @@
         "ba": 2,
         "damage_bonus": 2,
         "weapon": false,
-        "description": "garra",
+        "description": "Garra",
         "damage_description": "1d6+2",
         "damage": "1d6"
       },
@@ -131,11 +131,11 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!M9CfAJccLoYLheIp.SpM2v3SSNonKqZOO"
+      "_key": "!actors.items!M9CfAJccLoYLheIp.EXb2gzgF03TtwWVo"
     },
     {
-      "_id": "sqscz6sZZvRldSaw",
-      "name": "1 × mordida +2 (1d4+1 + infecção)",
+      "_id": "tvjwf0DJzHxE0510",
+      "name": "1 × Mordida +2 (1d4+1 + Infecção)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -143,8 +143,8 @@
         "ba": 2,
         "damage_bonus": 1,
         "weapon": false,
-        "description": "mordida",
-        "damage_description": "1d4+1 + infecção",
+        "description": "Mordida",
+        "damage_description": "1d4+1 + Infecção",
         "damage": "1d4"
       },
       "effects": [],
@@ -165,7 +165,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!M9CfAJccLoYLheIp.sqscz6sZZvRldSaw"
+      "_key": "!actors.items!M9CfAJccLoYLheIp.tvjwf0DJzHxE0510"
     }
   ],
   "effects": [],

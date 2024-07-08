@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "T38TiINWX5u2fiKc",
-      "name": "1 × toque +6 (1d12 + doença)",
+      "_id": "Ia050GVX6L59IP9q",
+      "name": "1 × Toque +6 (1d12 + Doença)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,8 +109,8 @@
         "ba": 6,
         "damage_bonus": null,
         "weapon": false,
-        "description": "toque",
-        "damage_description": "1d12 + doença",
+        "description": "Toque",
+        "damage_description": "1d12 + Doença",
         "damage": "1d12"
       },
       "effects": [],
@@ -131,7 +131,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!aipHdvALmxIeGvAE.T38TiINWX5u2fiKc"
+      "_key": "!actors.items!aipHdvALmxIeGvAE.Ia050GVX6L59IP9q"
     }
   ],
   "effects": [],

@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "w2ZptelhHOeUcHM2",
-      "name": "1 × mordida +11 (3d8)",
+      "_id": "U8cObqHUCcChkaGt",
+      "name": "1 × Mordida +11 (3d8)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,7 +109,7 @@
         "ba": 11,
         "damage_bonus": null,
         "weapon": false,
-        "description": "mordida",
+        "description": "Mordida",
         "damage_description": "3d8",
         "damage": "3d8"
       },
@@ -131,7 +131,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!uN7aX0KWUXccpyM4.w2ZptelhHOeUcHM2"
+      "_key": "!actors.items!uN7aX0KWUXccpyM4.U8cObqHUCcChkaGt"
     }
   ],
   "effects": [],

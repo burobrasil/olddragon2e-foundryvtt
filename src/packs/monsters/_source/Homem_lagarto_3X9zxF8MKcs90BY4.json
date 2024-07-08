@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "ecdjnDwyVWNiS7er",
-      "name": "1 × arma +2 (arma)",
+      "_id": "LOy3ATFQcNYZuTda",
+      "name": "1 × Arma +2 (Arma)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,8 +109,8 @@
         "ba": 2,
         "damage_bonus": null,
         "weapon": true,
-        "description": "arma",
-        "damage_description": "arma",
+        "description": "Arma",
+        "damage_description": "Arma",
         "damage": null
       },
       "effects": [],
@@ -131,11 +131,11 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!3X9zxF8MKcs90BY4.ecdjnDwyVWNiS7er"
+      "_key": "!actors.items!3X9zxF8MKcs90BY4.LOy3ATFQcNYZuTda"
     },
     {
-      "_id": "99Rn2EXr4BZgTdEJ",
-      "name": "1 × garra +2 (1d4)",
+      "_id": "fAImrnOxcOz4SaRh",
+      "name": "1 × Garra +2 (1d4)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -143,7 +143,7 @@
         "ba": 2,
         "damage_bonus": null,
         "weapon": false,
-        "description": "garra",
+        "description": "Garra",
         "damage_description": "1d4",
         "damage": "1d4"
       },
@@ -165,7 +165,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!3X9zxF8MKcs90BY4.99Rn2EXr4BZgTdEJ"
+      "_key": "!actors.items!3X9zxF8MKcs90BY4.fAImrnOxcOz4SaRh"
     }
   ],
   "effects": [],

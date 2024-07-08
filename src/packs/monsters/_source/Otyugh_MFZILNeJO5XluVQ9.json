@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "nPE0fv3diKhP6LS7",
-      "name": "1 × mordida +7 (1d4+1)",
+      "_id": "R34pRhpy6MMH01TD",
+      "name": "1 × Mordida +7 (1d4+1)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,7 +109,7 @@
         "ba": 7,
         "damage_bonus": 1,
         "weapon": false,
-        "description": "mordida",
+        "description": "Mordida",
         "damage_description": "1d4+1",
         "damage": "1d4"
       },
@@ -131,7 +131,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!MFZILNeJO5XluVQ9.nPE0fv3diKhP6LS7"
+      "_key": "!actors.items!MFZILNeJO5XluVQ9.R34pRhpy6MMH01TD"
     },
     {
       "_id": "FAn6TVvXSTeEh4AC",

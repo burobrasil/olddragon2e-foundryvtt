@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "8qqgP6w0NDtaBk5E",
-      "name": "1 × martelo +3 (2d4+1)",
+      "_id": "LnzvBTmMy6KazrEw",
+      "name": "1 × Martelo +3 (2d4+1)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,7 +109,7 @@
         "ba": 3,
         "damage_bonus": 1,
         "weapon": false,
-        "description": "martelo",
+        "description": "Martelo",
         "damage_description": "2d4+1",
         "damage": "2d4"
       },
@@ -131,7 +131,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!ANqgbBiFvbsCKdPe.8qqgP6w0NDtaBk5E"
+      "_key": "!actors.items!ANqgbBiFvbsCKdPe.LnzvBTmMy6KazrEw"
     }
   ],
   "effects": [],

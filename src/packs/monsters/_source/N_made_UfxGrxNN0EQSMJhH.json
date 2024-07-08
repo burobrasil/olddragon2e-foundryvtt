@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "x8SgeuFmeLGTNQO2",
-      "name": "1 × arma improvisada (1d4)",
+      "_id": "lZSh6nv0GY7vN22r",
+      "name": "1 × Arma improvisada (1d4)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,7 +109,7 @@
         "ba": 0,
         "damage_bonus": null,
         "weapon": false,
-        "description": "arma improvisada",
+        "description": "Arma improvisada",
         "damage_description": "1d4",
         "damage": "1d4"
       },
@@ -131,7 +131,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!UfxGrxNN0EQSMJhH.x8SgeuFmeLGTNQO2"
+      "_key": "!actors.items!UfxGrxNN0EQSMJhH.lZSh6nv0GY7vN22r"
     }
   ],
   "effects": [],

@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "DzKFWnmN8D0Bl5oH",
-      "name": "1 × cuspe +2 (cegueira)",
+      "_id": "neEjV4SiiqExDIl7",
+      "name": "1 × Cuspe +2 (Cegueira)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,8 +109,8 @@
         "ba": 2,
         "damage_bonus": null,
         "weapon": false,
-        "description": "cuspe",
-        "damage_description": "cegueira",
+        "description": "Cuspe",
+        "damage_description": "Cegueira",
         "damage": null
       },
       "effects": [],
@@ -131,11 +131,11 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!LY4Ud2EcQECNxdqz.DzKFWnmN8D0Bl5oH"
+      "_key": "!actors.items!LY4Ud2EcQECNxdqz.neEjV4SiiqExDIl7"
     },
     {
-      "_id": "X4I3B2BLPF59G4Ez",
-      "name": "1 × mordida +2 (1d2)",
+      "_id": "4Eh43rtJn46ktjKS",
+      "name": "1 × Mordida +2 (1d2)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -143,7 +143,7 @@
         "ba": 2,
         "damage_bonus": null,
         "weapon": false,
-        "description": "mordida",
+        "description": "Mordida",
         "damage_description": "1d2",
         "damage": "1d2"
       },
@@ -165,7 +165,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!LY4Ud2EcQECNxdqz.X4I3B2BLPF59G4Ez"
+      "_key": "!actors.items!LY4Ud2EcQECNxdqz.4Eh43rtJn46ktjKS"
     }
   ],
   "effects": [],

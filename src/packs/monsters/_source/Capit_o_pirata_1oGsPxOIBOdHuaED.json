@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "1EUwmxiGTfYu6Zdc",
-      "name": "1 × adaga +6 (1d4+3)",
+      "_id": "VWQm4kX7Aolw8SUj",
+      "name": "1 × Adaga +6 (1d4+3)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,7 +109,7 @@
         "ba": 6,
         "damage_bonus": 3,
         "weapon": false,
-        "description": "adaga",
+        "description": "Adaga",
         "damage_description": "1d4+3",
         "damage": "1d4"
       },
@@ -131,11 +131,11 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!1oGsPxOIBOdHuaED.1EUwmxiGTfYu6Zdc"
+      "_key": "!actors.items!1oGsPxOIBOdHuaED.VWQm4kX7Aolw8SUj"
     },
     {
-      "_id": "lhZpNmVVLnZr7QMP",
-      "name": "1 × besta +6 (1d6)",
+      "_id": "Dq8H6veaapDkuz9d",
+      "name": "1 × Besta +6 (1d6)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -143,7 +143,7 @@
         "ba": 6,
         "damage_bonus": null,
         "weapon": false,
-        "description": "besta",
+        "description": "Besta",
         "damage_description": "1d6",
         "damage": "1d6"
       },
@@ -165,11 +165,11 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!1oGsPxOIBOdHuaED.lhZpNmVVLnZr7QMP"
+      "_key": "!actors.items!1oGsPxOIBOdHuaED.Dq8H6veaapDkuz9d"
     },
     {
-      "_id": "JxORVBO4y64WoocO",
-      "name": "1 × cimitarra +6 (1d6+3)",
+      "_id": "jI9nQh34veLf5e1k",
+      "name": "1 × Cimitarra +6 (1d6+3)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -177,7 +177,7 @@
         "ba": 6,
         "damage_bonus": 3,
         "weapon": false,
-        "description": "cimitarra",
+        "description": "Cimitarra",
         "damage_description": "1d6+3",
         "damage": "1d6"
       },
@@ -199,7 +199,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!1oGsPxOIBOdHuaED.JxORVBO4y64WoocO"
+      "_key": "!actors.items!1oGsPxOIBOdHuaED.jI9nQh34veLf5e1k"
     }
   ],
   "effects": [],

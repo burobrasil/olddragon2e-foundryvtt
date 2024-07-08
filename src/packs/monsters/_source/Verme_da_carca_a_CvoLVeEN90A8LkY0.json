@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "IeszBm4p24hc3o80",
-      "name": "1 × mordida +4 (2d6)",
+      "_id": "UOHRWzro6thEsRTI",
+      "name": "1 × Mordida +4 (2d6)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,7 +109,7 @@
         "ba": 4,
         "damage_bonus": null,
         "weapon": false,
-        "description": "mordida",
+        "description": "Mordida",
         "damage_description": "2d6",
         "damage": "2d6"
       },
@@ -131,11 +131,11 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!CvoLVeEN90A8LkY0.IeszBm4p24hc3o80"
+      "_key": "!actors.items!CvoLVeEN90A8LkY0.UOHRWzro6thEsRTI"
     },
     {
-      "_id": "OwvunlODuBvmSJ8w",
-      "name": "8 × tentáculos +4 (paralisia)",
+      "_id": "HYisqlC3E8lNBSH0",
+      "name": "8 × Tentáculos +4 (Paralisia)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -143,8 +143,8 @@
         "ba": 4,
         "damage_bonus": null,
         "weapon": false,
-        "description": "tentáculos",
-        "damage_description": "paralisia",
+        "description": "Tentáculos",
+        "damage_description": "Paralisia",
         "damage": null
       },
       "effects": [],
@@ -165,7 +165,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!CvoLVeEN90A8LkY0.OwvunlODuBvmSJ8w"
+      "_key": "!actors.items!CvoLVeEN90A8LkY0.HYisqlC3E8lNBSH0"
     }
   ],
   "effects": [],

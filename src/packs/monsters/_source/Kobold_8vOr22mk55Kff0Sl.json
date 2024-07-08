@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "Eg4TuP7eiSyqAqQQ",
-      "name": "1 × arma (arma)",
+      "_id": "3SmCcD5lG0T042Tf",
+      "name": "1 × Arma (Arma)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,8 +109,8 @@
         "ba": 0,
         "damage_bonus": null,
         "weapon": true,
-        "description": "arma",
-        "damage_description": "arma",
+        "description": "Arma",
+        "damage_description": "Arma",
         "damage": null
       },
       "effects": [],
@@ -131,11 +131,11 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!8vOr22mk55Kff0Sl.Eg4TuP7eiSyqAqQQ"
+      "_key": "!actors.items!8vOr22mk55Kff0Sl.3SmCcD5lG0T042Tf"
     },
     {
-      "_id": "v0mT8TqILt3dy5OE",
-      "name": "2 × mordidas +1 (1d4)",
+      "_id": "uiqtDJg8zgaiLeZS",
+      "name": "2 × Mordidas +1 (1d4)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -143,7 +143,7 @@
         "ba": 1,
         "damage_bonus": null,
         "weapon": false,
-        "description": "mordidas",
+        "description": "Mordidas",
         "damage_description": "1d4",
         "damage": "1d4"
       },
@@ -165,7 +165,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!8vOr22mk55Kff0Sl.v0mT8TqILt3dy5OE"
+      "_key": "!actors.items!8vOr22mk55Kff0Sl.uiqtDJg8zgaiLeZS"
     }
   ],
   "effects": [],

@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "u691UmwKXIZiELRl",
-      "name": "1 × picada +4 (2d6 + veneno)",
+      "_id": "ypLBfTvAojsiXc4Y",
+      "name": "1 × Picada +4 (2d6 + Veneno)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,8 +109,8 @@
         "ba": 4,
         "damage_bonus": null,
         "weapon": false,
-        "description": "picada",
-        "damage_description": "2d6 + veneno",
+        "description": "Picada",
+        "damage_description": "2d6 + Veneno",
         "damage": "2d6"
       },
       "effects": [],
@@ -131,7 +131,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!tc4KI54e5APe8ZPZ.u691UmwKXIZiELRl"
+      "_key": "!actors.items!tc4KI54e5APe8ZPZ.ypLBfTvAojsiXc4Y"
     }
   ],
   "effects": [],

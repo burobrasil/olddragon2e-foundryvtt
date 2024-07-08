@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "t8pmcgjjmkJnrlh5",
-      "name": "1 × mordida +11 (5d4)",
+      "_id": "iBaL4YdOyy0PP9zN",
+      "name": "1 × Mordida +11 (5d4)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,7 +109,7 @@
         "ba": 11,
         "damage_bonus": null,
         "weapon": false,
-        "description": "mordida",
+        "description": "Mordida",
         "damage_description": "5d4",
         "damage": "5d4"
       },
@@ -131,11 +131,11 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!MZE1LivskkHNNXqa.t8pmcgjjmkJnrlh5"
+      "_key": "!actors.items!MZE1LivskkHNNXqa.iBaL4YdOyy0PP9zN"
     },
     {
-      "_id": "rvJ37JDCnTY5qlBO",
-      "name": "1 × tentáculo +11 (1d4 + veneno)",
+      "_id": "o9AbnN1Vr3KRSNAq",
+      "name": "1 × Tentáculo +11 (1d4 + Veneno)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -143,8 +143,8 @@
         "ba": 11,
         "damage_bonus": null,
         "weapon": false,
-        "description": "tentáculo",
-        "damage_description": "1d4 + veneno",
+        "description": "Tentáculo",
+        "damage_description": "1d4 + Veneno",
         "damage": "1d4"
       },
       "effects": [],
@@ -165,7 +165,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!MZE1LivskkHNNXqa.rvJ37JDCnTY5qlBO"
+      "_key": "!actors.items!MZE1LivskkHNNXqa.o9AbnN1Vr3KRSNAq"
     }
   ],
   "effects": [],

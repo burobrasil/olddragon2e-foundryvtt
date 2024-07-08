@@ -100,17 +100,17 @@
   },
   "items": [
     {
-      "_id": "INaybZzajXYaKCEV",
-      "name": "1 × arma +1 (arma +0)",
+      "_id": "RvrIFtW75asvwiqW",
+      "name": "1 × Arma +1 (Arma)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
         "times": 1,
         "ba": 1,
-        "damage_bonus": 0,
+        "damage_bonus": null,
         "weapon": true,
-        "description": "arma",
-        "damage_description": "arma +0",
+        "description": "Arma",
+        "damage_description": "Arma",
         "damage": null
       },
       "effects": [],
@@ -131,7 +131,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!MRKD6dWM21wDqfe2.INaybZzajXYaKCEV"
+      "_key": "!actors.items!MRKD6dWM21wDqfe2.RvrIFtW75asvwiqW"
     }
   ],
   "effects": [],

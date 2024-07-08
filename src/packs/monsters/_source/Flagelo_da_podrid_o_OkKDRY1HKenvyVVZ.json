@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "WSNMmYmexj66CNQA",
-      "name": "1 × especial (especial)",
+      "_id": "74nL181YWi3e9xlJ",
+      "name": "1 × Especial (Especial)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,8 +109,8 @@
         "ba": 0,
         "damage_bonus": null,
         "weapon": false,
-        "description": "especial",
-        "damage_description": "especial",
+        "description": "Especial",
+        "damage_description": "Especial",
         "damage": null
       },
       "effects": [],
@@ -131,7 +131,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!OkKDRY1HKenvyVVZ.WSNMmYmexj66CNQA"
+      "_key": "!actors.items!OkKDRY1HKenvyVVZ.74nL181YWi3e9xlJ"
     }
   ],
   "effects": [],

@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "vYfQekMwClVYA0rl",
-      "name": "1 × cauda +10 (3d8+10)",
+      "_id": "1VJXOwZaAohPG4Xd",
+      "name": "1 × Cauda +10 (3d8+10)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,7 +109,7 @@
         "ba": 10,
         "damage_bonus": 10,
         "weapon": false,
-        "description": "cauda",
+        "description": "Cauda",
         "damage_description": "3d8+10",
         "damage": "3d8"
       },
@@ -131,11 +131,11 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!mZRBhxubfvIEFiau.vYfQekMwClVYA0rl"
+      "_key": "!actors.items!mZRBhxubfvIEFiau.1VJXOwZaAohPG4Xd"
     },
     {
-      "_id": "ncULLeLBkMxbY8Tl",
-      "name": "2 × socos +10 (2d10+5)",
+      "_id": "GFc4dvGOMQhQ4GEP",
+      "name": "2 × Socos +10 (2d10+5)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -143,7 +143,7 @@
         "ba": 10,
         "damage_bonus": 5,
         "weapon": false,
-        "description": "socos",
+        "description": "Socos",
         "damage_description": "2d10+5",
         "damage": "2d10"
       },
@@ -165,7 +165,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!mZRBhxubfvIEFiau.ncULLeLBkMxbY8Tl"
+      "_key": "!actors.items!mZRBhxubfvIEFiau.GFc4dvGOMQhQ4GEP"
     }
   ],
   "effects": [],

@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "fZkxILRjHvOql6Yw",
-      "name": "1 × mordida +3 (1d8 + veneno)",
+      "_id": "LxEhdTIUn170rS1F",
+      "name": "1 × Mordida +3 (1d8 + Veneno)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,8 +109,8 @@
         "ba": 3,
         "damage_bonus": null,
         "weapon": false,
-        "description": "mordida",
-        "damage_description": "1d8 + veneno",
+        "description": "Mordida",
+        "damage_description": "1d8 + Veneno",
         "damage": "1d8"
       },
       "effects": [],
@@ -131,7 +131,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!GZPloEigW2XRuCPP.fZkxILRjHvOql6Yw"
+      "_key": "!actors.items!GZPloEigW2XRuCPP.LxEhdTIUn170rS1F"
     }
   ],
   "effects": [],

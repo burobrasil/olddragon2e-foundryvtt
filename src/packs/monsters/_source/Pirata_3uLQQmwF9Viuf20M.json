@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "MiHwxhn2CxpJJ3T0",
-      "name": "1 × adaga +1 (1d4+1)",
+      "_id": "6dUtzLxxnpV6By01",
+      "name": "1 × Adaga +1 (1d4+1)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,7 +109,7 @@
         "ba": 1,
         "damage_bonus": 1,
         "weapon": false,
-        "description": "adaga",
+        "description": "Adaga",
         "damage_description": "1d4+1",
         "damage": "1d4"
       },
@@ -131,11 +131,11 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!3uLQQmwF9Viuf20M.MiHwxhn2CxpJJ3T0"
+      "_key": "!actors.items!3uLQQmwF9Viuf20M.6dUtzLxxnpV6By01"
     },
     {
-      "_id": "cPMs0dDcQZZeK9k3",
-      "name": "1 × espada curta +1 (1d6)",
+      "_id": "CqO6U8J4RHzkO6sl",
+      "name": "1 × Espada curta +1 (1d6)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -143,7 +143,7 @@
         "ba": 1,
         "damage_bonus": null,
         "weapon": false,
-        "description": "espada curta",
+        "description": "Espada curta",
         "damage_description": "1d6",
         "damage": "1d6"
       },
@@ -165,7 +165,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!3uLQQmwF9Viuf20M.cPMs0dDcQZZeK9k3"
+      "_key": "!actors.items!3uLQQmwF9Viuf20M.CqO6U8J4RHzkO6sl"
     }
   ],
   "effects": [],

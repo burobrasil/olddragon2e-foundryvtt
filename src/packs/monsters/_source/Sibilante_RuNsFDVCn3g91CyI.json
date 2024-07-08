@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "FrLjRw4wWxNISQWo",
-      "name": "1 × espada curta +3 (1d6+1)",
+      "_id": "adcgdqqpN9UQTghc",
+      "name": "1 × Espada curta +3 (1d6+1)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,7 +109,7 @@
         "ba": 3,
         "damage_bonus": 1,
         "weapon": false,
-        "description": "espada curta",
+        "description": "Espada curta",
         "damage_description": "1d6+1",
         "damage": "1d6"
       },
@@ -131,11 +131,11 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!RuNsFDVCn3g91CyI.FrLjRw4wWxNISQWo"
+      "_key": "!actors.items!RuNsFDVCn3g91CyI.adcgdqqpN9UQTghc"
     },
     {
-      "_id": "EB0yanPIxUf4Cv1O",
-      "name": "1 × mordida +3 (1d4 + veneno)",
+      "_id": "DC4TT2Izxoo2aNf9",
+      "name": "1 × Mordida +3 (1d4 + Veneno)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -143,8 +143,8 @@
         "ba": 3,
         "damage_bonus": null,
         "weapon": false,
-        "description": "mordida",
-        "damage_description": "1d4 + veneno",
+        "description": "Mordida",
+        "damage_description": "1d4 + Veneno",
         "damage": "1d4"
       },
       "effects": [],
@@ -165,7 +165,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!RuNsFDVCn3g91CyI.EB0yanPIxUf4Cv1O"
+      "_key": "!actors.items!RuNsFDVCn3g91CyI.DC4TT2Izxoo2aNf9"
     }
   ],
   "effects": [],

@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "JuILGKI8ExlZJ5BD",
-      "name": "2 × garras +8 (1d8)",
+      "_id": "IYtG0oiptQMV6bMi",
+      "name": "2 × Garras +8 (1d8)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,7 +109,7 @@
         "ba": 8,
         "damage_bonus": null,
         "weapon": false,
-        "description": "garras",
+        "description": "Garras",
         "damage_description": "1d8",
         "damage": "1d8"
       },
@@ -131,7 +131,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!aEERGmmMNieYD7pX.JuILGKI8ExlZJ5BD"
+      "_key": "!actors.items!aEERGmmMNieYD7pX.IYtG0oiptQMV6bMi"
     }
   ],
   "effects": [],

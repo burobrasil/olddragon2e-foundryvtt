@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "vIv5y6reMXaX1Czh",
-      "name": "1 × baforada +3 (1d10)",
+      "_id": "2XuEBDBhAZ3YDDgr",
+      "name": "1 × Baforada +3 (1d10)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,7 +109,7 @@
         "ba": 3,
         "damage_bonus": null,
         "weapon": false,
-        "description": "baforada",
+        "description": "Baforada",
         "damage_description": "1d10",
         "damage": "1d10"
       },
@@ -131,11 +131,11 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!4oxYIAAtBvuYG8Mn.vIv5y6reMXaX1Czh"
+      "_key": "!actors.items!4oxYIAAtBvuYG8Mn.2XuEBDBhAZ3YDDgr"
     },
     {
-      "_id": "VhAqDhcZoUhRxfdd",
-      "name": "2 × mordidas +5 (1d6+2)",
+      "_id": "kS3GRuprnJWajZ8q",
+      "name": "2 × Mordidas +5 (1d6+2)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -143,7 +143,7 @@
         "ba": 5,
         "damage_bonus": 2,
         "weapon": false,
-        "description": "mordidas",
+        "description": "Mordidas",
         "damage_description": "1d6+2",
         "damage": "1d6"
       },
@@ -165,7 +165,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!4oxYIAAtBvuYG8Mn.VhAqDhcZoUhRxfdd"
+      "_key": "!actors.items!4oxYIAAtBvuYG8Mn.kS3GRuprnJWajZ8q"
     }
   ],
   "effects": [],

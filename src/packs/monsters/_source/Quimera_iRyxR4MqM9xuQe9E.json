@@ -100,8 +100,8 @@
   },
   "items": [
     {
-      "_id": "OWFGRB3P4MwAOHaa",
-      "name": "1 × chifre +7 (1d4)",
+      "_id": "VMcFNNzppGuic6sf",
+      "name": "1 × Chifre +7 (1d4)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -109,7 +109,7 @@
         "ba": 7,
         "damage_bonus": null,
         "weapon": false,
-        "description": "chifre",
+        "description": "Chifre",
         "damage_description": "1d4",
         "damage": "1d4"
       },
@@ -131,11 +131,11 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!iRyxR4MqM9xuQe9E.OWFGRB3P4MwAOHaa"
+      "_key": "!actors.items!iRyxR4MqM9xuQe9E.VMcFNNzppGuic6sf"
     },
     {
-      "_id": "6pdYMyxwC3Iskx3d",
-      "name": "2 × garras +7 (1d6)",
+      "_id": "qLvcwlDnC4Q1D0zH",
+      "name": "2 × Garras +7 (1d6)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -143,7 +143,7 @@
         "ba": 7,
         "damage_bonus": null,
         "weapon": false,
-        "description": "garras",
+        "description": "Garras",
         "damage_description": "1d6",
         "damage": "1d6"
       },
@@ -165,11 +165,11 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!iRyxR4MqM9xuQe9E.6pdYMyxwC3Iskx3d"
+      "_key": "!actors.items!iRyxR4MqM9xuQe9E.qLvcwlDnC4Q1D0zH"
     },
     {
-      "_id": "nduUz33i5tpchSY4",
-      "name": "3 × mordidas +9 (2d4)",
+      "_id": "S6GPj4sKN3o2M8Co",
+      "name": "3 × Mordidas +9 (2d4)",
       "type": "monster_attack",
       "img": "icons/svg/item-bag.svg",
       "system": {
@@ -177,7 +177,7 @@
         "ba": 9,
         "damage_bonus": null,
         "weapon": false,
-        "description": "mordidas",
+        "description": "Mordidas",
         "damage_description": "2d4",
         "damage": "2d4"
       },
@@ -199,7 +199,7 @@
         "modifiedTime": 1702782000000,
         "lastModifiedBy": "enzpVKIAX52oTyPe"
       },
-      "_key": "!actors.items!iRyxR4MqM9xuQe9E.nduUz33i5tpchSY4"
+      "_key": "!actors.items!iRyxR4MqM9xuQe9E.S6GPj4sKN3o2M8Co"
     }
   ],
   "effects": [],
