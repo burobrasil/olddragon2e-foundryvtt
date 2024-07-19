@@ -10,6 +10,7 @@
       padding: 0px;
       background-color: transparent;
       color: black;
+      border: none;
       .text-3xl;
       .font-bold;
     }
@@ -43,6 +44,14 @@
           .font-bold;
         }
 
+        h3 img[title='Estágio 1: Iniciante (estatísticas para 1º e 2º Níveis)'],
+        h3 img[title='Estágio 2: Heroico (estatísticas para 3º a 5º Níveis)'],
+        h3 img[title='Estágio 3: Avançado (estatísticas para 6º a 9º Níveis)'] {
+          display: inline;
+          width: 1rem;
+          height: 1rem;
+        }
+
         h4 {
           margin: 0px;
           margin-top: 1rem;
@@ -68,6 +77,19 @@
           margin-bottom: 0.5rem;
         }
 
+        p img[title='Estágio 1: Iniciante (estatísticas para 1º e 2º Níveis)'],
+        p img[title='Estágio 2: Heroico (estatísticas para 3º a 5º Níveis)'],
+        p img[title='Estágio 3: Avançado (estatísticas para 6º a 9º Níveis)'] {
+          display: inline-block;
+          width: 1rem;
+          height: 1rem;
+          vertical-align: middle;
+        }
+
+        p.inline {
+          display: inline;
+        }
+
         a {
           color: @carmesim-600;
           text-decoration: underline;
@@ -86,6 +108,19 @@
           i {
             display: none;
           }
+        }
+
+        .legend {
+          display: inline-flex;
+          justify-content: center;
+          align-items: center;
+          width: 1.25rem;
+          height: 1.25rem;
+          background-color: black;
+          color: white;
+          .text-sm;
+          .font-bold;
+          .font-sanssc;
         }
 
         ul {
@@ -159,6 +194,13 @@
           width: 5rem;
         }
 
+        img.inline-icon {
+          display: inline;
+          width: 1rem;
+          height: 1rem;
+          vertical-align: middle;
+        }
+
         .overflow-x-auto {
           overflow-x: auto;
         }
@@ -168,7 +210,8 @@
           margin-bottom: 1rem;
           margin-left: auto;
           margin-right: auto;
-          max-width: 400px;
+          min-width: 400px;
+          max-width: fit-content;
           border-top: none;
           background-color: transparent;
 
@@ -203,6 +246,13 @@
               padding-top: 0.25rem;
               padding-bottom: 0.25rem;
             }
+
+            tr th img[title='Estágio 1: Iniciante (estatísticas para 1º e 2º Níveis)'],
+            tr th img[title='Estágio 2: Heroico (estatísticas para 3º a 5º Níveis)'],
+            tr th img[title='Estágio 3: Avançado (estatísticas para 6º a 9º Níveis)'] {
+              width: 1rem;
+              height: 1rem;
+            }
           }
 
           tbody {
@@ -228,6 +278,57 @@
 
         table.odd-none tbody tr {
           background-color: transparent;
+        }
+
+        table.encounters {
+          margin-top: 1rem;
+          margin-bottom: 1rem;
+          margin-left: auto;
+          margin-right: auto;
+          min-width: fit-content;
+          max-width: fit-content;
+
+          thead {
+            border-bottom-width: 1px;
+            border-color: black;
+          }
+
+          thead tr th.inline-block {
+            display: inline-block;
+          }
+
+          thead tr th.inline {
+            display: inline;
+          }
+
+          thead tr th:first-child {
+            background-color: black;
+            color: white;
+          }
+
+          thead tr th:last-child {
+            text-align: left;
+          }
+
+          tbody {
+            border-bottom-width: 1px;
+            border-color: black;
+          }
+
+          tbody tr td:first-child {
+            background-color: @cinza-300;
+          }
+
+          tbody tr td img[title='Estágio 1: Iniciante (estatísticas para 1º e 2º Níveis)'],
+          tbody tr td img[title='Estágio 2: Heroico (estatísticas para 3º a 5º Níveis)'],
+          tbody tr td img[title='Estágio 3: Avançado (estatísticas para 6º a 9º Níveis)'] {
+            width: 1rem;
+            height: 1rem;
+          }
+
+          tbody tr:nth-child(odd) {
+            background-color: transparent;
+          }
         }
 
         blockquote {
