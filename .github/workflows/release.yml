@@ -6,7 +6,7 @@ on:
 
 env:
   package_type: system
-  node_version: 22
+  node_version: 20
   fvtt_minimum: 11
   fvtt_verified: 12
   fvtt_dry_run: false
