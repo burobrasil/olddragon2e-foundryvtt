@@ -1,0 +1,52 @@
+.class-ability-tab-mechanics {
+  .mechanics {
+    margin-top: 0.5rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+
+    .level {
+      display: flex;
+      flex-direction: row;
+      gap: 0.5rem;
+      align-items: center;
+
+      input {
+        width: 26px;
+        text-align: center;
+      }
+    }
+
+    .daily-uses {
+      display: flex;
+      flex-direction: column;
+      gap: 0.1rem;
+
+      .daily-uses-loop {
+        display: flex;
+        flex-direction: column;
+        gap: 0.5rem;
+
+        .on-level {
+          padding: 0.25rem;
+          display: flex;
+          flex-direction: row;
+          align-items: center;
+          gap: 0.25rem;
+          width: fit-content;
+          border: 1px solid @cinza-600;
+          border-radius: 0.25rem;
+
+          label {
+            width: 60px;
+          }
+
+          input {
+            width: 26px;
+            text-align: center;
+          }
+        }
+      }
+    }
+  }
+}

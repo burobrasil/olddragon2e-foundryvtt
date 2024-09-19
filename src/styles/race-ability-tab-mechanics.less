@@ -1,0 +1,56 @@
+.race-ability-tab-mechanics {
+  .mechanics {
+    margin-top: 0.5rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+
+    .xp,
+    .rogue-talent {
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+      align-items: center;
+
+      input {
+        width: 40px;
+        text-align: center;
+      }
+    }
+
+    .jp {
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+
+      .jp-values {
+        display: flex;
+        flex-direction: column;
+        gap: 0.25rem;
+
+        .jp-value {
+          display: flex;
+          flex-direction: row;
+          justify-content: end;
+          align-items: center;
+          gap: 0.25rem;
+
+          input[type='checkbox'] {
+            margin: 3px 0;
+          }
+        }
+      }
+    }
+
+    .checkbox {
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      gap: 0.25rem;
+
+      input[type='checkbox'] {
+        margin: 3px 0;
+      }
+    }
+  }
+}

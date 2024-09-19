@@ -45,8 +45,7 @@ export class OD2EquipmentDataModel extends OD2ItemDataModel {
     let total_weight = 0;
 
     if (weight_in_grams > 0) {
-      const weight_in_kilos = weight_in_grams / 1000;
-      total_weight = Math.floor(weight_in_kilos * quantity);
+      total_weight = (weight_in_grams * quantity) / 1000;
     }
 
     if (weight_in_load > 0) {

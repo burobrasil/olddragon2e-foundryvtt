@@ -1,0 +1,12 @@
+<div class="class-tab-abilities">
+    <ol class="item-list">
+        {{#each class_abilities as |class_ability|}}
+        <li class="item" data-item-uuid="{{class_ability.uuid}}">
+            {{> "systems/olddragon2e/templates/partials/cards/class_ability-card.hbs" class_ability}}
+        </li>
+        {{/each}}
+        {{#unless class_abilities}}
+        <p class="text-center">As Habilidades de Classe devem ser adicionadas aqui.</p>
+        {{/unless}}
+    </ol>
+</div>

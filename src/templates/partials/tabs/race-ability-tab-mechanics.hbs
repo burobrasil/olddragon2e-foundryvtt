@@ -1,0 +1,40 @@
+<div class="race-ability-tab-mechanics">
+    {{!-- Características --}}
+    <div class="mechanics">
+        {{!-- % de Bônus na XP --}}
+        <div class="xp">
+            <label class="font-bold">{{localize "olddragon2e.race_ability_xp"}}</label>
+            <input name="system.xp" type="text" value="{{system.xp}}" data-dtype="Number">
+        </div>
+        {{!-- Bônus de Jogada de Proteção --}}
+        <div class="jp">
+            <div><strong>{{localize "olddragon2e.race_ability_jp"}}</strong></div>
+            <div class="jp-values">
+                <div class="jp-value">
+                    <label class="font-bold">{{localize "olddragon2e.jpd_short"}}</label>
+                    <input name="system.jp.jpd" type="checkbox" {{checked system.jp.jpd}}>
+                </div>
+                <div class="jp-value">
+                    <label class="font-bold">{{localize "olddragon2e.jpc_short"}}</label>
+                    <input name="system.jp.jpc" type="checkbox" {{checked system.jp.jpc}}>
+                </div>
+                <div class="jp-value">
+                    <label class="font-bold">{{localize "olddragon2e.jps_short"}}</label>
+                    <input name="system.jp.jps" type="checkbox" {{checked system.jp.jps}}>
+                </div>
+            </div>
+        </div>
+        {{!-- Bônus no Talento de Ladrão --}}
+        <div class="rogue-talent">
+            <label class="font-bold">{{localize "olddragon2e.race_ability_rogue_talent"}}</label>
+            <select name="system.rogue_talent">
+                {{selectOptions config.rogue_talents selected=system.rogue_talent localize=true}}
+            </select>
+        </div>
+        {{!-- Bônus no Dano com Arco --}}
+        <div class="checkbox">
+            <label class="font-bold">{{localize "olddragon2e.race_ability_bonus_damage_archery"}}</label>
+            <input name="system.bonus_damage_archery" type="checkbox" {{checked system.bonus_damage_archery}}>
+        </div>
+    </div>
+</div>

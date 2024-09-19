@@ -1,5 +1,3 @@
-import { olddragon2e } from '../config';
-
 export const importActor = async (json) => {
   const data = _jsonToActorData(json);
 
@@ -22,32 +20,19 @@ const _jsonToActorData = (json) => {
       inteligencia: json.inteligencia,
       sabedoria: json.sabedoria,
       carisma: json.carisma,
-      ac: {
-        value: json.ac,
+      current_xp: json.experience_points,
+      economy: {
+        cp: json.money_cp,
+        sp: json.money_sp,
+        gp: json.money_gp,
       },
-      bac: json.bac,
-      bad: json.bad,
-      jpd: {
-        value: json.jpd,
-      },
-      jpc: {
-        value: json.jpc,
-      },
-      jps: {
-        value: json.jps,
-      },
-      current_movement: json.current_movement,
-      race: {
-        name: _getRace(json.race),
-      },
-      class: {
-        name: _getCharacterClass(json.class),
+      details: {
+        alignment: json.alignment,
+        languages: json.languages.join(', '),
+        appearance: json.appearance,
+        personality: json.personality,
+        background: json.background,
       },
     },
   };
 };
-
-const _getCharacterClass = (characterClass) =>
-  game.i18n.localize(olddragon2e.classes[characterClass.replaceAll('-', '_')]);
-
-const _getRace = (race) => game.i18n.localize(olddragon2e.races[race.replaceAll('-', '_')]);

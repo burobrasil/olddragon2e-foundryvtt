@@ -3,7 +3,7 @@ import { AttackRoll, UnarmedAttackRoll, DamageRoll, KnockoutRoll, StatRoll, JPRo
 
 export default class OD2CharacterSheet extends ActorSheet {
   static get defaultOptions() {
-    return mergeObject(super.defaultOptions, {
+    return foundry.utils.mergeObject(super.defaultOptions, {
       template: 'systems/olddragon2e/templates/sheets/character-sheet.hbs',
       classes: ['olddragon2e', 'sheet', 'character'],
       width: 820,
@@ -12,7 +12,7 @@ export default class OD2CharacterSheet extends ActorSheet {
     });
   }
 
-  getData() {
+  async getData() {
     const baseData = super.getData();
 
     let sheetData = {
@@ -20,6 +20,8 @@ export default class OD2CharacterSheet extends ActorSheet {
       editable: this.isEditable,
       actor: baseData.actor,
       system: baseData.actor.system,
+      race_abilities: baseData.actor.system.race_abilities,
+      class_abilities: baseData.actor.system.class_abilities,
       equipped_items: baseData.actor.system.equipped_items,
       attack: baseData.actor.system.attack_items,
       weapon: baseData.actor.system.weapon_items,
@@ -32,7 +34,83 @@ export default class OD2CharacterSheet extends ActorSheet {
       config: CONFIG.olddragon2e,
     };
 
+    this.render();
+
     return sheetData;
+  }
+
+  async _onDrop(event) {
+    const data = JSON.parse(event.dataTransfer.getData('text/plain'));
+    if (data.type === 'Folder') {
+      event.preventDefault();
+    } else if (data.type === 'Item') {
+      this._onDropItem(event, data);
+    }
+  }
+
+  async _onDropItem(event, data) {
+    const item = await Item.implementation.fromDropData(data);
+
+    if (item.type === 'race') {
+      if (this.actor.system.race !== null) {
+        ui.notifications.error('Este personagem já possui uma raça. Remova a raça atual antes de adicionar uma nova.');
+        return;
+      }
+    }
+
+    if (item.type === 'race_ability') {
+      ui.notifications.error(
+        'Habilidades de raça não podem ser adicionadas diretamente ao personagem. Adicione-as à raça do personagem.',
+      );
+      return;
+    }
+
+    if (item.type === 'class') {
+      if (this.actor.system.race === null) {
+        ui.notifications.error(
+          'Este personagem ainda não possui uma raça definida. Adicione a raça antes de adicionar a classe.',
+        );
+        return;
+      }
+      if (this.actor.system.class !== null) {
+        ui.notifications.error(
+          'Este personagem já possui uma classe. Remova a classe atual antes de adicionar uma nova.',
+        );
+        return;
+      }
+
+      const raceName = this.actor.system.race.name;
+      const className = item.name;
+      const raceClassRestrictions = {
+        'Anão Aventureiro': 'Anão',
+        'Elfo Aventureiro': 'Elfo',
+        'Halfling Aventureiro': 'Halfling',
+      };
+
+      if (raceClassRestrictions[className] && raceClassRestrictions[className] !== raceName) {
+        ui.notifications.error(
+          `Para vincular a classe ${className}, o personagem deve ser da raça: ${raceClassRestrictions[className]}.`,
+        );
+        return;
+      }
+    }
+
+    if (item.type === 'class_ability') {
+      ui.notifications.error(
+        'Habilidades de classe não podem ser adicionadas diretamente ao personagem. Adicione-as à classe do personagem.',
+      );
+      return;
+    }
+
+    await super._onDropItem(event, data);
+
+    if (item.type === 'race') {
+      await this.actor.system.syncRaceAbilities();
+    }
+
+    if (item.type === 'class') {
+      await this.actor.system.syncClassAbilities();
+    }
   }
 
   async activateListeners(html) {
@@ -42,6 +120,7 @@ export default class OD2CharacterSheet extends ActorSheet {
       html.find('.item-equip').click(this._onItemEquip.bind(this));
       html.find('.item-update-quantity').change(this._onItemUpdateQuantity.bind(this));
       html.find('.item-delete').click(this._onItemDelete.bind(this));
+      html.find('input[name="system.current_xp"]').change(this._onCurrentXpChange.bind(this));
     }
 
     // Owner-only Listeners
@@ -85,6 +164,17 @@ export default class OD2CharacterSheet extends ActorSheet {
     sabedoria: 'sabedoria',
     carisma: 'carisma',
   };
+
+  // Notificação de level up
+  _onCurrentXpChange(event) {
+    event.preventDefault();
+    const input = event.currentTarget;
+    const newValue = parseInt(input.value);
+
+    this.actor.update({ 'system.current_xp': newValue }).then(() => {
+      this.actor.system._levelUp();
+    });
+  }
 
   // Rolagem de ataque
   async _onAttackRoll(event) {
@@ -433,28 +523,104 @@ export default class OD2CharacterSheet extends ActorSheet {
     await item.update(updateObject);
   }
 
+  // Excluir habilidades de raça
+  async removeRaceAbilities() {
+    const raceAbilities = this.actor.items.filter((item) => item.type === 'race_ability');
+    for (const ability of raceAbilities) {
+      await this.actor.deleteEmbeddedDocuments('Item', [ability.id]);
+    }
+  }
+
+  // Excluir habilidades de classe
+  async removeClassAbilities() {
+    const classAbilities = this.actor.items.filter((item) => item.type === 'class_ability');
+    for (const ability of classAbilities) {
+      await this.actor.deleteEmbeddedDocuments('Item', [ability.id]);
+    }
+  }
+
   // Excluir item
   async _onItemDelete(event) {
     event.preventDefault();
     let element = event.currentTarget;
     let itemId = element.closest('.item').dataset.itemId;
     let itemName = this.actor.items.get(itemId).name;
+    let itemType = this.actor.items.get(itemId).type;
 
-    const confirmationTemplate = `
+    const standardTemplate = `
         <form>
             <div>
                 <center>
                     Excluir <strong>${itemName}</strong>?
                 </center>
-                <br>
             </div>
         </form>`;
+
+    const raceTemplate = `
+        <form>
+            <div>
+                <center>
+                    Excluir a raça <strong>${itemName}</strong>?
+                </center>
+                <br>
+                <center>
+                    Ao excluir a raça, todas as características e habilidades de raça serão removidas do personagem.
+                </center>
+            </div>
+        </form>`;
+
+    const classTemplate = `
+        <form>
+            <div>
+                <center>
+                    Excluir a classe <strong>${itemName}</strong>?
+                </center>
+                <br>
+                <center>
+                    Ao excluir a classe, todas as características e habilidades de classe serão removidas do personagem.
+                </center>
+            </div>
+        </form>`;
+
+    let confirmationTemplate;
+
+    if (itemType === 'race') {
+      const characterClass = this.actor.system.class;
+      const restrictedClasses = {
+        'Anão Aventureiro': 'Anão',
+        'Elfo Aventureiro': 'Elfo',
+        'Halfling Aventureiro': 'Halfling',
+      };
+
+      if (
+        characterClass &&
+        restrictedClasses[characterClass.name] &&
+        restrictedClasses[characterClass.name] === itemName
+      ) {
+        ui.notifications.error(
+          `Não é possível excluir a raça ${itemName} enquanto a classe ${characterClass.name} estiver vinculada ao personagem.`,
+        );
+        return;
+      }
+
+      confirmationTemplate = raceTemplate;
+    } else if (itemType === 'class') {
+      confirmationTemplate = classTemplate;
+    } else {
+      confirmationTemplate = standardTemplate;
+    }
 
     await Dialog.confirm({
       title: game.i18n.localize('olddragon2e.delete'),
       content: confirmationTemplate,
       yes: async () => {
         await this.actor.deleteEmbeddedDocuments('Item', [itemId]);
+        if (itemType === 'race') {
+          await this.actor.update({ 'system.jp_race_bonus': '' });
+          await this.removeRaceAbilities();
+        } else if (itemType === 'class') {
+          await this.removeClassAbilities();
+        }
       },
       no: () => {},
     });

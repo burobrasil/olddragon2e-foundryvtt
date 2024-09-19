@@ -9,16 +9,9 @@
     <div class="reputation">
         <label class="tab-title">{{localize "olddragon2e.reputation"}}</label>
         <div class="reputation-select">
-            {{#select system.details.reputation}}
             <select name="system.details.reputation">
-                <option value="0" selected="selected">0</option>
-                <option value="1">1</option>
-                <option value="2">2</option>
-                <option value="3">3</option>
-                <option value="4">4</option>
-                <option value="5">5</option>
+                {{selectOptions config.reputation selected=system.details.reputation localize=true}}
             </select>
-            {{/select}}
         </div>
     </div>
 

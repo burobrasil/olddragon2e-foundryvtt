@@ -1,0 +1,25 @@
+<div class="class-ability-tab-mechanics">
+    <p class="text-center">
+        <i class='fa-solid fa-triangle-exclamation'></i>
+        As mecânicas de habilidades de classe ainda estão em desenvolvimento.
+    </p>
+    <div class="mechanics">
+        {{!-- Nível --}}
+        <div class="level">
+            <label class="font-bold">{{localize "olddragon2e.level"}}</label>
+            <input name="system.level" type="text" value="{{system.level}}" data-dtype="Number">
+        </div>
+        {{!-- Usos Diários --}}
+        <div class="daily-uses">
+            <div class="font-bold">{{localize "olddragon2e.class_ability.daily_uses"}}:</div>
+            <div class="daily-uses-loop">
+                {{#each system.daily_uses as |level key|}}
+                    <div class="on-level">
+                        <label class="font-bold">{{@key}}º {{localize "olddragon2e.level"}}</label>
+                        <input name="system.daily_uses.{{key}}" type="text" value="{{level}}" data-dtype="Number">
+                    </div>
+                {{/each}}
+            </div>
+        </div>
+    </div>
+</div>

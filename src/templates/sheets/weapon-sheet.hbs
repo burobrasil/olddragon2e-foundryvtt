@@ -31,22 +31,14 @@
             <div class="weapon-type">
                 <label class="font-bold">{{localize "olddragon2e.weapon_type"}}</label>
                 <select name="system.type">
-                    {{#select system.type}}
-                    {{#each config.weapon_types as |name type|}}
-                    <option value="{{type}}">{{localize name}}</option>
-                    {{/each}}
-                    {{/select}}
+                    {{selectOptions config.weapon_types selected=system.type localize=true}}
                 </select>
             </div>
             {{!-- Tipo de dano --}}
             <div class="damage-type">
                 <label class="font-bold">{{localize "olddragon2e.damage_type"}}</label>
                 <select name="system.damage_type">
-                    {{#select system.damage_type}}
-                    {{#each config.damage_types as |name type|}}
-                    <option value="{{type}}">{{localize name}}</option>
-                    {{/each}}
-                    {{/select}}
+                    {{selectOptions config.damage_types selected=system.damage_type localize=true}}
                 </select>
             </div>
             {{!-- Dano --}}

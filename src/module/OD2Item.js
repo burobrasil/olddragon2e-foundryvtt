@@ -8,6 +8,8 @@ export default class OD2Item extends Item {
     container: 'systems/olddragon2e/templates/partials/cards/container-card.hbs',
     vehicle: 'systems/olddragon2e/templates/partials/cards/vehicle-card.hbs',
     spell: 'systems/olddragon2e/templates/chat/spell-chat.hbs',
+    race_ability: 'systems/olddragon2e/templates/partials/cards/race_ability-card.hbs',
+    class_ability: 'systems/olddragon2e/templates/partials/cards/class_ability-card.hbs',
     monster_attack: 'systems/olddragon2e/templates/partials/cards/monster_attack-card.hbs',
   };
 

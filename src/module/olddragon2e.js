@@ -19,6 +19,10 @@ import {
   OD2EquipmentDataModel,
   OD2ContainerDataModel,
   OD2SpellDataModel,
+  OD2RaceDataModel,
+  OD2RaceAbilityDataModel,
+  OD2ClassDataModel,
+  OD2ClassAbilityDataModel,
   OD2MonsterAttackDataModel,
 } from './items';
 
@@ -44,6 +48,10 @@ Hooks.once('init', async () => {
     container: OD2ContainerDataModel,
     vehicle: OD2EquipmentDataModel,
     spell: OD2SpellDataModel,
+    race: OD2RaceDataModel,
+    race_ability: OD2RaceAbilityDataModel,
+    class: OD2ClassDataModel,
+    class_ability: OD2ClassAbilityDataModel,
     monster_attack: OD2MonsterAttackDataModel,
   };
 
@@ -84,3 +92,7 @@ Hooks.once('ready', async () => {
 // Add any additional hooks if necessary
 Hooks.on('renderActorDirectory', renderActorDirectory);
 Hooks.on('renderChatLog', (_app, html) => Chat.addChatListeners(html));
+
+Hooks.on('updateItem', (item, data, options, userId) => {
+  console.log('olddragon2e | Hooks.on(updateItem)', item, data, options, userId);
+});

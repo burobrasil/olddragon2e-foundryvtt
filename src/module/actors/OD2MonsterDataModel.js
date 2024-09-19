@@ -19,10 +19,18 @@ export class OD2MonsterDataModel extends foundry.abstract.TypeDataModel {
         }),
       }),
       flavor: new fields.StringField(),
-      concept: new fields.StringField(),
-      size: new fields.StringField(),
-      habitat: new fields.StringField(),
-      alignment: new fields.StringField(),
+      concept: new fields.StringField({
+        initial: 'humanoide',
+      }),
+      size: new fields.StringField({
+        initial: 'medio',
+      }),
+      habitat: new fields.StringField({
+        initial: 'qualquer',
+      }),
+      alignment: new fields.StringField({
+        initial: 'neutro',
+      }),
       variant: new fields.BooleanField(),
       description: new fields.StringField(),
       described_attacks: new fields.StringField(),

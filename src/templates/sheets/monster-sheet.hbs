@@ -99,33 +99,23 @@
                 <div class="basic-info">
                     {{!-- Conceito --}}
                     <div class="concept">
-                        <input list="concepts" name="system.concept" type="text" value="{{system.concept}}">
-                        <datalist id="concepts">
-                            {{#each config.monster_concepts as |concept|}}
-                            <option>{{localize concept}}</option>
-                            {{/each}}
-                        </datalist>
+                        <select name="system.concept">
+                            {{selectOptions config.monster_concepts selected=system.concept localize=true}}
+                        </select>
                         <label class="font-bold">{{localize "olddragon2e.concept"}}</label>
                     </div>
                     {{!-- Tamanho --}}
                     <div class="size">
-                        {{#select system.size}}
                         <select name="system.size">
-                            {{#each config.monster_sizes as |size_label size|}}
-                            <option value="{{size}}">{{localize size_label}}</option>
-                            {{/each}}
+                            {{selectOptions config.monster_sizes selected=system.size localize=true}}
                         </select>
-                        {{/select}}
                         <label class="font-bold">{{localize "olddragon2e.size"}}</label>
                     </div>
                     {{!-- Habitat --}}
                     <div class="habitat">
-                        <input list="habitats" name="system.habitat" type="text" value="{{system.habitat}}">
-                        <datalist id="habitats">
-                            {{#each config.monster_habitats as |habitat|}}
-                            <option>{{localize habitat}}</option>
-                            {{/each}}
-                        </datalist>
+                        <select name="system.habitat">
+                            {{selectOptions config.monster_habitats selected=system.habitat localize=true}}
+                        </select>
                         <label class="font-bold">{{localize "olddragon2e.habitat"}}</label>
                     </div>
                 </div>
@@ -137,13 +127,9 @@
                     {{!-- Alinhamento --}}
                     <div class="alignment">
                         <label class="font-bold">{{localize "olddragon2e.alignment"}}</label>
-                        {{#select system.alignment}}
                         <select name="system.alignment">
-                            {{#each config.alignment as |alignment_label alignment|}}
-                            <option value="{{alignment}}">{{localize alignment_label}}</option>
-                            {{/each}}
+                            {{selectOptions config.alignment selected=system.alignment localize=true}}
                         </select>
-                        {{/select}}
                     </div>
                     {{!-- Movimento --}}
                     <div class="mv">

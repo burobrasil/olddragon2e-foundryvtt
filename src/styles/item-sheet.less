@@ -4,11 +4,38 @@
   cursor: not-allowed;
 }
 
+.race-tabs .item.active,
+.race-ability-tabs .item.active,
+.class-tabs .item.active,
+.class-ability-tabs .item.active {
+  color: @carmesim-600;
+  text-shadow: none;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
 .olddragon2e.sheet.item {
   form {
     display: flex;
     flex-direction: column;
     gap: 0.25rem;
+  }
+
+  .main {
+    margin-top: 0.5rem;
+
+    nav {
+      margin-bottom: 0.5rem;
+      display: flex;
+      justify-content: space-evenly;
+    }
+
+    a.item:hover {
+      color: @carmesim-600;
+      text-shadow: none;
+      text-decoration: underline;
+      text-underline-offset: 2px;
+    }
   }
 
   .spell-school {
@@ -133,7 +160,8 @@
         height: 100%;
         padding: 2.5px 5px;
         background-color: white;
-        border-radius: 0.25rem;
+        border-bottom-left-radius: 0.25rem;
+        border-bottom-right-radius: 0.25rem;
         cursor: text;
       }
     }

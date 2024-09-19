@@ -1,7 +1,8 @@
 export async function preloadTemplates() {
   const templatePaths = [
     'systems/olddragon2e/templates/partials/tabs/character-tab-attacks.hbs',
-    'systems/olddragon2e/templates/partials/tabs/character-tab-skills.hbs',
+    'systems/olddragon2e/templates/partials/tabs/character-tab-race.hbs',
+    'systems/olddragon2e/templates/partials/tabs/character-tab-class.hbs',
     'systems/olddragon2e/templates/partials/tabs/character-tab-spells.hbs',
     'systems/olddragon2e/templates/partials/tabs/character-tab-equipment.hbs',
     'systems/olddragon2e/templates/partials/tabs/character-tab-details.hbs',
@@ -15,6 +16,18 @@ export async function preloadTemplates() {
     'systems/olddragon2e/templates/partials/cards/container-card.hbs',
     'systems/olddragon2e/templates/partials/cards/vehicle-card.hbs',
     'systems/olddragon2e/templates/partials/cards/spell-card.hbs',
+    'systems/olddragon2e/templates/partials/tabs/race-tab-about.hbs',
+    'systems/olddragon2e/templates/partials/tabs/race-tab-features.hbs',
+    'systems/olddragon2e/templates/partials/tabs/race-tab-abilities.hbs',
+    'systems/olddragon2e/templates/partials/cards/race_ability-card.hbs',
+    'systems/olddragon2e/templates/partials/tabs/race-ability-tab-about.hbs',
+    'systems/olddragon2e/templates/partials/tabs/race-ability-tab-mechanics.hbs',
+    'systems/olddragon2e/templates/partials/tabs/class-tab-about.hbs',
+    'systems/olddragon2e/templates/partials/tabs/class-tab-features.hbs',
+    'systems/olddragon2e/templates/partials/tabs/class-tab-abilities.hbs',
+    'systems/olddragon2e/templates/partials/cards/class_ability-card.hbs',
+    'systems/olddragon2e/templates/partials/tabs/class-ability-tab-about.hbs',
+    'systems/olddragon2e/templates/partials/tabs/class-ability-tab-mechanics.hbs',
     'systems/olddragon2e/templates/partials/cards/monster_attack-card.hbs',
   ];
 

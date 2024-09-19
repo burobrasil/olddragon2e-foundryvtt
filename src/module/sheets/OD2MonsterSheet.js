@@ -3,7 +3,7 @@ import { MonsterJPRoll, MonsterMORoll, MonsterDVRoll, MonsterAttackRoll, Monster
 
 export default class OD2MonsterSheet extends ActorSheet {
   static get defaultOptions() {
-    return mergeObject(super.defaultOptions, {
+    return foundry.utils.mergeObject(super.defaultOptions, {
       template: 'systems/olddragon2e/templates/sheets/monster-sheet.hbs',
       classes: ['olddragon2e', 'sheet', 'monster'],
       width: 600,
@@ -28,6 +28,7 @@ export default class OD2MonsterSheet extends ActorSheet {
 
   async activateListeners(html) {
     if (this.isEditable) {
+      html.find('.item-create').click(this._onItemCreate.bind(this));
       html.find('.item-edit').click(this._onItemEdit.bind(this));
       html.find('.item-delete').click(this._onItemDelete.bind(this));
     }
@@ -215,6 +216,25 @@ export default class OD2MonsterSheet extends ActorSheet {
         updateFormula();
       },
     });
+  }
+
+  // Criar item
+  _onItemCreate(event) {
+    event.preventDefault();
+    let element = event.currentTarget;
+    let itemType = element.dataset.type;
+    let itemName = '';
+
+    if (itemType === 'monster_attack') {
+      itemName = 'Novo Ataque de Monstro';
+    }
+
+    let itemData = {
+      name: itemName,
+      type: itemType,
+    };
+
+    return this.actor.createEmbeddedDocuments('Item', [itemData]);
   }
 
   // Editar item
