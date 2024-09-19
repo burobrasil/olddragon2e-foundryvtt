@@ -16,6 +16,11 @@
             <label class="font-bold">{{localize "olddragon2e.class_ability.equipment_restrictions.magic_items"}}</label>
             <textarea name="system.equipment_restrictions.magic_items" data-dtype="String" >{{system.equipment_restrictions.magic_items}}</textarea>
         </div>
+        {{!-- Restrições de Raça --}}
+        <div class="race-restrictions">
+            <label><strong>{{localize "olddragon2e.class_ability.race_restrictions"}}</strong> (Exemplo: Anão, Elfo, Halfling)</label>
+            <input name="system.restrictions.races" type="text" value="{{system.restrictions.races}}" data-dtype="Array">
+        </div>
         {{!-- Níveis --}}
         <div class="levels">
             {{#each system.levels as |level key|}}

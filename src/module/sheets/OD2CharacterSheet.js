@@ -80,16 +80,23 @@ export default class OD2CharacterSheet extends ActorSheet {
       }
 
       const raceName = this.actor.system.race.name;
-      const className = item.name;
-      const raceClassRestrictions = {
-        'Anão Aventureiro': 'Anão',
-        'Elfo Aventureiro': 'Elfo',
-        'Halfling Aventureiro': 'Halfling',
-      };
+      let classRestrictions = item.system.restrictions.races;
 
-      if (raceClassRestrictions[className] && raceClassRestrictions[className] !== raceName) {
+      // Dividir a string de raças em um array de raças individuais
+      if (classRestrictions.length > 0 && typeof classRestrictions[0] === 'string') {
+        classRestrictions = classRestrictions[0].split(',').map((race) => race.trim());
+      }
+
+      // Verificar se classRestrictions contém apenas uma string vazia e tratá-la como um array vazio
+      if (classRestrictions.length === 1 && classRestrictions[0] === '') {
+        classRestrictions = [];
+      }
+
+      if (classRestrictions.length > 0 && !classRestrictions.includes(raceName)) {
         ui.notifications.error(
-          `Para vincular a classe ${className}, o personagem deve ser da raça: ${raceClassRestrictions[className]}.`,
+          `Para vincular a classe ${
+            item.name
+          }, o personagem deve ser de uma das seguintes raças: ${classRestrictions.join(', ')}.`,
         );
         return;
       }
@@ -586,23 +593,15 @@ export default class OD2CharacterSheet extends ActorSheet {
 
     if (itemType === 'race') {
       const characterClass = this.actor.system.class;
-      const restrictedClasses = {
-        'Anão Aventureiro': 'Anão',
-        'Elfo Aventureiro': 'Elfo',
-        'Halfling Aventureiro': 'Halfling',
-      };
-
-      if (
-        characterClass &&
-        restrictedClasses[characterClass.name] &&
-        restrictedClasses[characterClass.name] === itemName
-      ) {
-        ui.notifications.error(
-          `Não é possível excluir a raça ${itemName} enquanto a classe ${characterClass.name} estiver vinculada ao personagem.`,
-        );
-        return;
+      if (characterClass) {
+        const classRestrictions = characterClass.system.restrictions.races;
+        if (classRestrictions.length > 0 && classRestrictions.includes(itemName)) {
+          ui.notifications.error(
+            `Não é possível excluir a raça ${itemName} enquanto a classe ${characterClass.name} estiver vinculada ao personagem.`,
+          );
+          return;
+        }
       }
-
       confirmationTemplate = raceTemplate;
     } else if (itemType === 'class') {
       confirmationTemplate = classTemplate;

@@ -143,6 +143,7 @@
         "armors": "Armaduras",
         "magic_items": "Itens Mágicos"
       },
+      "race_restrictions": "Restrições de Raça",
       "on_level": {
         "3": "3",
         "6": "6",
