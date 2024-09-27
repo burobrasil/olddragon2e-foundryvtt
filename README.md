@@ -33,11 +33,13 @@ Opcionalmente, com o FoundryVTT fechado, você pode baixar o arquivo `olddragon2
 
 ## Pendências
 
-O sistema `olddragon2e` para Foundry VTT está em desenvolvimento contínuo, ainda em versão _alpha_. Abaixo estão listadas as pendências (funcionalidades ainda não desenvolvidas) que gostaríamos de implementar. Se você tem conhecimentos técnicos, sinta-se convidado a contribuir com este sistema de código aberto.
+O sistema `olddragon2e` para Foundry VTT está em desenvolvimento contínuo, portanto alguns recursos ainda não estão disponíveis e podem apresentar falhas. Abaixo estão listadas as pendências (funcionalidades ainda não desenvolvidas) que gostaríamos de implementar. Se você tem conhecimentos técnicos, sinta-se convidado a contribuir com este sistema de código aberto.
 
+- Bônus nos pontos de experiência proveniente de Habilidades de Raça;
+- Bônus no dano com arcos proveniente de Habilidades de Raça;
+- Bônus em Talentos de Ladrão proveniente de Habilidades de Raça;
+- Habilidades de Classe não tiveram suas mecânicas implementadas. Apenas a descrição e a capacidade de uso diário dessas habilidades estão sendo exibidos;
 - Controle de uso de Magias;
-- Raças e Classes dinâmicas (xp, movimento, infravisão, habilidades);
-- Controle de uso de Habilidades de Classe;
 - Sistema de Iniciativa (Combat Encounter) padrão do LB1.
 
 ## Importação de personagens
@@ -46,7 +48,9 @@ O sistema permite importar personagens criados na plataforma [ODO](https://olddr
 
 Passo a passo: Na aba "Actors", clique em "Importar Personagem do ODO". Insira o link da ficha do personagem escolhido no [ODO](https://olddragon.com.br/) (utilizando o botão de "Compartilhar" da ficha, ou copiando a URL no browser). Por último, basta clicar em "Importar".
 
-Esta funcionalidade ainda será aprimorada. Por tanto, atualmente o personagem importado carrega apenas os seguintes dados: Nome; Raça; Classe; Nível; Movimento; Pontos de Vida; Atributos e Modificadores (Força, Destreza, Constituição, Inteligência, Sabedoria e Carisma).
+Atualmente os campos Raça e Classe ainda não estão sendo importados. Por tanto, é necessária a vinculação manual da Raça e Classe ao personagem.
+
+Esta funcionalidade ainda será aprimorada.
 
 ![Importação de personagem](./static/importacao-personagem.gif)
 
