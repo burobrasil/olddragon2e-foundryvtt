@@ -1,0 +1,77 @@
+.class-tab-features {
+  .features {
+    margin-top: 0.5rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+
+    .weapons,
+    .armors,
+    .magic-items {
+      textarea {
+        width: 100%;
+        padding: 5px;
+        background-color: white;
+        border: none;
+        border-radius: 0.25rem;
+        font-family: 'Alegreya', serif;
+        resize: none;
+      }
+    }
+
+    .race-restrictions {
+      margin-bottom: 5px;
+
+      input {
+        padding: 5px;
+        background-color: white;
+        border: none;
+        border-radius: 0.25rem;
+        font-family: 'Alegreya', serif;
+      }
+    }
+
+    .levels {
+      display: flex;
+      flex-direction: column;
+      gap: 0.5rem;
+
+      .level {
+        padding: 0.25rem;
+        display: flex;
+        flex-direction: column;
+        gap: 0.25rem;
+        width: 210px;
+        border: 1px solid @cinza-600;
+        border-radius: 0.25rem;
+      }
+
+      .level-stats {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        gap: 1rem;
+
+        .ba,
+        .jp,
+        .xp {
+          display: flex;
+          flex-direction: row;
+          align-items: center;
+          gap: 0.25rem;
+
+          input {
+            width: 26px;
+            text-align: center;
+          }
+        }
+
+        .xp {
+          input {
+            width: 60px;
+          }
+        }
+      }
+    }
+  }
+}

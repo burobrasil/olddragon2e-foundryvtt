@@ -53,22 +53,28 @@ export class OD2CharacterDataModel extends foundry.abstract.TypeDataModel {
         initial: 0,
         integer: true,
       }),
-      ac: new fields.SchemaField({
-        base: new fields.NumberField({
-          required: true,
-          initial: 0,
-          integer: true,
-        }),
-        magic_weapon: new fields.NumberField({
-          required: true,
-          initial: 0,
-          integer: true,
-        }),
-      }),
-      ba: new fields.NumberField({
+      ac_extra: new fields.NumberField({
         required: true,
         initial: 0,
         integer: true,
+      }),
+      class_jpd: new fields.NumberField({
+        required: true,
+        initial: 0,
+        integer: true,
+      }),
+      class_jpc: new fields.NumberField({
+        required: true,
+        initial: 0,
+        integer: true,
+      }),
+      class_jps: new fields.NumberField({
+        required: true,
+        initial: 0,
+        integer: true,
+      }),
+      jp_race_bonus: new fields.StringField({
+        default: '',
       }),
       jpd: new fields.SchemaField({
         class: new fields.NumberField({
@@ -105,20 +111,6 @@ export class OD2CharacterDataModel extends foundry.abstract.TypeDataModel {
           initial: 0,
           integer: true,
         }),
-      }),
-      current_movement: new fields.NumberField({
-        required: true,
-        initial: 0,
-        integer: true,
-      }),
-      race: new fields.SchemaField({
-        name: new fields.StringField(),
-        infravision: new fields.StringField(),
-        skills: new fields.StringField(),
-      }),
-      class: new fields.SchemaField({
-        name: new fields.StringField(),
-        skills: new fields.StringField(),
       }),
       economy: new fields.SchemaField({
         cp: new fields.NumberField({
@@ -163,17 +155,10 @@ export class OD2CharacterDataModel extends foundry.abstract.TypeDataModel {
         background: new fields.StringField(),
         notes: new fields.StringField(),
       }),
-      xp: new fields.SchemaField({
-        current: new fields.NumberField({
-          required: true,
-          initial: 0,
-          integer: true,
-        }),
-        next_level: new fields.NumberField({
-          required: true,
-          initial: 0,
-          integer: true,
-        }),
+      current_xp: new fields.NumberField({
+        required: true,
+        initial: 0,
+        integer: true,
       }),
       campanha_url: new fields.StringField(),
       url: new fields.StringField(),
@@ -190,9 +175,13 @@ export class OD2CharacterDataModel extends foundry.abstract.TypeDataModel {
     return super.migrateData(source);
   }
 
+  get ac_base() {
+    return 10;
+  }
+
   get ac_total() {
-    const base = this.ac.base;
-    const magic_weapon = this.ac.magic_weapon;
+    const base = this.ac_base;
+    const magic_weapon = this.ac_extra;
 
     const shield_ac = this.ac_shield;
     const armor_ac = this.ac_armor;
@@ -216,6 +205,20 @@ export class OD2CharacterDataModel extends foundry.abstract.TypeDataModel {
     const armor_ac = equipped_armor.reduce((acc, { system }) => acc + system.bonus_ca, 0);
 
     return armor_ac;
+  }
+
+  get ba() {
+    const characterClass = this.class;
+    if (!characterClass) return 0;
+
+    const level = this.level;
+    const classLevels = characterClass.system.levels;
+
+    const levelData = classLevels[level];
+
+    if (!levelData) return 0;
+
+    return levelData.ba;
   }
 
   get bac() {
@@ -268,28 +271,63 @@ export class OD2CharacterDataModel extends foundry.abstract.TypeDataModel {
     return this._calculateModifiers(carisma);
   }
 
+  get jpd_race_bonus() {
+    if (this.jp_race_bonus === 'jpd') {
+      return 1;
+    }
+    return 0;
+  }
+
+  get jpc_race_bonus() {
+    if (this.jp_race_bonus === 'jpc') {
+      return 1;
+    }
+    return 0;
+  }
+
+  get jps_race_bonus() {
+    if (this.jp_race_bonus === 'jps') {
+      return 1;
+    }
+    return 0;
+  }
+
+  get jp() {
+    const characterClass = this.class;
+    if (!characterClass) return 0;
+
+    const level = this.level;
+    const classLevels = characterClass.system.levels;
+
+    const levelData = classLevels[level];
+
+    if (!levelData) return 0;
+
+    return levelData.jp;
+  }
+
   get jpd_total() {
-    const class_jpd = this.jpd.class;
-    const race_jpd = this.jpd.race;
+    const class_jpd = this.jp;
+    const race_bonus = this.jpd_race_bonus;
     const mod = this.mod_destreza;
 
-    return class_jpd + race_jpd + mod;
+    return class_jpd + race_bonus + mod;
   }
 
   get jpc_total() {
-    const class_jpc = this.jpc.class;
-    const race_jpc = this.jpc.race;
+    const class_jpc = this.jp;
+    const race_bonus = this.jpc_race_bonus;
     const mod = this.mod_constituicao;
 
-    return class_jpc + race_jpc + mod;
+    return class_jpc + race_bonus + mod;
   }
 
   get jps_total() {
-    const class_jps = this.jps.class;
-    const race_jps = this.jps.race;
+    const class_jps = this.jp;
+    const race_bonus = this.jps_race_bonus;
     const mod = this.mod_sabedoria;
 
-    return class_jps + race_jps + mod;
+    return class_jps + race_bonus + mod;
   }
 
   _calculateModifiers(value) {
@@ -328,16 +366,50 @@ export class OD2CharacterDataModel extends foundry.abstract.TypeDataModel {
     return 4;
   }
 
+  get current_movement() {
+    if (this.race == null) {
+      return 0;
+    }
+
+    return this.race.system.movement;
+  }
+
   get movement_run() {
     return Math.floor(this.current_movement * 2);
   }
 
   get movement_climb() {
+    if (this.current_movement <= 0) {
+      return 0;
+    }
     return Math.floor(this.current_movement - 2);
   }
 
   get movement_swim() {
     return Math.floor(this.current_movement / 2);
+  }
+
+  get next_level_xp() {
+    const characterClass = this.class;
+    if (!characterClass) return 0;
+
+    const level = this.level;
+    const classLevels = characterClass.system.levels;
+
+    const levelData = classLevels[level + 1];
+
+    if (!levelData) return 0;
+
+    return levelData.xp;
+  }
+
+  _levelUp() {
+    const currentXp = this.current_xp;
+    const nextLevelXp = this.next_level_xp;
+
+    if (currentXp >= nextLevelXp) {
+      ui.notifications.info(`Parabéns! ${this.parent.name} já pode subir de nível!`);
+    }
   }
 
   get load_max() {
@@ -353,6 +425,10 @@ export class OD2CharacterDataModel extends foundry.abstract.TypeDataModel {
   }
 
   get load_current() {
+    return Math.floor(this._inventoryItemsLoad() + this._economyCoinLoad());
+  }
+
+  _inventoryItemsLoad() {
     let currentLoadValue = 0;
     const itemTypes = ['weapon', 'armor', 'shield', 'misc', 'container'];
 
@@ -364,7 +440,15 @@ export class OD2CharacterDataModel extends foundry.abstract.TypeDataModel {
       }
     }
 
-    return currentLoadValue;
+    return Math.floor(currentLoadValue);
+  }
+
+  _economyCoinSum() {
+    return this.economy.cp + this.economy.sp + this.economy.gp;
+  }
+
+  _economyCoinLoad() {
+    return this._economyCoinSum() / 100;
   }
 
   _findHighestValue(value1, value2) {
@@ -411,5 +495,104 @@ export class OD2CharacterDataModel extends foundry.abstract.TypeDataModel {
 
   get spell_items() {
     return getItemsOfActorOfType(this.parent, 'spell').sort((a, b) => (a.sort || 0) - (b.sort || 0));
+  }
+
+  get race() {
+    const raceItems = getItemsOfActorOfType(this.parent, 'race');
+
+    if (raceItems && raceItems.length) {
+      return raceItems[0];
+    }
+
+    return null;
+  }
+
+  get class() {
+    const classItems = getItemsOfActorOfType(this.parent, 'class');
+
+    if (classItems && classItems.length) {
+      return classItems[0];
+    }
+
+    return null;
+  }
+
+  async getItemsFromUUIDs(uuids) {
+    const items = [];
+    for (const uuid of uuids) {
+      const item = await fromUuid(uuid);
+      if (item) items.push(item);
+    }
+    return items;
+  }
+
+  // Habilidades de Raça
+  async updateRaceAbilities(uuids) {
+    const raceAbilities = await this.getItemsFromUUIDs(uuids);
+    const currentRaceAbilities = this.race_abilities;
+    const currentRaceAbilitiesUUIDs = [];
+
+    for (const ability of currentRaceAbilities) {
+      currentRaceAbilitiesUUIDs.push(ability._id);
+    }
+
+    await this.parent.deleteEmbeddedDocuments('Item', currentRaceAbilitiesUUIDs);
+
+    for (const raceAbility of raceAbilities) {
+      await this.parent.createEmbeddedDocuments('Item', [raceAbility]);
+    }
+  }
+
+  async syncRaceAbilities() {
+    const race = this.race;
+    if (!race) return [];
+
+    const raceAbilitiesUUIDs = race.system.race_abilities || [];
+    const raceAbilities = await this.getItemsFromUUIDs(raceAbilitiesUUIDs);
+
+    for (const raceAbility of raceAbilities) {
+      await this.parent.createEmbeddedDocuments('Item', [raceAbility]);
+    }
+
+    return raceAbilities;
+  }
+
+  get race_abilities() {
+    return getItemsOfActorOfType(this.parent, 'race_ability');
+  }
+
+  // Habilidades de Classe
+  async updateClassAbilities(uuids) {
+    const classAbilities = await this.getItemsFromUUIDs(uuids);
+    const currentClassAbilities = this.class_abilities;
+    const currentClassAbilitiesUUIDs = [];
+
+    for (const ability of currentClassAbilities) {
+      currentClassAbilitiesUUIDs.push(ability._id);
+    }
+
+    await this.parent.deleteEmbeddedDocuments('Item', currentClassAbilitiesUUIDs);
+
+    for (const classAbility of classAbilities) {
+      await this.parent.createEmbeddedDocuments('Item', [classAbility]);
+    }
+  }
+
+  async syncClassAbilities() {
+    const characterClass = this.class;
+    if (!characterClass) return [];
+
+    const classAbilitiesUUIDs = characterClass.system.class_abilities || [];
+    const classAbilities = await this.getItemsFromUUIDs(classAbilitiesUUIDs);
+
+    for (const classAbility of classAbilities) {
+      await this.parent.createEmbeddedDocuments('Item', [classAbility]);
+    }
+
+    return classAbilities;
+  }
+
+  get class_abilities() {
+    return getItemsOfActorOfType(this.parent, 'class_ability');
   }
 }

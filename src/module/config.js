@@ -18,19 +18,19 @@ olddragon2e.levels = {
   15: 'olddragon2e.levels.15',
 };
 
+olddragon2e.reputation = {
+  0: 'olddragon2e.reputation_levels.0',
+  1: 'olddragon2e.reputation_levels.1',
+  2: 'olddragon2e.reputation_levels.2',
+  3: 'olddragon2e.reputation_levels.3',
+  4: 'olddragon2e.reputation_levels.4',
+  5: 'olddragon2e.reputation_levels.5',
+};
+
 olddragon2e.alignment = {
   ordeiro: 'olddragon2e.ordeiro',
   neutro: 'olddragon2e.neutro',
   caotico: 'olddragon2e.caotico',
-};
-
-olddragon2e.races = {
-  humano: 'olddragon2e.races.humano',
-  elfo: 'olddragon2e.races.elfo',
-  anao: 'olddragon2e.races.anao',
-  halfling: 'olddragon2e.races.halfling',
-  meio_elfo: 'olddragon2e.races.meio_elfo',
-  gnomo: 'olddragon2e.races.gnomo',
 };
 
 olddragon2e.classes = {
@@ -80,6 +80,7 @@ olddragon2e.monster_sizes = {
 };
 
 olddragon2e.monster_habitats = {
+  qualquer: 'olddragon2e.habitats.qualquer',
   planicies: 'olddragon2e.habitats.planicies',
   colinas: 'olddragon2e.habitats.colinas',
   montanhas: 'olddragon2e.habitats.montanhas',
@@ -114,6 +115,7 @@ olddragon2e.spell_school = {
 };
 
 olddragon2e.arcane_spell_circle = {
+  null: 'olddragon2e.null',
   1: 'olddragon2e.spell_circle.1',
   2: 'olddragon2e.spell_circle.2',
   3: 'olddragon2e.spell_circle.3',
@@ -126,6 +128,7 @@ olddragon2e.arcane_spell_circle = {
 };
 
 olddragon2e.divine_spell_circle = {
+  null: 'olddragon2e.null',
   1: 'olddragon2e.spell_circle.1',
   2: 'olddragon2e.spell_circle.2',
   3: 'olddragon2e.spell_circle.3',
@@ -136,6 +139,7 @@ olddragon2e.divine_spell_circle = {
 };
 
 olddragon2e.necromancer_spell_circle = {
+  null: 'olddragon2e.null',
   1: 'olddragon2e.spell_circle.1',
   2: 'olddragon2e.spell_circle.2',
   3: 'olddragon2e.spell_circle.3',
@@ -148,6 +152,7 @@ olddragon2e.necromancer_spell_circle = {
 };
 
 olddragon2e.illusionist_spell_circle = {
+  null: 'olddragon2e.null',
   1: 'olddragon2e.spell_circle.1',
   2: 'olddragon2e.spell_circle.2',
   3: 'olddragon2e.spell_circle.3',
@@ -157,4 +162,27 @@ olddragon2e.illusionist_spell_circle = {
   7: 'olddragon2e.spell_circle.7',
   8: 'olddragon2e.spell_circle.8',
   9: 'olddragon2e.spell_circle.9',
+};
+
+olddragon2e.alignment_tendency = {
+  none: 'olddragon2e.none',
+  ordeiro: 'olddragon2e.alignment_tendencies.ordeiro',
+  neutro: 'olddragon2e.alignment_tendencies.neutro',
+  caotico: 'olddragon2e.alignment_tendencies.caotico',
+};
+
+olddragon2e.rogue_talents = {
+  none: 'olddragon2e.none',
+  armadilha: 'olddragon2e.armadilha',
+  arrombar: 'olddragon2e.arrombar',
+  cultura: 'olddragon2e.cultura',
+  decifrar: 'olddragon2e.decifrar',
+  disfarce: 'olddragon2e.disfarce',
+  escalar: 'olddragon2e.escalar',
+  furtividade: 'olddragon2e.furtividade',
+  percepcao: 'olddragon2e.percepcao',
+  punga: 'olddragon2e.punga',
+  rastrear: 'olddragon2e.rastrear',
+  senso_de_perigo: 'olddragon2e.senso_de_perigo',
+  veneno: 'olddragon2e.veneno',
 };

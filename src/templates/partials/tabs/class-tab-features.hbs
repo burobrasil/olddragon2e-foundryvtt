@@ -1,0 +1,49 @@
+<div class="class-tab-features">
+    {{!-- Características --}}
+    <div class="features">
+        {{!-- Armas --}}
+        <div class="weapons">
+            <label class="font-bold">{{localize "olddragon2e.class_ability.equipment_restrictions.weapons"}}</label>
+            <textarea name="system.equipment_restrictions.weapons" data-dtype="String" >{{system.equipment_restrictions.weapons}}</textarea>
+        </div>
+        {{!-- Armaduras --}}
+        <div class="armors">
+            <label class="font-bold">{{localize "olddragon2e.class_ability.equipment_restrictions.armors"}}</label>
+            <textarea name="system.equipment_restrictions.armors" data-dtype="String" >{{system.equipment_restrictions.armors}}</textarea>
+        </div>
+        {{!-- Itens Mágicos --}}
+        <div class="magic-items">
+            <label class="font-bold">{{localize "olddragon2e.class_ability.equipment_restrictions.magic_items"}}</label>
+            <textarea name="system.equipment_restrictions.magic_items" data-dtype="String" >{{system.equipment_restrictions.magic_items}}</textarea>
+        </div>
+        {{!-- Restrições de Raça --}}
+        <div class="race-restrictions">
+            <label><strong>{{localize "olddragon2e.class_ability.race_restrictions"}}</strong> (Exemplo: Anão, Elfo, Halfling)</label>
+            <input name="system.restrictions.races" type="text" value="{{system.restrictions.races}}" data-dtype="Array">
+        </div>
+        {{!-- Níveis --}}
+        <div class="levels">
+            {{#each system.levels as |level key|}}
+                <div class="level">
+                    <div class="font-bold">{{@key}}º {{localize "olddragon2e.level"}}</div>
+                    <div class="level-stats">
+                        <div class="ba">
+                            <label class="text-xs font-bold">{{localize "olddragon2e.ba_short"}}</label>
+                            <input name="system.levels.{{key}}.ba" type="number" value="{{level.ba}}" data-dtype="Number">
+                        </div>
+                        <div class="jp">
+                            <label class="text-xs font-bold">{{localize "olddragon2e.jp_short"}}</label>
+                            <input name="system.levels.{{key}}.jp" type="number" value="{{level.jp}}" data-dtype="Number">
+                        </div>
+                        {{#if (gt key 1)}}
+                            <div class="xp">
+                                <label class="text-xs font-bold">{{localize "olddragon2e.xp_short"}}</label>
+                                <input name="system.levels.{{key}}.xp" type="number" value="{{level.xp}}" data-dtype="Number">
+                            </div>
+                        {{/if}}
+                    </div>
+                </div>
+            {{/each}}
+        </div>
+    </div>
+</div>

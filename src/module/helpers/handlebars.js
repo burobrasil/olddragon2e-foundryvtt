@@ -1,4 +1,9 @@
 export function registerHandlebarsHelper() {
+  // Stringify for Handlebars
+  Handlebars.registerHelper('toJSON', function (obj) {
+    return JSON.stringify(obj, null, 2);
+  });
+
   // Times helper for Handlebars
   Handlebars.registerHelper('times', function (n, content) {
     let result = '';
@@ -59,6 +64,33 @@ export function registerHandlebarsHelper() {
       default:
         return options.inverse(this);
     }
+  });
+
+  // Checks if v1 is true and v2 is equal to v3
+  Handlebars.registerHelper('ifCondAndEqual', function (v1, v2, v3, options) {
+    if (v1 && v2 >= v3) {
+      return options.fn(this);
+    } else {
+      return options.inverse(this);
+    }
+  });
+
+  Handlebars.registerHelper('hasDailyUses', function (dailyUses, options) {
+    for (let key in dailyUses) {
+      if (dailyUses[key] > 0) {
+        return options.fn(this);
+      }
+    }
+    return options.inverse(this);
+  });
+
+  Handlebars.registerHelper('generateCheckboxes', function (dailyUses, currentLevel) {
+    let result = '';
+    const maxUses = dailyUses[currentLevel] || 0;
+    for (let i = 0; i < maxUses; i++) {
+      result += `<input type="checkbox" name="daily_use_${currentLevel}_${i + 1}" />`;
+    }
+    return new Handlebars.SafeString(result);
   });
 }
 

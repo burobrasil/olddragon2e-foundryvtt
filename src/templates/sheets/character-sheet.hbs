@@ -90,12 +90,12 @@
                     <div class="jp-values">
                         {{!-- Base (Classe) --}}
                         <div class="jp-value">
-                            <input class="system-class" name="system.jpd.class" type="text" value="{{system.jpd.class}}" data-dtype="Number">
+                            <input class="system-class" name="system.jp" type="text" value="{{system.jp}}" data-dtype="Number" disabled>
                             <label class="text-2xs">{{localize "olddragon2e.class"}}</label>
                         </div>
                         {{!-- Bônus (Raça) --}}
                         <div class="jp-value">
-                            <input class="system-race" name="system.jpd.race" type="text" value="{{system.jpd.race}}" data-dtype="Number">
+                            <input class="system-race" name="system.jpd_race_bonus" type="text" value="{{system.jpd_race_bonus}}" data-dtype="Number" disabled>
                             <label class="text-2xs">{{localize "olddragon2e.race"}}</label>
                         </div>
                         {{!-- M. DES --}}
@@ -115,12 +115,12 @@
                     <div class="jp-values">
                         {{!-- Base (Classe) --}}
                         <div class="jp-value">
-                            <input class="system-class" name="system.jpc.class" type="text" value="{{system.jpc.class}}" data-dtype="Number">
+                            <input class="system-class" name="system.jp" type="text" value="{{system.jp}}" data-dtype="Number" disabled>
                             <label class="text-2xs">{{localize "olddragon2e.class"}}</label>
                         </div>
                         {{!-- Bônus (Raça) --}}
                         <div class="jp-value">
-                            <input class="system-race" name="system.jpc.race" type="text" value="{{system.jpc.race}}" data-dtype="Number">
+                            <input class="system-race" name="system.jpc_race_bonus" type="text" value="{{system.jpc_race_bonus}}" data-dtype="Number" disabled>
                             <label class="text-2xs">{{localize "olddragon2e.race"}}</label>
                         </div>
                         {{!-- M. CON --}}
@@ -140,12 +140,12 @@
                     <div class="jp-values">
                         {{!-- Base (Classe) --}}
                         <div class="jp-value">
-                            <input class="system-class" name="system.jps.class" type="text" value="{{system.jps.class}}" data-dtype="Number">
+                            <input class="system-class" name="system.jp" type="text" value="{{system.jp}}" data-dtype="Number" disabled>
                             <label class="text-2xs">{{localize "olddragon2e.class"}}</label>
                         </div>
                         {{!-- Bônus (Raça) --}}
                         <div class="jp-value">
-                            <input class="system-race" name="system.jps.race" type="text" value="{{system.jps.race}}" data-dtype="Number">
+                            <input class="system-race" name="system.jps_race_bonus" type="text" value="{{system.jps_race_bonus}}" data-dtype="Number" disabled>
                             <label class="text-2xs">{{localize "olddragon2e.race"}}</label>
                         </div>
                         {{!-- M. SAB --}}
@@ -170,34 +170,34 @@
                         <label class="font-bold">{{localize "olddragon2e.name"}}</label>
                     </div>
                     {{!-- Raça --}}
-                    <div>
-                        <input list="races" name="system.race.name" type="text" value="{{system.race.name}}">
-                        <datalist id="races">
-                            {{#each config.races as |race|}}
-                            <option>{{localize race}}</option>
-                            {{/each}}
-                        </datalist>
+                    <div class="race item" data-item-id="{{actor.system.race.id}}">
+                        {{#if actor.system.race}}
+                        <div class="character-race">
+                            <a class="item-edit" title="{{localize 'olddragon2e.open'}}">{{truncate actor.system.race.name 12}}</a>
+                            <a class="item-delete" title="{{localize 'olddragon2e.delete'}}"><i class="fa-solid fa-trash"></i></a>
+                        </div>
+                        {{else}}
+                        <div class="instruction-text">Arraste uma Raça</div>
+                        {{/if}}
                         <label class="font-bold">{{localize "olddragon2e.race"}}</label>
                     </div>
                     {{!-- Classe --}}
-                    <div>
-                        <input list="classes" name="system.class.name" type="text" value="{{system.class.name}}">
-                        <datalist id="classes">
-                            {{#each config.classes as |class|}}
-                            <option>{{localize class}}</option>
-                            {{/each}}
-                        </datalist>
+                    <div class="class item" data-item-id="{{actor.system.class.id}}">
+                        {{#if actor.system.class}}
+                        <div class="character-class">
+                            <a class="item-edit" title="{{localize 'olddragon2e.open'}}">{{truncate actor.system.class.name 12}}</a>
+                            <a class="item-delete" title="{{localize 'olddragon2e.delete'}}"><i class="fa-solid fa-trash"></i></a>
+                        </div>
+                        {{else}}
+                        <div class="instruction-text">Arraste uma Classe</div>
+                        {{/if}}
                         <label class="font-bold">{{localize "olddragon2e.class"}}</label>
                     </div>
                     {{!-- Nível --}}
                     <div class="level-select">
-                        {{#select system.level}}
                         <select name="system.level">
-                            {{#each config.levels as |level_label level|}}
-                            <option value="{{level}}">{{localize level_label}}</option>
-                            {{/each}}
+                            {{selectOptions config.levels selected=system.level localize=true}}
                         </select>
-                        {{/select}}
                         <label class="font-bold">{{localize "olddragon2e.level"}}</label>
                     </div>
                 </div>
@@ -209,13 +209,9 @@
                     {{!-- Alinhamento --}}
                     <div class="alignment">
                         <label class="font-bold">{{localize "olddragon2e.alignment"}}</label>
-                        {{#select system.details.alignment}}
                         <select name="system.details.alignment">
-                            {{#each config.alignment as |alignment_label alignment|}}
-                            <option value="{{alignment}}">{{localize alignment_label}}</option>
-                            {{/each}}
+                            {{selectOptions config.alignment selected=system.details.alignment localize=true}}
                         </select>
-                        {{/select}}
                     </div>
                     {{!-- Movimento --}}
                     <div class="mv">
@@ -223,7 +219,7 @@
                         <div class="mv-values">
                             {{!-- Atual --}}
                             <div class="mv-value">
-                                <input class="system-current-movement" name="system.current_movement" type="text" value="{{system.current_movement}}" data-dtype="Number">
+                                <input class="system-current-movement" name="system.current_movement" type="text" value="{{system.current_movement}}" data-dtype="Number" disabled>
                                 <label class="text-xs">{{localize "olddragon2e.current_mv"}}</label>
                             </div>
                             {{!-- Correr --}}
@@ -249,12 +245,12 @@
                         <div class="xp-values">
                             {{!-- Atual --}}
                             <div class="xp-value">
-                                <input name="system.xp.current" type="text" value="{{system.xp.current}}" data-dtype="Number">
+                                <input name="system.current_xp" type="text" value="{{system.current_xp}}" data-dtype="Number">
                                 <label class="text-xs">{{localize "olddragon2e.current_xp"}}</label>
                             </div>
                             {{!-- Próx. Nível --}}
                             <div class="xp-value">
-                                <input name="system.xp.next_level" type="text" value="{{system.xp.next_level}}" data-dtype="Number">
+                                <input name="system.next_level_xp" type="text" value="{{system.next_level_xp}}" data-dtype="Number" disabled>
                                 <label class="text-xs">{{localize "olddragon2e.next_level"}}</label>
                             </div>
                         </div>
@@ -292,7 +288,7 @@
                             </div>
                             {{!-- Base --}}
                             <div class="ca-value">
-                                <input class="system-ac" name="system.ac.base" type="text" value="{{system.ac.base}}" data-dtype="Number">
+                                <input class="system-ac" name="system.ac_base" type="text" value="{{system.ac_base}}" data-dtype="Number" disabled>
                                 <label class="text-2xs">{{localize "olddragon2e.base"}}</label>
                             </div>
                             {{!-- M. DES --}}
@@ -310,9 +306,9 @@
                                 <input class="system-ac" name="system.ac_shield" type="text" value="{{system.ac_shield}}" data-dtype="Number" disabled>
                                 <label class="text-2xs">{{localize "olddragon2e.shield"}}</label>
                             </div>
-                            {{!-- Arma Mágica --}}
+                            {{!-- Extra --}}
                             <div class="ca-value">
-                                <input class="system-ac" name="system.ac.magic_weapon" type="text" value="{{system.ac.magic_weapon}}" data-dtype="Number">
+                                <input class="system-ac" name="system.ac_extra" type="text" value="{{system.ac_extra}}" data-dtype="Number">
                                 <label class="text-2xs">{{localize "olddragon2e.extra"}}</label>
                             </div>
                         </div>
@@ -334,7 +330,7 @@
                             </div>
                             {{!-- Base --}}
                             <div class="ba-value">
-                                <input class="system-ba" name="system.ba" type="text" value="{{system.ba}}" data-dtype="Number">
+                                <input class="system-ba" name="system.ba" type="text" value="{{system.ba}}" data-dtype="Number" disabled>
                                 <label class="text-2xs">{{localize "olddragon2e.base"}}</label>
                             </div>
                             {{!-- M. DES --}}
@@ -388,7 +384,8 @@
                 {{!-- Navigation tabs --}}
                 <nav class="tabs font-bold" data-group="primary-tabs" >
                     <a class="item" data-tab="attacks">{{localize "olddragon2e.navigation.character.attacks_tab"}}</a>
-                    <a class="item" data-tab="skills">{{localize "olddragon2e.navigation.character.skills_tab"}}</a></a>
+                    <a class="item" data-tab="race">{{localize "olddragon2e.navigation.character.race_tab"}}</a></a>
+                    <a class="item" data-tab="class">{{localize "olddragon2e.navigation.character.class_tab"}}</a></a>
                     <a class="item" data-tab="spells">{{localize "olddragon2e.navigation.character.spells_tab"}}</a></a>
                     <a class="item" data-tab="equipment">{{localize "olddragon2e.navigation.character.equipment_tab"}}</a></a>
                     <a class="item" data-tab="details">{{localize "olddragon2e.navigation.character.details_tab"}}</a></a>
@@ -400,9 +397,13 @@
                     <div class="tab" data-group="primary-tabs" data-tab="attacks">
                         {{> systems/olddragon2e/templates/partials/tabs/character-tab-attacks.hbs}}
                     </div>
-                    {{!-- Habilidades Raça/Classe --}}
-                    <div class="tab" data-group="primary-tabs" data-tab="skills">
-                        {{> systems/olddragon2e/templates/partials/tabs/character-tab-skills.hbs}}
+                    {{!-- Raça --}}
+                    <div class="tab" data-group="primary-tabs" data-tab="race">
+                        {{> systems/olddragon2e/templates/partials/tabs/character-tab-race.hbs}}
+                    </div>
+                    {{!-- Classe --}}
+                    <div class="tab" data-group="primary-tabs" data-tab="class">
+                        {{> systems/olddragon2e/templates/partials/tabs/character-tab-class.hbs}}
                     </div>
                     {{!-- Magias --}}
                     <div class="tab" data-group="primary-tabs" data-tab="spells">

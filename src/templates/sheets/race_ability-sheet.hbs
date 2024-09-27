@@ -1,0 +1,24 @@
+<form class="{{cssClass}}" autocomplete="off">
+    <header class="sheet-header">
+        <img src="{{item.img}}" data-edit="img" title="{{item.name}}" height="64" width="64"/>
+        <h1><input name="name" type="text" value="{{item.name}}"/></h1>
+    </header>
+    <div class="main">
+        {{!-- Navigation tabs --}}
+        <nav class="race-ability-tabs font-bold" data-group="primary-tabs" >
+            <a class="item" data-tab="about">{{localize "olddragon2e.navigation.race_ability.about_tab"}}</a>
+            <a class="item" data-tab="mechanics">{{localize "olddragon2e.navigation.race_ability.mechanics_tab"}}</a></a>
+        </nav>
+        {{!-- Navigation section --}}
+        <section class="section">
+            {{!-- Sobre --}}
+            <div class="tab" data-group="primary-tabs" data-tab="about">
+                {{> systems/olddragon2e/templates/partials/tabs/race-ability-tab-about.hbs}}
+            </div>
+            {{!-- Mecânicas --}}
+            <div class="tab" data-group="primary-tabs" data-tab="mechanics">
+                {{> systems/olddragon2e/templates/partials/tabs/race-ability-tab-mechanics.hbs}}
+            </div>
+        </section>
+    </div>
+</form>

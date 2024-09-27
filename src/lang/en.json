@@ -8,6 +8,10 @@
   "TYPES.Item.container": "Recipiente/Vasilhame",
   "TYPES.Item.vehicle": "Montaria/Transporte",
   "TYPES.Item.spell": "Magia",
+  "TYPES.Item.race": "Raça",
+  "TYPES.Item.race_ability": "Habilidade de Raça",
+  "TYPES.Item.class": "Classe",
+  "TYPES.Item.class_ability": "Habilidade de Classe",
   "TYPES.Item.monster_attack": "Ataque de Monstro",
 
   "olddragon2e": {
@@ -80,6 +84,7 @@
     "bad_roll": "Rolar ataque à distância",
     "jp": "Jogada de Proteção",
     "jp_short": "JP",
+    "jp_selector": "Bônus na Jogada de Proteção",
     "jp_long": "JP | Jogada de Proteção",
     "jpd": "Jogada de Proteção de Destreza",
     "jpd_short": "JPD",
@@ -94,15 +99,14 @@
     "mv_swim": "Nadar",
     "mv_fly": "Voar",
     "race": "Raça",
-    "races": {
-      "humano": "Humano",
-      "elfo": "Elfo",
-      "anao": "Anão",
-      "halfling": "Halfling",
-      "meio_elfo": "Meio-Elfo",
-      "gnomo": "Gnomo"
-    },
-    "race_skills": "Habilidades de Raça",
+    "race_flavor": "Apresentação",
+    "race_description": "Descrição",
+    "race_ability_description": "Descrição",
+    "race_ability_xp": "% de Bônus na Experiência Ganha",
+    "race_ability_jp": "Disponibilidade de Bônus na Jogada de Proteção",
+    "race_ability_bonus_damage_archery": "Bônus no Dano com Arco",
+    "race_ability_rogue_talent": "Bônus no Talento de Ladrão",
+    "race_abilities": "Habilidades de Raça",
     "infravision": "Infravisão",
     "class": "Classe",
     "classes": {
@@ -127,15 +131,71 @@
       "bruxo": "Bruxo",
       "elfo_aventureiro": "Elfo Aventureiro"
     },
-    "class_skills": "Habilidades de Classe",
+    "class_flavor": "Apresentação",
+    "class_description": "Descrição",
+    "class_ability_description": "Descrição",
+    "class_ability_level3_description": "Descrição - 3º Nível",
+    "class_ability_level6_description": "Descrição - 6º Nível",
+    "class_ability_level10_description": "Descrição - 10º Nível",
+    "class_ability": {
+      "equipment_restrictions": {
+        "weapons": "Armas",
+        "armors": "Armaduras",
+        "magic_items": "Itens Mágicos"
+      },
+      "race_restrictions": "Restrições de Raça",
+      "on_level": {
+        "3": "3",
+        "6": "6",
+        "10": "10"
+      },
+      "daily_uses": "Usos diários",
+      "hp": "Pontos de Vida",
+      "high_level_hp_bonus": "Bônus de PV em níveis altos",
+      "restrictions": "Restrições",
+      "alignments": "Alinhamentos",
+      "races": "Raças",
+      "levels": "Níveis",
+      "ba": "Base de Ataque",
+      "jp": "Jogada de Proteção",
+      "xp": "Experiência"
+    },
+    "class_abilities": "Habilidades de Classe",
+    "rogue_talents": "Talentos de Ladrão",
+    "armadilha": "Armadilha",
+    "arrombar": "Arrombar",
+    "cultura": "Cultura",
+    "decifrar": "Decifrar",
+    "disfarce": "Disfarce",
+    "escalar": "Escalar",
+    "furtividade": "Furtividade",
+    "percepcao": "Percepção",
+    "punga": "Punga",
+    "rastrear": "Rastrear",
+    "senso_de_perigo": "Senso de Perigo",
+    "veneno": "Veneno",
     "skills": "Habilidades",
     "details": "Detalhes",
     "alignment": "Alinhamento",
+    "alignment_tendency": "Tendência de Alinhamento",
+    "alignment_tendencies": {
+      "ordeiro": "Ordeiro",
+      "neutro": "Neutro",
+      "caotico": "Caótico"
+    },
     "ordeiro": "Ordeiro",
     "neutro": "Neutro",
     "caotico": "Caótico",
     "languages": "Idiomas",
     "reputation": "Reputação",
+    "reputation_levels": {
+      "0": "0",
+      "1": "1",
+      "2": "2",
+      "3": "3",
+      "4": "4",
+      "5": "5"
+    },
     "appearance": "Aparência",
     "personality": "Personalidade",
     "background": "Histórico",
@@ -159,7 +219,7 @@
     "load": "Carga",
     "load_current": "Atual",
     "load_max": "Máx.",
-    "flavor": "Descrição",
+    "flavor": "Apresentação",
     "concept": "Conceito",
     "concepts": {
       "humanoide": "Humanoide",
@@ -185,6 +245,7 @@
     },
     "habitat": "Habitat",
     "habitats": {
+      "qualquer": "Qualquer",
       "planicies": "Planícies",
       "colinas": "Colinas",
       "montanhas": "Montanhas",
@@ -284,6 +345,7 @@
     "create_container": "Criar novo recipiente/vasilhame",
     "create_vehicle": "Criar nova montaria/transporte",
     "create_spell": "Criar nova magia",
+    "create_monster_attack": "Criar novo ataque de monstro",
     "open": "Abrir",
     "show": "Visualizar",
     "cast": "Lançar",
@@ -316,7 +378,8 @@
     "navigation": {
       "character": {
         "attacks_tab": "Ataques",
-        "skills_tab": "Habilidades Raça/Classe",
+        "race_tab": "Raça",
+        "class_tab": "Classe",
         "spells_tab": "Magias",
         "equipment_tab": "Equipamentos",
         "details_tab": "Detalhes"
@@ -324,11 +387,31 @@
       "monster": {
         "attacks_tab": "Ataques",
         "info_tab": "Informações"
+      },
+      "race": {
+        "about_tab": "Sobre",
+        "features_tab": "Características",
+        "abilities_tab": "Habilidades de Raça"
+      },
+      "race_ability": {
+        "about_tab": "Sobre",
+        "mechanics_tab": "Mecânicas"
+      },
+      "class": {
+        "about_tab": "Sobre",
+        "features_tab": "Características",
+        "abilities_tab": "Habilidades de Classe"
+      },
+      "class_ability": {
+        "about_tab": "Sobre",
+        "mechanics_tab": "Mecânicas"
       }
     },
     "success": "Sucesso",
     "failure": "Falha",
     "import": "Importar",
-    "cancel": "Cancelar"
+    "cancel": "Cancelar",
+    "none": "Nenhum",
+    "null": "–"
   }
 }

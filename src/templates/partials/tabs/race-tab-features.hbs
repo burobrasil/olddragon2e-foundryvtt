@@ -1,0 +1,22 @@
+<div class="race-tab-features">
+    {{!-- Características --}}
+    <div class="features">
+        {{!-- Movimento --}}
+        <div class="movement">
+            <label class="font-bold">{{localize "olddragon2e.mv"}}</label>
+            <input name="system.movement" type="text" value="{{system.movement}}" data-dtype="Number">
+        </div>
+        {{!-- Infravisão --}}
+        <div class="infravision">
+            <label class="font-bold">{{localize "olddragon2e.infravision"}}</label>
+            <input name="system.infravision" type="text" value="{{system.infravision}}" data-dtype="Number">
+        </div>
+        {{!-- Tendência de Alinhamento --}}
+        <div class="alignment-tendency">
+            <label class="font-bold">{{localize "olddragon2e.alignment_tendency"}}</label>
+            <select name="system.alignment_tendency">
+                {{selectOptions config.alignment_tendency selected=system.alignment_tendency localize=true}}
+            </select>
+        </div>        
+    </div>
+</div>

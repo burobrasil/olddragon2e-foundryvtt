@@ -5,10 +5,18 @@ export class OD2SpellDataModel extends OD2ItemDataModel {
     const fields = foundry.data.fields;
     return {
       ...super.defineSchema(),
-      school: new fields.StringField(),
-      circle: new fields.StringField(),
-      arcane: new fields.StringField(),
-      divine: new fields.StringField(),
+      school: new fields.StringField({
+        initial: 'null',
+      }),
+      circle: new fields.StringField({
+        initial: 'null',
+      }),
+      arcane: new fields.StringField({
+        initial: 'null',
+      }),
+      divine: new fields.StringField({
+        initial: 'null',
+      }),
       necromancer: new fields.StringField(),
       illusionist: new fields.StringField(),
       reverse: new fields.BooleanField({

@@ -19,13 +19,27 @@
   "changelog": "https://github.com/burobrasil/olddragon2e-foundryvtt/releases",
   "version": "This is auto replaced",
   "compatibility": {
-    "minimum": "11",
+    "minimum": "12",
     "verified": "12"
   },
   "scripts": [],
   "esmodules": ["module/olddragon2e.js"],
   "styles": ["styles/olddragon2e.css"],
   "packs": [
+    {
+      "name": "races",
+      "label": "Raças",
+      "path": "packs/races",
+      "type": "Item",
+      "banner": "systems/olddragon2e/assets/compendium-banner/races.webp"
+    },
+    {
+      "name": "classes",
+      "label": "Classes",
+      "path": "packs/classes",
+      "type": "Item",
+      "banner": "systems/olddragon2e/assets/compendium-banner/classes.webp"
+    },
     {
       "name": "equipment",
       "label": "Equipamentos",
@@ -74,7 +88,7 @@
       "name": "SRD",
       "sorting": "m",
       "color": "#000000",
-      "packs": ["equipment", "spells", "monsters", "rollable-tables", "characters", "srd"]
+      "packs": ["races", "classes", "equipment", "spells", "monsters", "rollable-tables", "characters", "srd"]
     }
   ],
   "languages": [

@@ -1,5 +1,5 @@
 .olddragon2e.sheet.character {
-  .character-tab-skills {
+  .character-tab-race {
     display: flex;
     flex-direction: column;
     gap: 0.5rem;
@@ -12,12 +12,12 @@
       gap: 0.25rem;
 
       input {
-        width: 35px;
+        width: 26px;
+        text-align: center;
       }
     }
 
-    .race-skills,
-    .klass-skills {
+    .race-abilities {
       display: flex;
       flex-direction: column;
 
@@ -33,12 +33,26 @@
         font-weight: bold;
       }
 
-      .editor {
-        min-height: 164px;
-        padding: 5px;
+      ol {
+        margin: 0;
+        padding: 0.5rem;
+        list-style: none;
         background-color: white;
-        border-radius: 0.25rem;
-        cursor: text;
+        border-bottom-left-radius: 0.25rem;
+        border-bottom-right-radius: 0.25rem;
+
+        li {
+          margin-bottom: 1rem;
+        }
+
+        li p {
+          margin: 0.25rem 0;
+        }
+
+        li .jp-selector {
+          font-size: small;
+          margin-top: -0.1rem;
+        }
       }
     }
   }

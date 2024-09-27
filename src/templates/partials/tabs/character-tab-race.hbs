@@ -1,0 +1,46 @@
+<div class="character-tab-race">
+    {{!-- Infravisão --}}
+    <div class="infravision">
+        <i class="fa-solid fa-eye fa-sm"></i>
+        <label class="font-bold">{{localize "olddragon2e.infravision"}}</label>
+        <input name="system.race.system.infravision" type="text" value="{{system.race.system.infravision}}" data-dtype="String" disabled>
+    </div>
+
+    {{!-- Habilidades de Raça --}}
+    <div class="race-abilities">
+        <label class="tab-title">{{localize "olddragon2e.race_abilities"}}</label>
+        {{#if actor.system.race}}
+            {{#if actor.system.race_abilities}}
+            <ol class="item-list">
+                {{#each actor.system.race_abilities as |ability|}}
+                <li class="item" data-item-id="{{ability._id}}">
+                    <strong>{{ability.name}}</strong>:
+                    {{{ability.system.description}}}
+                    {{#if (or ability.system.jp.jpc ability.system.jp.jpd ability.system.jp.jps)}}
+                    <div class="jp-selector">
+                        <label class="font-bold">{{localize "olddragon2e.jp_selector"}}</label>
+                        <select name="system.jp_race_bonus" value="{{actor.system.jp_race_bonus}}">
+                            <option value="none" selected>{{localize "olddragon2e.null"}}</option>
+                            {{#if ability.system.jp.jpd}}
+                            <option value="jpd" {{#ifCond actor.system.jp_race_bonus '==' "jpd"}} selected {{/ifCond}}>{{localize "olddragon2e.jpd"}}</option>
+                            {{/if}}
+                            {{#if ability.system.jp.jpc}}
+                            <option value="jpc" {{#ifCond actor.system.jp_race_bonus '==' "jpc"}} selected {{/ifCond}}>{{localize "olddragon2e.jpc"}}</option>
+                            {{/if}}
+                            {{#if ability.system.jp.jps}}
+                            <option value="jps" {{#ifCond actor.system.jp_race_bonus '==' "jps"}} selected {{/ifCond}}>{{localize "olddragon2e.jps"}}</option>
+                            {{/if}}
+                        </select>
+                    </div>
+                    {{/if}}
+                </li>
+                {{/each}}
+            </ol>
+            {{else}}
+            <p class="text-center">A raça <strong>{{actor.system.race.name}}</strong> não possui habilidades vinculadas.</p>
+            {{/if}}
+        {{else}}
+        <p class="text-center">Adicione uma raça, para visualizar as habilidades listadas aqui.</p>
+        {{/if}}
+    </div>
+</div>

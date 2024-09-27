@@ -1,0 +1,91 @@
+.olddragon2e.sheet.character {
+  .character-tab-class {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    height: 100%;
+
+    .class-abilities {
+      display: flex;
+      flex-direction: column;
+
+      .tab-title {
+        width: 100%;
+        padding: 5px;
+        border-top-left-radius: 0.25rem;
+        border-top-right-radius: 0.25rem;
+        background-color: @carmesim-600;
+        color: white;
+        text-align: center;
+        font-size: larger;
+        font-weight: bold;
+      }
+
+      ol {
+        margin: 0;
+        padding: 0.5rem;
+        list-style: none;
+        background-color: white;
+        border-bottom-left-radius: 0.25rem;
+        border-bottom-right-radius: 0.25rem;
+
+        li {
+          margin-bottom: 1rem;
+
+          .ability {
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            gap: 0.25rem;
+
+            .daily-uses {
+              display: flex;
+              flex-direction: row;
+              align-items: center;
+              gap: 0.1rem;
+
+              input[type='checkbox'] {
+                margin: 0px;
+              }
+            }
+          }
+        }
+
+        li span.ability-level,
+        li span.ability-on-level {
+          padding: 0.375rem;
+          display: inline-flex;
+          align-items: center;
+          justify-items: center;
+          height: 1rem;
+          background-color: @carmesim-600;
+          font-family: 'Alegreya', serif;
+          font-size: 0.875rem;
+          line-height: 1.25rem;
+          font-weight: 700;
+          color: white;
+        }
+
+        li span.ability-on-level {
+          background-color: @cinza-600;
+        }
+
+        li p {
+          margin: 0.25rem 0;
+        }
+      }
+    }
+
+    .equipment-restrictions {
+      ol {
+        margin: 0;
+        padding: 0.5rem;
+        list-style: none;
+
+        li span.diamond {
+          color: @carmesim-600;
+        }
+      }
+    }
+  }
+}

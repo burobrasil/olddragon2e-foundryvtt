@@ -5,8 +5,12 @@ export class OD2WeaponDataModel extends OD2EquipmentDataModel {
     const fields = foundry.data.fields;
     return {
       ...super.defineSchema(),
-      type: new fields.StringField(),
-      damage_type: new fields.StringField(),
+      type: new fields.StringField({
+        initial: 'melee',
+      }),
+      damage_type: new fields.StringField({
+        initial: 'none',
+      }),
       damage: new fields.StringField(),
       bonus_damage: new fields.NumberField({
         required: true,
