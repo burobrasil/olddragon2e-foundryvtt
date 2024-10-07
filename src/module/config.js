@@ -33,29 +33,6 @@ olddragon2e.alignment = {
   caotico: 'olddragon2e.caotico',
 };
 
-olddragon2e.classes = {
-  guerreiro: 'olddragon2e.classes.guerreiro',
-  barbaro: 'olddragon2e.classes.barbaro',
-  paladino: 'olddragon2e.classes.paladino',
-  anao_aventureiro: 'olddragon2e.classes.anao_aventureiro',
-  arqueiro: 'olddragon2e.classes.arqueiro',
-  clerigo: 'olddragon2e.classes.clerigo',
-  druida: 'olddragon2e.classes.druida',
-  academico: 'olddragon2e.classes.academico',
-  xama: 'olddragon2e.classes.xama',
-  proscrito: 'olddragon2e.classes.proscrito',
-  ladrao: 'olddragon2e.classes.ladrao',
-  ranger: 'olddragon2e.classes.ranger',
-  bardo: 'olddragon2e.classes.bardo',
-  assassino: 'olddragon2e.classes.assassino',
-  halfling_aventureiro: 'olddragon2e.classes.halfling_aventureiro',
-  mago: 'olddragon2e.classes.mago',
-  ilusionista: 'olddragon2e.classes.ilusionista',
-  necromante: 'olddragon2e.classes.necromante',
-  bruxo: 'olddragon2e.classes.bruxo',
-  elfo_aventureiro: 'olddragon2e.classes.elfo_aventureiro',
-};
-
 olddragon2e.monster_concepts = {
   humanoide: 'olddragon2e.concepts.humanoide',
   humanoide_monstruoso: 'olddragon2e.concepts.humanoide_monstruoso',
