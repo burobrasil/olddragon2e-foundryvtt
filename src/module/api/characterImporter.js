@@ -101,13 +101,13 @@ const _jsonToActorData = async (json) => {
   };
 
   if (json.picture) {
-    actorData.img = await _downloadAndSaveImage(json.picture, json.name);
+    actorData.img = await _downloadAndSaveImage(json.picture);
   }
 
   return actorData;
 };
 
-const _downloadAndSaveImage = async (url, actorName) => {
+const _downloadAndSaveImage = async (url) => {
   const response = await fetch(url);
 
   if (!response.ok) {
@@ -115,13 +115,22 @@ const _downloadAndSaveImage = async (url, actorName) => {
   }
 
   const blob = await response.blob();
-  const file = new File([blob], `${actorName}.webp`, { type: blob.type });
+  const fileName = url.split('/').pop(); // Extrai a parte final da URL
+  const file = new File([blob], `${fileName}.webp`, { type: blob.type });
 
   const worldName = game.world.id;
   const folderPath = `worlds/${worldName}/assets/character-picture`;
-  const filePath = `${folderPath}/${actorName}.webp`;
+  const filePath = `${folderPath}/${fileName}.webp`;
 
-  await FilePicker.createDirectory('data', folderPath);
+  try {
+    await FilePicker.browse('data', folderPath);
+  } catch (e) {
+    if (e.message.includes('does not exist or is not accessible')) {
+      await FilePicker.createDirectory('data', folderPath);
+    } else {
+      throw e;
+    }
+  }
 
   await FilePicker.upload('data', folderPath, file, { bucket: null });
 
