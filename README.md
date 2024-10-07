@@ -9,7 +9,7 @@ Sistema do Old Dragon 2a Edição para FoundryVTT.
 - **Criação Personalizada:** Jogadores podem criar Personagens, Monstros & Inimigos, Raças, Classes e Itens (incluindo Armas, Armaduras, Escudos, Itens Gerais, Recipientes & Vasilhames, Montarias & Transportes) de forma personalizada;
 - **Cálculo Automático de Modificadores:** O módulo calcula automaticamente os modificadores de atributos, otimizando o processo de criação e evolução de personagens;
 - **Raças e Classes Dinâmicas:** Ao vincular uma Raça e Classe ao personagem, o módulo insere e calcula automaticamente os dados de movimento, experiência para o próximo nível, Base de Ataque (BA) e Jogadas de Proteção (JPD/JPC/JPS). Além disso, as Habilidades de Raça e Habilidades de Classe são exibidas dinâmicamente, de acordo com o nível atual do personagem.
-- **Cálculo Automático de Carga:** O módulo calcula automaticamente a Carga Máxima e a Carga Atual do personagem. A Carga Máxima é representada pelo maior valor entre os atributos de Força e Constituição, além de bônus provenientes de equipamentos como a Mochila. A Carga Atual leva em consideração a soma da carga de todos os itens que personagem possui, incluindo moedas.
+- **Cálculo Automático de Carga:** O módulo calcula automaticamente a Carga Máxima e a Carga Atual do personagem. A Carga Máxima é representada pelo maior valor entre os atributos de Força e Constituição, além de bônus provenientes de equipamentos como a Mochila. A Carga Atual leva em consideração a soma da carga de todos os itens que o personagem possui, incluindo moedas.
 - **Rolagens de Dados Aprimoradas para Personagens:** Inclui rolagens para Atributos, Jogadas de Proteção (JPD/JPC/JPS), Ataques (BAC/BAD), Dano e Chance de Nocaute com opções de Ajuste de Teste e Modificador Opcional;
 - **Rolagens de Dados Aprimoradas para Monstros & Inimigos:** Inclui rolagens para Jogada de Proteção (JP), Moral (MO), Dados de Vida/Pontos de Vida (DV/PV), Ataque (BA) e Dano com opções de Ajuste de Teste e Modificador Opcional;
 - **Gerenciamento de Magias e Equipamentos:** Permite adicionar, editar, mover, remover e lançar magias, bem como gerenciar equipamentos. Alterações em itens refletem dinamicamente no Peso Total, Valor Total e Carga Atual/Máxima do personagem;
@@ -48,11 +48,16 @@ O sistema permite importar personagens criados na plataforma [ODO](https://olddr
 
 Passo a passo: Na aba "Actors", clique em "Importar Personagem do ODO". Insira o link da ficha do personagem escolhido no [ODO](https://olddragon.com.br/) (utilizando o botão de "Compartilhar" da ficha, ou copiando a URL no browser). Por último, basta clicar em "Importar".
 
-Atualmente os campos Raça e Classe ainda não estão sendo importados. Por tanto, é necessária a vinculação manual da Raça e Classe ao personagem.
-
 Esta funcionalidade ainda será aprimorada.
 
 ![Importação de personagem](./static/importacao-personagem.gif)
+
+## Colaboradores (Collaborators)
+
+- [Guilherme Mir](https://github.com/guilhermemir)
+- [Igor Téuri](https://github.com/igorteuri)
+- [Brayan Hemel](https://www.youtube.com/@BrayanHemel)
+- [Samuel Grave](https://github.com/itsmegrave)
 
 ## Development
 
