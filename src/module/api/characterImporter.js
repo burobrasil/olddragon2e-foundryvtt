@@ -126,7 +126,17 @@ const _downloadAndSaveImage = async (url) => {
     await FilePicker.browse('data', folderPath);
   } catch (e) {
     if (e.message.includes('does not exist or is not accessible')) {
-      await FilePicker.createDirectory('data', folderPath);
+      const parts = folderPath.split('/');
+      for (let i = 1; i <= parts.length; i++) {
+        const subPath = parts.slice(0, i).join('/');
+        try {
+          await FilePicker.createDirectory('data', subPath);
+        } catch (err) {
+          if (!err.message.includes('EEXIST')) {
+            throw err;
+          }
+        }
+      }
     } else {
       throw e;
     }
