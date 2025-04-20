@@ -1,17 +1,17 @@
 {
   "folder": "PAnTXGXA0MQpkYub",
-  "name": "Cravos/Ganchos",
+  "name": "Veneno",
   "type": "misc",
-  "_id": "WLjq2FU5zV0kkfvS",
+  "_id": "MiD7dFaiJ1yHdzHf",
   "img": "systems/olddragon2e/assets/equipment-concepts/misc.svg",
   "system": {
-    "odo_id": "cravos-ganchos",
-    "quantity": 5,
-    "cost": "1 PO",
-    "description": "5 unidades de cravos ou ganchos para escaladas.",
+    "odo_id": "veneno",
+    "quantity": 1,
+    "cost": null,
+    "description": "São substâncias mortais e perigosas que se passam perfeitamente por poções. Se qualquer gole desta substância for ingerido (até mesmo os pequenos goles que visam identificar uma poção), quem a ingeriu precisará de um sucesso em uma JPC ou morrerá em 1d4 turnos.",
     "weight_in_load": null,
     "weight_in_grams": 100,
-    "magic_item": false,
+    "magic_item": true,
     "bonus_ca": null,
     "type": null,
     "damage_type": "none",
@@ -43,5 +43,5 @@
     "default": 0,
     "enzpVKIAX52oTyPe": 3
   },
-  "_key": "!items!WLjq2FU5zV0kkfvS"
+  "_key": "!items!MiD7dFaiJ1yHdzHf"
 }

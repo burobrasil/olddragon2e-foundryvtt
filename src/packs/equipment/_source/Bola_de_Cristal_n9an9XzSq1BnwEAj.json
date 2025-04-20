@@ -1,17 +1,17 @@
 {
   "folder": "PAnTXGXA0MQpkYub",
-  "name": "Cravos/Ganchos",
+  "name": "Bola de Cristal",
   "type": "misc",
-  "_id": "WLjq2FU5zV0kkfvS",
+  "_id": "n9an9XzSq1BnwEAj",
   "img": "systems/olddragon2e/assets/equipment-concepts/misc.svg",
   "system": {
-    "odo_id": "cravos-ganchos",
-    "quantity": 5,
-    "cost": "1 PO",
-    "description": "5 unidades de cravos ou ganchos para escaladas.",
+    "odo_id": "bola-de-cristal",
+    "quantity": 1,
+    "cost": null,
+    "description": "O usuário de uma bola de cristal pode olhar dentro dela e enxergar qualquer lugar, pessoa ou objeto por ele desejado.\r\n\r\nUma bola de cristal funciona até três vezes por dia, e qualquer imagem dura no máximo 1 turno.\r\n\r\nQuanto mais conhecido for o objeto, o lugar ou a pessoa, mais claras as imagens serão.\r\n\r\nApenas Magos podem usar Bolas de Cristal.",
     "weight_in_load": null,
-    "weight_in_grams": 100,
-    "magic_item": false,
+    "weight_in_grams": 500,
+    "magic_item": true,
     "bonus_ca": null,
     "type": null,
     "damage_type": "none",
@@ -43,5 +43,5 @@
     "default": 0,
     "enzpVKIAX52oTyPe": 3
   },
-  "_key": "!items!WLjq2FU5zV0kkfvS"
+  "_key": "!items!n9an9XzSq1BnwEAj"
 }

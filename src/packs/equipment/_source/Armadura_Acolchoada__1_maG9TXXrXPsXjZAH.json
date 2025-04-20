@@ -1,18 +1,18 @@
 {
-  "folder": "PAnTXGXA0MQpkYub",
-  "name": "Cravos/Ganchos",
-  "type": "misc",
-  "_id": "WLjq2FU5zV0kkfvS",
-  "img": "systems/olddragon2e/assets/equipment-concepts/misc.svg",
+  "folder": "jMvjD9l8URkPiaXR",
+  "name": "Armadura Acolchoada +1",
+  "type": "armor",
+  "_id": "maG9TXXrXPsXjZAH",
+  "img": "systems/olddragon2e/assets/equipment-concepts/armor.svg",
   "system": {
-    "odo_id": "cravos-ganchos",
-    "quantity": 5,
-    "cost": "1 PO",
-    "description": "5 unidades de cravos ou ganchos para escaladas.",
+    "odo_id": "armadura-acolchoada-mais-1",
+    "quantity": 1,
+    "cost": null,
+    "description": "Leve, Couro.",
     "weight_in_load": null,
-    "weight_in_grams": 100,
-    "magic_item": false,
-    "bonus_ca": null,
+    "weight_in_grams": null,
+    "magic_item": true,
+    "bonus_ca": 2,
     "type": null,
     "damage_type": "none",
     "damage": null,
@@ -43,5 +43,5 @@
     "default": 0,
     "enzpVKIAX52oTyPe": 3
   },
-  "_key": "!items!WLjq2FU5zV0kkfvS"
+  "_key": "!items!maG9TXXrXPsXjZAH"
 }

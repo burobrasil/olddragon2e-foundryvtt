@@ -1,17 +1,17 @@
 {
   "folder": "PAnTXGXA0MQpkYub",
-  "name": "Cravos/Ganchos",
+  "name": "Anel do Controle de Animais",
   "type": "misc",
-  "_id": "WLjq2FU5zV0kkfvS",
+  "_id": "jMqwHrP0kPEKftPo",
   "img": "systems/olddragon2e/assets/equipment-concepts/misc.svg",
   "system": {
-    "odo_id": "cravos-ganchos",
-    "quantity": 5,
-    "cost": "1 PO",
-    "description": "5 unidades de cravos ou ganchos para escaladas.",
+    "odo_id": "anel-do-controle-de-animais",
+    "quantity": 1,
+    "cost": null,
+    "description": "Este anel permite ao usuário usá-lo uma vez por turno para controlar até 1d6 alvos ou até um alvo gigante (sempre limitado a 6 dados de vida) desde que o alvo esteja fazendo contato visual com o usuário. O controle dura enquanto o usuário do anel estiver concentrado no alvo. O usuário não pode se mover ou atacar. Quando o controle é encerrado, o alvo estará livre para fazer o que desejar, sem nenhum elo empático com o usuário.",
     "weight_in_load": null,
-    "weight_in_grams": 100,
-    "magic_item": false,
+    "weight_in_grams": null,
+    "magic_item": true,
     "bonus_ca": null,
     "type": null,
     "damage_type": "none",
@@ -43,5 +43,5 @@
     "default": 0,
     "enzpVKIAX52oTyPe": 3
   },
-  "_key": "!items!WLjq2FU5zV0kkfvS"
+  "_key": "!items!jMqwHrP0kPEKftPo"
 }
