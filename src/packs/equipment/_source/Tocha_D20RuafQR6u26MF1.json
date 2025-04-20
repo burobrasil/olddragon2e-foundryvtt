@@ -10,7 +10,7 @@
     "cost": "1 PO",
     "description": "5 unidades.",
     "weight_in_load": null,
-    "weight_in_grams": 500,
+    "weight_in_grams": 100,
     "magic_item": false,
     "bonus_ca": null,
     "type": null,

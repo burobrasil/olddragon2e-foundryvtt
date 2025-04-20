@@ -1,17 +1,17 @@
 {
   "folder": "PAnTXGXA0MQpkYub",
-  "name": "Cravos/Ganchos",
+  "name": "Bota Élfica",
   "type": "misc",
-  "_id": "WLjq2FU5zV0kkfvS",
+  "_id": "4B5kZ5KkBgF1a1ma",
   "img": "systems/olddragon2e/assets/equipment-concepts/misc.svg",
   "system": {
-    "odo_id": "cravos-ganchos",
-    "quantity": 5,
-    "cost": "1 PO",
-    "description": "5 unidades de cravos ou ganchos para escaladas.",
+    "odo_id": "bota-elfica",
+    "quantity": 1,
+    "cost": null,
+    "description": "Estas botas de tecido macio e solado amortecedor faz com que o usuário se mova em silêncio, como um Ladrão em qualquer ambiente. Mesmo em pisos barulhentos (como chão forrado de palha, gravetos que estalam, ou tábuas que rangem) concedem 1-5 chances em 1d6 de andar sem ser ouvido.\r\n\r\nO usuário sempre se moverá em silêncio caso o piso seja limpo e não ruidoso.",
     "weight_in_load": null,
-    "weight_in_grams": 100,
-    "magic_item": false,
+    "weight_in_grams": 1000,
+    "magic_item": true,
     "bonus_ca": null,
     "type": null,
     "damage_type": "none",
@@ -43,5 +43,5 @@
     "default": 0,
     "enzpVKIAX52oTyPe": 3
   },
-  "_key": "!items!WLjq2FU5zV0kkfvS"
+  "_key": "!items!4B5kZ5KkBgF1a1ma"
 }
