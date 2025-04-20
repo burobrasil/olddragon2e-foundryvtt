@@ -48,6 +48,13 @@
       "banner": "systems/olddragon2e/assets/compendium-banner/equipment.webp"
     },
     {
+      "name": "magic-items",
+      "label": "Itens Mágicos",
+      "path": "packs/magic-items",
+      "type": "Item",
+      "banner": "systems/olddragon2e/assets/compendium-banner/magic-items.webp"
+    },
+    {
       "name": "spells",
       "label": "Magias",
       "path": "packs/spells",
@@ -88,7 +95,17 @@
       "name": "SRD",
       "sorting": "m",
       "color": "#000000",
-      "packs": ["races", "classes", "equipment", "spells", "monsters", "rollable-tables", "characters", "srd"]
+      "packs": [
+        "races",
+        "classes",
+        "equipment",
+        "magic-items",
+        "spells",
+        "monsters",
+        "rollable-tables",
+        "characters",
+        "srd"
+      ]
     }
   ],
   "languages": [

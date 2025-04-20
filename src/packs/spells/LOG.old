@@ -1,14 +1,14 @@
-2025/04/20-12:27:00.271755 170e2f000 Recovering log #210
-2025/04/20-12:27:00.272920 170e2f000 Delete type=0 #210
-2025/04/20-12:27:00.272957 170e2f000 Delete type=3 #208
-2025/04/20-12:27:00.274872 1726df000 Level-0 table #216: started
-2025/04/20-12:27:00.275687 1726df000 Level-0 table #216: 98629 bytes OK
-2025/04/20-12:27:00.275772 1726df000 Delete type=0 #214
-2025/04/20-12:27:00.275842 1726df000 Manual compaction at level-0 from '!folders!1GdIatDAUmBOoNQj' @ 72057594037927935 : 1 .. '!items!yzxb6JKWXlTCbbuR' @ 0 : 0; will stop at '!items!yzxb6JKWXlTCbbuR' @ 6887 : 1
-2025/04/20-12:27:00.275846 1726df000 Compacting 1@0 + 1@1 files
-2025/04/20-12:27:00.276787 1726df000 Generated table #217@0: 188 keys, 98629 bytes
-2025/04/20-12:27:00.276793 1726df000 Compacted 1@0 + 1@1 files => 98629 bytes
-2025/04/20-12:27:00.276845 1726df000 compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/04/20-12:27:00.276903 1726df000 Delete type=2 #216
-2025/04/20-12:27:00.276937 1726df000 Delete type=2 #212
-2025/04/20-12:27:00.276997 1726df000 Manual compaction at level-0 from '!items!yzxb6JKWXlTCbbuR' @ 6887 : 1 .. '!items!yzxb6JKWXlTCbbuR' @ 0 : 0; will stop at (end)
+2025/04/20-12:53:30.964884 16f347000 Recovering log #215
+2025/04/20-12:53:30.966066 16f347000 Delete type=0 #215
+2025/04/20-12:53:30.966101 16f347000 Delete type=3 #213
+2025/04/20-12:53:30.968013 1703eb000 Level-0 table #221: started
+2025/04/20-12:53:30.968841 1703eb000 Level-0 table #221: 98566 bytes OK
+2025/04/20-12:53:30.968931 1703eb000 Delete type=0 #219
+2025/04/20-12:53:30.968995 1703eb000 Manual compaction at level-0 from '!folders!1GdIatDAUmBOoNQj' @ 72057594037927935 : 1 .. '!items!yzxb6JKWXlTCbbuR' @ 0 : 0; will stop at '!items!yzxb6JKWXlTCbbuR' @ 7075 : 1
+2025/04/20-12:53:30.969000 1703eb000 Compacting 1@0 + 1@1 files
+2025/04/20-12:53:30.969990 1703eb000 Generated table #222@0: 188 keys, 98566 bytes
+2025/04/20-12:53:30.969996 1703eb000 Compacted 1@0 + 1@1 files => 98566 bytes
+2025/04/20-12:53:30.970037 1703eb000 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/04/20-12:53:30.970077 1703eb000 Delete type=2 #217
+2025/04/20-12:53:30.970134 1703eb000 Delete type=2 #221
+2025/04/20-12:53:30.970193 1703eb000 Manual compaction at level-0 from '!items!yzxb6JKWXlTCbbuR' @ 7075 : 1 .. '!items!yzxb6JKWXlTCbbuR' @ 0 : 0; will stop at (end)
