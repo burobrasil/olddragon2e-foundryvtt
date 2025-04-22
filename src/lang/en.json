@@ -320,7 +320,7 @@
     "create_armor": "Create new armor",
     "create_shield": "Create new shield",
     "create_item": "Create new item",
-    "create_container": Create new container/vessel",
+    "create_container": "Create new container/vessel",
     "create_vehicle": "Create new mount/transportation",
     "create_spell": "Create new spell",
     "create_monster_attack": "Create new monster attack",
