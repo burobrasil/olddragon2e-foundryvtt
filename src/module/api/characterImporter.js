@@ -1,33 +1,33 @@
 const RACE_UUIDS = {
-  anao: 'Compendium.olddragon2e.races.Item.d9seo5qPELZJetH6',
-  elfo: 'Compendium.olddragon2e.races.Item.qZ5T7ZHQpGlmdfOq',
-  gnomo: 'Compendium.olddragon2e.races.Item.GLAN1JCU7dTEVHmZ',
-  halfling: 'Compendium.olddragon2e.races.Item.3VqpR0B3GFRHm9i7',
-  humano: 'Compendium.olddragon2e.races.Item.LVAnPRB3y5OexOmz',
+  Anão: 'Compendium.olddragon2e.races.Item.d9seo5qPELZJetH6',
+  Elfo: 'Compendium.olddragon2e.races.Item.qZ5T7ZHQpGlmdfOq',
+  Gnomo: 'Compendium.olddragon2e.races.Item.GLAN1JCU7dTEVHmZ',
+  Halfling: 'Compendium.olddragon2e.races.Item.3VqpR0B3GFRHm9i7',
+  Humano: 'Compendium.olddragon2e.races.Item.LVAnPRB3y5OexOmz',
   'meio-elfo': 'Compendium.olddragon2e.races.Item.sdsNB4qd7pXkRBy9',
 };
 
 const CLASS_UUIDS = {
-  academico: 'Compendium.olddragon2e.classes.Item.UbJdOGEnK1AHoHrh',
-  'anao-aventureiro': 'Compendium.olddragon2e.classes.Item.Y46BnHjmf9v2sYYA',
-  arqueiro: 'Compendium.olddragon2e.classes.Item.zVsnFVV3I7aOGLzK',
-  assassino: 'Compendium.olddragon2e.classes.Item.qmcr4miRTUGaUZgr',
-  barbaro: 'Compendium.olddragon2e.classes.Item.XyMxtlkHTVeuXict',
-  bardo: 'Compendium.olddragon2e.classes.Item.zhBTrsrVCJuh0TIP',
-  bruxo: 'Compendium.olddragon2e.classes.Item.RwWjaex47rIj9FwO',
-  clerigo: 'Compendium.olddragon2e.classes.Item.cYfvA9p2XprFpamU',
-  druida: 'Compendium.olddragon2e.classes.Item.tRhKnE5D6grdUwzL',
-  'elfo-aventureiro': 'Compendium.olddragon2e.classes.Item.HufLva6gVWRi1l48',
-  guerreiro: 'Compendium.olddragon2e.classes.Item.bkzh1k7B0ncxQfHR',
-  'halfling-aventureiro': 'Compendium.olddragon2e.classes.Item.BMGOU1kveWlIJNx8',
-  ilusionista: 'Compendium.olddragon2e.classes.Item.PBtvkfo69YBlKrGY',
-  ladrao: 'Compendium.olddragon2e.classes.Item.o8cAybQI9lQp2MTd',
-  mago: 'Compendium.olddragon2e.classes.Item.0VpxbklOWK0SaHMY',
-  necromante: 'Compendium.olddragon2e.classes.Item.auquWM2cFz5Otr9z',
-  paladino: 'Compendium.olddragon2e.classes.Item.UwfTTsIz4YlhQViE',
-  proscrito: 'Compendium.olddragon2e.classes.Item.9cxLzlDnQQTEwuhD',
-  ranger: 'Compendium.olddragon2e.classes.Item.fjNBciFT3punx7Ks',
-  xama: 'Compendium.olddragon2e.classes.Item.mLrl21J2PMKmGLuh',
+  Acadêmico: 'Compendium.olddragon2e.classes.Item.UbJdOGEnK1AHoHrh',
+  'Anão Aventureiro': 'Compendium.olddragon2e.classes.Item.Y46BnHjmf9v2sYYA',
+  Arqueiro: 'Compendium.olddragon2e.classes.Item.zVsnFVV3I7aOGLzK',
+  Assassino: 'Compendium.olddragon2e.classes.Item.qmcr4miRTUGaUZgr',
+  Bárbaro: 'Compendium.olddragon2e.classes.Item.XyMxtlkHTVeuXict',
+  Bardo: 'Compendium.olddragon2e.classes.Item.zhBTrsrVCJuh0TIP',
+  Bruxo: 'Compendium.olddragon2e.classes.Item.RwWjaex47rIj9FwO',
+  Clérigo: 'Compendium.olddragon2e.classes.Item.cYfvA9p2XprFpamU',
+  Druida: 'Compendium.olddragon2e.classes.Item.tRhKnE5D6grdUwzL',
+  'Elfo Aventureiro': 'Compendium.olddragon2e.classes.Item.HufLva6gVWRi1l48',
+  Guerreiro: 'Compendium.olddragon2e.classes.Item.bkzh1k7B0ncxQfHR',
+  'Halfling Aventureiro': 'Compendium.olddragon2e.classes.Item.BMGOU1kveWlIJNx8',
+  Ilusionista: 'Compendium.olddragon2e.classes.Item.PBtvkfo69YBlKrGY',
+  Ladrão: 'Compendium.olddragon2e.classes.Item.o8cAybQI9lQp2MTd',
+  Mago: 'Compendium.olddragon2e.classes.Item.0VpxbklOWK0SaHMY',
+  Necromante: 'Compendium.olddragon2e.classes.Item.auquWM2cFz5Otr9z',
+  Paladino: 'Compendium.olddragon2e.classes.Item.UwfTTsIz4YlhQViE',
+  Proscrito: 'Compendium.olddragon2e.classes.Item.9cxLzlDnQQTEwuhD',
+  Ranger: 'Compendium.olddragon2e.classes.Item.fjNBciFT3punx7Ks',
+  Xamã: 'Compendium.olddragon2e.classes.Item.mLrl21J2PMKmGLuh',
 };
 
 export const importActor = async (json) => {
@@ -52,15 +52,15 @@ export const importActor = async (json) => {
 };
 
 const _jsonToActorData = async (json) => {
-  const raceUUID = RACE_UUIDS[json.race];
-  const classUUID = CLASS_UUIDS[json.class];
+  const raceUUID = RACE_UUIDS[json.character_race_name];
+  const classUUID = CLASS_UUIDS[json.character_class_name];
 
   if (!raceUUID) {
-    ui.notifications.warn(`Raça "${json.race}" não encontrada.`);
+    ui.notifications.warn(`Raça "${json.character_race_name}" não encontrada.`);
   }
 
   if (!classUUID) {
-    ui.notifications.warn(`Classe "${json.class}" não encontrada.`);
+    ui.notifications.warn(`Classe "${json.character_class_name}" não encontrada.`);
   }
 
   const raceItem = raceUUID ? await fromUuid(raceUUID) : null;

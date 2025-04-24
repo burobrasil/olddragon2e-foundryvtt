@@ -1,10 +1,4 @@
 <div class="character-tab-race">
-    {{!-- Infravisão --}}
-    <div class="infravision">
-        <i class="fa-solid fa-eye fa-sm"></i>
-        <label class="font-bold">{{localize "olddragon2e.infravision"}}</label>
-        <input name="system.race.system.infravision" type="text" value="{{system.race.system.infravision}}" data-dtype="String" disabled>
-    </div>
 
     {{!-- Habilidades de Raça --}}
     <div class="race-abilities">
@@ -43,4 +37,13 @@
         <p class="text-center">Adicione uma raça, para visualizar as habilidades listadas aqui.</p>
         {{/if}}
     </div>
+
+    {{!-- Infravisão --}}
+    {{#if system.race.system.infravision}}
+        <div class="infravision">
+            <i class="fa-solid fa-eye fa-sm"></i>
+            <strong>{{localize "olddragon2e.infravision"}}:</strong>
+            <span>{{system.race.system.infravision}}m</span>
+        </div>
+    {{/if}}
 </div>
