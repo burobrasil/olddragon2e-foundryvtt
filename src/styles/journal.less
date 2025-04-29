@@ -34,6 +34,15 @@
     // Journal Page Content (section)
     .journal-page-content {
       .odo-markdown {
+        h2 {
+          margin: 0px;
+          padding: 0px;
+          border-bottom: none;
+          color: @carmesim-600;
+          .text-2xl;
+          .font-bold;
+        }
+
         h3 {
           margin: 0px;
           margin-top: 1rem;
@@ -75,6 +84,16 @@
         p {
           margin-top: 0px;
           margin-bottom: 0.5rem;
+        }
+
+        p img[alt='Ícone - Estrutura'],
+        p img[alt='Ícone - Heráldica'],
+        p img[alt='Ícone - Nomes Locais'],
+        p img[alt='Ícone - Leis'],
+        p img[alt='Ícone - O que Comprar?'],
+        p img[alt='Ícone - O que Comer?'],
+        p img[alt='Ícone - Rumores'] {
+          vertical-align: middle;
         }
 
         p img[title='Estágio 1: Iniciante (estatísticas para 1º e 2º Níveis)'],
@@ -123,6 +142,10 @@
           .font-sanssc;
         }
 
+        ol ::marker {
+          .font-bold;
+        }
+
         ul {
           margin: 0px;
           margin-bottom: 0.75rem;
@@ -133,6 +156,10 @@
           p {
             display: inline;
           }
+        }
+
+        ul.list-style-shield {
+          .list-image-shield !important;
         }
 
         // Images
@@ -148,6 +175,7 @@
         img.small,
         img.flat,
         img.minimap,
+        img.thin,
         img.tiny {
           display: flex;
           margin-top: 2.5rem;
@@ -188,6 +216,10 @@
 
         img.minimap {
           max-height: 20rem;
+        }
+
+        img.thin {
+          max-width: 24rem;
         }
 
         img.tiny {
@@ -393,6 +425,10 @@
           span {
             font-family: 'Alegreya Sans', sans-serif;
           }
+        }
+
+        blockquote p em {
+          font-style: italic;
         }
 
         .redbox,
