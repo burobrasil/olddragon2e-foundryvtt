@@ -19,8 +19,8 @@
   "changelog": "https://github.com/burobrasil/olddragon2e-foundryvtt/releases",
   "version": "This is auto replaced",
   "compatibility": {
-    "minimum": "12",
-    "verified": "12"
+    "minimum": "13",
+    "verified": "13"
   },
   "scripts": [],
   "esmodules": ["module/olddragon2e.js"],
