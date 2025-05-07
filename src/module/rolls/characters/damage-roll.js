@@ -71,7 +71,7 @@ export class DamageRoll extends BaseRoll {
   }
 
   formatMessage() {
-    return `<h2 class='text-center'>Dano com <strong>${this.item.name}</strong></h2>`;
+    return `<div class='title'>Dano com <strong>${this.item.name}</strong></div>`;
   }
 
   /**

@@ -32,13 +32,13 @@ export class KnockoutRoll extends BaseRoll {
   }
 
   formatMessage() {
-    let result = "<strong style='color:#aa0200;'>FALHA</strong>";
+    let result = '<strong class="failure">Falha</strong>';
 
     if (this._success) {
-      result = "<strong style='color:#18520b;'>SUCESSO!</strong>";
+      result = '<strong class="success">Sucesso!</strong>';
     }
 
-    return `<h2 class='text-center'>Chance de <strong>nocaute</strong></h2><p class='text-xl text-center'>${result}</p>`;
+    return `<div class='title'>Chance de <strong>nocaute</strong></div><p class='result'>${result}</p>`;
   }
 
   async roll(bonus) {

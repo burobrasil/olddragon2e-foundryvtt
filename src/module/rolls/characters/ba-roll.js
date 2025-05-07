@@ -112,7 +112,7 @@ export class BARoll extends BaseRoll {
   }
 
   formatMessage(adjustment) {
-    return `<h2 class='text-center'>${this.messageAdjustment(adjustment)} <strong>${this.messageBa}</strong></h2>`;
+    return `<div class='title'>${this.messageAdjustment(adjustment)} <strong>${this.messageBa}</strong></div>`;
   }
 
   /**

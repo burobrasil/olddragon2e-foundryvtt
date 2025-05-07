@@ -48,7 +48,7 @@ export class MonsterDamageRoll extends BaseRoll {
   }
 
   formatMessage() {
-    return `<h2 class='text-center'>Dano com <strong>${this.item.system.description}</strong></h2>`;
+    return `<div class='title'>Dano com <strong>${this.item.system.description}</strong></div>`;
   }
 
   /**
