@@ -1,7 +1,9 @@
 // Journal Content (section)
-.journal-sheet .window-content .journal-sheet-container .journal-entry-content {
+.journal-sheet .window-content .journal-entry-content {
   background: none;
   background-color: white;
+  font-family: 'Alegreya', serif;
+  color: black;
 
   // Journal Header (form)
   .journal-header {
@@ -25,6 +27,7 @@
         margin-top: 0.25rem;
         padding: 0px;
         border-bottom: none;
+        font-family: 'Alegreya', serif;
         color: @carmesim-600;
         .text-2xl;
         .font-bold;
@@ -38,6 +41,7 @@
           margin: 0px;
           padding: 0px;
           border-bottom: none;
+          font-family: 'Alegreya', serif;
           color: @carmesim-600;
           .text-2xl;
           .font-bold;
@@ -48,6 +52,7 @@
           margin-top: 1rem;
           padding: 0px;
           border-bottom: none;
+          font-family: 'Alegreya', serif;
           color: @carmesim-600;
           .text-xl;
           .font-bold;
@@ -66,6 +71,7 @@
           margin-top: 1rem;
           padding: 0px;
           border-bottom: none;
+          font-family: 'Alegreya', serif;
           color: @carmesim-600;
           .text-lg;
           .font-bold;
@@ -76,6 +82,7 @@
           margin-top: 0.5rem;
           padding: 0px;
           border-bottom: none;
+          font-family: 'Alegreya', serif;
           color: @carmesim-600;
           .text-base;
           .font-bold;
@@ -269,19 +276,20 @@
             background-color: transparent;
             color: black;
             text-shadow: none;
-            border-top: none;
-            border-bottom: none;
+            border: none;
 
             tr th {
               padding-left: 0.5rem;
               padding-right: 0.5rem;
               padding-top: 0.25rem;
               padding-bottom: 0.25rem;
+              text-align: center;
             }
 
             tr th img[title='Estágio 1: Iniciante (estatísticas para 1º e 2º Níveis)'],
             tr th img[title='Estágio 2: Heroico (estatísticas para 3º a 5º Níveis)'],
             tr th img[title='Estágio 3: Avançado (estatísticas para 6º a 9º Níveis)'] {
+              margin-inline: auto;
               width: 1rem;
               height: 1rem;
             }
@@ -304,6 +312,10 @@
 
             tr:nth-child(odd) {
               background-color: @dourado-50;
+            }
+
+            tr:nth-child(even) {
+              background-color: transparent;
             }
           }
         }
@@ -387,6 +399,10 @@
           p,
           strong,
           em {
+            font-family: 'Alegreya', serif;
+          }
+
+          em {
             font-style: italic;
           }
         }
@@ -427,7 +443,12 @@
           }
         }
 
+        blockquote.text-right p {
+          font-family: 'Alegreya', serif;
+        }
+
         blockquote p em {
+          font-family: 'Alegreya', serif;
           font-style: italic;
         }
 
