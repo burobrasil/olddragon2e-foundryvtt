@@ -1,5 +1,5 @@
 export function addChatListeners(html) {
-  html.on('click', '.spell-show', onSpellShow);
+  html.querySelector('.spell-show')?.addEventListener('click', onSpellShow);
 }
 
 function onSpellShow(event) {
