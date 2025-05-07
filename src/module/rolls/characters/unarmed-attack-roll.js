@@ -21,8 +21,8 @@ export class UnarmedAttackRoll extends AttackRoll {
    * @returns {string} - The message to display when the attack is successful.
    */
   formatMessage(adjustment) {
-    return `<h2 class='text-center'>${this.messageAdjustment(adjustment)} ${
+    return `<div class='title'>${this.messageAdjustment(adjustment)} ${
       this.messageBa
-    } <strong>desarmado</strong></h2>`;
+    } <strong>desarmado</strong></div>`;
   }
 }

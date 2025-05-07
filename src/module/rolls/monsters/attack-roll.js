@@ -77,9 +77,9 @@ export class MonsterAttackRoll extends BaseRoll {
   }
 
   formatMessage(adjustment) {
-    return `<h2 class='text-center'>${this.messageAdjustment(adjustment)} com <strong>${
+    return `<div class='title'>${this.messageAdjustment(adjustment)} com <strong>${
       this.item.system.description
-    }</strong></h2>`;
+    }</strong></div>`;
   }
 
   /**

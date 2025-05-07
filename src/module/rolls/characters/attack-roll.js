@@ -119,9 +119,9 @@ export class AttackRoll extends BaseRoll {
   }
 
   formatMessage(adjustment) {
-    return `<h2 class='text-center'>${this.messageAdjustment(adjustment)} ${this.messageBa} com <strong>${
+    return `<div class='title'>${this.messageAdjustment(adjustment)} ${this.messageBa} com <strong>${
       this.item.name
-    }</strong></h2>`;
+    }</strong></div>`;
   }
 
   /**

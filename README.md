@@ -19,6 +19,12 @@ Sistema do Old Dragon 2a Edição para FoundryVTT.
 
 O restante da ficha deve ser preenchida e gerenciada manualmente. Mais abaixo você encontra uma lista de pendências com o que planejamos implementar no futuro.
 
+## ⚠️ Aviso de Compatibilidade ⚠️
+
+A versão 2.0.0 deste sistema é compatível **APENAS** com o Foundry Virtual Tabletop versão 13 ou superior. Para utilizar esta nova versão do sistema base, você também deve utilizar o Foundry VTT na versão 13.
+
+Se você não deseja atualizar o seu software principal, continue utilizando a versão 1.1.2 do sistema `olddragon2e`.
+
 ## Instalação
 
 Para instalar, abra o Foundry, vá em Sistemas (_Systems_) em Instalar Sistema (_Install System_), e busque pelo sistema chamado `olddragon2e`.

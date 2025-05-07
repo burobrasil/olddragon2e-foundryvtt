@@ -58,21 +58,19 @@ export class JPRoll extends BaseRoll {
     let jpValue = this.jpValue;
     jpValue += this.formulaAdjustment(adjustment);
 
-    console.log(`JP: ${jpValue} / Total: ${this.roll_result.total} ### V/F: ${this.roll_result.total <= jpValue}`);
-
     return this.roll_result.total <= jpValue;
   }
 
   formatMessage(adjustment) {
-    let result = "<strong style='color:#aa0200;'>FALHA</strong>";
+    let result = '<strong class="failure">Falha</strong>';
 
     if (this._success(adjustment)) {
-      result = "<strong style='color:#18520b;'>SUCESSO!</strong>";
+      result = '<strong class="success">Sucesso!</strong>';
     }
 
-    return `<h2 class='text-center'>${this.messageAdjustment(adjustment)} <strong>${
+    return `<div class='title'>${this.messageAdjustment(adjustment)} <strong>${
       this.jpLabel
-    }</strong></h2><p class='text-xl text-center'>${result}</p>`;
+    }</strong></div><p class="result">${result}</p>`;
   }
 
   async roll(bonus) {

@@ -1,7 +1,7 @@
 import { showDialog } from '../helpers';
 import { AttackRoll, UnarmedAttackRoll, DamageRoll, KnockoutRoll, StatRoll, JPRoll, BARoll } from '../rolls';
 
-export default class OD2CharacterSheet extends ActorSheet {
+export default class OD2CharacterSheet extends foundry.appv1.sheets.ActorSheet {
   static get defaultOptions() {
     return foundry.utils.mergeObject(super.defaultOptions, {
       template: 'systems/olddragon2e/templates/sheets/character-sheet.hbs',
@@ -341,7 +341,7 @@ export default class OD2CharacterSheet extends ActorSheet {
       id: item._id,
       system: item.system,
     };
-    chatData.content = await renderTemplate(chatTemplate, cardData);
+    chatData.content = await foundry.applications.handlebars.renderTemplate(chatTemplate, cardData);
     return ChatMessage.create(chatData);
   }
 

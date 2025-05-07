@@ -1,6 +1,6 @@
 <div class="spell" data-item-id="{{id}}" data-owner-id="{{owner}}">
     {{!-- Nome da Magia --}}
-    <h2 class="text-center"><strong><a class="spell-show" title="{{localize 'olddragon2e.show'}}">{{truncate name 22}}</a></strong></h2>
+    <div class="title"><strong><a class="spell-show" title="{{localize 'olddragon2e.show'}}">{{truncate name 22}}</a></strong></div>
     {{!-- Tipo e Círculo --}}
     <div class="italic">
         {{#ifCond system.arcane '<=' "9"}}

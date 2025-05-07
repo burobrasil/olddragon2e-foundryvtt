@@ -20,7 +20,7 @@ export async function showDialog(options) {
   let _content = content;
 
   if (content.endsWith('.hbs')) {
-    _content = await renderTemplate(content, options.data);
+    _content = await foundry.applications.handlebars.renderTemplate(content, options.data);
   }
 
   const _buttons = {};

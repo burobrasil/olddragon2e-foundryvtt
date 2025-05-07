@@ -24,7 +24,7 @@ export default class OD2Item extends Item {
       owner: this.actor.id,
     };
 
-    chatData.content = await renderTemplate(this.chatTemplate[this.type], cardData);
+    chatData.content = await foundry.applications.handlebars.renderTemplate(this.chatTemplate[this.type], cardData);
 
     chatData.roll = true;
 

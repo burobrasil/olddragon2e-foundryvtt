@@ -163,7 +163,7 @@ export class MonsterDVRoll extends BaseRoll {
       resultText = ` ${hp.total}${bonusText}`;
     }
 
-    return `<h2 class="text-center">Rolagem de <strong>Pontos de Vida</strong></h2><p class="text-center">PV Totais: ${resultText}</p>`;
+    return `<div class="title">Rolagem de <strong>Pontos de Vida</strong></div><p class="result">PV Totais: ${resultText}</p>`;
   }
 
   /**

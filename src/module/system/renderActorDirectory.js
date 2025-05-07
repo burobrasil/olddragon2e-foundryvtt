@@ -6,11 +6,13 @@ import { showCharacterImporter } from '../dialogs/characterImporter';
  */
 export const renderActorDirectory = (app, html) => {
   if (game.user.can('ACTOR_CREATE')) {
+    if (html.querySelector('.import-character-button')) return;
+
     const section = document.createElement('header');
     section.classList.add('character-generator');
     section.classList.add('directory-header');
 
-    const dirHeader = html[0].querySelector('.directory-header');
+    const dirHeader = html.querySelector('.directory-header');
     dirHeader.parentNode.insertBefore(section, dirHeader);
     section.insertAdjacentHTML(
       'afterbegin',

@@ -54,21 +54,20 @@ export class MonsterMORoll extends BaseRoll {
   _success(adjustment) {
     let moValue = this.moValue;
     moValue += this.formulaAdjustment(adjustment);
-    console.log(`MO: ${moValue} / Total: ${this.roll_result.total} ### V/F: ${this.roll_result.total <= moValue}`);
 
     return this.roll_result.total <= moValue;
   }
 
   formatMessage(adjustment) {
-    let result = "<strong style='color:#aa0200;'>FALHA</strong>";
+    let result = '<strong class="failure">Falha</strong>';
 
     if (this._success(adjustment)) {
-      result = "<strong style='color:#18520b;'>SUCESSO!</strong>";
+      result = '<strong class="success">Sucesso!</strong>';
     }
 
-    return `<h2 class='text-center'>${this.messageAdjustment(
+    return `<div class='title'>${this.messageAdjustment(
       adjustment,
-    )} <strong>Moral</strong></h2><p class='text-xl text-center'>${result}</p>`;
+    )} <strong>Moral</strong></div><p class='result'>${result}</p>`;
   }
 
   async roll(bonus) {

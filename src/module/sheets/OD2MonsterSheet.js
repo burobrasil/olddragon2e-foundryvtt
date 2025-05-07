@@ -1,7 +1,7 @@
 import { showDialog } from '../helpers';
 import { MonsterJPRoll, MonsterMORoll, MonsterDVRoll, MonsterAttackRoll, MonsterDamageRoll } from '../rolls';
 
-export default class OD2MonsterSheet extends ActorSheet {
+export default class OD2MonsterSheet extends foundry.appv1.sheets.ActorSheet {
   static get defaultOptions() {
     return foundry.utils.mergeObject(super.defaultOptions, {
       template: 'systems/olddragon2e/templates/sheets/monster-sheet.hbs',
