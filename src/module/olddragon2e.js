@@ -55,16 +55,16 @@ Hooks.once('init', async () => {
     monster_attack: OD2MonsterAttackDataModel,
   };
 
-  Items.unregisterSheet('core', ItemSheet);
-  Items.registerSheet('olddragon2e', OD2ItemSheet, { makeDefault: true });
+  foundry.documents.collections.Items.unregisterSheet('core', foundry.appv1.sheets.ItemSheet);
+  foundry.documents.collections.Items.registerSheet('olddragon2e', OD2ItemSheet, { makeDefault: true });
 
-  Actors.unregisterSheet('core', ActorSheet);
-  Actors.registerSheet('olddragon2e', OD2CharacterSheet, {
+  foundry.documents.collections.Actors.unregisterSheet('core', foundry.appv1.sheets.ActorSheet);
+  foundry.documents.collections.Actors.registerSheet('olddragon2e', OD2CharacterSheet, {
     types: ['character'],
     label: 'Personagem',
     makeDefault: true,
   });
-  Actors.registerSheet('olddragon2e', OD2MonsterSheet, {
+  foundry.documents.collections.Actors.registerSheet('olddragon2e', OD2MonsterSheet, {
     types: ['monster'],
     label: 'Monstro/Inimigo',
     makeDefault: true,

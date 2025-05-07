@@ -31,5 +31,5 @@ export async function preloadTemplates() {
     'systems/olddragon2e/templates/partials/cards/monster_attack-card.hbs',
   ];
 
-  return loadTemplates(templatePaths);
+  return foundry.applications.handlebars.loadTemplates(templatePaths);
 }

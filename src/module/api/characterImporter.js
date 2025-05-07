@@ -161,14 +161,14 @@ const _downloadAndSaveImage = async (url) => {
   const filePath = `${folderPath}/${fileName}.webp`;
 
   try {
-    await FilePicker.browse('data', folderPath);
+    await foundry.applications.apps.FilePicker.implementation.browse('data', folderPath);
   } catch (e) {
     if (e.message.includes('does not exist or is not accessible')) {
       const parts = folderPath.split('/');
       for (let i = 1; i <= parts.length; i++) {
         const subPath = parts.slice(0, i).join('/');
         try {
-          await FilePicker.createDirectory('data', subPath);
+          await foundry.applications.apps.FilePicker.implementation.createDirectory('data', subPath);
         } catch (err) {
           if (!err.message.includes('EEXIST')) {
             throw err;
@@ -180,7 +180,7 @@ const _downloadAndSaveImage = async (url) => {
     }
   }
 
-  await FilePicker.upload('data', folderPath, file, { bucket: null });
+  await foundry.applications.apps.FilePicker.implementation.upload('data', folderPath, file, { bucket: null });
 
   return filePath;
 };

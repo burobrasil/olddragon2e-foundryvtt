@@ -1,4 +1,4 @@
-export default class OD2ItemSheet extends ItemSheet {
+export default class OD2ItemSheet extends foundry.appv1.sheets.ItemSheet {
   static get defaultOptions() {
     return foundry.utils.mergeObject(super.defaultOptions, {
       classes: ['olddragon2e', 'sheet', 'item'],
