@@ -7,8 +7,8 @@ on:
 env:
   package_type: system
   node_version: 20
-  fvtt_minimum: 11
-  fvtt_verified: 12
+  fvtt_minimum: 13
+  fvtt_verified: 13
   fvtt_dry_run: false
 
 jobs:
