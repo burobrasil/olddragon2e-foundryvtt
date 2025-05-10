@@ -390,6 +390,31 @@
     "import": "Importar",
     "cancel": "Cancelar",
     "none": "Nenhum",
-    "null": "–"
+    "null": "–",
+
+    "settings": {
+      "initiativeType": {
+        "name": "Tipo de Iniciativa",
+        "hint": "Escolha entre a iniciativa individual (1d12) ou a iniciativa padrão baseada em atributos (Destreza/Sabedoria).",
+        "choices": {
+          "individual": "Individual (1d12)",
+          "standard": "Padrão (Destreza/Sabedoria)"
+        }
+      }
+    },
+
+    "initiative": {
+      "test": "Teste de Iniciativa",
+      "auto_rolled": "Rolado automaticamente para combatentes sem iniciativa.",
+      "combatant": "Combatente",
+      "roll": "Rolagem",
+      "target": "Alvo",
+      "result": "Resultado",
+      "npc": "NPC",
+      "invalid_attributes": "Atributos inválidos para o personagem \"{name}\". Verifique Destreza e Sabedoria.",
+      "error_checking_type": "Erro ao verificar o tipo de iniciativa:",
+      "auto_rolling_notification": "Combatentes sem iniciativa detectados. Rolando automaticamente.",
+      "system": "Sistema"
+    }
   }
 }

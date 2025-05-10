@@ -15,7 +15,8 @@ Sistema do Old Dragon 2a Edição para FoundryVTT.
 - **Gerenciamento de Magias e Equipamentos:** Permite adicionar, editar, mover, remover e lançar magias, bem como gerenciar equipamentos. Alterações em itens refletem dinamicamente no Peso Total, Valor Total e Carga Atual/Máxima do personagem;
 - **Equipar/Desequipar itens**: Permite equipar/desequipar Armas, Armaduras, Escudos, Recipientes & Vasilhames. Armas equipadas são exibidas na aba "Ataques". Ao equipar uma Armadura ou Escudo, os bônus de CA são adicionados automaticamente à Classe de Armadura do personagem. Ao equipar uma Mochila, o valor da Carga Máxima permitida é atualizado automaticamente.
 - **Compêndio SRD**: O módulo inclui gratuitamente o compêndio "SRD". Esta coleção concisa e compacta inclui Raças, Classes, Equipamentos, Magias, Monstros & Inimigos, Tabelas de Rolagem, Personagens Prontos, além do SRD (Documento de Referência) em si, o que possibilita consultar regras e instruções sem a necessidade de sair do aplicativo.
-- **Iniciativa (Combat Encounter)**: O módulo utiliza a regra de iniciativa alternativa "Iniciativa Individual", presente no LB2 (pág. 88). Ao adicionar Personagens e Monstros & Inimigos a um Encontro, utilizando o _Combat Encounter_, ao clicar em "Rolar Iniciativa" será lançado 1d12 para cada participante do combate. Os personagens com os resultados mais altos agem primeiro. Por tanto, a ordem das ações será: Maior resultado > 2º maior resultado > 3º maior resultado.
+- **Iniciativa (Combat Encounter)**: O módulo utiliza a regra de iniciativa alternativa "Iniciativa Individual", presente no LB2 (pág. 88) e a iniciativa padrão, presente no LB1 (pág. 81). Você pode escolher qual regra de iniciativa quer utilizar no menu de Condigurações do Jogo. Utilizando a iniciativa alternativa, ao adicionar Personagens e Monstros & Inimigos a um Encontro, utilizando o _Combat Encounter_, ao clicar em "Rolar Iniciativa" será lançado 1d12 para cada participante do combate. Os personagens com os resultados mais altos agem primeiro. Por tanto, a ordem das ações será: Maior resultado > 2º maior resultado > 3º maior resultado. 
+Utilizando a iniciativa padrão, ao adicionar Personagens e Monstros & Inimigos a um Encontro, utilizando o _Combat Encounter_, ao clicar em "Rolar Iniciativa", serão realizados os testes de iniciativa e, ao clicar em "Iniciar Combate", os combatentes serão organizados de acordo com o sucesso no teste. Portanto, a ordem das ações será: Personagens que obtiveram sucesso no teste > Monstros & Inimigos > Personagens que falharam no teste.
 
 O restante da ficha deve ser preenchida e gerenciada manualmente. Mais abaixo você encontra uma lista de pendências com o que planejamos implementar no futuro.
 
@@ -64,6 +65,7 @@ Esta funcionalidade ainda será aprimorada.
 - [Igor Téuri](https://github.com/igorteuri)
 - [Brayan Hemel](https://www.youtube.com/@BrayanHemel)
 - [Samuel Grave](https://github.com/itsmegrave)
+- [Edson Junior](https://github.com/eddsonjrk1/)
 
 ## Development
 
