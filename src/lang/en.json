@@ -390,6 +390,31 @@
     "import": "Import",
     "cancel": "Cancel",
     "none": "None",
-    "null": "–"
+    "null": "–",
+
+    "settings": {
+      "initiativeType": {
+        "name": "Initiative Type",
+        "hint": "Choose between individual initiative (1d12) or standard attribute-based initiative (Dexterity/Wisdom).",
+        "choices": {
+          "individual": "Individual (1d12)",
+          "standard": "Standard (Dexterity/Wisdom)"
+        }
+      }
+    },
+
+    "initiative": {
+      "test": "Initiative Test",
+      "auto_rolled": "Automatically rolled for combatants without initiative.",
+      "combatant": "Combatant",
+      "roll": "Roll",
+      "target": "Target",
+      "result": "Result",
+      "npc": "NPC",
+      "invalid_attributes": "Invalid attributes for character \"{name}\". Check Dexterity and Wisdom.",
+      "error_checking_type": "Error checking initiative type:",
+      "auto_rolling_notification": "Combatants without initiative detected. Rolling automatically.",
+      "system": "System"
+    }
   }
 }

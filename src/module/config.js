@@ -1,5 +1,11 @@
 export const olddragon2e = {};
 
+// Configurações de iniciativa
+olddragon2e.initiativeTypes = {
+  individual: 'Individual (1d12)',
+  standard: 'Padrão (Destreza/Sabedoria)',
+};
+
 olddragon2e.levels = {
   1: 'olddragon2e.levels.1',
   2: 'olddragon2e.levels.2',

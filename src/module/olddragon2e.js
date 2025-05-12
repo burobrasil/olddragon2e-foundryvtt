@@ -9,6 +9,9 @@ import OD2ItemSheet from './sheets/OD2ItemSheet.js';
 import OD2CharacterSheet from './sheets/OD2CharacterSheet.js';
 import OD2MonsterSheet from './sheets/OD2MonsterSheet.js';
 import { renderActorDirectory } from './system/renderActorDirectory.js';
+import { registerSettings, getInitiativeType } from './settings.js';
+// Importar o módulo de iniciativa diretamente para evitar importação dinâmica
+import * as InitiativeModule from './rolls/initiative.js';
 
 import { OD2CharacterDataModel } from './actors/OD2CharacterDataModel.js';
 import { OD2MonsterDataModel } from './actors/OD2MonsterDataModel.js';
@@ -70,6 +73,13 @@ Hooks.once('init', async () => {
     makeDefault: true,
   });
 
+  // Disponibilizar o módulo de iniciativa globalmente
+  game.olddragon2e = game.olddragon2e || {};
+  game.olddragon2e.InitiativeModule = InitiativeModule;
+
+  // Registrar configurações do sistema
+  registerSettings();
+
   // Register custom Handlebars helpers
   registerHandlebarsHelper();
 
@@ -87,6 +97,26 @@ Hooks.once('setup', async () => {
 // When ready
 Hooks.once('ready', async () => {
   // Do anything once the system is ready
+
+  // Configurar iniciativa com base nas configurações
+  const initiativeType = getInitiativeType();
+  if (initiativeType === 'individual') {
+    CONFIG.Combat.initiative = {
+      formula: '1d12',
+      decimals: 0,
+    };
+    console.log('olddragon2e | Iniciativa individual (1d12) configurada');
+  } else if (initiativeType === 'standard') {
+    // Usar a iniciativa baseada em atributos
+    CONFIG.Combat.initiative = {
+      formula: '1d20',
+      decimals: 0,
+    };
+
+    // Inicializar o módulo de iniciativa personalizada
+    InitiativeModule.initializeAttributeInitiative();
+    console.log('olddragon2e | Iniciativa standard (baseada em atributos) configurada');
+  }
 });
 
 // Add any additional hooks if necessary
