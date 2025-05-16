@@ -15,8 +15,7 @@ Sistema do Old Dragon 2a Edição para FoundryVTT.
 - **Gerenciamento de Magias e Equipamentos:** Permite adicionar, editar, mover, remover e lançar magias, bem como gerenciar equipamentos. Alterações em itens refletem dinamicamente no Peso Total, Valor Total e Carga Atual/Máxima do personagem;
 - **Equipar/Desequipar itens**: Permite equipar/desequipar Armas, Armaduras, Escudos, Recipientes & Vasilhames. Armas equipadas são exibidas na aba "Ataques". Ao equipar uma Armadura ou Escudo, os bônus de CA são adicionados automaticamente à Classe de Armadura do personagem. Ao equipar uma Mochila, o valor da Carga Máxima permitida é atualizado automaticamente.
 - **Compêndio SRD**: O módulo inclui gratuitamente o compêndio "SRD". Esta coleção concisa e compacta inclui Raças, Classes, Equipamentos, Magias, Monstros & Inimigos, Tabelas de Rolagem, Personagens Prontos, além do SRD (Documento de Referência) em si, o que possibilita consultar regras e instruções sem a necessidade de sair do aplicativo.
-- **Iniciativa (Combat Encounter)**: O módulo utiliza a regra de iniciativa alternativa "Iniciativa Individual", presente no LB2 (pág. 88) e a iniciativa padrão, presente no LB1 (pág. 81). Você pode escolher qual regra de iniciativa quer utilizar no menu de Condigurações do Jogo. Utilizando a iniciativa alternativa, ao adicionar Personagens e Monstros & Inimigos a um Encontro, utilizando o _Combat Encounter_, ao clicar em "Rolar Iniciativa" será lançado 1d12 para cada participante do combate. Os personagens com os resultados mais altos agem primeiro. Por tanto, a ordem das ações será: Maior resultado > 2º maior resultado > 3º maior resultado. 
-Utilizando a iniciativa padrão, ao adicionar Personagens e Monstros & Inimigos a um Encontro, utilizando o _Combat Encounter_, ao clicar em "Rolar Iniciativa", serão realizados os testes de iniciativa e, ao clicar em "Iniciar Combate", os combatentes serão organizados de acordo com o sucesso no teste. Portanto, a ordem das ações será: Personagens que obtiveram sucesso no teste > Monstros & Inimigos > Personagens que falharam no teste.
+- **Iniciativa (Combat Encounter)**: Por padrão, o sistema utiliza a regra de **Iniciativa Padrão (Destreza/Sabedoria)**, conforme descrita no LB1 (pág. 81). Ainda assim, você pode optar pela regra alternativa de **Iniciativa Individual (1d12)**, do LB2 (pág. 88), acessando o menu de configurações.<br><br>Com a Iniciativa Padrão, ao adicionar Personagens e Monstros & Inimigos a um Encontro, utilizando o _Combat Encounter_, e clicar em "Rolar Iniciativa", serão realizados testes de iniciativa com base nos atributos apropriados. Ao clicar em "Iniciar Combate", os participantes serão organizados da seguinte forma: Personagens (PCs) que obtiveram sucesso no teste > Monstros & Inimigos (NPCs) > Personagens (PCs) que falharam no teste.<br><br>Já com a Iniciativa Individual, ao clicar em "Rolar Iniciativa", será rolado 1d12 para cada combatente. A ordem de ação segue os resultados do dado, do maior para o menor: Maior resultado > 2º maior resultado > 3º maior resultado, e assim por diante.
 
 O restante da ficha deve ser preenchida e gerenciada manualmente. Mais abaixo você encontra uma lista de pendências com o que planejamos implementar no futuro.
 
@@ -46,8 +45,6 @@ O sistema `olddragon2e` para Foundry VTT está em desenvolvimento contínuo, por
 - Bônus no dano com arcos proveniente de Habilidades de Raça;
 - Bônus em Talentos de Ladrão proveniente de Habilidades de Raça;
 - Habilidades de Classe não tiveram suas mecânicas implementadas. Apenas a descrição e a capacidade de uso diário dessas habilidades estão sendo exibidos;
-- Controle de uso de Magias;
-- Sistema de Iniciativa (Combat Encounter) padrão do LB1.
 
 ## Importação de personagens
 

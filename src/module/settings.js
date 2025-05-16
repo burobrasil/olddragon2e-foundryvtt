@@ -7,10 +7,10 @@ export const registerSettings = function () {
     config: true,
     type: String,
     choices: {
-      individual: game.i18n.localize('olddragon2e.settings.initiativeType.choices.individual'),
       standard: game.i18n.localize('olddragon2e.settings.initiativeType.choices.standard'),
+      individual: game.i18n.localize('olddragon2e.settings.initiativeType.choices.individual'),
     },
-    default: 'individual',
+    default: 'standard',
     onChange: (value) => {
       // Update the initiative formula based on the choice
       if (value === 'individual') {
