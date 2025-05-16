@@ -1,18 +1,73 @@
+<div class="spell-memorized">
+    <input type="checkbox"
+           title="{{#if flags.olddragon2e.spell.memorized}}Esquecer{{else}}Memorizar{{/if}}"
+           class="memorized-toggle"
+           data-item-id="{{_id}}"
+           {{#if flags.olddragon2e.spell.memorized}}checked{{/if}}>
+</div>
+<div class="spell-slots">
+    <select class="slots-select"
+            data-item-id="{{_id}}"
+            {{#unless flags.olddragon2e.spell.memorized}}disabled{{/unless}}>
+        <option value="">–</option>
+        {{#if (and system.arcane (gte (toNumber system.arcane) 1) (lte (toNumber system.arcane) 9))}}
+            {{#each (range 1 9) as |i|}}
+                <option value="{{i}}"
+                    {{#ifCond ../flags.olddragon2e.spell.slots '==' i}}selected{{/ifCond}}>
+                    {{i}}
+                </option>
+            {{/each}}
+        {{else if (and system.divine (gte (toNumber system.divine) 1) (lte (toNumber system.divine) 7))}}
+            {{#each (range 1 7) as |i|}}
+                <option value="{{i}}"
+                    {{#ifCond ../flags.olddragon2e.spell.slots '==' i}}selected{{/ifCond}}>
+                    {{i}}
+                </option>
+            {{/each}}
+        {{else if (and system.necromancer (gte (toNumber system.necromancer) 1) (lte (toNumber system.necromancer) 9))}}
+            {{#each (range 1 9) as |i|}}
+                <option value="{{i}}"
+                    {{#ifCond ../flags.olddragon2e.spell.slots '==' i}}selected{{/ifCond}}>
+                    {{i}}
+                </option>
+            {{/each}}
+        {{else if (and system.illusionist (gte (toNumber system.illusionist) 1) (lte (toNumber system.illusionist) 9))}}
+            {{#each (range 1 9) as |i|}}
+                <option value="{{i}}"
+                    {{#ifCond ../flags.olddragon2e.spell.slots '==' i}}selected{{/ifCond}}>
+                    {{i}}
+                </option>
+            {{/each}}
+        {{/if}}
+    </select>
+</div>
+<div class="spell-daily-uses">
+    {{#if (and flags.olddragon2e.spell.memorized flags.olddragon2e.spell.slots)}}
+        {{#each (range 1 flags.olddragon2e.spell.slots) as |i|}}
+            <input type="checkbox"
+                   title="{{#if (lookup ../flags.olddragon2e.spell.daily-uses (toString i))}}Recuperar{{else}}Lançar{{/if}}"
+                   class="spell-use-checkbox"
+                   data-item-id="{{../_id}}"
+                   data-use-index="{{i}}"
+                   {{#if (lookup ../flags.olddragon2e.spell.daily-uses (toString i))}}checked{{/if}}>
+        {{/each}}
+    {{/if}}
+</div>
 <div class="spell-name">
-    <a class="item-edit" title="{{localize 'olddragon2e.open'}}">{{truncate name 22}}</a>
+    <a class="item-edit" title="{{localize 'olddragon2e.open'}}">{{name}}</a>
 </div>
 <div class="spell-school">
     {{#ifCond system.arcane '<=' "9"}}
-    {{localize 'olddragon2e.arcane_spell'}} ({{system.arcane}}º)
+    <div class="spell-school-tag arcane-tag" title="{{localize 'olddragon2e.arcane_spell'}}">{{localize 'olddragon2e.arcane_spell_short'}}</div>
     {{/ifCond}}
     {{#ifCond system.divine '<=' "7"}}
-    {{localize 'olddragon2e.divine_spell'}} ({{system.divine}}º)
+    <div class="spell-school-tag divine-tag" title="{{localize 'olddragon2e.divine_spell'}}">{{localize 'olddragon2e.divine_spell_short'}}</div>
     {{/ifCond}}
     {{#ifCond system.necromancer '<=' "9"}}
-    {{localize 'olddragon2e.necromancer_spell'}} ({{system.necromancer}}º)
+    <div class="spell-school-tag necromancer-tag" title="{{localize 'olddragon2e.necromancer_spell'}}">{{localize 'olddragon2e.necromancer_spell_short'}}</div>
     {{/ifCond}}
     {{#ifCond system.illusionist '<=' "9"}}
-    {{localize 'olddragon2e.illusionist_spell'}} ({{system.illusionist}}º)
+    <div class="spell-school-tag illusionist-tag" title="{{localize 'olddragon2e.illusionist_spell'}}">{{localize 'olddragon2e.illusionist_spell_short'}}</div>
     {{/ifCond}}
 </div>
 <div class="spell-range">
@@ -32,6 +87,15 @@
 <div class="spell-jp">
     {{#if system.jp}}
     {{system.jp}}
+    {{else}}
+    –
+    {{/if}}
+</div>
+<div class="invisible spell-damage">
+    {{#if system.damage}}
+    <a class="border-button" title="{{localize 'olddragon2e.damage_roll'}}">
+        <i class="fa-light fa-dice-d20"></i> {{system.damage}}
+    </a>
     {{else}}
     –
     {{/if}}
