@@ -2,6 +2,8 @@
 import { registerHandlebarsHelper } from './helpers';
 import { preloadTemplates } from './preloadTemplates.js';
 
+import './macros/index.js';
+
 import { olddragon2e } from './config.js';
 import * as Chat from './chat.js';
 import OD2Item from './OD2Item.js';
@@ -10,8 +12,28 @@ import OD2CharacterSheet from './sheets/OD2CharacterSheet.js';
 import OD2MonsterSheet from './sheets/OD2MonsterSheet.js';
 import { renderActorDirectory } from './system/renderActorDirectory.js';
 import { registerSettings, getInitiativeType } from './settings.js';
+
 // Importar o módulo de iniciativa diretamente para evitar importação dinâmica
 import * as InitiativeModule from './rolls/initiative.js';
+
+// Importar a classes de rolagem para disponibilizá-las globalmente
+import { BaseRoll } from './rolls/baseRoll.js';
+import {
+  AttackRoll,
+  UnarmedAttackRoll,
+  DamageRoll,
+  KnockoutRoll,
+  JPRoll,
+  BARoll,
+  StatRoll,
+} from './rolls/characters/index.js';
+import {
+  MonsterJPRoll,
+  MonsterMORoll,
+  MonsterDVRoll,
+  MonsterAttackRoll,
+  MonsterDamageRoll,
+} from './rolls/monsters/index.js';
 
 import { OD2CharacterDataModel } from './actors/OD2CharacterDataModel.js';
 import { OD2MonsterDataModel } from './actors/OD2MonsterDataModel.js';
@@ -76,6 +98,21 @@ Hooks.once('init', async () => {
   // Disponibilizar o módulo de iniciativa globalmente
   game.olddragon2e = game.olddragon2e || {};
   game.olddragon2e.InitiativeModule = InitiativeModule;
+
+  // Disponibilizar as classes de rolagem globalmente
+  game.olddragon2e.BaseRoll = BaseRoll;
+  game.olddragon2e.AttackRoll = AttackRoll;
+  game.olddragon2e.UnarmedAttackRoll = UnarmedAttackRoll;
+  game.olddragon2e.DamageRoll = DamageRoll;
+  game.olddragon2e.KnockoutRoll = KnockoutRoll;
+  game.olddragon2e.JPRoll = JPRoll;
+  game.olddragon2e.BARoll = BARoll;
+  game.olddragon2e.StatRoll = StatRoll;
+  game.olddragon2e.MonsterJPRoll = MonsterJPRoll;
+  game.olddragon2e.MonsterMORoll = MonsterMORoll;
+  game.olddragon2e.MonsterDVRoll = MonsterDVRoll;
+  game.olddragon2e.MonsterAttackRoll = MonsterAttackRoll;
+  game.olddragon2e.MonsterDamageRoll = MonsterDamageRoll;
 
   // Registrar configurações do sistema
   registerSettings();
