@@ -15,6 +15,54 @@ export default class OD2CharacterSheet extends foundry.appv1.sheets.ActorSheet {
   async getData() {
     const baseData = super.getData();
 
+    // Magias por círculo
+    const spellItems = baseData.actor.system.spell_items;
+    const spellByCircle = {};
+
+    // Inicializa círculos (1º ao 9º)
+    for (let i = 1; i <= 9; i++) {
+      spellByCircle[i] = {
+        circle: i,
+        spells: [],
+      };
+    }
+
+    // Distribui magias nos círculos correspondentes
+    if (spellItems && spellItems.length > 0) {
+      spellItems.forEach((spell) => {
+        // Determina o círculo da magia (Arcana, Divina, Necromante ou Ilusionista)
+        let circle = null;
+
+        if (spell.system.arcane && spell.system.arcane !== 'null' && parseInt(spell.system.arcane) > 0) {
+          circle = parseInt(spell.system.arcane);
+        } else if (spell.system.divine && spell.system.divine !== 'null' && parseInt(spell.system.divine) > 0) {
+          circle = parseInt(spell.system.divine);
+        } else if (
+          spell.system.necromancer &&
+          spell.system.necromancer !== 'null' &&
+          parseInt(spell.system.necromancer) > 0
+        ) {
+          circle = parseInt(spell.system.necromancer);
+        } else if (
+          spell.system.illusionist &&
+          spell.system.illusionist !== 'null' &&
+          parseInt(spell.system.illusionist) > 0
+        ) {
+          circle = parseInt(spell.system.illusionist);
+        }
+
+        // Vincula a magia ao círculo correspondente
+        if (circle && spellByCircle[circle]) {
+          spellByCircle[circle].spells.push(spell);
+        } else {
+          // Fallback: Se não possui círculo definido, vincula ao 1º círculo
+          if (spellByCircle[1]) {
+            spellByCircle[1].spells.push(spell);
+          }
+        }
+      });
+    }
+
     let sheetData = {
       owner: this.actor.isOwner,
       editable: this.isEditable,
@@ -31,6 +79,7 @@ export default class OD2CharacterSheet extends foundry.appv1.sheets.ActorSheet {
       container: baseData.actor.system.container_items,
       vehicle: baseData.actor.system.vehicle_items,
       spell: baseData.actor.system.spell_items,
+      spell_by_circle: spellByCircle,
       config: CONFIG.olddragon2e,
     };
 
@@ -137,6 +186,10 @@ export default class OD2CharacterSheet extends foundry.appv1.sheets.ActorSheet {
       html.find('.damage-roll').click(this._onDamageRoll.bind(this));
       html.find('.knockout-roll').click(this._onKnockoutRoll.bind(this));
       html.find('.spell-cast').click(this._onSpellCast.bind(this));
+      html.find('.memorized-toggle').change(this._onSpellMemorizedToggle.bind(this));
+      html.find('.slots-select').change(this._onSpellSlotsChange.bind(this));
+      html.find('.spell-use-checkbox').change(this._onSpellUseCheckboxChange.bind(this));
+      html.find('.class-ability-use-checkbox').change(this._onClassAbilityUseCheckboxChange.bind(this));
       html.find('.stat-roll').click(this._onStatRoll.bind(this));
       html.find('.jp-roll').click(this._onJPRoll.bind(this));
       html.find('.ba-roll').click(this._onBARoll.bind(this));
@@ -325,10 +378,24 @@ export default class OD2CharacterSheet extends foundry.appv1.sheets.ActorSheet {
   }
 
   // Lançar magia
-  async _onSpellCast(event) {
+  async _onSpellCast(event, options = {}) {
     event.preventDefault();
     const itemID = event.currentTarget.closest('.item').dataset.itemId;
     const item = this.actor.items.get(itemID);
+
+    // Verifica se o item é uma magia e se ela está memorizada
+    if (item.type === 'spell') {
+      const spellFlags = item.getFlag('olddragon2e', 'spell') || {};
+      if (!spellFlags.memorized) {
+        ui.notifications.warn(`A magia "${item.name}" não está preparada. Memorize a magia para poder lançá-la.`);
+        return;
+      }
+      if (!spellFlags.slots || Number(spellFlags.slots) < 1) {
+        ui.notifications.warn('É necessário determinar a quantidade de usos de uma magia para poder lançá-la.');
+        return;
+      }
+    }
+
     const chatTemplate = 'systems/olddragon2e/templates/chat/spell-chat.hbs';
     let chatData = {
       user: game.user.id,
@@ -342,7 +409,126 @@ export default class OD2CharacterSheet extends foundry.appv1.sheets.ActorSheet {
       system: item.system,
     };
     chatData.content = await foundry.applications.handlebars.renderTemplate(chatTemplate, cardData);
+
+    if (item.type === 'spell') {
+      const spellFlags = item.getFlag('olddragon2e', 'spell') || {};
+      const slots = Number(spellFlags.slots) || 0;
+      let dailyUses = foundry.utils.duplicate(spellFlags['daily-uses'] || {});
+      let used = false;
+
+      // Só marca o uso se não for um lançamento via checkbox já marcado
+      if (!options.skipUsage) {
+        for (let i = 1; i <= slots; i++) {
+          if (!dailyUses[i]) {
+            dailyUses[i] = true;
+            used = true;
+            break;
+          }
+        }
+        if (slots > 0 && used) {
+          await item.update({ 'flags.olddragon2e.spell.daily-uses': dailyUses });
+        }
+        if (slots > 0 && !used) {
+          ui.notifications.warn(`Não há mais usos disponíveis para a magia "${item.name}".`);
+          return;
+        }
+      }
+    }
+
     return ChatMessage.create(chatData);
+  }
+
+  // Memorizar magia
+  async _onSpellMemorizedToggle(event) {
+    const input = event.currentTarget;
+    const itemId = input.dataset.itemId;
+    const item = this.actor.items.get(itemId);
+    const memorized = input.checked;
+
+    // Ao desmarcar, limpa slots e usos
+    let update = { 'flags.olddragon2e.spell.memorized': memorized };
+    if (!memorized) {
+      update['flags.olddragon2e.spell.slots'] = '';
+      update['flags.olddragon2e.spell.uses'] = {};
+    }
+    await item.update(update);
+  }
+
+  // Definir a quantidade de slots disponíveis
+  async _onSpellSlotsChange(event) {
+    const select = event.currentTarget;
+    const itemId = select.dataset.itemId;
+    const item = this.actor.items.get(itemId);
+    const slots = select.value ? Number(select.value) : '';
+
+    // Ao alterar a quantidade de slots, zera os usos
+    await item.update({
+      'flags.olddragon2e.spell.slots': slots,
+      'flags.olddragon2e.spell.daily-uses': {},
+    });
+  }
+
+  // Usos diários de magia
+  async _onSpellUseCheckboxChange(event) {
+    const checkbox = event.currentTarget;
+    const itemId = checkbox.dataset.itemId;
+    const useIndex = checkbox.dataset.useIndex;
+    const item = this.actor.items.get(itemId);
+
+    // Atualiza apenas o uso marcado
+    const spellFlags = item.getFlag('olddragon2e', 'spell') || {};
+    let dailyUses = foundry.utils.duplicate(spellFlags['daily-uses'] || {});
+    dailyUses[useIndex] = checkbox.checked;
+
+    await item.update({ 'flags.olddragon2e.spell.daily-uses': dailyUses });
+
+    // Lança a magia se o checkbox foi marcado
+    if (checkbox.checked) {
+      // Cria um evento "falso" para reaproveitar o método _onSpellCast
+      const itemElem = checkbox.closest('.item');
+      if (itemElem) {
+        // Simula um evento de clique no botão "Lançar"
+        const fakeEvent = new Event('click');
+        Object.defineProperty(fakeEvent, 'currentTarget', {
+          writable: false,
+          value: itemElem.querySelector('.spell-cast'),
+        });
+        await this._onSpellCast(fakeEvent, { skipUsage: true });
+      } else {
+        // Se não encontrar o elemento .item, chama diretamente o método
+        await this._onSpellCast(
+          {
+            preventDefault: () => {},
+            currentTarget: { closest: () => ({ dataset: { itemId } }) },
+          },
+          { skipUsage: true },
+        );
+      }
+    }
+  }
+
+  // Usos diários de habilidade de classe
+  async _onClassAbilityUseCheckboxChange(event) {
+    const checkbox = event.currentTarget;
+    const abilityId = checkbox.dataset.abilityId;
+    const useIndex = checkbox.dataset.useIndex;
+    const ability = this.actor.items.get(abilityId);
+
+    // Atualiza apenas o uso marcado/desmarcado
+    const abilityFlags = ability.getFlag('olddragon2e', 'daily-uses') || {};
+    let dailyUses = foundry.utils.duplicate(abilityFlags);
+    dailyUses[useIndex] = checkbox.checked;
+
+    await ability.update({ 'flags.olddragon2e.daily-uses': dailyUses });
+
+    // Notifica o uso da habilidade se o checkbox foi marcado
+    if (checkbox.checked) {
+      ChatMessage.create({
+        user: game.user.id,
+        speaker: ChatMessage.getSpeaker({ actor: this.actor }),
+        content: `<div class="title">Usou a habilidade:<br><strong>${ability.name}</strong></div>`,
+      });
+    }
   }
 
   // Teste de Atributos (Força; Destreza; Constituição; Inteligência; Sabedoria; Carisma)

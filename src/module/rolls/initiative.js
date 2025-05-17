@@ -30,7 +30,7 @@ function truncateName(name, maxLength = 10) {
 
 function buildInitiativeReport(successes, failures, npcs, combatantsWithoutInitiative) {
   // Build the initiative report as an HTML string
-  let report = `<h2>${game.i18n.localize('olddragon2e.initiative.test')}</h2>`;
+  let report = `<div class="title">${game.i18n.localize('olddragon2e.initiative.test')}</div>`;
   if (combatantsWithoutInitiative.length > 0) {
     report += `<p><i>${game.i18n.localize('olddragon2e.initiative.auto_rolled')}</i></p>`;
   }

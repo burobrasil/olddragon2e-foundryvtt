@@ -9,7 +9,7 @@
   "TYPES.Item.vehicle": "Mount/Transportation",
   "TYPES.Item.spell": "Sepll",
   "TYPES.Item.race": "Race",
-  "TYPES.Item.race_ability": "Racial Ability",
+  "TYPES.Item.race_ability": "Race Ability",
   "TYPES.Item.class": "Class",
   "TYPES.Item.class_ability": "Class Ability",
   "TYPES.Item.monster_attack": "Monster Attack",
@@ -106,7 +106,7 @@
     "race_ability_jp": "Protection Roll Bonus Availablity",
     "race_ability_bonus_damage_archery": "Bow Damage Bonus",
     "race_ability_rogue_talent": "Thief Talent Bonus",
-    "race_abilities": "Racial Ability",
+    "race_abilities": "Race Abilities",
     "infravision": "Infravision",
     "class": "Class",
     "class_flavor": "Flavor",
@@ -180,7 +180,7 @@
     "notes": "Notes",
     "xp": "Experience",
     "xp_short": "XP",
-    "xp_long": "Experience POints",
+    "xp_long": "Experience Points",
     "current_xp": "Current",
     "next_level": "Next Level",
     "economy": "Economy",
@@ -301,7 +301,7 @@
     "damage_roll": "Damage Roll",
     "avarage_damage": "Average Damage",
     "bonus_damage": "Bonus Damage",
-    "knockout": "Knock-out",
+    "knockout": "KO",
     "knockout_roll": "Roll Knock-out Chance",
     "bonus_ba": "Bonus in BA",
     "range": "Range",
@@ -333,7 +333,10 @@
     "delete": "Delete",
     "spell": "Spell",
     "spells": "Spells",
-    "school": "School",
+    "memorized": "Memorized",
+    "slots": "Slots",
+    "daily_uses": "Uses",
+    "school": "Type",
     "circle": "Circle",
     "spell_circle": {
       "null": "–",
@@ -348,9 +351,13 @@
       "9": "9th"
     },
     "arcane_spell": "Arcane",
+    "arcane_spell_short": "A",
     "divine_spell": "Divine",
+    "divine_spell_short": "D",
     "necromancer_spell": "Necromancer",
+    "necromancer_spell_short": "N",
     "illusionist_spell": "Illusionist",
+    "illusionist_spell_short": "I",
     "reverse_spell": "Reverse",
     "duration": "Duration",
     "navigation": {
@@ -369,7 +376,7 @@
       "race": {
         "about_tab": "About",
         "features_tab": "Features",
-        "abilities_tab": "Racial Abilities"
+        "abilities_tab": "Race Abilities"
       },
       "race_ability": {
         "about_tab": "About",
@@ -395,7 +402,7 @@
     "settings": {
       "initiativeType": {
         "name": "Initiative Type",
-        "hint": "Choose between individual initiative (1d12) or standard attribute-based initiative (Dexterity/Wisdom).",
+        "hint": "Choose between standard attribute-based initiative (Dexterity/Wisdom) or individual initiative (1d12).",
         "choices": {
           "individual": "Individual (1d12)",
           "standard": "Standard (Dexterity/Wisdom)"

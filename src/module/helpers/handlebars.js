@@ -84,11 +84,19 @@ export function registerHandlebarsHelper() {
     return options.inverse(this);
   });
 
-  Handlebars.registerHelper('generateCheckboxes', function (dailyUses, currentLevel) {
+  Handlebars.registerHelper('generateCheckboxes', function (dailyUses, currentLevel, dailyUsesState, abilityId) {
     let result = '';
     const maxUses = dailyUses[currentLevel] || 0;
     for (let i = 0; i < maxUses; i++) {
-      result += `<input type="checkbox" name="daily_use_${currentLevel}_${i + 1}" />`;
+      const checked = dailyUsesState && dailyUsesState[i + 1] ? 'checked' : '';
+      const title = checked ? 'Recuperar' : 'Usar';
+      result += `<input type="checkbox" 
+      class="class-ability-use-checkbox"
+      name="daily_use_${currentLevel}_${i + 1}" 
+      data-ability-id="${abilityId}"
+      data-use-index="${i + 1}"
+      title="${title}"
+      ${checked} />`;
     }
     return new Handlebars.SafeString(result);
   });
@@ -103,4 +111,35 @@ Handlebars.registerHelper('signed_number', function (number, zero = '+0') {
   } else {
     return `+${number}`;
   }
+});
+
+Handlebars.registerHelper('range', function (from, to) {
+  let result = [];
+  for (let i = from; i <= to; i++) result.push(i);
+  return result;
+});
+
+Handlebars.registerHelper('and', function (a, b) {
+  return a && b;
+});
+
+Handlebars.registerHelper('lookup', function (obj, field) {
+  return obj && obj[field];
+});
+
+Handlebars.registerHelper('toString', function (value) {
+  return value != null ? value.toString() : '';
+});
+
+Handlebars.registerHelper('toNumber', function (value) {
+  return Number(value);
+});
+Handlebars.registerHelper('gte', function (a, b) {
+  return Number(a) >= Number(b);
+});
+Handlebars.registerHelper('lte', function (a, b) {
+  return Number(a) <= Number(b);
+});
+Handlebars.registerHelper('ne', function (a, b) {
+  return a !== b;
 });

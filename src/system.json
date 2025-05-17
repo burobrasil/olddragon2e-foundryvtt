@@ -127,9 +127,7 @@
   "socket": false,
   "manifest": "This is auto replaced",
   "download": "This is auto replaced",
-  "initiative": "1d12",
-  "gridDistance": 1.5,
-  "gridUnits": "m",
+  "initiative": "1d20",
   "grid": {
     "distance": 1.5,
     "units": "m"

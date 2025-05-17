@@ -1,22 +1,35 @@
 <div class="character-tab-spells">
     {{!-- Magias --}}
     <div class="spell">
+        {{!-- Magias por círculo --}}
         <div class="list">
+            <div class="memorized"><i title="{{localize 'olddragon2e.memorized'}}" class="fa-solid fa-brain"></i></div>
+            <div class="slots">{{localize 'olddragon2e.slots'}}</div>
+            <div class="daily-uses">{{localize 'olddragon2e.daily_uses'}}</div>
             <div class="name">{{localize "olddragon2e.spell"}}</div>
-            <div class="school">{{localize "olddragon2e.school"}} ({{localize "olddragon2e.circle"}})</div>
+            <div class="school">{{localize "olddragon2e.school"}}</div>
             <div class="range">{{localize "olddragon2e.range"}}</div>
             <div class="duration">{{localize "olddragon2e.duration"}}</div>
             <div class="jp">{{localize "olddragon2e.jp_short"}}</div>
+            <div class="invisible damage">{{localize "olddragon2e.damage"}}</div>
             <div class="create">
                 <a class="item-create" data-type="spell" title="{{localize 'olddragon2e.create_spell'}}"><i class="fa-solid fa-plus"></i> {{localize "olddragon2e.create"}}</a>
             </div>
         </div>
-        <ol class="item-list">
-            {{#each spell as |spell id|}}
-            <li class="item" data-item-id="{{spell._id}}">
-                {{> "systems/olddragon2e/templates/partials/cards/spell-card.hbs" spell}}
-            </li>
-            {{/each}}
-        </ol>
+        {{#each spell_by_circle as |spell_group circle|}}
+            {{#if spell_group.spells.length}}
+                <div class="circle">{{circle}}º {{localize "olddragon2e.circle"}}</div>
+                <ol class="item-list">
+                    {{#each spell_group.spells as |spell|}}
+                    <li class="item" data-item-id="{{spell._id}}">
+                        {{> "systems/olddragon2e/templates/partials/cards/spell-card.hbs" spell}}
+                    </li>
+                    {{/each}}
+                </ol>
+            {{/if}}
+        {{/each}}
+        {{#unless spell}}
+        <p class="text-center">Adicione magias para que sejam listadas aqui.</p>
+        {{/unless}}
     </div>
 </div>
