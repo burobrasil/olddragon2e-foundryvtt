@@ -12,7 +12,7 @@
     "variant": false,
     "description": "<ul>\n  <li>\n    <p><strong>Mesclar</strong>: podem mesclar-se em áreas cobertas com fungos, tornando-se invisíveis.  São detectados apenas com 1 chance em 1d6.</p>\n  </li>\n  <li>\n    <p><strong>Esporos</strong>: ao morrerem, explodem numa nuvem de esporos atingindo 9 metros de raio.  Alvos devem ser bem-sucedidos numa JPC ou ficarão com muita tosse, impedidos de agir por 1d4 rodadas.</p>\n  </li>\n  <li>\n    <p><strong>Inflamáveis</strong>: fogo causa dano dobrado nestas criaturas.</p>\n  </li>\n</ul>\n",
     "encounters": "1d12",
-    "encounters_lair": "3d10 x 10",
+    "encounters_lair": "3d10x10",
     "xp": "25",
     "treasure": "",
     "treasure_lair": "k",
