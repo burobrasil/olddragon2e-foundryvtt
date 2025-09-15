@@ -12,7 +12,7 @@
     "variant": false,
     "description": null,
     "encounters": "2d4",
-    "encounters_lair": "2d4 x 10",
+    "encounters_lair": "2d4x10",
     "xp": "35",
     "treasure": "q",
     "treasure_lair": "",
