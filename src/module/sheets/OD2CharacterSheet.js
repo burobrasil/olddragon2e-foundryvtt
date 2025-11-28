@@ -83,8 +83,6 @@ export default class OD2CharacterSheet extends foundry.appv1.sheets.ActorSheet {
       config: CONFIG.olddragon2e,
     };
 
-    this.render();
-
     return sheetData;
   }
 
@@ -245,6 +243,7 @@ export default class OD2CharacterSheet extends foundry.appv1.sheets.ActorSheet {
     const baBonus = target.dataset.baBonus === '';
     const itemID = event.currentTarget.closest('.attack').dataset.itemId;
     const item = this.actor.items.get(itemID);
+    if (!item) return;
 
     const attackRoll = new AttackRoll(this.actor, item, ba, baBonus);
 
@@ -307,6 +306,7 @@ export default class OD2CharacterSheet extends foundry.appv1.sheets.ActorSheet {
 
     const itemID = target.closest('.attack').dataset.itemId;
     const item = this.actor.items.get(itemID);
+    if (!item) return;
 
     const damageRoll = new DamageRoll(this.actor, item);
 
@@ -382,6 +382,7 @@ export default class OD2CharacterSheet extends foundry.appv1.sheets.ActorSheet {
     event.preventDefault();
     const itemID = event.currentTarget.closest('.item').dataset.itemId;
     const item = this.actor.items.get(itemID);
+    if (!item) return;
 
     // Verifica se o item é uma magia e se ela está memorizada
     if (item.type === 'spell') {
@@ -449,7 +450,7 @@ export default class OD2CharacterSheet extends foundry.appv1.sheets.ActorSheet {
     let update = { 'flags.olddragon2e.spell.memorized': memorized };
     if (!memorized) {
       update['flags.olddragon2e.spell.slots'] = '';
-      update['flags.olddragon2e.spell.uses'] = {};
+      update['flags.olddragon2e.spell.daily-uses'] = {};
     }
     await item.update(update);
   }
