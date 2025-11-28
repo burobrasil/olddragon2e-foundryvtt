@@ -534,8 +534,11 @@ export class OD2CharacterDataModel extends foundry.abstract.TypeDataModel {
 
     const raceAbilitiesUUIDs = race.system.race_abilities || [];
     const raceAbilities = await this.getItemsFromUUIDs(raceAbilitiesUUIDs);
+    const existingAbilityNames = this.race_abilities.map((a) => a.name);
 
     for (const raceAbility of raceAbilities) {
+      // Skip if ability already exists
+      if (existingAbilityNames.includes(raceAbility.name)) continue;
       await this.parent.createEmbeddedDocuments('Item', [raceAbility]);
     }
 
@@ -569,8 +572,11 @@ export class OD2CharacterDataModel extends foundry.abstract.TypeDataModel {
 
     const classAbilitiesUUIDs = characterClass.system.class_abilities || [];
     const classAbilities = await this.getItemsFromUUIDs(classAbilitiesUUIDs);
+    const existingAbilityNames = this.class_abilities.map((a) => a.name);
 
     for (const classAbility of classAbilities) {
+      // Skip if ability already exists
+      if (existingAbilityNames.includes(classAbility.name)) continue;
       await this.parent.createEmbeddedDocuments('Item', [classAbility]);
     }
 
