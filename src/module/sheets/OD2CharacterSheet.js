@@ -449,7 +449,7 @@ export default class OD2CharacterSheet extends foundry.appv1.sheets.ActorSheet {
     let update = { 'flags.olddragon2e.spell.memorized': memorized };
     if (!memorized) {
       update['flags.olddragon2e.spell.slots'] = '';
-      update['flags.olddragon2e.spell.uses'] = {};
+      update['flags.olddragon2e.spell.daily-uses'] = {};
     }
     await item.update(update);
   }
