@@ -58,21 +58,6 @@ export class OD2CharacterDataModel extends foundry.abstract.TypeDataModel {
         initial: 0,
         integer: true,
       }),
-      class_jpd: new fields.NumberField({
-        required: true,
-        initial: 0,
-        integer: true,
-      }),
-      class_jpc: new fields.NumberField({
-        required: true,
-        initial: 0,
-        integer: true,
-      }),
-      class_jps: new fields.NumberField({
-        required: true,
-        initial: 0,
-        integer: true,
-      }),
       jp_race_bonus: new fields.StringField({
         default: '',
       }),
