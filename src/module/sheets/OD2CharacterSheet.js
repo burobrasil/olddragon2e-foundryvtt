@@ -83,8 +83,6 @@ export default class OD2CharacterSheet extends foundry.appv1.sheets.ActorSheet {
       config: CONFIG.olddragon2e,
     };
 
-    this.render();
-
     return sheetData;
   }
 
