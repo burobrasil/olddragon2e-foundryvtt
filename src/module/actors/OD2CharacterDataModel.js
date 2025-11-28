@@ -367,7 +367,7 @@ export class OD2CharacterDataModel extends foundry.abstract.TypeDataModel {
     if (this.current_movement <= 0) {
       return 0;
     }
-    return Math.floor(this.current_movement - 2);
+    return Math.max(0, Math.floor(this.current_movement - 2));
   }
 
   get movement_swim() {
