@@ -1,3 +1,5 @@
+import { calculateAttributeModifier } from '../helpers/modifiers.js';
+
 const getItemsOfActorOfType = (actor, filterType, filterFn = null) =>
   actor.items.filter(({ type }) => type === filterType).filter(filterFn || (() => true));
 
@@ -221,39 +223,27 @@ export class OD2CharacterDataModel extends foundry.abstract.TypeDataModel {
   }
 
   get mod_forca() {
-    const forca = this.forca;
-
-    return this._calculateModifiers(forca);
+    return calculateAttributeModifier(this.forca);
   }
 
   get mod_destreza() {
-    const destreza = this.destreza;
-
-    return this._calculateModifiers(destreza);
+    return calculateAttributeModifier(this.destreza);
   }
 
   get mod_constituicao() {
-    const constituicao = this.constituicao;
-
-    return this._calculateModifiers(constituicao);
+    return calculateAttributeModifier(this.constituicao);
   }
 
   get mod_inteligencia() {
-    const inteligencia = this.inteligencia;
-
-    return this._calculateModifiers(inteligencia);
+    return calculateAttributeModifier(this.inteligencia);
   }
 
   get mod_sabedoria() {
-    const sabedoria = this.sabedoria;
-
-    return this._calculateModifiers(sabedoria);
+    return calculateAttributeModifier(this.sabedoria);
   }
 
   get mod_carisma() {
-    const carisma = this.carisma;
-
-    return this._calculateModifiers(carisma);
+    return calculateAttributeModifier(this.carisma);
   }
 
   get jpd_race_bonus() {
@@ -313,42 +303,6 @@ export class OD2CharacterDataModel extends foundry.abstract.TypeDataModel {
     const mod = this.mod_sabedoria;
 
     return class_jps + race_bonus + mod;
-  }
-
-  _calculateModifiers(value) {
-    if (value < 2) {
-      return -4;
-    }
-
-    if (value < 4) {
-      return -3;
-    }
-
-    if (value < 6) {
-      return -2;
-    }
-
-    if (value < 9) {
-      return -1;
-    }
-
-    if (value < 13) {
-      return 0;
-    }
-
-    if (value < 15) {
-      return 1;
-    }
-
-    if (value < 17) {
-      return 2;
-    }
-
-    if (value < 19) {
-      return 3;
-    }
-
-    return 4;
   }
 
   get current_movement() {
