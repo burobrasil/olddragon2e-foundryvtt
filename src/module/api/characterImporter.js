@@ -60,48 +60,38 @@ export const importActor = async (json) => {
   return actor;
 };
 
-const _extractKeyFromUrl = (url, type) => {
-  const regex = new RegExp(`/${type}/(.*)\\.json`);
-  const match = url.match(regex);
-  return match ? match[1] : null;
-};
-
 const _jsonToActorData = async (json) => {
-  const raceKey = _extractKeyFromUrl(json.character_race_url, 'racas');
-  const classKey = _extractKeyFromUrl(json.character_class_url, 'classes');
-
-  const raceUUID = RACE_UUIDS[raceKey];
-  const classUUID = CLASS_UUIDS[classKey];
+  const raceUUID = RACE_UUIDS[json.character_race?.id];
+  const classUUID = CLASS_UUIDS[json.character_class?.id];
 
   const isLegiaoModuleAvailable = game.modules.get('olddragon2e-legiao')?.active;
 
   let raceItem = null;
   let classItem = null;
 
+  const raceName = json.character_race?.name;
+  const className = json.character_class?.name;
+
   if (raceUUID) {
     raceItem = await fromUuid(raceUUID).catch(() => null);
     if (!raceItem && raceUUID.startsWith('Compendium.olddragon2e-legiao') && !isLegiaoModuleAvailable) {
-      ui.notifications.warn(
-        `A Raça "${json.character_race_name}" é exclusiva do módulo premium "Legião - A Era da Desolação".`,
-      );
+      ui.notifications.warn(`A Raça "${raceName}" é exclusiva do módulo premium "Legião - A Era da Desolação".`);
     } else if (!raceItem) {
-      ui.notifications.warn(`A Raça "${json.character_race_name}" não foi encontrada.`);
+      ui.notifications.warn(`A Raça "${raceName}" não foi encontrada.`);
     }
   } else {
-    ui.notifications.warn(`Raça "${json.character_race_name}" não encontrada.`);
+    ui.notifications.warn(`Raça "${raceName}" não encontrada.`);
   }
 
   if (classUUID) {
     classItem = await fromUuid(classUUID).catch(() => null);
     if (!classItem && classUUID.startsWith('Compendium.olddragon2e-legiao') && !isLegiaoModuleAvailable) {
-      ui.notifications.warn(
-        `A Classe "${json.character_class_name}" é exclusiva do módulo premium "Legião - A Era da Desolação".`,
-      );
+      ui.notifications.warn(`A Classe "${className}" é exclusiva do módulo premium "Legião - A Era da Desolação".`);
     } else if (!classItem) {
-      ui.notifications.warn(`A Classe "${json.character_class_name}" não foi encontrada.`);
+      ui.notifications.warn(`A Classe "${className}" não foi encontrada.`);
     }
   } else {
-    ui.notifications.warn(`Classe "${json.character_class_name}" não encontrada.`);
+    ui.notifications.warn(`Classe "${className}" não encontrada.`);
   }
 
   const actorData = {
