@@ -110,7 +110,7 @@ const _jsonToActorData = async (json) => {
       inteligencia: json.inteligencia,
       sabedoria: json.sabedoria,
       carisma: json.carisma,
-      jp_race_bonus: json.race_jp,
+      jp_race_bonus: _extractJpRaceBonus(json),
       current_xp: json.experience_points,
       economy: {
         cp: json.money_cp,
@@ -201,6 +201,26 @@ const _getItemsFromUUIDs = async (uuids) => {
     if (item) items.push(item.toObject());
   }
   return items;
+};
+
+/**
+ * Extracts the JP race bonus from the new race_mechanic_selections structure.
+ * @param {Object} json - Character JSON from Old Dragon Online
+ * @returns {string} The selection_key value ('jpd', 'jpc', 'jps') or empty string
+ */
+const _extractJpRaceBonus = (json) => {
+  // Return empty string if array doesn't exist or is empty
+  if (!json.race_mechanic_selections || json.race_mechanic_selections.length === 0) {
+    return '';
+  }
+
+  // Find the first selection with a JP-related selection_key
+  // Only jpd, jpc, and jps are valid for race JP bonuses
+  const jpSelection = json.race_mechanic_selections.find((selection) =>
+    ['jpd', 'jpc', 'jps'].includes(selection.selection_key),
+  );
+
+  return jpSelection ? jpSelection.selection_key : '';
 };
 
 const _convertCost = (costInPC) => {
@@ -303,7 +323,7 @@ export const updateActor = async (actor) => {
       'system.inteligencia': json.inteligencia,
       'system.sabedoria': json.sabedoria,
       'system.carisma': json.carisma,
-      'system.jp_race_bonus': json.race_jp,
+      'system.jp_race_bonus': _extractJpRaceBonus(json),
       'system.current_xp': json.experience_points,
       'system.economy.cp': json.money_cp,
       'system.economy.sp': json.money_sp,
