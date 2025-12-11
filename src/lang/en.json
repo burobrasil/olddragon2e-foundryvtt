@@ -410,6 +410,9 @@
       }
     },
 
+    "sync_from_odo": "Sync from Old Dragon Online",
+    "sync_warning": "Syncing will download changes from the Old Dragon Online character sheet and overwrite this sheet. Any changes made here that were not made on Old Dragon Online will be lost. Do you want to continue?",
+
     "initiative": {
       "test": "Initiative Test",
       "auto_rolled": "Automatically rolled for combatants without initiative.",

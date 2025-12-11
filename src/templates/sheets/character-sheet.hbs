@@ -166,7 +166,12 @@
                 <div class="basic-info">
                     {{!-- Nome --}}
                     <div>
-                        <input name="name" type="text" value="{{actor.name}}">
+                        <div class="name-row">
+                            <input name="name" type="text" value="{{actor.name}}">
+                            {{#if system.odo_id}}
+                            <a class="odo-sync" title="{{localize 'olddragon2e.sync_from_odo'}}"><i class="fa-solid fa-rotate"></i></a>
+                            {{/if}}
+                        </div>
                         <label class="font-bold">{{localize "olddragon2e.name"}}</label>
                     </div>
                     {{!-- Raça --}}

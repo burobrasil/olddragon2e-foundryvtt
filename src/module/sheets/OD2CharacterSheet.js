@@ -1,5 +1,6 @@
 import { showDialog } from '../helpers';
 import { AttackRoll, UnarmedAttackRoll, DamageRoll, KnockoutRoll, StatRoll, JPRoll, BARoll } from '../rolls';
+import { updateActor } from '../api/characterImporter.js';
 
 export default class OD2CharacterSheet extends foundry.appv1.sheets.ActorSheet {
   static get defaultOptions() {
@@ -175,6 +176,7 @@ export default class OD2CharacterSheet extends foundry.appv1.sheets.ActorSheet {
       html.find('.item-update-quantity').change(this._onItemUpdateQuantity.bind(this));
       html.find('.item-delete').click(this._onItemDelete.bind(this));
       html.find('input[name="system.current_xp"]').change(this._onCurrentXpChange.bind(this));
+      html.find('.odo-sync').click(this._onOdoSync.bind(this));
     }
 
     // Owner-only Listeners
@@ -232,6 +234,22 @@ export default class OD2CharacterSheet extends foundry.appv1.sheets.ActorSheet {
     this.actor.update({ 'system.current_xp': newValue }).then(() => {
       this.actor.system._levelUp();
     });
+  }
+
+  // Sincronizar com Old Dragon Online
+  async _onOdoSync(event) {
+    event.preventDefault();
+
+    const confirmed = await Dialog.confirm({
+      title: game.i18n.localize('olddragon2e.sync_from_odo'),
+      content: `<p>${game.i18n.localize('olddragon2e.sync_warning')}</p>`,
+      yes: () => true,
+      no: () => false,
+    });
+
+    if (confirmed) {
+      await updateActor(this.actor);
+    }
   }
 
   // Rolagem de ataque
