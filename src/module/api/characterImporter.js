@@ -290,6 +290,22 @@ const _addInventoryItems = async (actor, inventoryItems) => {
 };
 
 /**
+ * Removes all inventory items from an actor, preserving spells.
+ * @param {Actor} actor - The Foundry actor
+ */
+const _removeInventoryItems = async (actor) => {
+  const INVENTORY_TYPES = ['weapon', 'armor', 'shield', 'misc', 'container', 'vehicle'];
+
+  const itemsToRemove = actor.items.filter((item) => INVENTORY_TYPES.includes(item.type));
+
+  const itemIds = itemsToRemove.map((item) => item.id);
+
+  if (itemIds.length > 0) {
+    await actor.deleteEmbeddedDocuments('Item', itemIds);
+  }
+};
+
+/**
  * Fetches character data from Old Dragon Online API and updates an existing actor.
  * @param {Actor} actor - The Foundry actor to update
  * @returns {Promise<Actor>} The updated actor
@@ -342,6 +358,10 @@ export const updateActor = async (actor) => {
     }
 
     await actor.update(updateData);
+
+    // Sync inventory items
+    await _removeInventoryItems(actor);
+    await _addInventoryItems(actor, json.inventory_items);
 
     ui.notifications.info(`Personagem "${json.name}" atualizado com sucesso!`);
     return actor;
