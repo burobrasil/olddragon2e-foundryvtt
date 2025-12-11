@@ -98,6 +98,7 @@ const _jsonToActorData = async (json) => {
     name: json.name,
     type: 'character',
     system: {
+      odo_id: json.id,
       level: json.level,
       hp: {
         value: json.health_points,
@@ -265,5 +266,68 @@ const _addInventoryItems = async (actor, inventoryItems) => {
 
   if (itemsToAdd.length > 0) {
     await actor.createEmbeddedDocuments('Item', itemsToAdd);
+  }
+};
+
+/**
+ * Fetches character data from Old Dragon Online API and updates an existing actor.
+ * @param {Actor} actor - The Foundry actor to update
+ * @returns {Promise<Actor>} The updated actor
+ */
+export const updateActor = async (actor) => {
+  const odoId = actor.system.odo_id;
+  if (!odoId) {
+    ui.notifications.error('Este personagem não possui um ID do Old Dragon Online.');
+    return actor;
+  }
+
+  const apiUrl = `https://olddragon.com.br/personagens/${odoId}.json`;
+
+  try {
+    const response = await fetch(apiUrl);
+    if (!response.ok) {
+      throw new Error(`Erro ao buscar dados: ${response.status}`);
+    }
+
+    const json = await response.json();
+
+    // Update basic character data
+    const updateData = {
+      name: json.name,
+      'system.level': json.level,
+      'system.hp.value': json.health_points,
+      'system.hp.max': json.max_hp,
+      'system.forca': json.forca,
+      'system.destreza': json.destreza,
+      'system.constituicao': json.constituicao,
+      'system.inteligencia': json.inteligencia,
+      'system.sabedoria': json.sabedoria,
+      'system.carisma': json.carisma,
+      'system.jp_race_bonus': json.race_jp,
+      'system.current_xp': json.experience_points,
+      'system.economy.cp': json.money_cp,
+      'system.economy.sp': json.money_sp,
+      'system.economy.gp': json.money_gp,
+      'system.details.alignment': json.alignment,
+      'system.details.languages': json.languages.join(', '),
+      'system.details.appearance': json.appearance,
+      'system.details.personality': json.personality,
+      'system.details.background': json.background,
+    };
+
+    // Update picture if changed
+    if (json.picture) {
+      const newImg = await _downloadAndSaveImage(json.picture);
+      updateData.img = newImg;
+    }
+
+    await actor.update(updateData);
+
+    ui.notifications.info(`Personagem "${json.name}" atualizado com sucesso!`);
+    return actor;
+  } catch (error) {
+    ui.notifications.error(`Erro ao atualizar personagem: ${error.message}`);
+    console.error('Error updating actor from ODO:', error);
+    return actor;
   }
 };
