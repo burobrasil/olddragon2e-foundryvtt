@@ -9,18 +9,29 @@ module.exports = {
     browser: true,
   },
 
-  extends: [
-    'eslint:recommended',
-    '@typhonjs-fvtt/eslint-config-foundry.js/0.8.0',
-    'plugin:jest/recommended',
-    'plugin:prettier/recommended',
-  ],
+  extends: ['eslint:recommended', 'plugin:prettier/recommended'],
 
-  plugins: ['jest'],
-
-  rules: {
-    // Specify any specific ESLint rules.
+  globals: {
+    // Foundry VTT globals
+    foundry: 'readonly',
+    game: 'readonly',
+    ui: 'readonly',
+    canvas: 'readonly',
+    CONFIG: 'readonly',
+    CONST: 'readonly',
+    Hooks: 'readonly',
+    Actor: 'readonly',
+    Item: 'readonly',
+    ChatMessage: 'readonly',
+    Dialog: 'readonly',
+    Roll: 'readonly',
+    Macro: 'readonly',
+    Application: 'readonly',
+    Handlebars: 'readonly',
+    fromUuid: 'readonly',
   },
+
+  rules: {},
 
   overrides: [
     {
@@ -31,8 +42,15 @@ module.exports = {
     },
     {
       files: ['./test/**/*.js'],
-      env: {
-        'jest/globals': true,
+      globals: {
+        describe: 'readonly',
+        it: 'readonly',
+        expect: 'readonly',
+        beforeEach: 'readonly',
+        afterEach: 'readonly',
+        beforeAll: 'readonly',
+        afterAll: 'readonly',
+        vi: 'readonly',
       },
     },
   ],
