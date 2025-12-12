@@ -110,7 +110,7 @@ const _jsonToActorData = async (json) => {
       inteligencia: json.inteligencia,
       sabedoria: json.sabedoria,
       carisma: json.carisma,
-      jp_race_bonus: json.race_jp,
+      jp_race_bonus: _extractJpRaceBonus(json),
       current_xp: json.experience_points,
       economy: {
         cp: json.money_cp,
@@ -203,6 +203,26 @@ const _getItemsFromUUIDs = async (uuids) => {
   return items;
 };
 
+/**
+ * Extracts the JP race bonus from the new race_mechanic_selections structure.
+ * @param {Object} json - Character JSON from Old Dragon Online
+ * @returns {string} The selection_key value ('jpd', 'jpc', 'jps') or empty string
+ */
+const _extractJpRaceBonus = (json) => {
+  // Return empty string if array doesn't exist or is empty
+  if (!json.race_mechanic_selections || json.race_mechanic_selections.length === 0) {
+    return '';
+  }
+
+  // Find the first selection with a JP-related selection_key
+  // Only jpd, jpc, and jps are valid for race JP bonuses
+  const jpSelection = json.race_mechanic_selections.find((selection) =>
+    ['jpd', 'jpc', 'jps'].includes(selection.selection_key),
+  );
+
+  return jpSelection ? jpSelection.selection_key : '';
+};
+
 const _convertCost = (costInPC) => {
   if (costInPC >= 100) {
     return `${Math.floor(costInPC / 100)} PO`;
@@ -270,6 +290,22 @@ const _addInventoryItems = async (actor, inventoryItems) => {
 };
 
 /**
+ * Removes all inventory items from an actor, preserving spells.
+ * @param {Actor} actor - The Foundry actor
+ */
+const _removeInventoryItems = async (actor) => {
+  const INVENTORY_TYPES = ['weapon', 'armor', 'shield', 'misc', 'container', 'vehicle'];
+
+  const itemsToRemove = actor.items.filter((item) => INVENTORY_TYPES.includes(item.type));
+
+  const itemIds = itemsToRemove.map((item) => item.id);
+
+  if (itemIds.length > 0) {
+    await actor.deleteEmbeddedDocuments('Item', itemIds);
+  }
+};
+
+/**
  * Fetches character data from Old Dragon Online API and updates an existing actor.
  * @param {Actor} actor - The Foundry actor to update
  * @returns {Promise<Actor>} The updated actor
@@ -303,7 +339,7 @@ export const updateActor = async (actor) => {
       'system.inteligencia': json.inteligencia,
       'system.sabedoria': json.sabedoria,
       'system.carisma': json.carisma,
-      'system.jp_race_bonus': json.race_jp,
+      'system.jp_race_bonus': _extractJpRaceBonus(json),
       'system.current_xp': json.experience_points,
       'system.economy.cp': json.money_cp,
       'system.economy.sp': json.money_sp,
@@ -322,6 +358,10 @@ export const updateActor = async (actor) => {
     }
 
     await actor.update(updateData);
+
+    // Sync inventory items
+    await _removeInventoryItems(actor);
+    await _addInventoryItems(actor, json.inventory_items);
 
     ui.notifications.info(`Personagem "${json.name}" atualizado com sucesso!`);
     return actor;
